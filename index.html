@@ -2,4 +2,25 @@
 layout: titulka
 ---
 
-Bagr
+<div class="row">
+    <div class="col-xs-8">
+    {% for post in paginator.posts %}
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p class="perex">{{ post.excerpt }}</p>
+        <p class="meta">{{ post.date | date: "%-d. %m. %Y" }}</p>
+    {% endfor %}
+    </div>
+</div>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+    {% if paginator.previous_page == 1 %}
+        <a href="/" class="novejsi-clanky">Novější články</a>
+    {% elsif paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="novejsi-clanky">Novější články</a>
+    {% endif %}
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="starsi-clanky">Starší články</a>
+    {% endif %}
+</div>
+{% endif %}
