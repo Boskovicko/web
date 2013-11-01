@@ -1,3 +1,4 @@
 permalink: '/clanky/:year/:month/:title.html'
 paginate_path: "/clanky/strana/:num"
 paginate: 5
+category_dir: rubriky
