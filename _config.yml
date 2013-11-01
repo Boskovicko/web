@@ -1,1 +1,3 @@
-permalink: '/clanek/:year/:month/:title.html'
+permalink: '/clanky/:year/:month/:title.html'
+paginate_path: "/clanky/strana/:num"
+paginate: 5

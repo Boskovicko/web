@@ -1,6 +1,8 @@
 ---
 title: James Harries zahraje opět pro dětský domov
 layout: clanek
+author: Tomáš Trumpeš
+category: kultura
 ---
 
 Kytarista, zpěvák a skladatel James Harries pochází z Manchesteru, ale už léta žije v České republice. Vloni přijal pozvání na charitativní koncert pro boskovický dětský domov, letos se společně s pořadatelem Tomášem Mokrým rozhodli celou akci zopakovat. Koncert se koná ve čtvrtek 31. října od 19 hodin v zámeckém skleníku. 
