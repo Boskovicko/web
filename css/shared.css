@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Ladislav Regular";
+    src: url("/assets/Ladislav_Regular.otf");
+}
+
+@font-face {
+    font-family: "Ladislav Semibold";
+    src: url("/assets/Ladislav_SemiBold.otf");
+}
+
+h1 {
+    font-family: 'Ladislav Semibold', sans-serif;
+    text-transform: lowercase;
+}
+
+h2 {
+    font-family: 'Ladislav Regular', sans-serif;
+}
