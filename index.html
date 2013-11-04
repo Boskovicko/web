@@ -2,16 +2,23 @@
 layout: titulka
 ---
 
+{% for post in paginator.posts %}
+    {% if post.photo %}
+        {% assign featured_post = post %}
+    {% endif %}
+{% endfor %}
+
 <div class="row">
     <div class="col-xs-4 seznam-clanku">
-        {% for post in paginator.posts offset:1 %}
-            {% include clanek-nahled.html %}
+        {% for post in paginator.posts %}
+            {% if post.url != featured_post.url %}
+                {% include clanek-nahled.html %}
+            {% endif %}
         {% endfor %}
     </div>
     <div class="col-xs-8">
-        {% for post in paginator.posts limit:1 %}
-            {% include clanek-nahled.html %}
-        {% endfor %}
+        {% assign post = featured_post %}
+        {% include clanek-nahled.html %}
         <hr>
         <div class="row">
             <div class="col-xs-6">
@@ -27,12 +34,12 @@ layout: titulka
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
     {% if paginator.previous_page == 1 %}
-        <a href="/" class="novejsi-clanky">Novější články</a>
+        <a href="/" class="novejsi-clanky">Novější články →</a>
     {% elsif paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="novejsi-clanky">Novější články</a>
+        <a href="{{ paginator.previous_page_path }}" class="novejsi-clanky">Novější články →</a>
     {% endif %}
     {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="starsi-clanky">Starší články</a>
+        <a href="{{ paginator.next_page_path }}" class="starsi-clanky">← Starší články</a>
     {% endif %}
 </div>
 {% endif %}
