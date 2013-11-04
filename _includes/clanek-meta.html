@@ -1,0 +1,9 @@
+<p class="meta">
+    <span class="datum-vydani">{{ post.date | date: "%-d. %m. %Y" }}</span>
+    {% if post.author %}
+        <span class="autor">{{ post.author }}</span>
+    {% endif %}
+    {% if post.category %}
+        <span class="rubrika">{{ post.category }}</span>
+    {% endif %}
+</p>

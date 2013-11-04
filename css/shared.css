@@ -43,8 +43,17 @@ a.domu:hover small {
     color: white;
 }
 
-.seznam-clanku .clanek-nahled:first-child h2 {
-    margin-top: 0;
+/* Seznamy článků */
+
+.clanek-nahled .meta {
+    font-size: 11px;
+    color: gray;
+    text-transform: uppercase;
+}
+
+.autor:before, .rubrika:before {
+    content: "· ";
+    color: silver;
 }
 
 /* Patička */
@@ -68,6 +77,6 @@ a:hover {
     color: orange;
 }
 
-h2 {
+h2, h3 {
     font-family: 'Ladislav Regular', sans-serif;
 }

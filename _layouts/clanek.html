@@ -17,14 +17,11 @@
                     {% for category_name in page.categories limit:1 %}
                         {% assign category = site.categories[category_name] %}
                         {% if category.size > 1 %}
-                            <h2>Další články v <a href="/rubriky/{{ category_name }}/">rubrice {{ category_name }}</a></h2>
-                            <ul>
-                                {% for post in category %}
-                                    {% if post.url != page.url %}
-                                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                                    {% endif %}
-                                {% endfor %}
-                            </ul>
+                            {% for post in category %}
+                                {% if post.url != page.url %}
+                                    {% include clanek-nahled-maly.html %}
+                                {% endif %}
+                            {% endfor %}
                         {% endif %}
                     {% endfor %}
                 {% endif %}
