@@ -1,3 +1,8 @@
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<p class="perex">{{ post.excerpt }}</p>
-<p class="meta">{{ post.date | date: "%-d. %m. %Y" }}</p>
+<div class="clanek-nahled">
+    {% if post.photo %}
+    <img class="img-responsive titulni-obrazek" src="/fotky/{{ post.photo }}" alt="">
+    {% endif %}
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="perex">{{ post.excerpt }}</p>
+    <p class="meta">{{ post.date | date: "%-d. %m. %Y" }}</p>
+</div>

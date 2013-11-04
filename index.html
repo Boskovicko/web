@@ -3,25 +3,24 @@ layout: titulka
 ---
 
 <div class="row">
-    <div class="col-xs-6">
-    {% for post in paginator.posts limit:1 %}
-        {% include clanek-nahled.html %}
-    {% endfor %}
+    <div class="col-xs-4 seznam-clanku">
+        {% for post in paginator.posts offset:1 %}
+            {% include clanek-nahled.html %}
+        {% endfor %}
     </div>
-    <div class="col-xs-6">
-    {% for post in paginator.posts limit:1 offset:1 %}
-        {% include clanek-nahled.html %}
-    {% endfor %}
-    </div>
-</div>
-
-<hr>
-
-<div class="row">
-    <div class="col-xs-4">
-    {% for post in paginator.posts offset:2 %}
-        {% include clanek-nahled.html %}
-    {% endfor %}
+    <div class="col-xs-8">
+        {% for post in paginator.posts limit:1 %}
+            {% include clanek-nahled.html %}
+        {% endfor %}
+        <hr>
+        <div class="row">
+            <div class="col-xs-6">
+                A
+            </div>
+            <div class="col-xs-6">
+                B
+            </div>
+        </div>
     </div>
 </div>
 

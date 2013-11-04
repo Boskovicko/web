@@ -43,6 +43,10 @@ a.domu:hover small {
     color: white;
 }
 
+.seznam-clanku .clanek-nahled:first-child h2 {
+    margin-top: 0;
+}
+
 /* Obsah */
 
 h2 {

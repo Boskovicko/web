@@ -1,5 +1,6 @@
 ---
 title: Za okres Blansko se budou brát dva poslanci
+photo: volby.jpg
 layout: clanek
 ---
 
