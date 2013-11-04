@@ -15,6 +15,19 @@ layout: titulka
                 {% include clanek-nahled.html %}
             {% endif %}
         {% endfor %}
+        <hr>
+        {% if paginator.total_pages > 1 %}
+        <div class="pagination">
+            {% if paginator.previous_page == 1 %}
+                <a href="/" class="novejsi-clanky">Novější články →</a>
+            {% elsif paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path }}" class="novejsi-clanky">Novější články →</a>
+            {% endif %}
+            {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path }}" class="starsi-clanky">← Starší články</a>
+            {% endif %}
+        </div>
+        {% endif %}
     </div>
     <div class="col-xs-8">
         {% assign post = featured_post %}
@@ -22,24 +35,14 @@ layout: titulka
         <hr>
         <div class="row">
             <div class="col-xs-6">
-                A
+                <img class="img-responsive" src="http://placehold.it/500x500&text=reklama" alt="Reklama">
+                <hr>
+                <img class="img-responsive" src="http://placehold.it/500x500&text=obsah">
             </div>
             <div class="col-xs-6">
-                B
+                <img class="img-responsive" src="http://placehold.it/500x1000&text=obsah">
             </div>
         </div>
     </div>
 </div>
 
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-    {% if paginator.previous_page == 1 %}
-        <a href="/" class="novejsi-clanky">Novější články →</a>
-    {% elsif paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="novejsi-clanky">Novější články →</a>
-    {% endif %}
-    {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="starsi-clanky">← Starší články</a>
-    {% endif %}
-</div>
-{% endif %}
