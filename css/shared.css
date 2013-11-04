@@ -72,6 +72,10 @@ a.domu:hover small {
 
 /* Obsah */
 
+.reklama-ctverec {
+    margin-bottom: 20px;
+}
+
 a:hover {
     text-decoration: none;
     color: orange;
