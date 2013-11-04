@@ -47,7 +47,26 @@ a.domu:hover small {
     margin-top: 0;
 }
 
+/* Patička */
+
+.paticka {
+    color: #ddd;
+    background: #333;
+    padding-bottom: 60px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.paticka a {
+    color: rgb(96, 169, 232);
+}
+
 /* Obsah */
+
+a:hover {
+    text-decoration: none;
+    color: orange;
+}
 
 h2 {
     font-family: 'Ladislav Regular', sans-serif;
