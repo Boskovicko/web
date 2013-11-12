@@ -13,17 +13,11 @@
 
             <div class="col-xs-8 clanek">
                 <h2>{{ page.title }}</h2>
+                <hr>
                 {{ content }}
                 <hr>
-                <p class="meta">
-                    <span class="datum-vydani">{{ page.date | date: "%-d. %m. %Y" }}</span>
-                    {% if page.author %}
-                        <span class="autor">{{ page.author }}</span>
-                    {% endif %}
-                    {% if page.category %}
-                        <span class="rubrika">{{ page.category }}</span>
-                    {% endif %}
-                </p>
+                {% assign post = page %}
+                {% include clanek-meta.html %}
             </div>
 
             <div class="col-xs-4 ">
