@@ -26,9 +26,11 @@
         {% endif %}
     </div>
     <div class="col-xs-8">
-        {% assign post = featured_post %}
-        {% include clanek-nahled.html %}
-        <hr>
+        {% if featured_post %}
+            {% assign post = featured_post %}
+            {% include clanek-nahled.html %}
+            <hr>
+        {% endif %}
         <div class="row">
             <div class="col-xs-6">
                 <img class="img-responsive reklama-ctverec" src="/fotky/reklama.png" alt="Reklama">
