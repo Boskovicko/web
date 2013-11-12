@@ -1,6 +1,7 @@
 ---
 title: Lidé o Dušičkách vzpomenou na své blízké zemřelé
 layout: clanek
+category: z regionu
 ---
 
 Na přelomu října a listopadu bývá na hřbitovech rušněji než obvykle. Lidé přicházejí, aby uctili Památku zesnulých neboli Dušičky. Tisíce světýlek, které žhnou jako vzpomínka na zemřelé blízké, hroby ozdobené věnečky nebo květinovými vazbami, lidé postávající u hrobu se sepnutýma rukama, tiše odříkávající modlitbu, takto vypadá v těchto dnech atmosféra na hřbitovech. 

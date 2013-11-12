@@ -1,4 +1,19 @@
+# encoding: utf-8
 # http://realjenius.com/2012/12/01/jekyll-category-tag-paging-feeds/
+
+require 'liquid'
+require 'uri'
+
+module URLEncoding
+  def url_encode(url)
+    url = url.downcase
+    url = url.sub(%r{\s+}, "-");
+    url = url.tr('příšerně žluťoučký kůň úpěl ďábelské ódy',
+                 'priserne zlutoucky kun upel dabelske ody')
+    return url
+  end
+end
+
 module Jekyll
 
   class CatsAndTags < Generator
@@ -37,10 +52,11 @@ module Jekyll
   end
 
   class GroupSubPage < Page
+    include URLEncoding
     def initialize(site, base, dir, type, val)
       @site = site
       @base = base
-      @dir = dir
+      @dir = url_encode(dir)
       @name = 'index.html'
 
       self.process(@name)
@@ -51,3 +67,5 @@ module Jekyll
   end
 
 end
+
+Liquid::Template.register_filter(URLEncoding)

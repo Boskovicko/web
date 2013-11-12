@@ -4,6 +4,6 @@
         <span class="autor">{{ post.author }}</span>
     {% endif %}
     {% if post.category %}
-        <a class="rubrika" href="/rubriky/{{ post.category }}/">{{ post.category }}</a>
+        <a class="rubrika" href="/rubriky/{{ post.category | url_encode }}/">{{ post.category }}</a>
     {% endif %}
 </p>
