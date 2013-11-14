@@ -6,10 +6,12 @@ require 'uri'
 
 module URLEncoding
   def url_encode(url)
-    url = url.downcase
     url = url.sub(%r{\s+}, "-");
+    url = url.tr('PŘÍŠERNĚ ŽLUŤOUČKÝ KŮŇ ÚPĚL ĎÁBELSKÉ ÓDY',
+                 'PRISERNE ZLUTOUCKY KUN UPEL DABELSKE ODY')
     url = url.tr('příšerně žluťoučký kůň úpěl ďábelské ódy',
                  'priserne zlutoucky kun upel dabelske ody')
+    url = url.downcase
     return url
   end
 end
