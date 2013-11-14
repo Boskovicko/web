@@ -26,7 +26,7 @@ module Jekyll
       end
 
       site.tags.each do |tag|
-        build_subpages(site, "tag", tag)
+        build_subpages(site, "stitky", tag)
       end
     end
 

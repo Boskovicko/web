@@ -3,6 +3,7 @@ title: V knihovně pokřtí knihu pravěkých receptů
 layout: clanek
 author: Tomáš Trumpeš
 category: kultura
+tags: knihovna
 ---
 
 Slavnostní křest knihy nazvané Sladké pravěké mňamky se uskuteční ve čtvrtek 24. října ve 14 hodin v dětském oddělení boskovické knihovny. Kniha vznikla ve školní družině základní školy na Sušilově ulici, kde ji vytvořily děti s pomocí a z podnětů svých rodičů a přátel. Rodinní příslušníci se podělili o své oblíbené recepty, nejlépe ty, které se u nich předávají z generace na generaci.

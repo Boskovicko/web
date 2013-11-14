@@ -3,6 +3,7 @@ title: Boskovičtí plavci bojovali v Hodoníně a v Blansku
 layout: clanek
 author: Lubomír Slezák
 category: sport
+tags: plavání
 ---
 
 Vyškovský aquapark se v sobotu 12. října proměnil v úl plný nejmladších plavců z devatenácti oddílů Čech, Moravy i Slovenska. Plavci ročníků narození 2003 a mladší zde bojovali nejen o cenné kovy, ale také o dort z místní cukrárny, který byl hlavní výhrou v závodu na 100 metrů znak. I když boskovičtí plavci dort do Boskovic nedovezli, patřila jim tentokrát jedna zlatá a jedna stříbrná medaile. O zlatou se postaral desetiletý Jakub Beneš v závodě na 100 m prsa, stříbrnou přidala Emma Ryšávková na poloviční prsařské trati. Svou závodní premiéru měla ve Vyškově i šestiletá Barunka Tlamková, která ukázala svou bojovnost a mezi ostatními staršími plavci se rozhodně neztratila. Své osobní rekordy si tentokrát vylepšili Jáchym Ryšávka, Natálka Horáková, Filip Horák i Lucie Dušilová. 

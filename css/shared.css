@@ -82,6 +82,60 @@ a.domu:hover small {
     color: silver;
 }
 
+.seznam-stitku {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 11px;
+}
+
+.seznam-stitku li {
+	float:left;
+}
+
+.seznam-stitku a {
+    position: relative;
+    display: block;
+    height: 24px;
+    line-height: 24px;
+    margin-left: 12px;
+    margin-right: 12px;
+    padding:0 10px 0 12px;
+    background: rgb(66, 139, 202);
+    color: #fff;
+    text-decoration: none;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+.seznam-stitku a:before {
+    content: "";
+    float: left;
+    position: absolute;
+    top: 0;
+    left: -12px;
+    width: 0;
+    height: 0;
+    border-color: transparent rgb(66, 139, 202) transparent transparent;
+    border-style: solid;
+    border-width: 12px 12px 12px 0;
+}
+
+.seznam-stitku a:after {
+	content: "";
+	position: absolute;
+	top: 10px;
+	left: 0;
+	width: 4px;
+	height: 4px;
+	border-radius: 2px;
+	background: #fff;
+	box-shadow: inset 1px 1px 0px #ddd;
+}
+
+.seznam-stitku a:hover { background: orange; color: white; }
+.seznam-stitku a:hover:before { border-color: transparent orange transparent transparent; }
+
 /* Patička */
 
 .paticka {

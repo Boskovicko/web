@@ -2,6 +2,7 @@
 title: Za okres Blansko se budou brát dva poslanci
 photo: volby.jpg
 layout: clanek
+tags: volby
 ---
 
 Měl to být obrat o sto osmdesát stupňů, kterého chtěla levice dosáhnout silným mandátem, který by dostala od voličů. Nic takového se ale nestalo. Uplynulé volby do poslanecké sněmovny byly zejména pro ČSSD spíše ve znamení sklopených hlav. Strana totiž v celorepublikovém výsledku získala ještě méně hlasů, než ve volbách do poslanecké sněmovny před třemi lety. Naopak jako vítězové se mohou cítit členové a příznivci hnutí ANO 2011, které ač je na politické scéně poměrně nové, skončilo ve volbách druhé. 

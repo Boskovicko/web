@@ -13,11 +13,17 @@
 
             <div class="col-xs-8 clanek">
                 <h2>{{ page.title }}</h2>
-                <hr>
-                {{ content }}
-                <hr>
                 {% assign post = page %}
                 {% include clanek-meta.html %}
+                {{ content }}
+                {% if page.tags.size > 0 %}
+                <hr>
+                <ul class="seznam-stitku">
+                    {% for tag in page.tags %}
+                    <li><a href="/stitky/{{ tag | url_encode }}">{{ tag }}</a></li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
             </div>
 
             <div class="col-xs-4 ">

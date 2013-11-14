@@ -4,6 +4,7 @@ layout: clanek
 photo: vernum.jpg
 author: Tomáš Trumpeš
 category: kultura
+tags: koncert hudba
 ---
 
 Nové hudební těleso Vernum 2013 Ensemble založil na jaře letošního roku dirigent Ondřej Tajovský. Navzdory tomu, že název souboru mohl navozovat zdání jednorázového hudebního projektu, neboť Vernum Ensemble znamená Jarní uskupení, jedná se o soubor, jehož záměrem je působit stabilně i do budoucna. Název je tedy především symbolický a odkazuje ke vzniku tělesa, které po jarním cyklu koncertů připravuje opět pod vedením Ondřeje Tajovského podzimní cyklus, na kterém provede Mozartovo Requiem. 

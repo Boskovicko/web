@@ -2,7 +2,11 @@
 <html lang="cs">
 <head>
     {% include head.html %}
+    {% if page.grouptype == 'stitky' %}
+    <title>Články se štítkem „{{ page.title }}“ | Boskovicko, regionální noviny</title>
+    {% else %}
     <title>{{ page.title | capitalize }} | Boskovicko, regionální noviny</title>
+    {% endif %}
 </head>
 <body>
     {% include zahlavi.html %}
