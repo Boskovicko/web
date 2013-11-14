@@ -59,6 +59,7 @@ a.domu:hover small {
     width: 25%;
     float: left;
     margin: 0;
+    position: relative;
 }
 
 .seznam-rubrik a {
@@ -67,6 +68,20 @@ a.domu:hover small {
     text-align: center;
     text-transform: uppercase;
     color: rgb(96, 169, 232);
+}
+
+.seznam-rubrik li.current:after {
+    position: absolute;
+    content: "";
+    left: 48%;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 6px solid white;
+    font-size: 0;
+    line-height: 0;
 }
 
 /* Seznamy článků */
