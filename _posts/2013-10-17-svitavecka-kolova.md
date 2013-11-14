@@ -3,7 +3,7 @@ title: Svitávecká kolová má stříbro a bronz
 layout: clanek
 author: Lubomír Slezák
 category: sport
-tags: kolová Svitávka
+tags: cyklistika Svitávka
 ---
 
 Do Nezamyslic přijela v sobotu špička sálové cyklistiky z České republiky. Mezi nejlepší čtyřku se sem probojovala i dvě mužstva ze Svitávky. Barvy SC Svitávka hájili Jiří Hrdlička a Pavel Loskot, klub MO Svitávka reprezentovali hráči Radim Hasoň a Pavel Richter. S nimi do závěrečných bojů nastoupil Favorit Brno (Pavel Šmíd a Petr Skoták) a Sokol Zlín Prštné 1 (Martin Struhař a Jan Krejčí). 
