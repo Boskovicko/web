@@ -43,7 +43,7 @@ module Jekyll
         pager = Pager.new(site, num_page, posts[1], pages)
         path = "/#{type}/#{posts[0]}"
         if num_page > 1
-          path = path + "/page#{num_page}"
+          path = path + "/strana/#{num_page}"
         end
         newpage = GroupSubPage.new(site, site.source, path, type, posts[0])
         newpage.pager = pager

@@ -7,6 +7,8 @@
 <body>
     {% include zahlavi.html %}
     <div class="container obsah">
+        {% assign paging_prefix = '/clanky' %}
+        {% assign paging_root = '' %}
         {% include pager.html %}
     </div>
     {% include paticka.html %}

@@ -19,12 +19,12 @@
         <hr>
         <div class="pagination">
             {% if paginator.next_page %}
-                <a href="{{ paginator.next_page_path }}" class="btn btn-default starsi-clanky">Starší články</a>
+                <a href="{{ paging_prefix }}/strana/{{ paginator.next_page }}" class="btn btn-default">Starší články</a>
             {% endif %}
             {% if paginator.previous_page == 1 %}
-                <a href="/" class="btn btn-default novejsi-clanky">Novější články</a>
+                <a href="{{ paging_root }}/" class="btn btn-default">Novější články</a>
             {% elsif paginator.previous_page %}
-                <a href="{{ paginator.previous_page_path }}" class="btn btn-default novejsi-clanky">Novější články</a>
+                <a href="{{ paging_prefix }}/strana/{{ paginator.previous_page }}" class="btn btn-default">Novější články</a>
             {% endif %}
         </div>
         {% endif %}

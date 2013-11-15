@@ -11,6 +11,8 @@
 <body>
     {% include zahlavi.html %}
     <div class="container obsah">
+        {% capture paging_prefix %}/{{ page.grouptype }}/{{ page.title | url_encode }}{% endcapture %}
+        {% assign paging_root = paging_prefix %}
         {% include pager.html %}
     </div>
     {% include paticka.html %}
