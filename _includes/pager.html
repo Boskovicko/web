@@ -4,6 +4,10 @@
     {% endif %}
 {% endfor %}
 
+{% if featured_post == null %}
+    {% assign featured_post = paginator.posts | first %}
+{% endif %}
+
 <div class="row">
     <div class="col-xs-4 seznam-clanku">
         {% for post in paginator.posts %}
