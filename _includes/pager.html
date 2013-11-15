@@ -11,16 +11,16 @@
                 {% include clanek-nahled.html %}
             {% endif %}
         {% endfor %}
-        <hr>
         {% if paginator.total_pages > 1 %}
+        <hr>
         <div class="pagination">
-            {% if paginator.previous_page == 1 %}
-                <a href="/" class="novejsi-clanky">Novější články →</a>
-            {% elsif paginator.previous_page %}
-                <a href="{{ paginator.previous_page_path }}" class="novejsi-clanky">Novější články →</a>
-            {% endif %}
             {% if paginator.next_page %}
-                <a href="{{ paginator.next_page_path }}" class="starsi-clanky">← Starší články</a>
+                <a href="{{ paginator.next_page_path }}" class="btn btn-default starsi-clanky">Starší články</a>
+            {% endif %}
+            {% if paginator.previous_page == 1 %}
+                <a href="/" class="btn btn-default novejsi-clanky">Novější články</a>
+            {% elsif paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path }}" class="btn btn-default novejsi-clanky">Novější články</a>
             {% endif %}
         </div>
         {% endif %}
