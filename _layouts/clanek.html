@@ -27,18 +27,11 @@
             </div>
 
             <div class="col-xs-4 ">
-                {% if page.categories %}
-                    {% for category_name in page.categories limit:1 %}
-                        {% assign category = site.categories[category_name] %}
-                        {% if category.size > 1 %}
-                            {% for post in category %}
-                                {% if post.url != page.url %}
-                                    {% include clanek-nahled-maly.html %}
-                                {% endif %}
-                            {% endfor %}
-                        {% endif %}
-                    {% endfor %}
-                {% endif %}
+                {% for post in site.related_posts | limit:5 %}
+                    {% if post.url != page.url %}
+                        {% include clanek-nahled-maly.html %}
+                    {% endif %}
+                {% endfor %}
             </div>
 
         </div>
