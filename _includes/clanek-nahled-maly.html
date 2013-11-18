@@ -1,5 +1,5 @@
 <div class="clanek-nahled clanek-nahled-maly">
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p class="perex">{{ post.excerpt }}</p>
+    <p class="perex">{{ post.excerpt | markdownify }}</p>
     {% include clanek-meta.html %}
 </div>
