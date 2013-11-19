@@ -20,7 +20,7 @@
                 <hr>
                 <ul class="seznam-temat">
                     {% for tag in page.tags %}
-                    <li><a href="/temata/{{ tag | url_encode }}">{{ tag }}</a></li>
+                    <li><a href="/temata/{{ tag | url_encode }}/">{{ tag }}</a></li>
                     {% endfor %}
                 </ul>
                 {% endif %}
