@@ -36,6 +36,11 @@ prose:
                       value: 'sport'
                     - name: 'napsali nám'
                       value: 'napsali nám'
+            - name: 'published'
+              field:
+                element: checkbox
+                label: 'Publikovat na webu'
+                value: true
             - name: 'tags'
               field:
                 element: multiselect
