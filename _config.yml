@@ -1,4 +1,41 @@
 permalink: '/clanky/:year/:month/:title.html'
 paginate_path: "/clanky/strana/:num"
 paginate: 5
-category_dir: rubriky
+
+prose:
+    rooturl: '_posts'
+    metadata:
+        _posts:
+            - name: 'title'
+              field:
+                - element: text
+                - label: 'Titulek'
+            - name: 'author'
+              field:
+                - element: text
+                - label: 'Autor'
+            - name: 'category'
+              field:
+                - element: select
+                - label: 'Rubrika'
+                - options:
+                    - name: 'přečtěte si'
+                      value: 'přečtěte si'
+                    - name: 'z regionu'
+                      value: 'z regionu'
+                    - name: 'kultura'
+                      value: 'kultura'
+                    - name: 'informace'
+                      value: 'informace'
+                    - name: 'sport'
+                      value: 'sport'
+                    - name: 'napsali nám'
+                      value: 'napsali nám'
+            - name: 'tags'
+              field:
+                - element: multiselect
+                - label: 'Témata'
+                - alterable: true
+                - options:
+                    - name: 'XXX-2013'
+                      value: 'XXX-2013'
