@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Ladislav Regular";
-    src: url("/assets/Ladislav_Regular.otf");
+    src: url("/assets/Ladislav_Regular.woff");
 }
 
 @font-face {
     font-family: "Ladislav Semibold";
-    src: url("/assets/Ladislav_SemiBold.otf");
+    src: url("/assets/Ladislav_SemiBold.woff");
 }
 
 /* Záhlaví */
