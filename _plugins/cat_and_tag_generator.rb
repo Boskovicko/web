@@ -6,7 +6,7 @@ require 'uri'
 
 module URLEncoding
   def url_encode(url)
-    url = url.sub(%r{\s+}, "-");
+    url = url.gsub(%r{\s+}, "-");
     url = url.tr('PŘÍŠERNĚ ŽLUŤOUČKÝ KŮŇ ÚPĚL ĎÁBELSKÉ ÓDY',
                  'PRISERNE ZLUTOUCKY KUN UPEL DABELSKE ODY')
     url = url.tr('příšerně žluťoučký kůň úpěl ďábelské ódy',
