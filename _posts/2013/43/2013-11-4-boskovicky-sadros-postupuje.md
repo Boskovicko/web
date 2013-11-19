@@ -1,6 +1,5 @@
 ---
 title: Boskovický Sadros postupuje
-layout: clanek
 author: Lubomír Slezák
 category: sport
 tags: Brno fotbal 43-2013

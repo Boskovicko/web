@@ -1,6 +1,5 @@
 ---
 title:  Kaplička na Suchém přivítá letošní zimu v novém
-layout: clanek
 author: Žaneta Ondroušková
 category: Z regionu
 tags: Suchý opravy 43-2013

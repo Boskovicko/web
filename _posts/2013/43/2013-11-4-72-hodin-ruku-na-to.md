@@ -1,6 +1,5 @@
 ---
 title: 72 hodin – ruku na to!
-layout: clanek
 author: Jitka Hrnčířová
 category: napsali nám
 tags: Boskovice dobrovolnictví 43-2013

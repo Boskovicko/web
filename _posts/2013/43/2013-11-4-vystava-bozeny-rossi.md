@@ -1,6 +1,5 @@
 ---
 title: V Galerii Otakara Kubína bude vystavovat Božena Rossí
-layout: clanek
 author: Tomáš Trumpeš
 category: kultura
 tags:

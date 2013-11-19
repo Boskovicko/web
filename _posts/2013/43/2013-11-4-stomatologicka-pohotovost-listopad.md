@@ -1,6 +1,5 @@
 ---
 title: Stomatologická lékařská služba první pomoci v listopadu
-layout: clanek
 author: Petr Meluzín
 category: informace
 tags:

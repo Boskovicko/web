@@ -1,6 +1,5 @@
 ---
 title: V Drnovicích investují do úprav mateřské školy
-layout: clanek
 author: eL
 category: přečtěte si
 tags: Drnovice opravy dotace EU školky 43-2013

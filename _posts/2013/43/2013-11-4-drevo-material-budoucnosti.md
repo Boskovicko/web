@@ -1,6 +1,5 @@
 ---
 title: Dřevo, materiál budoucnosti – žáci základních škol soutěžili v Letovicích
-layout: clanek
 author: Mária Bašná
 category: napsali nám
 tags: 43-2013

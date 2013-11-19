@@ -1,6 +1,5 @@
 ---
 title: Vítězství v celorepublikové soutěži si odnesla zdravotní sestra z Boskovic
-layout: clanek
 author: MK
 category: Z regionu
 tags: Boskovice nemocnice rozhovory 43-2013

@@ -1,6 +1,5 @@
 ---
 title: 'Sonda teen: Halloween'
-layout: clanek
 author: eL
 category: přečtěte si
 tags: 

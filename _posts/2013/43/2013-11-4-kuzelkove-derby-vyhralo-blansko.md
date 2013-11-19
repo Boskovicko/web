@@ -1,6 +1,5 @@
 ---
 title: Kuželkové derby vyhrálo Blansko
-layout: clanek
 author: Lubomír Slezák
 category: sport
 tags: Blansko kuželky 43-2013

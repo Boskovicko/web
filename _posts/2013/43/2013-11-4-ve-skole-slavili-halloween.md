@@ -1,6 +1,5 @@
 ---
 title: Ve škole ve Svitávce slavili Halloween
-layout: clanek
 author: Iva Paráková
 category: napsali nám
 tags: Svitávka halloween 43-2013

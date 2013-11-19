@@ -1,6 +1,5 @@
 ---
 title: V Prostějově padaly plavecké rekordy
-layout: clanek
 author: Lubomír Slezák
 category: sport
 tags: Prostějov plavání 43-2013

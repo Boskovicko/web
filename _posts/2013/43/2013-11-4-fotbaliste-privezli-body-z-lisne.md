@@ -1,6 +1,5 @@
 ---
 title: Fotbalisté Boskovic přivezli tři body z Líšně
-layout: clanek
 author: Lubomír Slezák
 category: sport
 tags:

@@ -1,6 +1,5 @@
 ---
 title: Jak zachraňovat lidi z jeskyní
-layout: clanek
 author: Jitka Melkusová
 category: informace
 tags:

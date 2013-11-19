@@ -1,6 +1,5 @@
 ---
 title: Stavba sportovní haly zahájena
-layout: clanek
 author: Tomáš Trumpeš
 category: Z regionu
 tags:

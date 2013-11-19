@@ -1,6 +1,5 @@
 ---
 title: Vanovičtí staví přivaděč, vody už bude dost
-layout: clanek
 author: Žaneta Ondroušková
 category: Z regionu
 tags: Vanovice Drválovice voda 43-2013

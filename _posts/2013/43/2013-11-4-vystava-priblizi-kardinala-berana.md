@@ -1,6 +1,5 @@
 ---
 title: Výstava přiblíží kardinála Berana
-layout: clanek
 author: Tomáš Trumpeš
 category: kultura
 tags: Boskovice výstavy muzeum 43-2013

@@ -1,6 +1,5 @@
 ---
 title: Na podzim přibývá střetů se zvěří
-layout: clanek
 author: Petr Meluzín
 category: informace
 tags:

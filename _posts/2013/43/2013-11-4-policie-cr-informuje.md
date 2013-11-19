@@ -1,6 +1,5 @@
 ---
 title: Policie ČR informuje
-layout: clanek
 author: Petr Meluzín
 category: informace
 tags:

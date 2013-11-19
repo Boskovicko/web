@@ -1,6 +1,5 @@
 ---
 title: Na projekt bazénu vyhlásí třetí výběrové řízení
-layout: clanek
 author: eL
 category: přečtěte si
 tags: Kunštát výstavba 43-2013

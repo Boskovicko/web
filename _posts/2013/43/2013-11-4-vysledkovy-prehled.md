@@ -1,6 +1,5 @@
 ---
 title: Výsledkový přehled
-layout: clanek
 author: Lubomír Slezák
 category: sport
 excerpt: Přehled volejbalových a fotbalových výsledků.

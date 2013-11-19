@@ -1,6 +1,5 @@
 ---
 title: Přímo do očí
-layout: clanek
 author: Andrea Šrámková
 category: napsali nám
 tags: 43-2013
