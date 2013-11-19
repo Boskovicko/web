@@ -1,5 +1,4 @@
 ---
-published: false
 title: Policie odložila trestní oznámení kvůli Července
 category: z regionu
 author: Marek Osouch
