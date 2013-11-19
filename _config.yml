@@ -8,17 +8,17 @@ prose:
         _posts:
             - name: 'title'
               field:
-                - element: text
-                - label: 'Titulek'
+                element: text
+                label: 'Titulek'
             - name: 'author'
               field:
-                - element: text
-                - label: 'Autor'
+                element: text
+                label: 'Autor'
             - name: 'category'
               field:
-                - element: select
-                - label: 'Rubrika'
-                - options:
+                element: select
+                label: 'Rubrika'
+                options:
                     - name: 'přečtěte si'
                       value: 'přečtěte si'
                     - name: 'z regionu'
@@ -33,9 +33,9 @@ prose:
                       value: 'napsali nám'
             - name: 'tags'
               field:
-                - element: multiselect
-                - label: 'Témata'
-                - alterable: true
-                - options:
+                element: multiselect
+                label: 'Témata'
+                alterable: true
+                options:
                     - name: 'XXX-2013'
                       value: 'XXX-2013'
