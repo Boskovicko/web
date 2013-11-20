@@ -2,7 +2,7 @@
 title: Ondřej Tajovský připravuje s Vernum 2013 Ensemble Mozartovo Requiem
 author: Tomáš Trumpeš
 category: kultura
-photo: https://dl.dropboxusercontent.com/u/56918/Boskovicko/2013/41/vernum.jpg
+photo: http://i.imgur.com/QXFxFsR.jpg
 tags:
 - Boskovicko
 - koncerty
