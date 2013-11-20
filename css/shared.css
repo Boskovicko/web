@@ -151,6 +151,20 @@ a.domu:hover small {
 .seznam-temat a:hover { background: orange; color: white; }
 .seznam-temat a:hover:before { border-color: transparent orange transparent transparent; }
 
+/* Starší vydání */
+
+.starsi-vydani {
+    background: #ddd;
+    padding: 20px;
+    padding-top: 1px;
+    margin-top: 20px;
+}
+
+.starsi-vydani select {
+    margin-bottom: 12px;
+    margin-left: -2px;
+}
+
 /* Patička */
 
 .paticka {
