@@ -5,40 +5,51 @@
 {% endfor %}
 
 <div class="row">
-    <div class="col-xs-4 seznam-clanku">
-        {% for post in paginator.posts %}
-            {% if post.url != featured_post.url %}
-                {% include clanek-nahled.html %}
-            {% endif %}
-        {% endfor %}
-        {% if paginator.total_pages > 1 %}
-        <hr>
-        <div class="pagination">
-            {% if paginator.next_page %}
-                <a href="{{ paging_prefix }}/strana/{{ paginator.next_page }}" class="btn btn-default">Starší články</a>
-            {% endif %}
-            {% if paginator.previous_page == 1 %}
-                <a href="{{ paging_root }}/" class="btn btn-default">Novější články</a>
-            {% elsif paginator.previous_page %}
-                <a href="{{ paging_prefix }}/strana/{{ paginator.previous_page }}" class="btn btn-default">Novější články</a>
-            {% endif %}
-        </div>
-        {% endif %}
-    </div>
     <div class="col-xs-8">
         {% if featured_post %}
+            <div class="hlavni-clanek">
             {% assign post = featured_post %}
             {% include clanek-nahled.html %}
             <hr>
+            </div>
         {% endif %}
         <div class="row">
             <div class="col-xs-6">
-                <img class="img-responsive reklama-ctverec" src="/fotky/reklama.png" alt="Reklama">
-                {% include prehled-vydani.html %}
+            {% for post in paginator.posts limit:2 %}
+                {% if post.url != featured_post.url %}
+                    {% include clanek-nahled.html %}
+                {% endif %}
+            {% endfor %}
             </div>
             <div class="col-xs-6">
-                <img class="img-responsive" src="http://placehold.it/500x1000&text=obsah">
+            {% for post in paginator.posts offset:2 limit:3 %}
+                {% if post.url != featured_post.url %}
+                    {% include clanek-nahled.html %}
+                {% endif %}
+            {% endfor %}
             </div>
         </div>
+        {% if paginator.total_pages > 1 %}
+            <hr>
+            <div class="pagination">
+                {% if paginator.next_page %}
+                    <a href="{{ paging_prefix }}/strana/{{ paginator.next_page }}" class="btn btn-default">Starší články</a>
+                {% else %}
+                    <a href="" class="btn btn-default" disabled>Starší články</a>
+                {% endif %}
+                {% if paginator.previous_page == 1 %}
+                    <a href="{{ paging_root }}/" class="btn btn-default">Novější články</a>
+                {% elsif paginator.previous_page %}
+                    <a href="{{ paging_prefix }}/strana/{{ paginator.previous_page }}" class="btn btn-default">Novější články</a>
+                {% else %}
+                    <a href="" class="btn btn-default" disabled>Novější články</a>
+                {% endif %}
+            </div>
+        {% endif %}
+    </div>
+    <div class="col-xs-4">
+        <img class="img-responsive reklama-ctverec" src="/fotky/reklama.png" alt="Reklama">
+        {% include prehled-vydani.html %}
+        <img class="img-responsive" src="http://placehold.it/500x250&text=obsah">
     </div>
 </div>

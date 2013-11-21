@@ -151,13 +151,17 @@ a.domu:hover small {
 .seznam-temat a:hover { background: orange; color: white; }
 .seznam-temat a:hover:before { border-color: transparent orange transparent transparent; }
 
+.hlavni-clanek hr {
+    margin-bottom: 0;
+}
+
 /* Starší vydání */
 
 .starsi-vydani {
     background: #ddd;
     padding: 20px;
     padding-top: 1px;
-    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .starsi-vydani select {
