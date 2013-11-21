@@ -155,9 +155,9 @@ a.domu:hover small {
     margin-bottom: 0;
 }
 
-/* Starší vydání */
+/* Postranní boxy */
 
-.starsi-vydani {
+.box {
     background: #ddd;
     padding: 20px;
     padding-top: 1px;
@@ -167,6 +167,10 @@ a.domu:hover small {
 .starsi-vydani select {
     margin-bottom: 12px;
     margin-left: -2px;
+}
+
+.kalendar-akci p {
+    color: black;
 }
 
 /* Patička */
