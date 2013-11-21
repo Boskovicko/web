@@ -1,0 +1,28 @@
+---
+title: 'Časy se mění: místo náhrobků stromy, i tak může vypadat pohřbívání'
+author: Žaneta Ondroušková
+category: z regionu
+tags: Boskovicko 42-2013
+---
+
+Šetří se i po smrti. Skromnější obřady, zpopelnění a kolumbária vyhledávají pozůstalí čím dál častěji. „Doby, kdy pohřeb zesnulého začínal doma a trval celý den, jsou ty tam,“ říká majitel pohřební služby na Boskovicku Václav Holub, který tak trefně shrnuje, kudy se poslední roky ubírá přístup k poslednímu rozloučení. Ubývá mší v kostele, zesnulých v posteli i macešek na hrobě. Ze zahraničí k nám však zároveň míří trendy, které v očích lidí vracejí smrti její přirozenost. Říká se jim ekopohřebnictví a v tuzemsku zatím fungují jen na papíře. Přesto i na Boskovicku lidé z oboru připouštějí, že jim může patřit budoucnost. 
+
+Víc než cokoliv jiného charakterizuje ekopohřebnictví, často nazývané také přírodní, to, že ctí úlohu smrti v přírodě. „Smrt dává místo novému životu, proto se v tomto přístupu často sází památeční stromy namísto náhrobních kamenů. I po smrti tak člověk může dát vzniknout přírodnímu životu – dubu, jabloni, či třeba jen divokým květinám. Druhou variantou přírodního pohřbívání jsou takzvané lesní hřbitovy rozšířené hlavně v Německu, kam se ke kořenům stromů ukládá popel, a současně tam mohou být na památku zemřelým věnovány lavičky či třeba krmítka pro ptáky. Vzniká tak vlídný prostor pro poslední rozloučení a vzpomínání, který je zároveň jakousi galerií,“ popsala doktorandka brněnské Masarykovy univerzity Blanka Dobešová, která se ekopohřebnictvím dlouhodobě zabývá. 
+
+Tyto pohřby jsou podle ní typické i svojí šetrností k životnímu prostředí. „Používají se ekologické rakve a urny z přírodních materiálů – proutí, nelakovaného dřeva, tvrzeného papíru či vlny,“ vysvětlila Dobešová s tím, že kolébkou přírodních hřbitovů je Anglie. 
+
+Názory na dosti jiný způsob posledního rozloučení se však různí. I na Boskovicku má svoje příznivce, stejně jako ty, kteří o něm pochybují. „Slyším o něčem podobném poprvé, takže to nemůžu podrobněji komentovat. Ale proti tomu, že se místo náhrobku zasadí nad rakví strom, nic nemám. Je to každého volba, proč ne,“ řekl například římskokatolický farář na Benešově Pavel Koutník. 
+
+Větší nedůvěru k alternativním přístupům naopak chová duchovní Tomáš Jirků. „U nás, a především na venkově, je velmi důležitá tradice. Společnost stojí na nejrůznějších zvyklostech, mezi které patří také to, jak se loučíme se svými bližními. Jsou to vlastně veselé hřbitovy, které vidíte kolem – s láskou upravené, kvetoucí hroby s maceškami, kam se člověk s pokorou vrací pomodlit se. Máme tam svoje kořeny. Proč by měl člověk chtít být pohřben ekologicky, bez náhrobku, beze jména? Už vůbec nechápu rozptylové loučky a podobné věci. A stromy – ty mám rád. Ale na hřbitově?“ pochybuje evangelický farář z Olešnice. 
+
+A právě církev spolu s obcemi jsou jediné instituce, které v Česku můžou ať už klasický, nebo přírodní hřbitov, založit. Do budoucna jej plánují i Vavřinečtí, o jiném než tradičním však ani neuvažovali. „Momentálně pracujeme na územním plánu. Ten bude počítat s novým hřbitovem, který v obci chybí. Určitě se však vydáme klasickou cestou, nad přírodním hřbitovem rozhodně nepřemýšlíme,“ uvedl starosta Vavřince Miloslav Novotný. 
+
+V Letovicích by si to vedení města naopak představit dokázalo. „Já osobně se ničemu nebráním, pokládám to za věc každého člověka, jak chce být pohřbený. Proto pokud by občané měli o něco podobného zájem, určitě by v tom nebyl problém,“ ujistil letovický starosta Vladimír Stejskal, který však zároveň dodal, že o existenci podobných alternativ lidé většinou nemají ani ponětí. A proto nic takového zatím ani nevyžadovali. 
+
+I to je důvod, proč se u nás pohřebnictví už dlouho pohybuje v zajetých kolejích. „Nevšiml jsem si, že by se poslední dobou nějak výrazně měnily požadavky pozůstalých. Snad jen, že je víc kremací a lidé se ptají po kolumbáriích. Ale všeobecně se spíše drží při zemi a v rámci tradic raději investují do náhrobku, než aby dali šanci například nějakým ekopřístupům,“ řekl majitel boskovického pohřebního ústavu Zdeněk Slavíček. 
+
+Jen napůl jeho slova potvrzuje i konkurence. „Máme v nabídce i ekomateriály, ale lidi chtějí v naprosté většině klasiku. Přesto si ale myslím, že ekopohřebnictví budoucnost má. Už teď je zřejmé, že se něco mění. Začínají umírat lidé, kteří se narodili za komunismu, stoupá počet zpopelnění bez obřadu, rozloučení často proběhne jen v úzkém rodinném kruhu. To vše z důvodů finančních, nebo čistě proto, že měli zesnulí jiné priority. Navíc od té doby, co zákon nenařizuje, že popel musí skončit pouze na hřbitovní půdě, lidé si jej často odnáší domů, k sobě na zahradu a podobně. Za pietní místo tak nemusí platit jen hřbitov, jako tomu bylo v minulosti,“ objasnil Václav Holub. 
+
+A to, že si lidé dělají věci čím dál víc takzvaně po svém, ekologickým pohřbům nahrává. „Přírodní pohřebnictví je provázané s pohřby ‚udělej si sám‘, které organizují samotní pozůstalí, někdy i zcela bez pohřební firmy. Pozůstalí si třeba vyrobí smuteční oznámení a poslední rozloučení uspořádají doma či na chatě. Je to pak taková vzpomínková slavnost s fotkami, hudbou, svíčkami, květinami z vlastí zahrady či třeba jídlem, které měl zemřelý rád,“ doplnila Blanka Dobešová. 
+
+V Česku v současnosti vzniká první ekohřbitov v pražských Ďáblicích. „Uložit tam popel ke kořenům vzrostlých stromů budou moci lidé už příští jaro,“ upřesnila doktorandka. Sama věří, že se ekohřbitovy budou rozšiřovat z Ďáblic i dál. „V Británii řada přírodních hřbitovů vznikla jako součást těch klasických a touhle cestou půjdou zřejmě z počátku i české ekohřbitůvky,“ dodala Dobešová.

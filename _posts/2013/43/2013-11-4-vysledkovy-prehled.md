@@ -5,6 +5,8 @@ category: sport
 excerpt: Přehled volejbalových a fotbalových výsledků.
 tags:
 - okres Blansko
+- fotbal
+- volejbal
 - 43-2013
 ---
 
