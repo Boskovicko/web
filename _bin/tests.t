@@ -4,11 +4,11 @@ use utf8;
 
 my $sample = do { local $/; <DATA> };
 my $a = Article->new(text => $sample);
-isa_ok($a, Article->CLASS);
 is($a->head->title, 'Titulek článku');
 is($a->head->author, 'Žibřid Maniš');
 ok(!$a->head->published);
 is($a->body, "Text.\n");
+is_deeply($a->head->tags, [qw/foo bar baz/]);
 
 done_testing();
 

@@ -1,0 +1,3 @@
+use Modern::Perl;
+use Jekyll;
+my $j = Jekyll->new(root => '../_posts');

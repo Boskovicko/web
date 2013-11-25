@@ -1,7 +1,6 @@
 package Preamble;
 
 use Moose;
-use CLASS;
 use YAML::Tiny;
 use vars '$AUTOLOAD';
 
@@ -24,13 +23,19 @@ sub published
     return not ($published eq 'false');
 }
 
+sub tags
+{
+    my $self = shift;
+    my $raw_tags = $self->_hash->{tags} || '';
+    return $raw_tags if (ref($raw_tags) eq 'ARRAY');
+    return [split /\s+/, $raw_tags];
+}
+
 sub AUTOLOAD
 {
     my $self = shift;
     (my $method = $AUTOLOAD) =~ s/.*:://;
     return $self->_hash->{$method};
 }
-
-CLASS->meta->make_immutable;
 
 'sdg';

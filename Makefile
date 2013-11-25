@@ -1,4 +1,10 @@
 all: upload
+
+shell:
+	cd _bin && re.pl --rcfile ./repl.rc
+tests:
+	cd _bin && prove tests.t
+
 site:
 	jekyll build
 upload: site
