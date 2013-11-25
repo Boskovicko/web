@@ -1,6 +1,7 @@
 ---
 title: Fotbalisté Boskovic přivezli tři body z Líšně
 author: Lubomír Slezák
+photo: http://i.imgur.com/YvgAekF.jpg
 category: sport
 tags:
 - okres Blansko
