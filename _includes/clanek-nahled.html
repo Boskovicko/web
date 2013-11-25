@@ -1,6 +1,8 @@
 <div class="clanek-nahled">
     {% if post.photo %}
-    <img class="img-responsive titulni-obrazek" src="{{ post.photo }}" alt="">
+    <div class="titulni-obrazek-orez">
+        <img class="img-responsive titulni-obrazek" src="{{ post.photo }}" alt="">
+    </div>
     {% endif %}
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <p class="perex">{{ post.excerpt }}</p>

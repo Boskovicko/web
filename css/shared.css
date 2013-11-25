@@ -189,6 +189,11 @@ a.domu:hover small {
 
 /* Obsah */
 
+.titulni-obrazek-orez {
+    max-height: 360px;
+    overflow: hidden;
+}
+
 .obsah {
     margin-top: 20px;
 }
