@@ -1,5 +1,5 @@
 <div class="clanek-nahled">
-    {% if post.photo %}
+    {% if post.photo and include.photo == true %}
     <div class="titulni-obrazek-orez">
         <img class="img-responsive titulni-obrazek" src="{{ post.photo }}" alt="">
     </div>
