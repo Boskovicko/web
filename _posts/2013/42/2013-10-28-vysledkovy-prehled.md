@@ -6,6 +6,7 @@ excerpt: 'Přehled aktuálních fotbalových výsledků.'
 tags:
 - okres Blansko
 - fotbal
+- 42-2013
 ---
 
 ### Okresní přebor

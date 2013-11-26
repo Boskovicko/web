@@ -1,3 +1,15 @@
+use utf8;
 use Modern::Perl;
 use Jekyll;
+
+{
+    # http://stackoverflow.com/questions/20200865
+    no warnings 'redefine';
+    sub Data::Dump::Streamer::_qquote {
+        my $s = shift;
+        return "'$s'";
+    }
+}
+
+binmode STDOUT, ':encoding(utf-8)';
 my $j = Jekyll->new(root => '../_posts');
