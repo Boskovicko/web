@@ -1,6 +1,6 @@
 ---
 title: 'Sonda teen: Halloween'
-author: eL
+author: Ludmila Dobrozemská
 category: přečtěte si
 tags: 
 - halloween

@@ -1,6 +1,6 @@
 ---
 title: V Drnovicích investují do úprav mateřské školy
-author: eL
+author: Ludmila Dobrozemská
 category: přečtěte si
 tags: Drnovice opravy dotace EU školky 43-2013
 ---
