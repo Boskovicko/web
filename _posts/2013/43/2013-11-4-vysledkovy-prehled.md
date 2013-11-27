@@ -12,34 +12,34 @@ tags:
 
 ### Volejbal
 
-KP muži: TSR TJ Sokol Letovice – Volejbal Vyškov 1:3 (18, –21, –14, –18) a 3:0 (20, 26, 21). 
+KP muži: TSR TJ Sokol Letovice – Volejbal Vyškov 1:3 (18, –21, –14, –18) a 3:0 (20, 26, 21).
 
-1. Tesla Brno 8 8 0 24:4 22 
-2. Ingstav 9 8 1 25:9 21 
-3. Žabovřesky 8 6 2 21:9 18 
-4. Vyškov 8 4 4 16:17 13 
-5. MS Brno 8 4 4 14:13 12 
-6. Tišnov 8 4 4 14:15 12 
-7. Letovice 8 3 5 15:17 11 
-8. Brno jih 9 2 7 12:23 8 
-9. Šlapanice 8 2 6 8:21 6 
-10. Dědice 8 0 8 3:24 0 
+1. Tesla Brno 8 8 0 24:4 22
+2. Ingstav 9 8 1 25:9 21
+3. Žabovřesky 8 6 2 21:9 18
+4. Vyškov 8 4 4 16:17 13
+5. MS Brno 8 4 4 14:13 12
+6. Tišnov 8 4 4 14:15 12
+7. Letovice 8 3 5 15:17 11
+8. Brno jih 9 2 7 12:23 8
+9. Šlapanice 8 2 6 8:21 6
+10. Dědice 8 0 8 3:24 0
 
-KP kadetek: Minerva Boskovice – Sokol Jehnice B 3:0 (10, 10, 7) a 3:0 (13, 14, 4). 
+KP kadetek: Minerva Boskovice – Sokol Jehnice B 3:0 (10, 10, 7) a 3:0 (13, 14, 4).
 
-1. Boskovice 6 6 0 18:0 18 
-2. Kr. Pole 8 4 4 16:13 14 
-3. Vyškov C 6 3 3 12:10 10 
-4. Kuřim 6 3 3 9:15 6 
+1. Boskovice 6 6 0 18:0 18
+2. Kr. Pole 8 4 4 16:13 14
+3. Vyškov C 6 3 3 12:10 10
+4. Kuřim 6 3 3 9:15 6
 5. Jehnice B 6 0 6 1:18 0
 
 ### Kopaná
 
-OP: Vilémovice – Jedovnice 1:3 (0:1), Maroši – Borek, Pernica, Vintr, Rudice – Vavřinec 5:3 (2:2), Matuška Jan st. 3, Zouhar 2 – Musil, Přikryl, Sigl, Černá Hora – Kořenec 2:2 (1:0), Honsnejman, Tatíček – Hlubinka, Ševčík, Sloup – Šošůvka 1:2 (1:1), Petržel – Doležel, Kuchař, Drnovice – Lipůvka 0:4 (0:0) – Raichl 2, Filla, Macko, Vysočany – Kotvrdovice 6:0 (3:0), Beneš 4, Hejč, Torda, Olomučany – Olešnice 0:3 (0:2) – Mareček, Tomášek, Šafařík. 
+OP: Vilémovice – Jedovnice 1:3 (0:1), Maroši – Borek, Pernica, Vintr, Rudice – Vavřinec 5:3 (2:2), Matuška Jan st. 3, Zouhar 2 – Musil, Přikryl, Sigl, Černá Hora – Kořenec 2:2 (1:0), Honsnejman, Tatíček – Hlubinka, Ševčík, Sloup – Šošůvka 1:2 (1:1), Petržel – Doležel, Kuchař, Drnovice – Lipůvka 0:4 (0:0) – Raichl 2, Filla, Macko, Vysočany – Kotvrdovice 6:0 (3:0), Beneš 4, Hejč, Torda, Olomučany – Olešnice 0:3 (0:2) – Mareček, Tomášek, Šafařík.
 
 III. třída: Velké Opatovice – Vranová 3:3 (1:2), Ostřížek, Sedláček, Škrabal – Halva, Krčil, Šamšula, Vísky – Knínice 2:3 (1:2), Přikryl, Šmeral – Jurka, Minařík, Tesař, Svitávka – Benešov 7:2 (3:1), Novák 3, Zoubek 2, Kamenický, Procházka – Osuch 2, Ráječko B – Lysice 8:1 (4:1), Štafa 2, Baďura, Bezděk, Blažek, Hebký, Hlaváček, Slavíček – Homolka, Ostrov – Kunštát B 3:0 (1:0), Dáňa, Flek, Kostka, Skalice n.Svitavou – Letovice 2:1 (1:0), Bílek, Haluza – Chmelíček.
 
-IV. třída: Vilémovice B – Jedovnice B 0:4 (0:2) – Pešička 3, Mikluš, Bořitov B – Vavřinec B 1:1 (1:1), Sýs – Hudec, Svitávka B – Kořenec B 4:0 (1:0), Chloupek, David, Tušla, Škrabal, Voděrady – Boskovice B 3:4 (1:1), Bednář 2, Alexa – Odehnal 3, Oldřich, Lažánky – Lipůvka B 1:4 (1:3), Musil – Světlík 2, Kotásek, Maděránek, Cetkovice – Doubravice B 0:3 (0:3) – Alexa, Vach, Zvejška, Skalice n.Svitavou B – Lomnice 1:2 (1:0), Fojt – Cícha, Kapoun. 
+IV. třída: Vilémovice B – Jedovnice B 0:4 (0:2) – Pešička 3, Mikluš, Bořitov B – Vavřinec B 1:1 (1:1), Sýs – Hudec, Svitávka B – Kořenec B 4:0 (1:0), Chloupek, David, Tušla, Škrabal, Voděrady – Boskovice B 3:4 (1:1), Bednář 2, Alexa – Odehnal 3, Oldřich, Lažánky – Lipůvka B 1:4 (1:3), Musil – Světlík 2, Kotásek, Maděránek, Cetkovice – Doubravice B 0:3 (0:3) – Alexa, Vach, Zvejška, Skalice n.Svitavou B – Lomnice 1:2 (1:0), Fojt – Cícha, Kapoun.
 
 Dorost, sk. A: Svitávka – Drnovice 2:9 (1:3), Frehar, Prudký, vlastní – Dvořáček 5, Koudelka, Valenčík, Švancara, Sloup/Šošůvka – Olomučany 14:0 (8:0), Andrlík 4, Furch 4, Šindelka Stanislav 4, Novák, Šindelka Roman, Černá Hora/Bořitov – Kotvrdovice 4:0 (3:0), Bawi Van, Kolář, Machorek, Meduna, Rájec-Jestřebí – Lipůvka 2:2 (1:1), Burgr, Sedláček – Meitner, Šanca.
 

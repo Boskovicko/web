@@ -2,16 +2,16 @@
 title: 'Sonda teen: Halloween'
 author: Ludmila Dobrozemská
 category: přečtěte si
-tags: 
+tags:
 - halloween
 - sonda teen
 - 43-2013
 ---
 
-Účastníš se nějakých haloweenských aktivit? 
+Účastníš se nějakých haloweenských aktivit?
 
 ### Ivana, 13 let
-Doma vyřezáváme dýně. Jinak se ničeho neúčastním. 
+Doma vyřezáváme dýně. Jinak se ničeho neúčastním.
 
 ### Petr, 14 let
 Na halloween vůbec nikam nechodím. Tento den neslavím, ani nechci.
