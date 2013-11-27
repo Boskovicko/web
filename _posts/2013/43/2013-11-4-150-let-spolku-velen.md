@@ -12,13 +12,13 @@ Po oslavách v boskovické knihovně se tak jedná o další připomínku založ
 „Čtenářsko-zpěvácký spolek Velen stál v čele národně emancipačních snah v Boskovicích a na jeho tradici navazují i současné instituce a ochotnické aktivity, z nich především městská knihovna a ochotnické divadelní soubory. Vznik kulturních spolků – čtenářských a pěveckých – je jedním z projevů vzrůstu národního uvědomění a náleží k prvním organizačním krokům národního hnutí. Dobou největšího rozmachu českých národních spolků jsou 60. léta 19. století. České kulturní spolky sehrály ve vývoji národního hnutí na Moravě bezesporu velmi významnou roli. Velký podíl na jejich vzniku a činnosti náleží vlasteneckým kněžím, kteří – opouštějíce semináře prodchnuti národním citem – zakládali na svých působištích farní, školní, obecní i spolkové knihovny s českou literaturou a často přijímali i funkce knihovníků těchto knihoven,“ popsal historik z boskovického muzea Petr Vítámvás. 
 
 Výstava podle něj připomene na základě dobových dokumentů a článků činnost spolku a úlohu osobností, jež svou činností přispěly ke vzniku boskovického čtenářského spolku Velen – vlasteneckých kněží Libora Scholze a Jana Soukopa a boskovického rodáka a pedagoga Petra Bílky. „Součástí výstavy bude improvizovaná, veřejnosti přístupná čítárna s dobovými novinami, časopisy a knihami, které tehdy ve spolkové čítárně členové Velena četli a z nichž se vzdělávali,“ doplnil Petr Vítámvás. 
-    
+
 ### Divadelní oslavy
 
 K oslavám se tedy připojují i boskovičtí divadelníci, kteří aktuálně působí pod hlavičkou Sokola a tvoří tři samostatné soubory. Nejprve proběhne v sobotu 16. listopadu od 19 hodin v sokolovně Slavnostní večer ke 150. výročí založení ochotnického divadla v Boskovicích. Na programu bude ocenění zasloužilých členů divadla, křest knihy Jiřího Bušiny Boskovické divadlo II. a několik melodií z operet a muzikálů. Vše pod režijním vedením Jitky Machálkové. V pátek 22. listopadu zahraje v rámci oslav Ochotnické divadlo Boskovice konverzační komedii s lehce detektivní zápletkou Neila Simona Řeči. Inscenaci režírovala Jana Řezníčková. V neděli 24. listopadu zahraje od 18 hodin rovněž v sokolovně amatérské divadlo Naboso svou nejúspěšnější inscenaci Uvařeno autora Jáchyma Topola v režii Tomáše Trumpeše. Tato inscenace se v roce 2012 probojovala až na Jiráskův Hronov. Také v prostorách sokolovny bude během oslav připravena speciální výstava, a to o dějinách ochotnického divadla v Boskovicích. 
-    
+
 ### Kniha Jiřího Bušiny
- 
+
 U příležitosti oslav se, jak je už zmíněno výše, podařilo také připravit vydání druhého dílu knihy Jiřího Bušiny Boskovické divadlo. Autor v ní navazuje na svou předchozí publikaci, která historický vhled končila na počátku devadesátých let. Druhý díl tedy obsahuje historii boskovického divadelnictví mezi lety 1992 a 2013.
 
 Jiří Bušina v ní mimo jiné vysvětluje, proč se i divadelníci odkazují k založení čtenářsko – pěveckého spolku Velen jako k počátku své vlastní historie. „Protože tento spolek prováděl i scénky a deklamovánky a měl ve svých stanovách pěstovati hudbu a hry zákonem dovolené, pokládáme jeho vznik i za vznik historie ochotnického divadla,“ uvádí autor Jiří Bušina. 

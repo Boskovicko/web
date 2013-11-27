@@ -14,7 +14,7 @@ Sedm volně položených zpěvníků odcizil z lavic kostela v Lysicích během 
 Hromadná nehoda omezila v sobotu 19. října v podvečer dopravu na hlavním tahu I/43 u Stvolové. Řidič jedoucí ve směru od Letovic nedodržel bezpečnou vzdálenost a narazil do automobilu jedoucího před ním. To bylo nárazem odhozeno na další vozidla. Postupně se takto srazilo celkem šest osobních aut. Projíždějící auta po dobu asi dvou hodin hasiči pouštěli kyvadlově jen jedním pruhem, protože nehoda se stala v úzkém úseku silnice. 
 
 Nikdo z účastníků nehody neřídil pod vlivem alkoholu a nikdo také nebyl zraněn. Na vozidlech však vznikla škoda za dvě stě dvacet tisíc korun. 
-    
+
 ### Blansko
 Vážným zraněním skončila odpolední sváteční projížďka mladého motorkáře. Osmadvacetiletý muž řídil motocykl 28. října v Blansku směrem na Lažánky. Dle zjištění policistů předjel v ulici Gelhornova několik vozidel, ale nezařadil se a pokračoval z nezjištěných příčin v protisměru. Najel do jízdní dráhy osobnímu motorovému vozidlu Škoda Fabia a po srážce se motocykl ještě čelně střetl s nákladním vozidlem, které jelo ve stejném směru jako škodovka. 
 
