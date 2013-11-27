@@ -1,5 +1,6 @@
 package Jekyll;
 
+use Modern::Perl;
 use Article;
 use Moose;
 use File::Find::Rule;
@@ -21,15 +22,6 @@ sub BUILD
     $self->{root} = abs_path($args->{root});
     my @paths = File::Find::Rule->file()->name('*.md')->in($self->root);
     $self->{articles} = [map { Article->new(file => $_) } @paths];
-}
-
-sub article_path
-{
-    my $self = shift;
-    my $article = shift;
-    my $root = $self->root;
-    (my $path = $article->path) =~ s/^$root//;
-    return $path;
 }
 
 sub tags

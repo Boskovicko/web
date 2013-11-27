@@ -1,0 +1,7 @@
+set makeprg=_bin/validator.pl
+set errorformat=%f:%l:%c:%m
+
+map <C-Right> :cn<Return>
+map <C-Left> :cp<Return>
+imap <C-Right> <Esc>:cn<Return>
+imap <C-Left> <Esc>:cp<Return>
