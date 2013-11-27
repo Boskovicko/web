@@ -11,13 +11,13 @@ tags:
 
 O víkendu okresní týmy v moravských soutěžích hrály se střídavými úspěchy. Blansko v divizi vysoko prohrálo, Ráječko v krajském přeboru doma přehrálo Vojkovice. V I. A třídě přivezly Boskovice body z Líšně, v I. B třídě zůstalo jediným smutným týmem Blansko B.
 
-*Divize:* SFK Vrchovina - FK Blansko 4:0 (2:0), Kolařík 2, Skalník M., Sodomka R. 
-*KP:* SK Olympia Ráječko - SK Vojkovice 2:0 (1:0). 
-*I. A:* Líšeň B - Boskovice 2:4 (1:3), Stara, Fadrný, Horák Michal a vlastní. Boskovice: Čech - Müller, Václavek, Kolář, Vykoukal, Stara (75. Gregor), Martínek, Koudelka (60. Černý), Horák Jakub, Přikryl (88. Horák Michal), Fadrný. 
+*Divize:* SFK Vrchovina – FK Blansko 4:0 (2:0), Kolařík 2, Skalník M., Sodomka R. 
+*KP:* SK Olympia Ráječko – SK Vojkovice 2:0 (1:0). 
+*I. A:* Líšeň B – Boskovice 2:4 (1:3), Stara, Fadrný, Horák Michal a vlastní. Boskovice: Čech – Müller, Václavek, Kolář, Vykoukal, Stara (75. Gregor), Martínek, Koudelka (60. Černý), Horák Jakub, Přikryl (88. Horák Michal), Fadrný. 
 
 S relativně slabým soupeřem měly Boskovice především ve druhém poločase nečekaně moc práce. Definitivně rozhodla branka Michala Horáka v nastaveném čase, kdy se brankář po rohovém kopu nestačil vrátit do vlastní branky. 
 
-*I. B:* Svratka Brno - Lipovec 1:3 (0:1), Podolí - Rájec 0:4 (0:2), Blansko B - Doubravice 0:1 (0:1). 
+*I. B:* Svratka Brno – Lipovec 1:3 (0:1), Podolí – Rájec 0:4 (0:2), Blansko B – Doubravice 0:1 (0:1). 
 
 1. Rájec 13 10 3 0 39:8 33
 2. Lipovec 13 8 3 2 32:17 27

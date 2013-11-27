@@ -21,7 +21,7 @@ KP muži: TSR TJ Sokol Letovice – Volejbal Vyškov 1:3 (18, –21, –14, –1
 5. MS Brno 8 4 4 14:13 12 
 6. Tišnov 8 4 4 14:15 12 
 7. Letovice 8 3 5 15:17 11 
-8. Brno - jih 9 2 7 12:23 8 
+8. Brno jih 9 2 7 12:23 8 
 9. Šlapanice 8 2 6 8:21 6 
 10. Dědice 8 0 8 3:24 0 
 

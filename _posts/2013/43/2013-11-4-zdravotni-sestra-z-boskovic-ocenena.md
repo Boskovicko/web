@@ -15,7 +15,7 @@ Od svých 10 let jsem své volné chvíle nejraději trávila se svým dědečke
 
 **Pracujete celý život v boskovické nemocnici. Na kterých odděleních?**
 
-Chirurgie, ARO, po revoluci - ve funkci hlavní sestry a návrat na ARO. A měla jsem velké štěstí na své nejbližší nadřízené. 
+Chirurgie, ARO, po revoluci – ve funkci hlavní sestry a návrat na ARO. A měla jsem velké štěstí na své nejbližší nadřízené. 
 
 **Co patří mezi vaše zájmy, záliby?**
 
