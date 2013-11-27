@@ -15,23 +15,19 @@ my @rules = (
     {
         condition => sub { length(shift->head->author) <= 3 },
         message => "Krátké jméno autora, není to jen značka?",
-        regex => qr/^author:/,
-        where => 'head'
+        regex => qr/^author:/
     }, {
         condition => sub { none { $_ =~ /\d{2}-20\d{2}/ } @{shift->head->tags} },
         message => "Nechybí tag pro tiskové vydání?",
-        regex => qr/tags:/,
-        where => 'head'
+        regex => qr/^tags:/
     }, {
         condition => sub { any { $_ =~ /\// } @{shift->head->tags} },
         message => "Lomítko v názvech témat, dělá neplechu v URL.",
-        regex => qr/tags:/,
-        where => 'head'
+        regex => qr/^tags:/
     }, {
         condition => sub { shift->body =~ /\s+-\s+/ },
         message => "Rozdělovník místo pomlčky?",
-        regex => qr/(?<=\s)-\s+/,
-        where => 'body'
+        regex => qr/(?<=\s)-\s+/
     }
 );
 
