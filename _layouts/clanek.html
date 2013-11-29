@@ -5,6 +5,7 @@
     <title>{{ page.title }} | Boskovicko, regionální noviny</title>
 </head>
 <body>
+    <script src="/js/balanced-sidebar.js"></script>
     <div class="container obsah">
         <div class="row">
             <div class="col-xs-8 clanek">
@@ -22,7 +23,7 @@
                 </ul>
                 {% endif %}
             </div>
-            <div class="col-xs-4 ">
+            <div class="col-xs-4 sidebar">
                 <img class="img-responsive reklama-ctverec" src="/fotky/reklama.png" alt="Reklama">
                 <hr>
                 {% for post in site.related_posts | limit:5 %}
