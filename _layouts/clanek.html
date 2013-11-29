@@ -5,13 +5,10 @@
     <title>{{ page.title }} | Boskovicko, regionální noviny</title>
 </head>
 <body>
-
-    {% include zahlavi.html %}
-
     <div class="container obsah">
         <div class="row">
-
             <div class="col-xs-8 clanek">
+                {% include zahlavi.html %}
                 <h2>{{ page.title }}</h2>
                 {% assign post = page %}
                 {% include clanek-meta.html %}
@@ -25,20 +22,18 @@
                 </ul>
                 {% endif %}
             </div>
-
             <div class="col-xs-4 ">
+                <img class="img-responsive reklama-ctverec" src="/fotky/reklama.png" alt="Reklama">
+                <hr>
                 {% for post in site.related_posts | limit:5 %}
                     {% if post.url != page.url %}
                         {% include clanek-nahled-maly.html %}
                     {% endif %}
                 {% endfor %}
             </div>
-
         </div>
     </div>
-
     {% include paticka.html %}
-
 </body>
 </html>
 

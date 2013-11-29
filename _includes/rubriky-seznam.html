@@ -1,15 +1,13 @@
 <div class="lista-zahlavi">
-    <div class="container">
-        <ul class="seznam-rubrik clearfix">
-            {% for rubrika in site.data.rubriky %}
-                {% capture target_url %}/rubriky/{{ rubrika | url_encode }}/{% endcapture %}
-                {% assign current_url = page.url | replace: 'index.html', '' %}
-                {% if target_url == current_url %}
-                <li class="current"><a href="{{ target_url }}">{{ rubrika }}</a></li>
-                {% else %}
-                <li><a href="{{ target_url }}">{{ rubrika }}</a></li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
+    <ul class="seznam-rubrik clearfix">
+        {% for rubrika in site.data.rubriky %}
+            {% capture target_url %}/rubriky/{{ rubrika | url_encode }}/{% endcapture %}
+            {% assign current_url = page.url | replace: 'index.html', '' %}
+            {% if target_url == current_url %}
+            <li class="current"><a href="{{ target_url }}">{{ rubrika }}</a></li>
+            {% else %}
+            <li><a href="{{ target_url }}">{{ rubrika }}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
 </div>

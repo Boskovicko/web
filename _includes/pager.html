@@ -6,6 +6,7 @@
 
 <div class="row">
     <div class="col-xs-8">
+        {% include zahlavi.html %}
         {% if featured_post %}
             <div class="hlavni-clanek">
             {% assign post = featured_post %}
@@ -15,14 +16,14 @@
         {% endif %}
         <div class="row">
             <div class="col-xs-6">
-            {% for post in paginator.posts limit:2 %}
+            {% for post in paginator.posts limit:3 %}
                 {% if post.url != featured_post.url %}
                     {% include clanek-nahled.html %}
                 {% endif %}
             {% endfor %}
             </div>
             <div class="col-xs-6">
-            {% for post in paginator.posts offset:2 limit:3 %}
+            {% for post in paginator.posts offset:3 limit:3 %}
                 {% if post.url != featured_post.url %}
                     {% include clanek-nahled.html %}
                 {% endif %}
@@ -30,19 +31,19 @@
             </div>
         </div>
         {% if paginator.total_pages > 1 %}
-            <hr>
-            <div class="pagination">
+            <div class="strankovani">
                 {% if paginator.next_page %}
-                    <a href="{{ paging_prefix }}/strana/{{ paginator.next_page }}" class="btn btn-default">← Starší články</a>
+                    <a href="{{ paging_prefix }}/strana/{{ paginator.next_page }}" class="starsi-clanky">Starší články</a>
                 {% else %}
-                    <a href="" class="btn btn-default" disabled>← Starší články</a>
+                    <a href="" class="disabled starsi-clanky">Starší články</a>
                 {% endif %}
+                <span class="hvezda"><span class="glyphicon glyphicon-time"></span></span>
                 {% if paginator.previous_page == 1 %}
-                    <a href="{{ paging_root }}/" class="btn btn-default">Novější články →</a>
+                    <a href="{{ paging_root }}/" class="novejsi-clanky">Novější články</a>
                 {% elsif paginator.previous_page %}
-                    <a href="{{ paging_prefix }}/strana/{{ paginator.previous_page }}" class="btn btn-default">Novější články →</a>
+                    <a href="{{ paging_prefix }}/strana/{{ paginator.previous_page }}" class="novejsi-clanky">Novější články</a>
                 {% else %}
-                    <a href="" class="btn btn-default" disabled>Novější články →</a>
+                    <a href="" class="disabled novejsi-clanky">Novější články</a>
                 {% endif %}
             </div>
         {% endif %}
