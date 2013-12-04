@@ -1,0 +1,14 @@
+---
+title: Od ledna zvýhodněné parkování i na dalších místech
+author: Petra Bílá
+category: přečtěte si
+tags: Boskovice parkování 44-2013
+---
+
+Půlhodina bezplatného parkování na Masarykově náměstí v Boskovicích se osvědčila a nezpůsobila tak velkou díru v rozpočtu, jak se očekávalo. Proto chtějí boskovičtí radní v tomto trendu pokračovat, a co více, v novém roce se částečné úlevy od poplatků za parkování dočkají i řidiči, kteří parkují na jiných zpoplatněných parkovištích ve městě. „Radní rozhodli, že od prvního ledna příštího roku se na všech placených parkovištích ve městě bude za první půlhodinu parkování platit jedna koruna. Myslíme, že toto rozhodnutí je ke všem férové, ať už se to týká podpory podnikatelů, kteří mají v blízkosti parkovišť své provozovny nebo otevřenosti k občanům. Přece jen v blízkosti parkovišť jsou úřady, pošta,“ uvedl místostarosta Boskovic Dominik Božek.
+
+Na platbě jedné koruny se radní shodli i s ohledem na to, že samotné vytisknutí parkovacího lístku s sebou nese finanční náklady. „Když lidé do parkovacího automatu hodí korunu, tak aspoň parkovací lístek bude zaplacený. Nejde nám za každou cenu o pětikorunu za parkování. Snažíme se město otevřít občanům i podnikatelům,“ dodal Dohnálek s tím, že si je vědom toho, že jediný, kdo z rozhodnutí radních nemá radost, je jednatel firmy Služby Boskovice. Ta totiž přijde o část svých zisků. „Je to sice vstřícný krok směrem k veřejnosti. Nás to ale připraví až o čtyřicet procent ročních výnosů, odhadem přijdeme o čtyři sta až pět set tisíc korun,“ konstatoval jednatel Služeb Boskovice Milan Strya. Podle něj symbolický jednokorunový poplatek může mít na řidiče i výchovný charakter. „Kdekoli jinde když lidé zaparkují své auto v centru, musejí zaplatit poplatek. Boskovičtí radní udělali vstřícný krok a první půlhodina parkování bude za jednu korunu. A očekává se, že si řidiči rozmyslí, jestli budou riskovat pokutu kvůli tomu, že si nevzali parkovací lístek za jednu korunu,“ zhodnotil Strya.
+
+Nový systém podle něj bude fungovat tak, že řidiči hodí do automatu jednu korunu, pokud nebudou chtít parkovat déle než půlhodinu. „Když někdo hodí například dvacetikorunu, automat mu načte parkování na dvě hodiny. Některé automaty totiž neumí vracet hotovost. Radní zvažovali i variantu, že by třicetiminutové parkování bylo na všech placených parkovištích zdarma. Protože ale některé automaty nedokážou vydat lístek na bezplatné parkování a nákup nových automatů by byla investice v řádu dvou set tisíc korun, zvýhodněné půlhodinové parkování se sjednotí na jedné koruně.
+
+Řidiči rozhodnutí radních vítají a pro symbolický poplatek mají pochopení. „Jde asi i o to, aby si lidé uvědomili, že si musí vyzvednout parkovací lístek. Zvýhodněnou cenu parkování určitě i nadále využiju, ať už při cestách na úřady nebo na nákupy,“ sdělila Pavla Koutná.
