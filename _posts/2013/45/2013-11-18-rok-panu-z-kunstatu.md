@@ -1,0 +1,32 @@
+---
+title: V Kunštátě začaly přípravy na příští Rok Pánů z Kunštátu
+author: Tomáš Trumpeš
+category: kultura
+tags:
+- Kunštát
+- zámek Kunštát
+- dotace
+- 45-2013
+---
+
+Ještě před koncem letošní turistické sezóny začaly na zámku v Kunštátě intenzivní práce, které mají tento památkový objekt připravit na příští rok. Ten totiž bude pro Kunštát zcela výjimečný, neboť ministerstvo kultury rozhodlo, že rok 2014 vyhlásí Rokem Pánů z Kunštátu. Kunštátský zámek se tak logicky ocitne v centru pozornosti. Díky této výjimečné události získal jeden z nejstarších šlechtických domů na Moravě od ministerstva také mimořádné finanční prostředky, které budou využity na vybudování potřebného návštěvnického centra a především zcela nového návštěvnického okruhu. Plánovaná trasa návštěvníky povede původním hradním sklepením a přízemím jižního křídla takzvaného Horního zámku.
+
+„Bude to pro nás velice významný rok. Národní památkový ústav připravuje tematický rok už počtvrté, začínalo to Pány z Rožmberka, minulý rok to byli Páni z Pernštejna, letos to byl Rok francouzské šlechty. Příští rok to tedy bude Rok Pánů z Kunštátu, který bude koncipován trochu jinak než předchozí ročníky. Hlavní celosezónní výstava byla vždycky v Praze, tentokrát to bude odlišné, protože v Praze bude výstava sice přímo na Pražském hradě, ale bude to spíše menší expozice, která bude sloužit jako upoutávka a pozvánka do Kunštátu,“ popsal kunštátský kasetelán Radim Štěpán.
+
+### Nový prohlídkový okruh 
+
+Vytvoření speciální expozice v rámci Roku Pánů z Kunštátu si na zámku v Kunštátě vyžádá zpřístupnění zcela nového prohlídkového okruhu. Ten povede sklepením a následně přízemím jižního křídla, kde bude nově zpřístupněno celkem devět místností. Nová trasa bude tedy procházet tou nejstarší částí objektu, bývalým hradním jádrem. „Podle toho bude koncipovaná i expozice nazvaná V erbu tří pruhů. Ta bude na pánech z Kunštátu, jako na držitelích rodového panství od poloviny 13. století do počátku 16. století, představovat celou éru středověku. Aby to bylo pro návštěvníky přehledné, tak celá éra „moravského“ středověku bude postupně představována na každém konkrétním držiteli rodového panství,“ vysvětlil Radim Štěpán.
+
+V současné době už na zámku začaly stavební práce na úpravách prostor budoucí expozice. Probíhá také záchranný archeologický výzkum, který přinesl mnoho nových poznatků, a zahájen byl také restaurátorský průzkum. Stavební práce budou pokračovat přes zimu, hned začátkem příštího roku by měl vzniknout návrh architektonického řešení nové expozice. „Vše je koncipováno tak, abychom stihli hlavní turistickou sezónu, tedy aby se nová trasa otevřela nejpozději 1. července. Akce Rok Pánů z Kunštátu má celorepublikový charakter, bližší spolupráci proto navazujeme i s městy Kunštát a Poděbrady. Kunštát se stanem jedním z hlavních center dění, připravují se postupně i doprovodné kulturní akce,“ doplnil kunštátský kastelán.
+
+Ten přiblížil i konkrétní představy o podobě nové expozice. „Nechceme zahltit návštěvníky přemírou textových informací, ale epochu tří staletí plánujeme přiblížit pomocí co nejvíce předmětů a doplňkovými texty pouze se základními údaji. Podrobnější informace připravíme formou samostatného tištěného průvodce novou prohlídkovou trasou. Návštěvník tak nedostane pouze vstupenku, ale právě tištěného průvodce, kde budou veškeré informace a který bude obsahovat také fotografie, mapky, náčrty, skici, rekonstrukce. Osoba klasického průvodce bude návštěvníky doprovázet spíše v roli klíčníka a také bude odpovídat na doplňující otázky,“ popsal Radim Štěpán.
+
+Expozice V erbu tří pruhů na zámku zůstane i do budoucna a stane se stálou součástí nového návštěvnického okruhu. Podle kastelána Radima Štěpána ji bude možné modifikovat, a to především v návaznosti na stále nová zjištění, která se objevují i ohledně stavebního vývoje zámku. „Kostra expozice zůstane a informace budou doplňovány v návaznosti na nové poznatky. Představa vedení Národního památkového ústavu je navíc taková, že expozice bude přístupná celoročně. To je pro nás trochu komplexnější problém, který bychom museli vyřešit. Z hlediska prostor samotných je to možné, ale obnáší to daleko více. Především to souvisí s údržbou infrastruktury, museli bychom o tom jednat s městem. Celoročně by muselo být připraveno parkoviště pro návštěvníky zámku, které je na parcele města a také přístupová cesta k zámku, rovněž v majetku města. Někdy tady napadne za noc 30 až 40 centimetrů sněhu a muselo by se to rychle řešit. Pro nás by to samozřejmě znamenalo zásadní změny v provozu,“ uvedl kastelán Radim Štěpán.
+
+### Vznik návštěvnického centra
+
+Dnes už je tedy jisté, že příští rok budou na zámku fungovat dvě prohlídkové trasy. Do budoucna se připravuje také otevření druhého patra západního křídla Horního zámku, kde se původně nacházely soukromé hraběcí pokoje. Zde by měl být výhledově do dvou tří let zpřístupněn třetí návštěvnický okruh. K tomuto záměru jsou již zpracována závazná stanoviska, v prostorách rovněž probíhá restaurátorský průzkum. Tím pádem by byl v Kunštátě zpřístupněn téměř kompletně Horní zámek.
+
+Při takto zvýšeném provozu je ovšem zcela nevyhovující aktuální zázemí pro návštěvníky – zejména malá pokladna a jediná toaleta. Avšak i řešení tohoto problému je díky přípravám na Rok Pánů z Kunštátu již v běhu. „Nová pokladna se přesune do stávajícího výstavního prostoru v zámeckém kvelbu Dřevník. Zde vznikne návštěvnické centrum, kromě pokladny zde bude malý informační koutek a úschovna zavazadel. V místě stávající pokladny a v další přináležející místnosti budou dle hotové studie vybudovány nové toalety pro veřejnost. Ty budou přístupné ze stejné chodby jako pokladna. Takže vznikne kompletní nové návštěvnické zázemí,“ popsal Radim Štěpán. Návštěvnické zázemí by mělo být připraveno už na začátek sezóny, tedy na 1. dubna 2014. I tyto práce už na kunštátském zámku běží v plném proudu.
+
+Díky tomu, že tematický Rok Pánů z Kunštátu je profilová akce, kterou přímo zaštiťuje ministerstvo kultury, získal zámek Kunštát speciální dotaci, bez které by vznik nové prohlídkové trasy a návštěvnického centra trval nejspíš několik let. „Účelová dotace ze státního rozpočtu byla prozatím schválena ve výši 3,5 milionu korun. Ale momentálně žádáme ještě o navýšení. A výhodou je, že máme tak dobře nastavený provozní rozpočet, že z něj můžeme financovat projektovou dokumentaci. Vlastní realizaci už ale musí pokrýt rozpočet generálního ředitelství Národního památkového ústavu,“ vysvětlil na závěr kunštátský kastelán Radim Štěpán.

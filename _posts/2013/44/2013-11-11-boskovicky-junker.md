@@ -9,13 +9,13 @@ tags:
 - 44-2013
 ---
 
-V druhém pokračování seriálu o firmách působících v tomto regionu zavítáme do boskovické průmyslové zóny na Chrudichromské ulici. Od roku 2006 zde sídlí dceřiná společnost Junker Industrial Equipment s.r.o. V Boskovicích začala vyrábět už v roce 1995, nicméně její úplné počátky je potřeba hledat ve dvacátých letech minulého století v Německu. V Lammersdorfu, nedaleko korunovačního města Cách, ji totiž v roce 1924 založil Otto Junker, jehož nadace ji po jeho smrti spravuje. V čele boskovické pobočky stojí v současné době jednatel Antonín Kužel, mým průvodcem firmou se stal obchodní ředitel Junkeru Robert Bílek. Pojďme se společně podívat, co se v jejich výrobních halách rodí. 
+V druhém pokračování seriálu o firmách působících v tomto regionu zavítáme do boskovické průmyslové zóny na Chrudichromské ulici. Od roku 2006 zde sídlí dceřiná společnost Junker Industrial Equipment s.r.o. V Boskovicích začala vyrábět už v roce 1995, nicméně její úplné počátky je potřeba hledat ve dvacátých letech minulého století v Německu. V Lammersdorfu, nedaleko korunovačního města Cách, ji totiž v roce 1924 založil Otto Junker, jehož nadace ji po jeho smrti spravuje. V čele boskovické pobočky stojí v současné době jednatel Antonín Kužel, mým průvodcem firmou se stal obchodní ředitel Junkeru Robert Bílek. Pojďme se společně podívat, co se v jejich výrobních halách rodí.
 
 **Firma Otto Junker působí v Boskovicích už osmnáct let. Nezasvěcenému člověku však název neprozradí, jakou výrobou se zabýváte.**
 
-Naše hlavní portfolio je výroba tavicích pecí do sléváren, tedy na různé slitiny jako je bronz, mosaz, hliník, měď nebo například šedá litina, a dále zařízení pro firmy, které tepelně zpracovávají různé materiály, to se týká žíhání a úprav železných i neželezných kovů. 
+Naše hlavní portfolio je výroba tavicích pecí do sléváren, tedy na různé slitiny jako je bronz, mosaz, hliník, měď nebo například šedá litina, a dále zařízení pro firmy, které tepelně zpracovávají různé materiály, to se týká žíhání a úprav železných i neželezných kovů.
 
-Jsme výrobní závod, mateřskou firmu máme v německém Lammersdorfu. Zde v Boskovicích pro naši matku, která zajišťuje inženýring a řízení projektu, vyrábíme do Evropy i do celého světa. Neděláme zde sériovou výrobu, vše je pokaždé znovu tvořeno od nuly. Na začátku podle požadavků zákazníka zpracujeme projekt. Pece fungují samozřejmě na stejném principu, ale zákazník má – teď se bavíme o tavicích pecích, agregátech nebo udržovacích linkách – dispozičně dané možnosti ohledně prostoru, přívodu elektrických energií, chlazení, požadavky na tavení v různých teplotách, navíc každý odlévá jiný sortiment, dělá do jiného odvětví, proto jsou naše zakázky takzvaně na klíč. Nejde to dělat, že bychom měli na skladě například dvacet třicet různých pecí. Jde opravdu o zařízení, která jsou jednak složitá, jednak finančně nákladná. 
+Jsme výrobní závod, mateřskou firmu máme v německém Lammersdorfu. Zde v Boskovicích pro naši matku, která zajišťuje inženýring a řízení projektu, vyrábíme do Evropy i do celého světa. Neděláme zde sériovou výrobu, vše je pokaždé znovu tvořeno od nuly. Na začátku podle požadavků zákazníka zpracujeme projekt. Pece fungují samozřejmě na stejném principu, ale zákazník má – teď se bavíme o tavicích pecích, agregátech nebo udržovacích linkách – dispozičně dané možnosti ohledně prostoru, přívodu elektrických energií, chlazení, požadavky na tavení v různých teplotách, navíc každý odlévá jiný sortiment, dělá do jiného odvětví, proto jsou naše zakázky takzvaně na klíč. Nejde to dělat, že bychom měli na skladě například dvacet třicet různých pecí. Jde opravdu o zařízení, která jsou jednak složitá, jednak finančně nákladná.
 
 **Jedná se tedy o úzce specializovaná zařízení.**
 
@@ -35,15 +35,15 @@ Takhle se to říct nedá, protože jeden rok vyrábíme víc zařízení do sl�
 
 **Na objem zakázek jsem se ptala, abychom vytvořili obraz o velikosti společnosti. Možná by se dala přiblížit pomocí počtu zaměstnanců?**
 
-Momentálně tu pracuje 105 osob a naše mateřská firma má odhadem 450 až 500 lidí. K tomu v Chicagu působí sesterská společnost, ale tam je jen office s pár zaměstnanci, kteří zastřešují prodejní služby a servis pro americký trh a Kanadu. Další sestra je v Číně, kam se nyní zvažují další investice. 
+Momentálně tu pracuje 105 osob a naše mateřská firma má odhadem 450 až 500 lidí. K tomu v Chicagu působí sesterská společnost, ale tam je jen office s pár zaměstnanci, kteří zastřešují prodejní služby a servis pro americký trh a Kanadu. Další sestra je v Číně, kam se nyní zvažují další investice.
 
-Tím se ještě vrátím k otázce, kam jdou naše zařízení, protože velké procento směřuje právě na čínský trh. Dělávali jsme tam kompletně linky, pak v určitém období šlo jen o speciální stroje, které tam nebyli schopni vyrobit. Stalo se nám například, že čínský zákazník jednal s naší matkou o zařízení na úpravu plechů. Šlo o linku na takzvaný nekonečný pás plechu, který se různě upravuje. Tento zákazník nechtěl čínské dodavatele, chtěl evropskou kvalitu. Z tohoto popudu jsme tam pak dělali dvě kompletní linky. To je velice dobré, protože to zaměstná průřezem celou firmu na řadu měsíců. 
+Tím se ještě vrátím k otázce, kam jdou naše zařízení, protože velké procento směřuje právě na čínský trh. Dělávali jsme tam kompletně linky, pak v určitém období šlo jen o speciální stroje, které tam nebyli schopni vyrobit. Stalo se nám například, že čínský zákazník jednal s naší matkou o zařízení na úpravu plechů. Šlo o linku na takzvaný nekonečný pás plechu, který se různě upravuje. Tento zákazník nechtěl čínské dodavatele, chtěl evropskou kvalitu. Z tohoto popudu jsme tam pak dělali dvě kompletní linky. To je velice dobré, protože to zaměstná průřezem celou firmu na řadu měsíců.
 
-Jednak to na konstrukci kreslí, pak to prochází oddělením nákupu, kde domlouvají položky od našich dodavatelů, pak se to montuje, zkouší, testuje a opět rozebírá, balí… 
+Jednak to na konstrukci kreslí, pak to prochází oddělením nákupu, kde domlouvají položky od našich dodavatelů, pak se to montuje, zkouší, testuje a opět rozebírá, balí…
 
 **Práce na několik měsíců? Když jsem si v prvním díle tohoto seriálu povídala s majitelkou LDseatingu, řeč se v souvislosti s množstvím práce stočila i na ekonomickou krizi. Jak se projevila u vás?**
 
-Junker ji hodně pocítil, ale až o dost později než byl onen všeobecný boom krize. To proto, že zakázky máme dlouhodobějšího charakteru. Junker míval 180 až 200 lidí, ale po krizi jejich počet klesl zhruba na 80, takže jsme šli na méně než polovinu. I v krizi jsme zakázky měli, ale naplněnost ne. Teď náš jednatel usilovně vyjednává a má přísliby, že by se výroba, která tu byla, ale teď je v Lammersdorfu, měla opět vrátit do Boskovic, což je velice pozitivní. 
+Junker ji hodně pocítil, ale až o dost později než byl onen všeobecný boom krize. To proto, že zakázky máme dlouhodobějšího charakteru. Junker míval 180 až 200 lidí, ale po krizi jejich počet klesl zhruba na 80, takže jsme šli na méně než polovinu. I v krizi jsme zakázky měli, ale naplněnost ne. Teď náš jednatel usilovně vyjednává a má přísliby, že by se výroba, která tu byla, ale teď je v Lammersdorfu, měla opět vrátit do Boskovic, což je velice pozitivní.
 
 **Nabízí se otázka, jak vidíte budoucnost boskovického Junkeru?**
 
@@ -63,9 +63,9 @@ To je složité téma. Když se navyšují stavy například do elektrovýroby a
 
 **A jak jste se k Junkeru dostal vy osobně?**
 
-V roce 1998 jsem tu hned po škole nastoupil na brigádu. Byl jsem tady jeden měsíc, druhý, třetí, pak se mi prodloužila smlouva. Postupně jsem prošel takřka celým vývojem firmy. Byl jsem v elektrovýrobě, učil jsem se drátovat rozvaděče, dělal jsem elektroinstalace na zařízeních – nejdříve pod dohledem, pak sám – a postupně jsem měl pod sebou jednoho a více montérů. Pracoval jsem i jako šéfmontér, vedoucí externích montáží, obchodní zástupce a poslední pozicí je ředitel obchodu a marketingu. Takový ten klasický vývoj, co by měl být ve firmách, ale myslím, že už bohužel není moc aplikován. Těch pracovních pozic v rámci jedné firmy bylo docela dost, ale mělo to progresi pro moji současnou práci.	
+V roce 1998 jsem tu hned po škole nastoupil na brigádu. Byl jsem tady jeden měsíc, druhý, třetí, pak se mi prodloužila smlouva. Postupně jsem prošel takřka celým vývojem firmy. Byl jsem v elektrovýrobě, učil jsem se drátovat rozvaděče, dělal jsem elektroinstalace na zařízeních – nejdříve pod dohledem, pak sám – a postupně jsem měl pod sebou jednoho a více montérů. Pracoval jsem i jako šéfmontér, vedoucí externích montáží, obchodní zástupce a poslední pozicí je ředitel obchodu a marketingu. Takový ten klasický vývoj, co by měl být ve firmách, ale myslím, že už bohužel není moc aplikován. Těch pracovních pozic v rámci jedné firmy bylo docela dost, ale mělo to progresi pro moji současnou práci.
 
-### Tři otázky na tělo 
+### Tři otázky na tělo
 
 **Leží vám na nočním stolku knížka? Co čtete v současné době?**
 
@@ -74,7 +74,7 @@ Teď čtu časopis Forbes. Ale pokud mám připomenout knihu – mým oblíbený
 **Je někdo, koho byste chtěl v poslední době pochválit?**
 
 To je těžká otázka… Obecně asi všechny pracující lidi a to nejen v naší firmě.
-    
+
 **A do třetice – oblíbené jídlo?**
 
 To není určitě jen jedno. Souhlasím se rčením, že nejlepší zákusek je řízek. To je taková ta klasika, ale jinak já mám rád hodně ostrá jídla, čínskou kuchyni nebo například sushi.
