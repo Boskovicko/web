@@ -1,15 +1,15 @@
-–––
+---
 title: Výsledkový přehled
 author: Lubomír Slezák
 category: sport
-excerpt: Pravidelný přehled sportovních výsledků, tentokrát z volejbalu, šachu a stolního tenisu.
+excerpt: 'Pravidelný přehled sportovních výsledků, tentokrát z volejbalu, šachu a stolního tenisu.'
 tags:
-– okres Blansko
-– volejbal
-– šachy
-– stolní tenis
-– 46–2013
-–––
+- okres Blansko
+- volejbal
+- šachy
+- stolní tenis
+- 46–2013
+---
 
 ### Volejbal
 
