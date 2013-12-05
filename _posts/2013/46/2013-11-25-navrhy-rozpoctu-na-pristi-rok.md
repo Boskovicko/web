@@ -1,0 +1,18 @@
+---
+title: Rukama zastupitelů projdou návrhy rozpočtů na příští rok
+author: Petra Bílá
+category: přečtěte si
+tags: Boskovicko 46-2013
+---
+
+Pár týdnů před koncem letošního roku zástupci, zvolení do vedení obcí a měst, plánují rozpočet na příští rok. Co všechno zvládnou v posledním roce svého funkčního období zaplatit a nezanechají svým potenciálním nástupcům zadlužené pokladny?
+
+Boskovičtí mají návrh rozpočtu hotový. Už se k němu stihli vyjádřit radní, následně jej budou devátého prosince projednávat zastupitelé. Do té doby nechtěl starosta města Jaroslav Dohnálek sdělovat žádná čísla týkající se rozpočtu. „Nebylo by to fér vůči zastupitelům. Můžu říct, že návrh rozpočtu počítá s investicemi, o kterých mluvíme dlouhodobě. Ať už je to stavba sportovní haly, nebo finanční podíl na odkanalizování Mladkova. Hodně investic se týká dopravní infrastruktury, oprav chodníků a silnic. Do návrhu rozpočtu jsme zahrnuli také podíl na zkapacitnění vodojemu Doubravy,“ vyjmenoval Jaroslav Dohnálek. Dodal, že rozpočet připravili jako vyrovnaný, pouze s mírným přebytkem. „Nepočítáme, že bychom si na plánované investice brali další úvěr, vše chceme zaplatit z peněz, které máme k dispozici. Naopak koncem příštího roku vyprší dva úvěry, které jsme si brali na odkup kotelen a výstavbu hřiště s umělým povrchem. Při plánování rozpočtu na příští rok jsme vycházeli z příjmů města v letošním roce,“ uvedl starosta Boskovic.
+
+Letovičtí letos přeskočili mezikrok v podobě rozpočtového provizoria a pustili se přímo do plánování rozpočtu. Sešla se nad ním rada, k pracovní verzi měli připomínky i zastupitelé. Naostro jej budou schvalovat dvanáctého prosince. „Napřed schválíme rozpočet a pak v průběhu roku další doplňující věci, které vyvstanou. Máme v plánu hospodařit přibližně se sto miliony korun. Jsou v tom zahrnuty všechny mandatorní výdaje, příspěvky organizacím, příspěvky na kulturně společenské akce, na rekonstrukci chodníků nebo na výstavbu obytné části Letovice-Křetín. Letos jsme trochu ponížili investice, aby byl rozpočet vyrovnaný. Je to poslední rok našeho vládnutí, nebudeme si brát žádné další úvěry. Kdybychom skončili, abychom město nepředávali zbytečně zadlužené,“ prozradil starosta Letovic Vladimír Stejskal.
+
+Přibližně v řádu jedné třetiny je rozpočet města, se kterým budou v příštím roce hospodařit ve Velkých Opatovicích. „Počítáme s tím, že příjmy a výdaje budou podobné jako v letošním roce, tedy v řádu pětatřiceti milionů korun. Z větších investičních akcí rozpočet počítá s dokončením zateplení a výměny oken na budovách mateřských škol,“ uvedl starosta Velkých Opatovic Jiří Bělehrádek s tím, že v tuto chvíli návrh rozpočtu dokončují. Zastupitelé ho dostanou ke schválení na schůzi konané osmnáctého prosince.
+
+Kunštátští zastupitelé by návrh rozpočtu měli projednat do Vánoc. „Ještě dolaďujeme detaily. Zdá se, že budeme hospodařit s třiatřiceti až pětatřiceti miliony korun. Návrh počítá s investicemi do oprav místních komunikací a s některými menšími investicemi, na které jsme získali dotace. Žádné velké investiční akce v příštím roce neplánujeme, ale není to proto, že končí naše funkční období. Splácíme úvěry z investic minulých období a nemůžeme si dovolit výrazně zvyšovat zadlužení města,“ vysvětlil starosta Kunštátu Zdeněk Wetter.
+
+Naopak v Olešnici nechtějí při plánování rozpočtu vycházet z odhadů, a tak nejprve schválí rozpočtové provizorium. „Samotný rozpočet necháváme na únor až březen, kdy jsou zjevné všechny příjmy a výdaje, abychom pak nemuseli řešit rozpočtové opatření. Nějakou představu o objemu příjmů a výdajů máme, je to v řádu třiatřiceti milionů korun, ale bude záležet, jak se podaří profinancovat dotační tituly,“ konstatoval starosta Olešnice Zdeněk Peša.
