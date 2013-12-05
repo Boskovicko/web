@@ -8,7 +8,7 @@ tags:
 - volejbal
 - šachy
 - stolní tenis
-- 46–2013
+- 47-2013
 ---
 
 ### Volejbal
@@ -46,7 +46,7 @@ KP kadetky: DDM Kuřim – Minerva Boskovice 0:3 (–23, –14, –14) a 0:3 (�
 4. Kuřim 12 5 7 15:27 12
 5. Jehnice B 10 0 10 1:30 0
 
-### Šachy 
+### Šachy
 
 KP II. A: Makkabi Boskovice – ŠK Kuřim B 3,5:4,5, Chloupek – Křena 0:1, Dobeš – Krupica 0,5:0,5, Ševčík – Hyrš 1:0, Boháček – Boček 1:0, Hubený – Horák 0:1, Petr – Rubeš 1:0, Veselý – Kudla 0:1, Dvořáček – Pešl 0:1. Garde Lipovec C – TJ Sloup 2:6, Ševčík Miloš – Pokladník 0,5:0,5, Krejčí – Hampel 0:1, Nečas – Hudec 0,5:0,5, Kunc – Veselý 0:1, Ševčík Milan – Špičák 0:1, Drahovzal – Sedlák 0:1, Kratochvil – Drochytka 1:0, Ševčík Josef – Němec 0:1. MKS Vyškov C – ASK Blansko 3,5:4,5, Jakubčík – Moc Roman 0:1, Kudlička – Saida 0,5:0,5, Kocman – Moc Martin 0:1, Majetič – Hroza 1:0, Jandl – Palaš 1:0, Hejná – Senáši 1:0, Bar – Polách 0:1, Zabloudil – Slouka 0:1. Garde Lipovec B – ŠK Jevíčko 6:2, Komprda – Gajdoš 1:0, Mráz – Zemánek 1:0, Flašar – Liebl 1:0, Machek – Zapletal 1:0, Vavřínek – Novák 1:0, Hloušek – Šmíd 1:0, Ševčík L. – Marcikán 0:1, Ševčík J. – Hrbata 0:1. Sokol Tišnov – Brno 64 4,5:3,5.
 
@@ -61,10 +61,10 @@ KP II. A: Makkabi Boskovice – ŠK Kuřim B 3,5:4,5, Chloupek – Křena 0:1, D
 9. Lipovec C 0 0 2 0 5.5 3
 10. Jevíčko 0 0 2 0 4.5 3
 
-### Stolní tenis 
+### Stolní tenis
 
-RP I: Zbraslavec C – Bořitov A 8:10, Křetín B – Jestřebí A 11:7, KST Blansko D – Rohozec A 9:9, Žďárná A – Voděrady A 11:7, Svitávka A – Boskovice B 10:8, Křetín A – Rájec A 10:8. 
+RP I: Zbraslavec C – Bořitov A 8:10, Křetín B – Jestřebí A 11:7, KST Blansko D – Rohozec A 9:9, Žďárná A – Voděrady A 11:7, Svitávka A – Boskovice B 10:8, Křetín A – Rájec A 10:8.
 
-RP II: Voděrady B – Letovice A 6:12, Rájec B – Rudice A 6:12, Němčice A – Brumov A 15:3, Kunštát A – Olešnice A 8:10, Boskovice C – Šošůvka B 6:12, Adamov A – Veselice A 7:11. 
+RP II: Voděrady B – Letovice A 6:12, Rájec B – Rudice A 6:12, Němčice A – Brumov A 15:3, Kunštát A – Olešnice A 8:10, Boskovice C – Šošůvka B 6:12, Adamov A – Veselice A 7:11.
 
 RP III: Okrouhlá A – Rohozec B 10:8, Petrovice B – Svitávka B 12:6, Šošůvka C – Kunštát B 5:13, Žďárná B – Vanovice A 9:9, Vysočany B – Borotín A 4:14, Petrovice A – Křetín C 13:5.

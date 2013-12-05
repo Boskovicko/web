@@ -1,0 +1,16 @@
+---
+title: Malby Vladimíra Kiseljova doprovodí Wagnerovu hudbu
+author: Tomáš Trumpeš
+category: kultura
+tags: koncerty 47-2013
+---
+
+Boskovický rodák, výtvarník Vladimír Kiseljov, pokračuje ve svém zájmu o skladatele Richarda Wagnera a na začátku prosince zve na dva koncerty pořádané pod hlavičkou Filharmonie Brno. Koncerty se konají ve čtvrtek 5. a v pátek 6. prosince od 19.30 v brněnském Besedním domě. Projekce Kiseljovových maleb zde doprovodí hudbu Richarda Wagnera.
+
+V programu koncertu nazvaného Ring – Scény z Prstenu Nibelungova zazní varhanní transkripce symfonické suity v podání varhaníka Michaela Bárteka. Součástí koncertu bude také křest knihy Vladimíra Kiseljova Mystéria Richarda Wagnera v obrazech.
+
+„Jedná se o obrazovou knihu manifestující mysteria a symbolickou řeč Gesamtkunstwerku Richarda Wagnera v malbách Vladimíra Kiseljova. Kniha je doprovázená fotografiemi jeho maleb ke všem 13 Wagnerovým hudebním dramatům, výkladovými sondami, rozborem klíčových témat a jejich poselstvím z duchovního hlediska. Vychází v česko-anglickém vydání v nakladatelství Magda Pavla Pražáka, s 35 barevnými fotografiemi maleb Vladimíra Kiseljova, celkem asi 120 stran. Vychází letos jako jediná publikace u nás o díle Richarda Wagnera, v souvislosti s jeho 200. výročím od narození a 130. výročím úmrtí,“ uvedl vydavatel knihy. Autogramiáda se koná v Brně v knihkupectví Michala Ženíška ve čtvrtek 12. prosince od 17.30 hodin.
+
+Vladimír Kiseljov je absolvent SŠUŘ Brno a JAMU Brno, realizoval více než 50 svých samostatných výstav obrazů, mimo jiné v Galerii kritiků v Praze, na Mezinárodní výstavě současného výtvarného umění Florence Biennale 2009, v Lipsku 2011, v Zadaru v Chorvatsku a na mezinárodní výstavě moderního umění v Piešťanech v roce 2012, dále v roce 2013 v Edinburghu ve Skotsku, Lipsku, Bayreuthu, Vídni, Berlíně, Ženevě a dalších městech. Maluje obrazy inspirované výrazně klasickou hudbou, organizuje a vede arteterapeutické workshopy – malování s hudbou a archetypy, a maluje obrazy naživo na koncertech cyklu staré hudby. V roce 2008 inscenoval jako režisér, dramaturg a scénograf brněnskou premiéru pětihodinového Parsifala Richarda Wagnera v divadle Reduta. Jako scénograf vytvořil také inscenaci opery Josepha Haydna Svět na měsíci či Tartuffa J. B. Moliéra. Letos se podílel v Litomyšli na světové premiéře nového muzikálu Petra Jiříčka Píseň písní jako režisér, scénograf, autor kostýmů, choreografie a projekcí. Je presidentem Sdružení Richarda Wagnera v Brně, absolvoval stipendia na Wagnerovských Bayreuther Festspiele a na Kunstuniverstaet Graz, reprezentoval Brno na mezinárodních odborných Wagnerovských kongresech.
+
+„Jsem interdisciplinární tvůrce v oborech malby, nástěnné malby, scénografie, režie, performance a arteterapie, má díla vznikají v úzkém propojení hudby, barvy a pohybu Ducha v prostoru. Zachycuji svým dílem proud energie, který pramení z mého osobního pochopení a prožití hudby a různých mytologií, pohádek a symboliky. Snažím se svým dílem pozitivně působit na společnost a vnášet energické duchovní impulzy do všedního života svého okolí. Proto realizuji často díla ve veřejném prostoru, ať už jako nástěnnou malbu, performance nebo výstavu maleb,“ přiblížil svou tvorbu Vladimír Kiseljov.
