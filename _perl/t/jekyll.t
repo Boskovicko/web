@@ -1,7 +1,7 @@
+use Sane::Perl;
 use Test::Most;
 use Article;
 use Text 'regex_find_all';
-use utf8;
 
 my $sample = do { local $/; <DATA> };
 my $a = Article->new(string => $sample);
