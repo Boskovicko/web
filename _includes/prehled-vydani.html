@@ -2,8 +2,8 @@
     <h2>Papírová vydání</h2>
     <select class="form-control prehled-vydani">
         <option value="">vyberte si vydání:</option>
-        {% for issue in site.data.vydani reversed %}
-        <option value="{{ issue.number | replace: '/', '-' }}">{{ issue.number }}  {{ issue.release-date }}</option>
+        {% for vydani in site.data.vydani %}
+        <option value="{{ vydani.cislo | replace: '/', '-' }}">{{ vydani.cislo }}  {{ vydani.datum }}</option>
         {% endfor %}
     </select>
     <script>
