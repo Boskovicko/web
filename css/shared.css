@@ -39,10 +39,8 @@ a.domu {
     text-decoration: none;
 }
 
-@media (min-width: 1000px) {
-    a.domu small:before {
-        content: "✻ ";
-    }
+a.domu small:before {
+    content: "✻ ";
 }
 
 /* Seznam rubrik */
