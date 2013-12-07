@@ -1,7 +1,12 @@
 <p class="meta">
     <span class="datum-vydani">{{ post.date | date: "%-d. %m. %Y" }}</span>
     {% if post.author %}
+        {% assign author_info = site.data.autori[post.author] %}
+        {% if author_info.mail %}
+        <a href="mailto:{{ author_info.mail }}" class="autor">{{ post.author }}</a>
+        {% else %}
         <span class="autor">{{ post.author }}</span>
+        {% endif %}
     {% endif %}
     {% if post.category %}
         <a class="rubrika" href="/rubriky/{{ post.category | url_encode }}/">{{ post.category }}</a>
