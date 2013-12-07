@@ -1,16 +1,13 @@
 #!/usr/bin/env perl
 
-use utf8;
-use open qw/:std :utf8/;
-use FindBin qw($Bin);
-use lib $Bin;
-use Modern::Perl;
+use lib "./lib";
+use Sane::Perl;
 use List::Util qw/any none/;
 use Text 'regex_find_all';
 use File::Basename 'basename';
 use Jekyll;
 
-my $root = shift @ARGV || '_posts';
+my $root = shift @ARGV or die "Please specify the article root dir";
 my $jekyll = Jekyll->new(root => $root);
 my @rules = (
     {
