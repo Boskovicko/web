@@ -7,7 +7,7 @@ use Text 'regex_find_all';
 use File::Basename 'basename';
 use Jekyll;
 
-my $root = shift @ARGV or die "Please specify the article root dir";
+my $root = shift @ARGV || '../_posts';
 my $jekyll = Jekyll->new(root => $root);
 my @rules = (
     {
@@ -37,6 +37,10 @@ my @rules = (
         condition => sub { shift->body =~ /\s+$/ },
         message => "Nadbytečné bílé znaky na konci řádku.",
         regex => qr/\s+$/
+    }, {
+        condition => sub { shift->body =~ /\.{3}/ },
+        message => "Trojtečka (...) místo výpustku (…).",
+        regex => qr/\.{3}/
     }
 );
 
