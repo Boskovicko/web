@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    var mainColumnHeight = $('.clanek').height();
+    var mainColumnHeight = $('.clanek-telo').height();
     for (;;) {
         var MIN_RELATED_ARTICLES = 1;
         var sidebarHeight = $('.sidebar').height();
