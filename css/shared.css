@@ -19,8 +19,12 @@ body {
 }
 
 .zahlavi h1 {
-    font-size: 350%;
+    font-size: 360%;
     margin: 0;
+}
+
+@media screen and (min-width: 1200px) {
+    .zahlavi h1 { font-size: 420%; }
 }
 
 .zahlavi small {
@@ -239,6 +243,10 @@ a.domu small:before {
     padding-bottom: 40px;
 }
 
+.clanek-telo h2 {
+    font-size: 250%;
+}
+
 /* Patička */
 
 .paticka {
@@ -266,3 +274,4 @@ a:hover {
 h2, h3 {
     font-family: 'Ladislav Regular', sans-serif;
 }
+
