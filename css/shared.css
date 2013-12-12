@@ -176,11 +176,29 @@ a.domu small:before {
 
 /* Postranní boxy */
 
+.row {
+    overflow: hidden;
+}
+
+.sidebar {
+    background: #eee;
+    padding-bottom: 100%;
+    margin-bottom: -100%;
+    padding-left: 0;
+    padding-right: 0;
+    border-left: 15px solid white;
+    border-right: 15px solid white;
+}
+
 .box {
-    background: #ddd;
     padding: 20px;
     padding-top: 1px;
-    margin-bottom: 20px;
+    border-bottom: 2px solid white;
+}
+
+.reklama-ctverec {
+    border-bottom: 2px solid white;
+    margin-bottom: 5px;
 }
 
 .starsi-vydani select {
@@ -201,6 +219,7 @@ a.domu small:before {
     font-family: 'Ladislav Regular', sans-serif;
     font-size: 24px;
     text-transform: lowercase;
+    text-align: center;
 }
 
 .strankovani .hvezda {
@@ -219,7 +238,7 @@ a.domu small:before {
 .paticka {
     border-top: 6px solid silver;
     padding-bottom: 40px;
-    margin-top: 40px;
+    margin-top: 20px;
     padding-top: 25px;
 }
 
@@ -231,10 +250,6 @@ hr.medium {
 
 .obsah {
     margin-top: 20px;
-}
-
-.reklama-ctverec {
-    margin-bottom: 20px;
 }
 
 a:hover {

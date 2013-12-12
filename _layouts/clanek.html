@@ -25,7 +25,6 @@
             </div>
             <div class="col-xs-4 sidebar">
                 <img class="img-responsive reklama-ctverec" src="/fotky/reklama.png" alt="Reklama">
-                <hr>
                 {% for post in site.related_posts | limit:5 %}
                     {% if post.url != page.url %}
                         {% include clanek-nahled-maly.html %}
