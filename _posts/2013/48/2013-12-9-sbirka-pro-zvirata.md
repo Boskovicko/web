@@ -1,6 +1,6 @@
 ---
 title: Probíhá vánoční sbírka pro zvířata z boskovické záchytné stanice
-author: MK
+author: M. Krajíčková
 category: informace
 tags: Boskovice Vánoce 48-2013
 ---

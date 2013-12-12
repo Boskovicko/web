@@ -1,6 +1,6 @@
 ---
 title: V šebetovské mateřské škole dokončili rekonstrukci kotelny
-author: MB
+author: Miroslava Boháčková
 category: z regionu
 tags:
 - Šebetov
