@@ -26,7 +26,7 @@ Extraliga: Bráši B – Bystřice n./P. 9:10, Knajp Riders Letovice – Avion I
 11. Bráši B 9 1 0 1 7 70:93 4 
 12. Burýšci 9 1 0 0 8 55:107 3 
 
- 1. liga A: Killers Střelice – Strmeň Kohoutovice 10:8, Blind Dogs Budišov – Dragon Darts Team 11:7, Expres Sokolovna Boskovice – Sokol Sokolnice 10:8, Balaton Sokolnice – Titáni Hodonín 11:7, R.U.M. Stařeč – Šipky Střelice 10:8, Siga Brno – Sport Barbarians Třebíč 10:8, Bulldog Darts – Ferrari Bar Kyjov 8:10.
+1\. liga A: Killers Střelice – Strmeň Kohoutovice 10:8, Blind Dogs Budišov – Dragon Darts Team 11:7, Expres Sokolovna Boskovice – Sokol Sokolnice 10:8, Balaton Sokolnice – Titáni Hodonín 11:7, R.U.M. Stařeč – Šipky Střelice 10:8, Siga Brno – Sport Barbarians Třebíč 10:8, Bulldog Darts – Ferrari Bar Kyjov 8:10.
 
 1. Budišov 9 7 1 0 1 94:69 23 
 2. Balaton 9 7 1 0 1 92:71 23 
@@ -43,7 +43,7 @@ Extraliga: Bráši B – Bystřice n./P. 9:10, Knajp Riders Letovice – Avion I
 13. Boskovice 9 2 0 1 6 59:104 4 
 14. Třebíč 9 0 0 1 8 64:99 1 
 
- 2. liga C: Milénium Bystřice n./P. – Phoenix Kuřim 10:9, Exekrutors Letovice – Terasa VO Tečku Knínice 7:11, Aligators Horní Štěpánov – Triple X Letovice 10:9, Zenit Deštná – Popelka Team 11:7, Bystřice n./P. B – Babylon Němčice 11:7, Nadoraz Jevíčko – Na Středy 8:10, Brumov – Mário Bce 13:5.
+2\. liga C: Milénium Bystřice n./P. – Phoenix Kuřim 10:9, Exekrutors Letovice – Terasa VO Tečku Knínice 7:11, Aligators Horní Štěpánov – Triple X Letovice 10:9, Zenit Deštná – Popelka Team 11:7, Bystřice n./P. B – Babylon Němčice 11:7, Nadoraz Jevíčko – Na Středy 8:10, Brumov – Mário Bce 13:5.
 
 1. Milénium 9 7 2 0 0 110:54 25
 2. Kuřim 9 7 0 1 1 104:59 22
@@ -60,7 +60,7 @@ Extraliga: Bráši B – Bystřice n./P. 9:10, Knajp Riders Letovice – Avion I
 13. Exekrutors 9 0 0 1 8 47:116 1
 14. Mário 9 0 0 0 9 49:113 0
 
- 3. liga C: Němčice B – Úsobrno 9: 3, Úsobrno B – Stvolová B 6:7, Poškoláci Valchov – Nealko Deštná 4:8, Bulldog Javorek – Haluzáři Cetkovice 8:4, Vandals Těchov – Lakeři Lysice 10:2, Stvolová A – Surikaty Těchov 7:5, Holba team Knínice – Aligátors Horní Štěpánov B 0:12.
+3\. liga C: Němčice B – Úsobrno 9: 3, Úsobrno B – Stvolová B 6:7, Poškoláci Valchov – Nealko Deštná 4:8, Bulldog Javorek – Haluzáři Cetkovice 8:4, Vandals Těchov – Lakeři Lysice 10:2, Stvolová A – Surikaty Těchov 7:5, Holba team Knínice – Aligátors Horní Štěpánov B 0:12.
 
 1. Deštná 9 8 0 1 0 78:31 25
 2. Valchov 9 8 0 0 1 73:35 24
