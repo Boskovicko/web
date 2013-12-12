@@ -8,14 +8,14 @@
     <script src="/js/balanced-sidebar.js"></script>
     <div class="container obsah">
         <div class="row">
-            <div class="col-xs-8 clanek">
+            <div class="col-xs-8 clanek-telo">
                 {% include zahlavi.html %}
                 <h2>{{ page.title }}</h2>
                 {% assign post = page %}
                 {% include clanek-meta.html %}
                 {{ content }}
                 {% if page.tags.size > 0 %}
-                <hr>
+                <hr class="medium">
                 <ul class="seznam-temat">
                     {% for tag in page.tags %}
                     <li><a href="/temata/{{ tag | url_encode }}/">{{ tag }}</a></li>

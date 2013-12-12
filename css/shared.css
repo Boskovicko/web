@@ -197,7 +197,7 @@ a.domu small:before {
 }
 
 .reklama-ctverec {
-    border-bottom: 2px solid white;
+    border-bottom: 3px solid white;
     margin-bottom: 5px;
 }
 
@@ -231,6 +231,12 @@ a.domu small:before {
 .strankovani a.disabled {
     color: silver;
     cursor: default;
+}
+
+/* Článek */
+
+.clanek-telo {
+    padding-bottom: 40px;
 }
 
 /* Patička */
