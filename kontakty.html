@@ -1,0 +1,64 @@
+---
+layout: static-page
+title: Kontakty
+---
+
+<div class="row">
+    <div class="col-xs-4">
+        <h2>Inzerce</h2>
+        <ul class="list-unstyled">
+            <li>Pavlína Čechová
+            <li><a href="mailto:inzerce@boskovicko.cz">inzerce@boskovicko.cz</a>
+            <li>+420 724 222 775
+            <li>+420 516 454 163
+        </ul>
+
+        <h2>Šéfredaktorka</h2>
+        <ul class="list-unstyled">
+            <li>Andrea Šrámková
+            <li><a href="mailto:boskovicko@boskovicko.cz">boskovicko@boskovicko.cz</a>
+            <li>+420 602 202 790
+            <li>+420 516 454 163
+        </ul>
+
+        <h2>Vydavatel</h2>
+        <ul class="list-unstyled">
+            <li>Jitka Melkusová
+            <li><a href="mailto:jitka.melkusova@boskovicko.cz">jitka.melkusova@boskovicko.cz</a>
+            <li>+420 602 189 735
+            <li>+420 516 454 163
+        </ul>
+
+        <h2>Grafická úprava</h2>
+        <ul class="list-unstyled">
+            <li>Ilja Melkus
+            <li><a href="mailto:ilja.melkus@boskovicko.cz">ilja.melkus@boskovicko.cz</a>
+            <li>+420 724 222 775
+        </ul>
+    </div>
+
+    <div class="col-xs-4">
+        <h2>Autoři</h2>
+        {% for autor in site.data.autori %}
+        <ul class="list-unstyled">
+            <li>
+                {{ autor[0] }}
+                {% if autor[1].sifra %}
+                <span class="text-muted">{{ autor[1].sifra }}</span>
+                {% endif %}
+            </li>
+            <li><a href="mailto:{{ autor[1].mail }}">{{ autor[1].mail }}</a>
+            <li>{{ autor[1].telefon }}
+        </ul>
+        {% endfor %}
+    </div>
+
+    <div class="col-xs-4">
+        <h2>Redakce</h2>
+        <ul class="list-unstyled">
+            <li><a href="http://mapy.cz/s/8LtX">Plačkova 4, 680 01 Boskovice</a>
+            <li><a href="mailto:boskovicko@boskovicko.cz">boskovicko@boskovicko.cz</a>
+            <li>+420 516 454 163
+        </ul>
+    </div>
+</div>
