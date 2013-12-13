@@ -201,6 +201,7 @@ a.domu small:before {
 }
 
 .reklama-ctverec {
+    border-top: 1px solid #ddd;
     border-bottom: 3px solid white;
     margin-bottom: 5px;
 }
