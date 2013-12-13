@@ -247,6 +247,18 @@ a.domu small:before {
     font-size: 250%;
 }
 
+/* Inzerce */
+
+.inzerce .thumbnail {
+    padding-top: 15px;
+}
+
+.inzerce .caption {
+    width: 190px;
+    margin: auto;
+    padding: 0;
+}
+
 /* Patička */
 
 .paticka {
@@ -260,6 +272,10 @@ a.domu small:before {
 
 hr.medium {
     border-top: 2px solid silver;
+}
+
+.indented {
+    margin-top: 20px;
 }
 
 .obsah {
