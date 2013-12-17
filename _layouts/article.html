@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="cs">
 <head>
-    {% include head.html %}
+    {% include html-head.html %}
     <title>{{ page.title }} | Boskovicko, regionální noviny</title>
 </head>
 <body>
@@ -9,10 +9,10 @@
     <div class="container obsah">
         <div class="row">
             <div class="col-xs-8 clanek-telo">
-                {% include zahlavi.html %}
+                {% include masthead.html %}
                 <h2>{{ page.title }}</h2>
                 {% assign post = page %}
-                {% include clanek-meta.html %}
+                {% include article-meta.html %}
                 {{ content }}
                 {% if page.tags.size > 0 %}
                 <hr class="medium">
@@ -24,16 +24,16 @@
                 {% endif %}
             </div>
             <div class="col-xs-4 sidebar">
-                {% include reklama.html %}
+                {% include ad-square.html %}
                 {% for post in site.related_posts | limit:5 %}
                     {% if post.url != page.url %}
-                        {% include clanek-nahled-maly.html %}
+                        {% include article-preview-small.html %}
                     {% endif %}
                 {% endfor %}
             </div>
         </div>
     </div>
-    {% include paticka.html %}
+    {% include footer.html %}
 </body>
 </html>
 

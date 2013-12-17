@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="cs">
 <head>
-    {% include head.html %}
+    {% include html-head.html %}
     <title>{{ page.title }} | Boskovicko, regionální noviny</title>
 </head>
 <body>
     <div class="container obsah">
         <div class="row">
             <div class="col-xs-8">
-                {% include zahlavi.html %}
+                {% include masthead.html %}
                 {{ content }}
             </div>
             <div class="col-xs-4 sidebar">
-                {% include reklama.html %}
+                {% include ad-square.html %}
                 <a href="http://www.boskovicko.cz/akce.phtml">
                     <div class="box kalendar-akci">
                         <h2>Kalendář akcí</h2>
@@ -21,11 +21,11 @@
                         Blansku i okolí.</p>
                     </div>
                 </a>
-                {% include prehled-vydani.html %}
+                {% include issue-picker.html %}
             </div>
         </div>
     </div>
-    {% include paticka.html %}
+    {% include footer.html %}
 </body>
 </html>
 

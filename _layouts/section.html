@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="cs">
 <head>
-    {% include head.html %}
+    {% include html-head.html %}
     {% if page.grouptype == 'temata' %}
     <title>Články s tématem „{{ page.title }}“ | Boskovicko, regionální noviny</title>
     {% else %}
@@ -14,6 +14,6 @@
         {% assign paging_root = paging_prefix %}
         {% include pager.html %}
     </div>
-    {% include paticka.html %}
+    {% include footer.html %}
 </body>
 </html>
