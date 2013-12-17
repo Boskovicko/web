@@ -281,7 +281,7 @@ hr.medium {
     margin-top: 20px;
 }
 
-.phone {
+.phone, .zoomable {
     border-bottom: 1px dotted gray;
     cursor: pointer;
 }
