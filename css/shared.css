@@ -280,6 +280,11 @@ hr.medium {
     margin-top: 20px;
 }
 
+.telefon {
+    border-bottom: 1px dotted gray;
+    cursor: pointer;
+}
+
 a:hover {
     text-decoration: none;
     color: orange;
