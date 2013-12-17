@@ -2,7 +2,11 @@
 title: 'Sonda teen: Vánoční dárky'
 author: Ludmila Dobrozemská
 category: z regionu
-tags: Vánoce 48-2013
+tags:
+- Vánoce
+- ankety
+- sonda teen
+- 48-2013
 ---
 
 Už máš pro někoho vánoční dárky? Pořizuješ je většinou s předstihem, nebo to necháváš až na poslední chvíli?
