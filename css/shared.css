@@ -8,6 +8,11 @@
     src: url("/assets/Ladislav_SemiBold.woff");
 }
 
+@font-face {
+    font-family: "Einhorn";
+    src: url("/assets/Einhorn.ttf");
+}
+
 body {
     padding-top: 10px;
 }
@@ -15,36 +20,28 @@ body {
 /* Záhlaví */
 
 .zahlavi {
-    padding-top: 10px;
+    font-family: Einhorn;
+    padding-bottom: 15px;
 }
 
 .zahlavi h1 {
-    font-size: 350%;
-    margin: 0;
-}
-
-@media screen and (min-width: 1200px) {
-    .zahlavi h1 { font-size: 420%; }
-}
-
-.zahlavi small {
-    white-space: nowrap;
-    font-size: inherit;
-    padding-top: 10px;
-    color: silver;
-}
-
-h1 {
-    font-family: 'Ladislav Semibold', sans-serif;
+    font-family: inherit;
     text-transform: lowercase;
+    font-size: 550%;
+    line-height: 0.9em;
+    margin: 0;
+    margin-right: 10px;
+    display: inline;
+}
+
+.zahlavi .podtitul {
+    white-space: nowrap;
+    font-size: 140%;
+    color: silver;
 }
 
 a.domu {
     text-decoration: none;
-}
-
-a.domu small:before {
-    content: "✻ ";
 }
 
 /* Seznam rubrik */
