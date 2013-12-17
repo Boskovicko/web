@@ -19,12 +19,12 @@ body {
 
 /* Záhlaví */
 
-.zahlavi {
+.masthead {
     font-family: Einhorn;
     padding-bottom: 15px;
 }
 
-.zahlavi h1 {
+.masthead h1 {
     font-family: inherit;
     text-transform: lowercase;
     font-size: 550%;
@@ -34,40 +34,40 @@ body {
     display: inline;
 }
 
-.zahlavi .podtitul {
+.masthead .subtitle {
     white-space: nowrap;
     font-size: 140%;
     color: silver;
 }
 
-a.domu {
+a.home {
     text-decoration: none;
 }
 
 /* Seznam rubrik */
 
-.lista-zahlavi {
+.section-index {
     border-top: 6px solid silver;
     border-bottom: 2px solid silver;
     font-family: 'Ladislav Regular', sans-serif;
     font-size: 24px;
 }
 
-.seznam-rubrik {
+.section-index ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
-.seznam-rubrik li {
+.section-index li {
     float: left;
     margin: 0;
     padding: 0;
     position: relative;
 }
 
-.seznam-rubrik li.current:before,
-.seznam-rubrik li.current:after {
+.section-index li.current:before,
+.section-index li.current:after {
     position: absolute;
     left: 30%;
     content: "";
@@ -81,18 +81,18 @@ a.domu {
 }
 
 /* zobáček */
-.seznam-rubrik li.current:after {
+.section-index li.current:after {
     border-bottom-color: silver;
     bottom: 0;
 }
 
 /* maska zobáčku */
-.seznam-rubrik li.current:before {
+.section-index li.current:before {
     bottom: -3px;
     z-index: 1000;
 }
 
-.seznam-rubrik a {
+.section-index a {
     display: block;
     padding: 10px 15px 10px 0px;
     text-align: center;
@@ -107,70 +107,16 @@ a.domu {
     text-transform: uppercase;
 }
 
-.autor:before, .rubrika:before {
+.author:before, .section:before {
     content: "· ";
     color: silver;
 }
 
-.seznam-temat {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    font-size: 11px;
-}
-
-.seznam-temat li {
-	float:left;
-}
-
-.seznam-temat a {
-    position: relative;
-    display: block;
-    height: 24px;
-    line-height: 24px;
-    margin-left: 12px;
-    margin-right: 12px;
-    padding:0 10px 0 12px;
-    background: rgb(66, 139, 202);
-    color: #fff;
-    text-decoration: none;
-    border-bottom-right-radius: 4px;
-    border-top-right-radius: 4px;
-}
-
-.seznam-temat a:before {
-    content: "";
-    float: left;
-    position: absolute;
-    top: 0;
-    left: -12px;
-    width: 0;
-    height: 0;
-    border-color: transparent rgb(66, 139, 202) transparent transparent;
-    border-style: solid;
-    border-width: 12px 12px 12px 0;
-}
-
-.seznam-temat a:after {
-	content: "";
-	position: absolute;
-	top: 10px;
-	left: 0;
-	width: 4px;
-	height: 4px;
-	border-radius: 2px;
-	background: #fff;
-	box-shadow: inset 1px 1px 0px #ddd;
-}
-
-.seznam-temat a:hover { background: orange; color: white; }
-.seznam-temat a:hover:before { border-color: transparent orange transparent transparent; }
-
-.hlavni-clanek {
+.featured-article {
     margin-top: 20px;
 }
 
-.hlavni-clanek hr {
+.featured-article hr {
     margin-bottom: 0;
     margin-top: 0;
 }
@@ -197,61 +143,116 @@ a.domu {
     border-bottom: 2px solid white;
 }
 
-.reklama-ctverec {
+.ad-square {
     border-top: 1px solid #ddd;
     border-bottom: 3px solid white;
     margin-bottom: 5px;
 }
 
-.starsi-vydani select {
+.issue-picker {
     margin-bottom: 12px;
     margin-left: -2px;
 }
 
-.kalendar-akci p {
+.event-calendar p {
     color: black;
 }
 
 /* Stránkování */
 
-.strankovani {
+.pager {
     border-top: 2px solid silver;
     padding-top: 20px;
     margin-top: 20px;
+    margin-bottom: 0;
     font-family: 'Ladislav Regular', sans-serif;
     font-size: 24px;
     text-transform: lowercase;
     text-align: center;
 }
 
-.strankovani .hvezda {
+.pager .divider {
     font-size: 80%;
     color: gray;
     padding: 3px;
 }
 
-.strankovani a.disabled {
+.pager a.disabled {
     color: silver;
     cursor: default;
 }
 
 /* Článek */
 
-.clanek-telo {
+.article-container {
     padding-bottom: 40px;
 }
 
-.clanek-telo h2 {
+.article-container h2 {
     font-size: 250%;
 }
 
+.tag-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 11px;
+}
+
+.tag-list li {
+	float:left;
+}
+
+.tag-list a {
+    position: relative;
+    display: block;
+    height: 24px;
+    line-height: 24px;
+    margin-left: 12px;
+    margin-right: 12px;
+    padding:0 10px 0 12px;
+    background: rgb(66, 139, 202);
+    color: #fff;
+    text-decoration: none;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+.tag-list a:before {
+    content: "";
+    float: left;
+    position: absolute;
+    top: 0;
+    left: -12px;
+    width: 0;
+    height: 0;
+    border-color: transparent rgb(66, 139, 202) transparent transparent;
+    border-style: solid;
+    border-width: 12px 12px 12px 0;
+}
+
+.tag-list a:after {
+	content: "";
+	position: absolute;
+	top: 10px;
+	left: 0;
+	width: 4px;
+	height: 4px;
+	border-radius: 2px;
+	background: #fff;
+	box-shadow: inset 1px 1px 0px #ddd;
+}
+
+.tag-list a:hover { background: orange; color: white; }
+.tag-list a:hover:before { border-color: transparent orange transparent transparent; }
+
 /* Inzerce */
 
-.inzerce .thumbnail {
+.advertising .thumbnail {
     padding-top: 15px;
 }
 
-.inzerce .caption {
+.advertising .caption {
     width: 190px;
     margin: auto;
     padding: 0;
@@ -259,7 +260,7 @@ a.domu {
 
 /* Patička */
 
-.paticka {
+.footer {
     border-top: 6px solid silver;
     padding-bottom: 40px;
     margin-top: 20px;
@@ -276,11 +277,11 @@ hr.medium {
     margin-top: 20px;
 }
 
-.obsah {
+.main-container {
     margin-top: 20px;
 }
 
-.telefon {
+.phone {
     border-bottom: 1px dotted gray;
     cursor: pointer;
 }
@@ -293,4 +294,3 @@ a:hover {
 h2, h3 {
     font-family: 'Ladislav Regular', sans-serif;
 }
-

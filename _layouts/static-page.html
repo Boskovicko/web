@@ -5,7 +5,7 @@
     <title>{{ page.title }} | Boskovicko, regionální noviny</title>
 </head>
 <body>
-    <div class="container obsah">
+    <div class="container main-container">
         <div class="row">
             <div class="col-xs-8">
                 {% include masthead.html %}
@@ -13,14 +13,7 @@
             </div>
             <div class="col-xs-4 sidebar">
                 {% include ad-square.html %}
-                <a href="http://www.boskovicko.cz/akce.phtml">
-                    <div class="box kalendar-akci">
-                        <h2>Kalendář akcí</h2>
-                        <p>Pravidelně aktualizovaný přehled koncertů, divadelních
-                        představení, výstav, plesů, zábav a dalších akcí v Boskovicích,
-                        Blansku i okolí.</p>
-                    </div>
-                </a>
+                {% include event-calendar.html %}
                 {% include issue-picker.html %}
             </div>
         </div>

@@ -1,6 +1,6 @@
-<div class='box starsi-vydani'>
+<div class="box">
     <h2>Papírová vydání</h2>
-    <select class="form-control prehled-vydani">
+    <select class="form-control issue-picker">
         <option value="">vyberte si vydání:</option>
         {% for vydani in site.data.vydani %}
         <option value="{{ vydani.cislo | replace: '/', '-' }}">{{ vydani.cislo }}  {{ vydani.datum }}</option>
@@ -8,15 +8,15 @@
     </select>
     <script>
         $(document).ready(function() {
-            $('.prehled-vydani option').each(function() {
+            $('.issue-picker option').each(function() {
                 var issue = $(this).attr('value');
                 var url_pattern = '/temata/' + issue;
                 var index = window.location.href.indexOf(url_pattern);
                 if (index != -1) {
-                    $('.prehled-vydani').val(issue);
+                    $('.issue-picker').val(issue);
                 }
             });
-            $('.prehled-vydani').change(function() {
+            $('.issue-picker').change(function() {
                 var issue = $(this).val();
                 if (issue) {
                     window.location = '/temata/' + $(this).val() + '/';

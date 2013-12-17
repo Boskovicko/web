@@ -8,7 +8,7 @@
     <div class="col-xs-8">
         {% include masthead.html %}
         {% if featured_post %}
-            <div class="hlavni-clanek">
+            <div class="featured-article">
             {% assign post = featured_post %}
             {% include article-preview.html photo=true %}
             <hr>
@@ -31,33 +31,26 @@
             </div>
         </div>
         {% if paginator.total_pages > 1 %}
-            <div class="strankovani">
+            <div class="pager">
                 {% if paginator.next_page %}
-                    <a href="{{ paging_prefix }}/strana/{{ paginator.next_page }}" class="starsi-clanky">Starší články</a>
+                    <a href="{{ paging_prefix }}/strana/{{ paginator.next_page }}">Starší články</a>
                 {% else %}
-                    <a href="" class="disabled starsi-clanky">Starší články</a>
+                    <a href="" class="disabled">Starší články</a>
                 {% endif %}
-                <span class="hvezda"><span class="glyphicon glyphicon-time"></span></span>
+                <span class="divider"><span class="glyphicon glyphicon-time"></span></span>
                 {% if paginator.previous_page == 1 %}
-                    <a href="{{ paging_root }}/" class="novejsi-clanky">Novější články</a>
+                    <a href="{{ paging_root }}/">Novější články</a>
                 {% elsif paginator.previous_page %}
-                    <a href="{{ paging_prefix }}/strana/{{ paginator.previous_page }}" class="novejsi-clanky">Novější články</a>
+                    <a href="{{ paging_prefix }}/strana/{{ paginator.previous_page }}">Novější články</a>
                 {% else %}
-                    <a href="" class="disabled novejsi-clanky">Novější články</a>
+                    <a href="" class="disabled">Novější články</a>
                 {% endif %}
             </div>
         {% endif %}
     </div>
     <div class="col-xs-4 sidebar">
         {% include ad-square.html %}
-        <a href="http://stare.boskovicko.cz/akce.phtml">
-            <div class="box kalendar-akci">
-                <h2>Kalendář akcí</h2>
-                <p>Pravidelně aktualizovaný přehled koncertů, divadelních
-                představení, výstav, plesů, zábav a dalších akcí v Boskovicích,
-                Blansku i okolí.</p>
-            </div>
-        </a>
+        {% include event-calendar.html %}
         {% include issue-picker.html %}
     </div>
 </div>

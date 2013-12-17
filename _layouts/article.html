@@ -6,9 +6,9 @@
 </head>
 <body>
     <script src="/js/balanced-sidebar.js"></script>
-    <div class="container obsah">
+    <div class="container main-container">
         <div class="row">
-            <div class="col-xs-8 clanek-telo">
+            <div class="col-xs-8 article-container">
                 {% include masthead.html %}
                 <h2>{{ page.title }}</h2>
                 {% assign post = page %}
@@ -16,7 +16,7 @@
                 {{ content }}
                 {% if page.tags.size > 0 %}
                 <hr class="medium">
-                <ul class="seznam-temat">
+                <ul class="tag-list">
                     {% for tag in page.tags %}
                     <li><a href="/temata/{{ tag | url_encode }}/">{{ tag }}</a></li>
                     {% endfor %}
@@ -36,4 +36,3 @@
     {% include footer.html %}
 </body>
 </html>
-

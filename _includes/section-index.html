@@ -1,5 +1,5 @@
-<div class="lista-zahlavi">
-    <ul class="seznam-rubrik clearfix">
+<div class="section-index">
+    <ul class="clearfix">
         {% for rubrika in site.data.rubriky %}
             {% capture target_url %}/rubriky/{{ rubrika | url_encode }}/{% endcapture %}
             {% assign current_url = page.url | replace: 'index.html', '' %}
