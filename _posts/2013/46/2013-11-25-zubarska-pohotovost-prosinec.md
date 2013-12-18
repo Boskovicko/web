@@ -88,4 +88,16 @@ Služba je sloužena od 8.00 do 13.00. Mimo níže uvedené termíny je služba 
 		<td>Boskovice, Lidická 8</td>
 		<td>516 453 998</td>
 	</tr>
+	<tr>
+		<td>4. 1.</td>
+		<td>MUDr. Bočková</td>
+		<td>Kunštát, nám. ČSČK 38</td>
+		<td>516 462 203</td>
+	</tr>
+	<tr>
+		<td>5. 1.</td>
+		<td>MUDr. Fenyk</td>
+		<td>Letovice, Tyršova 15</td>
+		<td>516 474 310</td>
+	</tr>
 </table>
