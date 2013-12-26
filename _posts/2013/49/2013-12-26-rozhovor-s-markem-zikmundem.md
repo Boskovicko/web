@@ -1,7 +1,6 @@
 ---
 title: „Lidi přitahují Vánoce i proto, že Bůh k nám přišel v podobě bezbranného dítěte,“ říká farář Marek Zikmund
 author: Tomáš Trumpeš
-published: false
 category: z regionu
 photo: http://i.imgur.com/xYWFVJb.jpg
 tags:

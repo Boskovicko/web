@@ -1,7 +1,6 @@
 ---
 title: Tříkrálová sbírka začne na Nový rok
 author: M. Krajíčková
-published: false
 category: z regionu
 tags:
 - okres Blansko

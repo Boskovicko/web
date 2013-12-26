@@ -1,7 +1,6 @@
 ---
 title: Kulturní anketa 2013
 author: Tomáš Trumpeš
-published: false
 category: kultura
 tags: Boskovicko ankety 49-2013
 ---
