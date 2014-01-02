@@ -1,7 +1,6 @@
 ---
 title: Krajský stolní tenis je za první polovinou
 author: Lubomír Slezák
-published: false
 category: sport
 tags:
 - okres Blansko

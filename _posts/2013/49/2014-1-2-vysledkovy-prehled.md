@@ -2,7 +2,6 @@
 title: Výsledkový přehled
 author: Lubomír Slezák
 excerpt: Pravidelný přehled sportovních výsledků, tentokrát ze stolního tenisu.
-published: false
 category: sport
 tags:
 - okres Blansko

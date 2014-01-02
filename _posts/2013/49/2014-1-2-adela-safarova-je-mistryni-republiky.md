@@ -1,7 +1,6 @@
 ---
 title: Adéla Šafářová je mistryní republiky
 author: Lubomír Slezák
-published: false
 category: sport
 tags: Slaný cyklistika 49-2013
 ---

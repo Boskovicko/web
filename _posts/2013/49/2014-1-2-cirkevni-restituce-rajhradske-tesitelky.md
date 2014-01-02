@@ -1,7 +1,6 @@
 ---
 title: 'Církevní restituce: Rajhradským Těšitelkám se pravděpodobně navrátí bývalé kunštátské panství'
 author: Tomáš Trumpeš
-published: false
 category: přečtěte si
 tags:
 - Boskovicko
