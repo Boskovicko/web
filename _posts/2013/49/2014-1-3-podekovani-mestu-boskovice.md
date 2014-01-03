@@ -1,7 +1,6 @@
 ---
 title: Poděkování městu Boskovice
 author: Daniela Müllerová
-published: false
 category: napsali nám
 tags: Boskovice nemocnice 49-2013
 ---
