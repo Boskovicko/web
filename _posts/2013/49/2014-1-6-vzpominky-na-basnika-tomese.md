@@ -1,7 +1,6 @@
 ---
 title: Letos se vzpomínalo na básníka a kunsthistorika Jana M. Tomeše
 author: Tomáš Trumpeš
-published: false
 category: z regionu
 tags:
 - Boskovicko
