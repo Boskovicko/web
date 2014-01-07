@@ -1,5 +1,5 @@
 ---
-title: Letos se vzpomínalo na básníka a kunsthistorika Jana M. Tomeše
+title: V roce 2013 se vzpomínalo na básníka a kunsthistorika Jana M. Tomeše
 author: Tomáš Trumpeš
 category: z regionu
 tags:
@@ -8,9 +8,9 @@ tags:
 - 49-2013
 ---
 
-K výrazným událostem roku 2013 patřilo i vzpomínání na básníka a kunsthistorika Jana M. Tomeše, který patřil k nejvýznamnějším osobnostem české kultury 20. století, jež byly spjaty s Kunštátem a vůbec naším regionem. Letos uplynulo 100 let od jeho narození.
+K výrazným událostem roku 2013 patřilo i vzpomínání na básníka a kunsthistorika Jana M. Tomeše, který patřil k nejvýznamnějším osobnostem české kultury 20. století, jež byly spjaty s Kunštátem a vůbec naším regionem. V roce 2013 uplynulo 100 let od jeho narození.
 
-Pro svou příslovečnou skromnost stál Jan M. Tomeš vždy tak trochu stranou, o to cennější je, že nezůstal zapomenut a jeho mimořádně obsáhlé a kvalitní dílo a úctyhodnou osobnost připomněla skvěle připravená výstava v Muzeu Boskovicka. Doprovozena byla navíc vydáním neméně kvalitního katalogu, dále programem letošního Halasova Kunštátu a kupříkladu také na vlnách Českého rozhlasu 3 Vltava – vynikajícím dvouhodinovým pořadem, který připravil básník Miloš Doležal společně s kunštátským výtvarníkem Vítem Ondráčkem. K osobnosti Jana M. Tomeše se vracíme básní, kterou napsal v roce 1941 v Kunštátě a která se vztahuje k vilce, do které se básník po celý svůj dlouhý život navracel.
+Pro svou příslovečnou skromnost stál Jan M. Tomeš vždy tak trochu stranou, o to cennější je, že nezůstal zapomenut a jeho mimořádně obsáhlé a kvalitní dílo a úctyhodnou osobnost připomněla skvěle připravená výstava v Muzeu Boskovicka. Doprovozena byla navíc vydáním neméně kvalitního katalogu, dále programem letošního Halasova Kunštátu a kupříkladu také na vlnách Českého rozhlasu 3 Vltava – vynikajícím dvouhodinovým pořadem, který připravil básník Miloš Doležal společně s kunštátským výtvarníkem Vítem Ondráčkem. K osobnosti Jana M. Tomeše se vracíme básní, kterou napsal v roce 1941 v Kunštátě a která se vztahuje k vilce, do které se básník po celý svůj dlouhý život navracel.
 
 Jan Marius Tomeš:  
 Návrat ztraceného syna  
