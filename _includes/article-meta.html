@@ -1,5 +1,5 @@
 <p class="meta">
-    <span>{{ post.date | date: "%-d. %m. %Y" }}</span>
+    <span>{{ post.date | date: "%-d. %-m. %Y" }}</span>
     {% if post.author %}
         {% assign author_info = site.data.autori[post.author] %}
         {% if author_info.mail %}
