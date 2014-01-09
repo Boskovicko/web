@@ -2,6 +2,7 @@
 title: Na gymnáziu vznikla vynikající inscenace Seifertovy Písně o Viktorce
 author: Tomáš Trumpeš
 category: kultura
+photo: http://i.imgur.com/6Ut5aPC.jpg
 tags: Boskovice divadlo gymnázium 2-2014
 ---
 
