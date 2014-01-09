@@ -1,14 +1,27 @@
 #!/usr/bin/env perl
 
-use lib "./lib";
-use Sane::Perl;
+use strict;
+use warnings;
+use utf8::all;
 use List::Util qw/any none/;
-use Text 'regex_find_all';
 use File::Basename 'basename';
-use Jekyll;
+use Jekyll::Site;
 
-my $root = shift @ARGV || '../_posts';
-my $jekyll = Jekyll->new(root => $root);
+sub regex_find_all
+{
+    my $regex = shift;
+    my $string = shift;
+    my $matches = [];
+    my $line_no = 1;
+    for my $line (split /\n/, $string) {
+        while ($line =~ /$regex/g) {
+            push $matches, [$line_no, $-[0]+1];
+        }
+        $line_no++;
+    }
+    return $matches;
+}
+
 my @rules = (
     {
         condition => sub { length(shift->head->author) <= 3 },
@@ -44,15 +57,18 @@ my @rules = (
     }
 );
 
-for my $article ($jekyll->all_articles) {
-    next unless $article->head->published;
+my $root = shift @ARGV || '_posts';
+my $site = Jekyll::Site->new(root => $root);
+
+for my $post ($site->all_posts) {
+    next unless $post->head->published;
     for my $rule (@rules) {
-        next unless $rule->{condition}->($article);
+        next unless $rule->{condition}->($post);
         my $occurences = $rule->{regex} ?
-            regex_find_all($rule->{regex}, $article->source) :
+            regex_find_all($rule->{regex}, $post->source) :
             [[0, 0]];
         for my $loc (@$occurences) {
-            printf "%s:%i:%i:%s\n", $article->path, $loc->[0], $loc->[1], $rule->{message};
+            printf "%s:%i:%i:%s\n", $post->path, $loc->[0], $loc->[1], $rule->{message};
         }
     }
 }

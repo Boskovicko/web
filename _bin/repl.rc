@@ -1,6 +1,8 @@
-use lib "./lib";
-use Sane::Perl;
-use Jekyll;
+use strict;
+use warnings;
+use utf8::all;
+use v5.10;
+use Jekyll::Site;
 
 {
     # http://stackoverflow.com/questions/20200865
@@ -11,4 +13,4 @@ use Jekyll;
     }
 }
 
-my $j = Jekyll->new(root => '../_posts');
+my $site = Jekyll::Site->new(root => '_posts');
