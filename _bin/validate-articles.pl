@@ -28,7 +28,7 @@ my @rules = (
         message => "Krátké jméno autora, není to jen značka?",
         regex => qr/^author:/
     }, {
-        condition => sub { none { $_ =~ /\d{2}-20\d{2}/ } @{shift->head->tags} },
+        condition => sub { none { $_ =~ /\d{1,2}-20\d{2}/ } @{shift->head->tags} },
         message => "Nechybí tag pro tiskové vydání?",
         regex => qr/^tags:/
     }, {
