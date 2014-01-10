@@ -7,7 +7,7 @@ tags:
 - ankety
 - Vánoce
 - charita
-- 2-2014
+- 1-2014
 ---
 
 Vánoce a přelom roku jsou obdobím solidarity s potřebnými. Zúčastnil(a) ses nějaké dobročinné sbírky nebo aktivity?

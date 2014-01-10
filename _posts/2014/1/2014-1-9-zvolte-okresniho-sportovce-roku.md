@@ -2,7 +2,7 @@
 title: Zvolte okresního sportovce roku
 author: Lubomír Slezák
 category: sport
-tags: Boskovice Blansko 2-2014
+tags: Boskovice Blansko 1-2014
 ---
 
 Na základě jednání s okresním výkonným výborem České unie sportu připravují společně redakce regionálních novin Boskovicko, Týden u nás a Zrcadlo Blanenska a Boskovicka vyhlášení nejlepších z oblasti sportu za rok 2013.

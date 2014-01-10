@@ -5,7 +5,7 @@ category: sport
 tags:
 - okres Blansko
 - běh
-- 2-2014
+- 1-2014
 ---
 
 Okresní běžecká liga skončila v Petrovicích Hraběnčiným běháním a vítězství v celoroční soutěži si rozdělili Vojtěch Grün a Tomáš Večeřa. Po sečtení čtrnácti nejlepších výsledků mají oba borci úplně stejně bodů. „Mně vyšlo jaro a Tomovi zase podzim,“ okomentoval neuvěřitelnou náhodu Grün.

@@ -4,7 +4,7 @@ author: Petr Meluzín
 category: informace
 tags:
 - okres Blansko
-- 2-2014
+- 1-2014
 ---
 
 Letošní Silvestr probíhal z pohledu bezpečnostních a záchranných složek podobně jako v minulých letech. Většina řešených případů souvisela se zvýšenou konzumací alkoholu.

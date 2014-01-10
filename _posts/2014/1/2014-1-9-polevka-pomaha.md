@@ -2,7 +2,7 @@
 title: Když polévka pomáhá
 author: Andrea Šrámková
 category: z regionu
-tags: Boskovicko charita 2-2014
+tags: Boskovicko charita 1-2014
 ---
 
 V Boskovicích na náměstí zavoněla čočková, v Letovicích hrstková, ve Lhotě Rapotině bramboračka, v Knínicích zelná… Polévka se rozdávala také v Kunštátě, ale zde spíš jako doprovodná aktivita – cílem setkání se zde jako každoročně stal živý betlém. Ale právě setkání se ve svátečním čase spojené se solidaritou vůči potřebným čím dál pevněji zakořeňuje mezi zvyky doprovázejícími přelom letopočtu na Boskovicku.

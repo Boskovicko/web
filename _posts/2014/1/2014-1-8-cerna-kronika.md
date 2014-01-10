@@ -5,7 +5,7 @@ category: informace
 excerpt: Výběr ze zásahů policie na přelomu roku.
 tags:
 - okres Blansko
-- 2-2014
+- 1-2014
 ---
 
 ### Sebranice

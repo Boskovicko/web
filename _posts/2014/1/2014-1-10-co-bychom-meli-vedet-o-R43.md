@@ -2,7 +2,7 @@
 title: Co bychom měli vědět o rychlostní silnici R 43
 author: Hana Přibylová
 category: napsali nám
-tags: R43 2-2014
+tags: R43 1-2014
 ---
 
 Vstupem ČR do Evropské unie roku 2004 byla rychlostní silnice R 43 výhledově zahrnuta jako významná dopravní příčka v severojižním směru do sítě TEN-T (transevropská dopravní síť).

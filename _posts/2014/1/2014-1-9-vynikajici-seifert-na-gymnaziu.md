@@ -3,7 +3,7 @@ title: Na gymnáziu vznikla vynikající inscenace Seifertovy Písně o Viktorce
 author: Tomáš Trumpeš
 category: kultura
 photo: http://i.imgur.com/6Ut5aPC.jpg
-tags: Boskovice divadlo gymnázium 2-2014
+tags: Boskovice divadlo gymnázium 1-2014
 ---
 
 Nové divadelní představení připravila se studenty na boskovickém gymnáziu pedagožka a režisérka Věra Prosová. Základem představení se stala rozsáhlá báseň Jaroslava Seiferta Píseň o Viktorce. Volba tohoto textu se ukázala jako více než šťastná a výsledkem je výjimečně zdařilá inscenace, která nejenže odráží režisérské kvality Věry Prosové a dává vyniknout všem účinkujícím studentům, ale především citlivě a pokorně sděluje Seifertův text, ve kterém básník spojil nešťastné osudy Viktorky a spisovatelky Boženy Němcové.

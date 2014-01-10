@@ -2,7 +2,7 @@
 title: Předvánoční volejbal v Benešově
 author: Regina Rusová
 category: sport
-tags: Benešov volejbal 2-2014
+tags: Benešov volejbal 1-2014
 ---
 
 V Předvánočním turnaji deblů, který organizoval 14. prosince volejbalový oddíl TJ Sokol Benešov, bojovalo téměř sedm hodin osm dvojic o Benešovský putovní pohár.

@@ -2,7 +2,7 @@
 title: Kraj chce pokročit v územním plánování
 author: Petra Bílá
 category: z regionu
-tags: Boskovicko doprava R43 2-2014
+tags: Boskovicko doprava R43 1-2014
 ---
 
 Úředníky Jihomoravského kraje čeká v příštím roce nelehký úkol. Poté, co vyberou projektanta, chtějí v první až třetí čtvrtině roku zpracovat nové Zásady územního rozvoje Jihomoravského kraje. Ty pak nechají dále posoudit a zhodnotit podle stavebního zákona a stanovených právních předpisů.

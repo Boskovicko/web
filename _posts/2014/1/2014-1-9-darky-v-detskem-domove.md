@@ -2,7 +2,7 @@
 title: Dárky přenesly radost i v dětském domově
 author: Jarmila Štůlová
 category: napsali nám
-tags: Boskovice charita 2-2014
+tags: Boskovice charita 1-2014
 ---
 
 Vážení a milí, známí i neznámí příznivci a přátelé dětí Dětského domova v Boskovicích. Děkuji vám za projevenou sounáležitost, jež o sobě dala vědět v plné síle v předvánoční době. Dárky od vás splnily svoje poslání a udělaly dětem velkou radost.

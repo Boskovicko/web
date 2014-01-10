@@ -2,7 +2,7 @@
 title: Pro dny všední…
 author: Andrea Šrámková
 category: napsali nám
-tags: 2-2014
+tags: 1-2014
 ---
 
 Cukroví snědeno, víno vypito, návštěvy odešly… Sváteční dny jsou za námi a my jsme bohatší nejen o dárky pod vánočním stromkem, ale především o čas strávený s rodinou a vůbec s lidmi, které máme rádi.

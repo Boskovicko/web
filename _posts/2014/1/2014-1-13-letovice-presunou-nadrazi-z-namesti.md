@@ -2,7 +2,7 @@
 title: Letovičtí radní připravují přesun autobusového nádraží z náměstí
 author: Marek Osouch
 category: z regionu
-tags: Letovice doprava 2-2014
+tags: Letovice doprava 1-2014
 ---
 
 Letovická radnice se stále snaží vyřešit nevyhovující stav, kdy autobusy mají své stanoviště na náměstí. Tuto komplikaci navíc ještě zvyšuje stav u železniční stanice, kde lidé parkují auta po krajích silnice a projíždějící autobusy si jen velmi těžko a složitě vyhýbají. Radnice tak jedná s majiteli pozemků u železnice, kde by mohlo v budoucnu nádraží vzniknout.

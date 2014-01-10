@@ -2,7 +2,7 @@
 title: Zahrádkáři zvou na cyklus odborných přednášek
 author: Andrea Šrámková
 category: napsali nám
-tags: Boskovice 2-2014
+tags: Boskovice 1-2014
 ---
 
 Od poloviny ledna mohou všichni, kdo mají zájem rozšířit své znalosti související se zahradou a zahradničením, navštívit některou ze čtyř přednášek připravených boskovickou organizací Českého zahrádkářského svazu. Konat se budou převážně ve středu od 18.00 v sále S3 Sokolovny v Boskovicích (vchod dvorem). Výjimkou je únorová přednáška, která proběhne přímo v Zahradnictví Lebiš v Boskovicích, a to už od 16 hodin.

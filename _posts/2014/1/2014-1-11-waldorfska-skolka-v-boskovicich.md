@@ -5,7 +5,7 @@ category: z regionu
 tags:
 - Boskovice
 - mateřské školy
-- 2-2014
+- 1-2014
 ---
 
 Zhruba rok získává podobu myšlenka založit v Boskovicích waldorfskou školku. Iniciátory jsou sami rodiče dětí, které ji od září 2014 začnou navštěvovat. V současné době probíhají jednání o prostorách, v nichž by měla působit. První informativní besedu – tentokrát ještě v užším kruhu – přinesl prosinec, od ledna však začnou veřejnosti přístupná setkání pro rodiče, kteří zvažují alternativní přístup ke vzdělávání svých ratolestí. Počítá se také s pořádáním tvořivých dílen pro děti, které budou sloužit i jako ukázky způsobu práce ve waldorfských školkách, a výhledově přibudou webové stránky.

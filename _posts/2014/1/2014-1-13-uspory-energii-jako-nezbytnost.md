@@ -5,7 +5,7 @@ category: přečtěte si
 tags:
 - ekologie
 - K sobě navzájem
-- 2-2014
+- 1-2014
 ---
 
 Je tady doba, kdy se snažíme šetřit ve všech sférách. Náklady za energii, od které se vše odvíjí, stále rostou. Podle odborného servu [tzbinfo](http://www.tzb-info.cz) vzrostla cena elektřiny u běžné české domácnosti za posledních deset let téměř dva a půl krát – o 236 procent. Není divu, že zateplujeme domy, kupujeme šetrné elektrické spotřebiče. Někteří si pořizují obnovitelné zdroje energie nebo solární panely na ohřev vody. Jiní znovu objevují spalování dřeva nebo uhlí.

@@ -2,7 +2,7 @@
 title: Lékaři v nemocnici nesouhlasí se snížením mzdy
 author: Andrea Šrámková
 category: z regionu
-tags: Boskovice nemocnice 2-2014
+tags: Boskovice nemocnice 1-2014
 ---
 
 Nejistota a nespokojenost. Tak lze hodnotit situaci v boskovické nemocnici. I přes řadu úsporných opatření, ke kterým její vedení přistoupilo za posledního půl roku a kterými se podařilo snížit náklady na správu nemocnice o 10,6 procenta, končí letos toto zdravotnické zařízení s předpokládaným hospodářským výsledkem mínus dvacet milionů. Na vině je údajně nešťastně nastavená úhradová vyhláška. Dalším z mnoha kroků vedoucích k omezení výdajů nemocnice má být snížení mzdových nákladů.

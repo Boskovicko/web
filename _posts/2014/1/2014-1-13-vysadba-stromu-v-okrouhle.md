@@ -2,7 +2,7 @@
 title: V Okrouhlé vysadili krajové odrůdy ovocných stromů
 author: Pavel Chlup
 category: napsali nám
-tags: Okrouhlá 2-2014
+tags: Okrouhlá 1-2014
 ---
 
 V posledním listopadovém týdnu v Okrouhlé vysadili ovocné stromky, z nichž můžeme jmenovat jabloně – Panenské červené, Antonovka, Kardinál žíhaný, Signe Tillish, z hrušní – Salisburyho, Jačmenka, Muškatelka a Špinka. Jedná se o staré a odolné odrůdy, které jsme zakoupili u šlechtitele Stanislava Bočka, jenž se jejich pěstování a propagaci intenzivně věnuje. Svědčí o tom jeho následující vyznání:
