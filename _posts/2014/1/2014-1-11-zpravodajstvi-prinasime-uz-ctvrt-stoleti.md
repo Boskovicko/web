@@ -2,7 +2,11 @@
 title: Zpravodajství z regionu přinášíme svým čtenářům už čtvrt století
 author: Tomáš Trumpeš, Andrea Šrámková
 category: přečtěte si
-tags: Boskovice rozhovor 1-2014
+tags:
+- Boskovice
+- rozhovor
+- 25 let Boskovicka
+- 1-2014
 ---
 
 Kolik rozhovorů pro noviny dělala, už dnes asi nikdo nespočítá. Ten dnešní se však od předcházejících liší. Jitka Melkusová, vydavatelka a do loňského roku šéfredaktorka regionálních novin Boskovicko, totiž tentokrát není tou, kdo klade otázky. Noviny právě vstupují do jubilejního roku, oslaví 25. výročí, a to je příležitost k ohlédnutí za uplynulými roky, za úspěchy i úskalími, které s sebou přinesly.
