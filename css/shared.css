@@ -158,6 +158,14 @@ a.home {
     color: black;
 }
 
+.top-articles a {
+    text-transform: uppercase;
+}
+
+.top-articles li {
+    margin-bottom: 2px;
+}
+
 /* Stránkování */
 
 .pager {
