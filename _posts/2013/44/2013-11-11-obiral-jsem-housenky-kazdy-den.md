@@ -5,7 +5,7 @@ category: publicistika
 tags:
 - Boskovice
 - historie
-- jak se žilo
+- Jak se žilo
 - 44-2013
 ---
 

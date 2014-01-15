@@ -4,7 +4,7 @@ author: Miroslava Boháčková
 category: publicistika
 tags:
 - Boskovice
-- jak se žilo
+- Jak se žilo
 - historie
 - 46-2013
 ---
