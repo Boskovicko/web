@@ -17,6 +17,6 @@ Kdybychom věděli, jak účinně řešit otázku hazardu, byla by tato diskuse 
 
 Tento samotný fakt je otevřeným tématem pro multidisciplinární diskusi. Mám za to, že komplexní přístup je jediným možným relativně funkčním řešením. Od prevence prostřednictvím volnočasových aktivit pro teenagery, přes terénní práci s klienty heren až po terapeutickou práci se závislými hráči, kteří se rozhodli pro změnu.
 
-### Jiří Vorlický, kouč osobního rozvoje, specializace na sport 
+### Jiří Vorlický, kouč osobního rozvoje, specializace na sport
 
 Pod hazardem si můžeme představit celou řadu pojmů, současný hazard v podobě automatů slouží ke zneužívání jednotlivců a jejich rodinných příslušníků i přátel pro potřeby mocných skupin majících osobní profit z dlouhodobého návyku směřujícímu k životní prohře lidí, kteří se nějakým přičiněním dostali k těmto strojům. Takový hazard by měl být zakázán! Hazard ve sportovních i jiných společenských hrách, jako je horolezectví, člověče nezlob se a další, respektuji a jsem pro ponechání :-)

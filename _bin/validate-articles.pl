@@ -54,6 +54,10 @@ my @rules = (
         condition => sub { shift->body =~ /\.{3}/ },
         message => "Trojtečka (...) místo výpustku (…).",
         regex => qr/\.{3}/
+    }, {
+        condition => sub { shift->body =~ /m2/ },
+        message => "Myšleno metr čtvereční? Pišme m².",
+        regex => qr/m2/
     }
 );
 

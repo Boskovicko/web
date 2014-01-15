@@ -11,8 +11,8 @@ Abychom mohli i v dalším programovém období finančně podpořit rozvoj úze
 
 Vaše názory a podněty jsou pro nás velice důležité. Zveme proto všechny aktivní lidi, podnikatele, zemědělce, zástupce spolků na kulaté stoly; všechny se odehrají na obecních úřadech:
 
-* Olešnicko 25.11. v 16.00 Olešnice 
-* Kunštátsko-Lysicko 27.11. v 17.00 Lysice, 28.11. v 17.00 Kunštát 
-* Lomnicko 2.12. v 16.30 Lomnice 
-* Svitava 3.12. v 17.00 Svitávka 
+* Olešnicko 25.11. v 16.00 Olešnice
+* Kunštátsko-Lysicko 27.11. v 17.00 Lysice, 28.11. v 17.00 Kunštát
+* Lomnicko 2.12. v 16.30 Lomnice
+* Svitava 3.12. v 17.00 Svitávka
 * Boskovicko 4. 12. v 16.00 Boskovice

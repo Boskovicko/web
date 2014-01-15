@@ -5,7 +5,7 @@ category: zprávy
 tags: Blansko 47-2013
 ---
 
-Porušením autorských práv se provinil muž z Adamova ve věku 37 let, který přinejmenším od roku 2011 kopíroval různé filmy a hudební nahrávky a umožňoval na internetu jejich další šíření. 
+Porušením autorských práv se provinil muž z Adamova ve věku 37 let, který přinejmenším od roku 2011 kopíroval různé filmy a hudební nahrávky a umožňoval na internetu jejich další šíření.
 
 Na jeho činnost upozornila Česká protipirátská unie, poté policie provedla domovní prohlídku. Na základě zajištěných důkazů v podobě stolního počítače, dvou notebooků a další elektrotechniky mu prokázala 380 případů, kdy došlo k porušení autorských práv. Škoda ušlého zisku autorům vyčíslená z prodejní ceny nosiče s nahrávkou, počtu nahrání a stažení každého díla dosáhla téměř 28 milionů korun. Sám ze zprostředkování nahrávek žádný finanční prospěch neměl. Rozmnožená videa a hudbu nahrával pod různými účty zaregistrovanými pod přezdívkou Icathan.
 

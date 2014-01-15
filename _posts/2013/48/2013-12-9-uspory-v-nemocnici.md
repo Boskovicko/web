@@ -9,7 +9,7 @@ V září letošního roku udělal jednatel Nemocnice Boskovice Dan Navrátil dv
 
 **Dá se v posledním měsíci roku očekávat, že by se potvrdil odhad o stavu hospodaření, tedy, že se nemocnice ke konci roku dostane do mínusu dvaceti milionů korun?**
 
-V současné době počítáme, že hospodářský výsledek i se započtením vratek zdravotním pojišťovnám za rok 2012 se podaří udržet kolem uvedené částky. Je to díky práci managementu na všech úrovních a všem zaměstnancům, protože kdybychom opravdu nezabrali, byla by tato ztráta ještě o dost vyšší. 
+V současné době počítáme, že hospodářský výsledek i se započtením vratek zdravotním pojišťovnám za rok 2012 se podaří udržet kolem uvedené částky. Je to díky práci managementu na všech úrovních a všem zaměstnancům, protože kdybychom opravdu nezabrali, byla by tato ztráta ještě o dost vyšší.
 
 **Avizoval jste, že změna na postu ekonomického náměstka nebude jediná, že se připravuje celá řada kroků, které by měly směřovat k optimalizace hospodaření nemocnice.**
 

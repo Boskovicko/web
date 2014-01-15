@@ -9,7 +9,7 @@ tags:
 - 45-2013
 ---
 
-Pro žáky devátých tříd připravují střední školy a odborná učiliště dny otevřených dveří a burzy středních škol. Využil(a) jsi tuto možnost? Pomohlo ti to při rozhodování o dalším studiu? 
+Pro žáky devátých tříd připravují střední školy a odborná učiliště dny otevřených dveří a burzy středních škol. Využil(a) jsi tuto možnost? Pomohlo ti to při rozhodování o dalším studiu?
 
 ### Lenka, 14 let
 Byla jsem se tam podívat sama, protože jsem nechtěla chodit se třídou po všech školách. Určitě mi to pomohlo při rozhodování o dalším studiu.

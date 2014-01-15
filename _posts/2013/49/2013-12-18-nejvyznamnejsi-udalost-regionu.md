@@ -23,7 +23,7 @@ Já za sebe bych uvedla sportovní události v regionu. Nejvíce Boskovické bě
 
 Jako občan Svitávky považuji za zcela zásadní událost roku 2013 dokončení výstavby kanalizace. Touto investicí se Svitávka dostává do vyšší kategorie občanské vybavenosti a tím se zásadně navyšují i možnosti jejího dalšího rozvoje. Když zhruba před osmi roky jsme se na Radě rozhodovali o možnostech a prioritách, přinesl jsem asi třicet lístečků, na kterých byly napsány jednotlivé záměry rozvoje. Na poznámku, zda snad budeme losovat, jsem nereagoval, ale tyto lístečky jsme začali skládat podle důležitosti, časové i věcné návaznosti, aby nám z toho vyšla pyramida, na jejímž vrcholu stála výstavba kanalizace, jako podmínka nutná pro realizaci většiny ostatních věcí. Kromě dnes příjemného pocitu realizované akce mi zůstalo vědomí nezbytnosti rozlišovat věci zásadní a důležité od věcí nepodstatných a malicherných.
 
-Do Nového roku bych si přál, aby se nám všem mnohem více dařilo rozlišovat věci zásadní od prkotin, navzájem si je neplést, abychom nedopadli jako ti při stavbě věže babylónské. 
+Do Nového roku bych si přál, aby se nám všem mnohem více dařilo rozlišovat věci zásadní od prkotin, navzájem si je neplést, abychom nedopadli jako ti při stavbě věže babylónské.
 
 ### Pavel Freitinger, evangelický farář ve Vanovicích
 
@@ -45,7 +45,7 @@ Moje maličkost bere jako nej událost v roce 2013 v Boskovicích poznání, že
 
 Největší událostí letošního roku pro mě bylo přesazování mého malého jilmu a následné obavy z toho, že zajde. V regionu tohle životní drama ale bůhvíproč prošumělo, takže musím sáhnout na druhé místo, kde je referendum o sportovní hale. Ani ne tolik kvůli konkrétnímu rozhodnutí stavět/nestavět, jako spíš kvůli celkové debatě o tom, jak by mělo město s občany komunikovat, jak bychom měli spolupracovat na přípravě nových veřejných staveb, jaké hodnoty jsou pro nás důležité a jak bychom chtěli, aby Boskovice vypadaly a fungovaly.
 
-### Marie Zouharová, členka rady města v Boskovicích 
+### Marie Zouharová, členka rady města v Boskovicích
 Abych byla upřímná, vše mi splývá a těžko vytipovávám, která byla nejvýznamnější. A tak zmíním tu z poslední doby a to byl koncert studentů Stojanova gymnázia z Velehradu.
 
 ### Vladimír Stejskal, starosta v Letovicích
