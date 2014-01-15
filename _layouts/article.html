@@ -3,6 +3,9 @@
 <head>
     {% include html-head.html %}
     <title>{{ page.title }} | Boskovicko, regionální noviny</title>
+    {% if page.photo %}
+    <meta property="og:image" content="{{ page.photo }}">
+    {% endif %}
 </head>
 <body>
     <script src="/js/balanced-sidebar.js"></script>
