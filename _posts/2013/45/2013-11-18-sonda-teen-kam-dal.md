@@ -1,7 +1,7 @@
 ---
 title: 'Sonda teen: Kam dál'
 author: redakce
-category: z regionu
+category: publicistika
 tags:
 - sonda teen
 - anketa

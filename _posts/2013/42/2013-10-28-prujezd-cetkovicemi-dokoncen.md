@@ -1,7 +1,7 @@
 ---
 title: Průjezd Cetkovicemi je dokončen, trvalo to 13 let
 author: Jitka Melkusová
-category: z regionu
+category: zprávy
 tags: Cetkovice 42-2013
 ---
 

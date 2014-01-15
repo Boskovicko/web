@@ -1,7 +1,7 @@
 ---
 title: Údržbu zelně obstará nová firma
 author: Petra Bílá
-category: z regionu
+category: zprávy
 tags: Boskovice zeleň 45-2013
 ---
 

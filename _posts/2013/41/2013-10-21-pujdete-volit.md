@@ -1,7 +1,7 @@
 ---
 title: 'Anketa: Půjdete k volbám?'
 author: Andrea Šrámková
-category: z regionu
+category: publicistika
 tags:
 - Boskovicko
 - anketa

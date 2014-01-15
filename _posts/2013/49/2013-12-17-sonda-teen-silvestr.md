@@ -1,7 +1,7 @@
 ---
 title: 'Sonda teen: Silvestr'
 author: Ludmila Dobrozemská
-category: z regionu
+category: publicistika
 tags:
 - ankety
 - sonda teen

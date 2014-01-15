@@ -1,7 +1,7 @@
 ---
 title: Hodiny v Olešnici na evangelickém kostele se dočkaly obnovy
 author: Marek Osouch
-category: z regionu
+category: zprávy
 tags: Olešnice opravy 42-2013
 ---
 

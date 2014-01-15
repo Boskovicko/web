@@ -1,7 +1,7 @@
 ---
 title: MAS Boskovicko PLUS bilancuje
 author: Jitka Melkusová
-category: z regionu
+category: publicistika
 tags: Boskovicko MAS 45-2013
 ---
 

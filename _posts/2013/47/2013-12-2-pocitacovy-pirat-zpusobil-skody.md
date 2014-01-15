@@ -1,7 +1,7 @@
 ---
 title: Počítačový pirát způsobil škodu téměř za 28 milionů
 author: Andrea Šrámková
-category: informace
+category: zprávy
 tags: Blansko 47-2013
 ---
 

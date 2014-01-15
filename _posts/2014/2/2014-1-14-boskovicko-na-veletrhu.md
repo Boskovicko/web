@@ -1,11 +1,12 @@
 ---
 title: Boskovicko se bude prezentovat na veletrhu
 author: Petra Bílá
-category: z regionu
+category: publicistika
 tags: Boskovicko turismus 2-2014
 ---
 
-Veletrh turistických možností Regiontour 2014 už tento týden přiláká na brněnské výstaviště tisíce lidí, kteří budou chtít načerpat inspiraci na výlet či strávení dovolené. 
+Veletrh turistických možností Regiontour 2014 už tento týden přiláká na brněnské výstaviště tisíce lidí, kteří budou chtít načerpat inspiraci na výlet či strávení dovolené.
+
 Čtyřdenní akce vypukne šestnáctého ledna. Návštěvníci dostanou možnost obhlédnout i turistické cíle z oblasti okresu Blansko, ale budou muset hledat usilovněji.
 
 Ty tam jsou doby, kdy destinace okolo Moravského krasu měla na veletrhu vlastní stánek. Naopak, i letos pokračuje postoj posledních let. „Pronájem vlastního stánku je příliš drahý a tato forma prezentace není tolik efektivní,“ zhodnotil místostarosta Boskovic Dominik Božek. Jan Chmelíček z jihomoravské centrály cestovního ruchu k tomu doplnil, že veletrhy jako Regiontour jsou především prezentační, nikoli kontraktační. „Prokázat bezprostřední návratnost vložených prostředků je samozřejmě obtížné. Proto některé turistické cíle, zvláště ty, jejichž příjmy z cestovního ruchu nejsou velké, zvažují kvůli značné finanční náročnosti jiné formy prezentace, třeba na internetu. Které z nich zvítězí, to ukáže budoucnost,“ řekl Jan Chmelíček.

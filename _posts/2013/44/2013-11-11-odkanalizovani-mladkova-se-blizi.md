@@ -1,7 +1,7 @@
 ---
 title: Projekt odkanalizování Mladkova je na spadnutí
 author: Petra Bílá
-category: přečtěte si
+category: zprávy
 tags: Mladkov kanalizace 44-2013
 ---
 

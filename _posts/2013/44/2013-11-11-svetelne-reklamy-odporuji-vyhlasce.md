@@ -1,7 +1,7 @@
 ---
 title: Světelné reklamy v boskovické památkové zóně odporují vyhlášce
 author: M. Krajíčková
-category: z regionu
+category: zprávy
 tags:
 - Boskovice
 - památková zóna

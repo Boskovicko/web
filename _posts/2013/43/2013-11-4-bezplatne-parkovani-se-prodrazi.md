@@ -1,7 +1,7 @@
 ---
 title: Půlhodina bezplatného parkování se prodraží
 author: Petra Bílá
-category: přečtěte si
+category: zprávy
 tags: Boskovice parkování 43-2013
 ---
 

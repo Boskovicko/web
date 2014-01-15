@@ -1,7 +1,7 @@
 ---
 title: 'Sonda teen: Světelná reklama'
 author: Ludmila Dobrozemská
-category: z regionu
+category: publicistika
 tags:
 - sonda teen
 - anketa

@@ -1,7 +1,7 @@
 ---
 title: Boskovičtí řeší výměnu kabelů v nemocnici
 author: Žaneta Ondroušková
-category: z regionu
+category: zprávy
 tags: Boskovice nemocnice 44-2013
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Počet heren je v Boskovicích nadprůměrný
 author: Marek Osouch
-category: přečtěte si
+category: publicistika
 tags: Boskovice hazard 47-2013
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: V roce 2013 se vzpomínalo na básníka a kunsthistorika Jana M. Tomeše
 author: Tomáš Trumpeš
-category: z regionu
+category: publicistika
 tags:
 - Boskovicko
 - vánoční příloha

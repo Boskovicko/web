@@ -1,7 +1,7 @@
 ---
 title: 'Sonda teen: Zimní a letní čas'
 author: Ludmila Dobrozemská
-category: z regionu
+category: publicistika
 tags:
 - sonda teen
 - anketa

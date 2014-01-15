@@ -1,7 +1,7 @@
 ---
 title: Místní akční skupina Partnerství venkova se ptá lidí, v jaké obci by chtěli žít v roce 2020
 author: Jitka Melkusová
-category: z regionu
+category: zprávy
 tags:
 - Velké Opatovice
 - MAS

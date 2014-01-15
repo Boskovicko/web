@@ -1,7 +1,7 @@
 ---
 title: Silvestrovská noc policisty ani záchranáře nezaskočila
 author: Petr Meluzín
-category: informace
+category: zprávy
 tags:
 - okres Blansko
 - 1-2014

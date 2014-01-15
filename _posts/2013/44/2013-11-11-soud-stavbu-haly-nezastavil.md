@@ -1,7 +1,7 @@
 ---
 title: Soud stavbu haly nezastavil
 author: Tomáš Trumpeš
-category: z regionu
+category: zprávy
 tags:
 - Boskovice
 - sportovní hala

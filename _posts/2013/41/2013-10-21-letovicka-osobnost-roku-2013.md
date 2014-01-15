@@ -1,7 +1,7 @@
 ---
 title: V Letovicích hledají Osobnost roku 2013
 author: Andrea Šrámková
-category: z regionu
+category: zprávy
 tags: Letovice 41-2013
 ---
 

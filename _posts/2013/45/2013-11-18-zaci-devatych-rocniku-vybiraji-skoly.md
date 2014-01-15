@@ -1,7 +1,7 @@
 ---
 title: Žáci devátých ročníků se začínají rozhodovat, kam dál
 author: Andrea Šrámková
-category: z regionu
+category: publicistika
 tags: Boskovicko vzdělávání 45-2013
 ---
 

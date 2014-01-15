@@ -1,7 +1,7 @@
 ---
 title: 'Sonda teen: Vánoční dárky'
 author: Ludmila Dobrozemská
-category: z regionu
+category: publicistika
 tags:
 - Vánoce
 - ankety

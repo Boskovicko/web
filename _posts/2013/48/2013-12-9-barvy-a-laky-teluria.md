@@ -1,7 +1,7 @@
 ---
 title: Ve Skrchově vyrábíme zhruba třetinu české produkce nátěrových hmot, prozradil Jakub Noll
 author: Andrea Šrámková
-category: z regionu
+category: publicistika
 tags: Skrchov rozhovor 48-2013
 ---
 

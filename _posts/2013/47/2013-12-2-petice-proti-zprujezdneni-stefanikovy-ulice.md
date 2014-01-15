@@ -1,7 +1,7 @@
 ---
 title: Lidé sepsali petici proti zprůjezdnění Štefánikovy ulice
 author: Marek Osouch
-category: z regionu
+category: zprávy
 tags: Boskovice doprava petice 47-2013
 ---
 

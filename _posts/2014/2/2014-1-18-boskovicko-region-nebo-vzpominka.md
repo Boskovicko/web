@@ -1,7 +1,7 @@
 ---
 title: Je Boskovicko regionem, nebo vzpomínkou?
 author: Jitka Melkusová
-category: přečtěte si
+category: publicistika
 tags:
 - 25 let Boskovicka
 - 2-2014

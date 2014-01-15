@@ -1,7 +1,7 @@
 ---
 title: Kunštátští opravují chodníky v centru
 author: Žaneta Ondroušková
-category: z regionu
+category: zprávy
 tags: Kunštát opravy 42-2013
 ---
 

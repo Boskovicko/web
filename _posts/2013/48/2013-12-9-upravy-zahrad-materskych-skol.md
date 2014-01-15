@@ -1,7 +1,7 @@
 ---
 title: Zahrady mateřských škol čekají úpravy
 author: Petra Bílá
-category: přečtěte si
+category: zprávy
 tags:
 - Boskovicko
 - mateřské školy

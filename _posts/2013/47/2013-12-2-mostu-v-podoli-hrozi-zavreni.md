@@ -1,7 +1,7 @@
 ---
 title: Mostu v Podolí hrozí uzavření
 author: Andrea Šrámková
-category: z regionu
+category: zprávy
 tags: Podolí 47-2013
 ---
 

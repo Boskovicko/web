@@ -1,7 +1,7 @@
 ---
 title: Předškoláci zamíří k zápisu
 author: M. Krajíčková
-category: z regionu
+category: zprávy
 tags: Boskovice 2-2014
 ---
 
@@ -12,6 +12,7 @@ Ještě si ani nestačily pohrát s vánočními dárky a už je čeká „zkou
 Zápis na Základní škole v Boskovicích proběhne jednotně na všech třech pracovištích 4. února od 13 do 17 hodin, předcházejí mu dny otevřených dveří a návštěvy předškoláků z blízkých mateřských škol. V minulém týdnu navštívili školu na náměstí 9. května budoucí prvňáčci z MŠ Lidická, Na Dolech a z Valchova. Slovákovu navštíví 13. a 16. ledna děti z MŠ Bílkova a Na Dolech. Den otevřených dveří pro nastávající prvňáčky a jejich rodiče proběhne na takzvané Zelené i na pracovišti Sušilova v úterý 14. ledna od 13 do 17 hodin. Starší žáci budou příchozí návštěvníky provádět odbornými pracovnami, prvními třídami, ukážou jim školní družinu, tělocvičnu nebo jídelnu, paní učitelky budou připraveny odpovídat na otázky související se vstupem žáka do první třídy. A právě k zápisu do školy na náměstí 9. května se připravuje Alešek Odehnal z Boskovic. „Aktovku jsem dostal od Ježíška, je moc pěkná. Ve škole řeknu básničku o vločce,“ prozradil bez rozpaků. „Nejvíc se těším na vaření lektvarů,“ pokračoval inspirován školou v Bradavicích nebo touhou po poznání chemie.
 
 Na Slovákově proběhne den otevřených dveří ve čtvrtek 16. ledna a bude doplněn o sportovní soutěž Kdo si chce šplhnout ve škole?
+
 Pro děti se zdravotním postižením je připraven slavnostní zápis na 6. února od 10 do 16 hodin v Základní škole na Štefánikově ulici v Boskovicích.
 
 Ze zákona zápisy probíhají mezi 15. lednem a 15. únorem. Hned ve středu 15. ledna přivítá předškoláky například škola v Sebranicích nebo v Jabloňanech. Jako jeden z prvních zápisů na Boskovicku navštíví budoucí prvňáčci také školu v Benešově, a to 16. ledna od 9 hodin. Motivován bude už tradičně pohádkovými příběhy. Na jednotlivých stanovištích učitelky prověří znalosti a dovednosti malých předškoláků. Zajímat je bude, zda znají nejen své jméno a příjmení, ale také jména svých rodičů, adresu, jak se jim podaří nakreslit postavu nebo například navléct korálky.

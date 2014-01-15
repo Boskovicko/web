@@ -1,7 +1,7 @@
 ---
 title: Ve Skalici žila princezna z Krakatitu
 author: Tomáš Trumpeš
-category: z regionu
+category: publicistika
 photo: http://i.imgur.com/tkiZ2ep.jpg
 tags:
 - Skalice nad Svitavou

@@ -1,7 +1,7 @@
 ---
 title: Pavlovské mokřady vysychají, pomůže nový projekt
 author: Žaneta Ondroušková
-category: z regionu
+category: publicistika
 tags: Benešov 41-2013
 ---
 

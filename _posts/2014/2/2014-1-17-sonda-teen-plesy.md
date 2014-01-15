@@ -1,7 +1,7 @@
 ---
 title: 'Sonda teen: Půjdeš na ples?'
 author: Ludmila Dobrozemská
-category: přečtěte si
+category: publicistika
 tags:
 - sonda teen
 - ankety

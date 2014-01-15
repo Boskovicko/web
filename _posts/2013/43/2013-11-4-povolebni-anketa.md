@@ -1,7 +1,7 @@
 ---
 title: Povolební anketa
 author: Tomáš Trumpeš
-category: z regionu
+category: publicistika
 tags: Boskovice volby politika 43-2013
 ---
 

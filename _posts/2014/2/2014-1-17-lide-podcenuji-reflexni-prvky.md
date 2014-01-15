@@ -1,7 +1,7 @@
 ---
 title: Lidé často zapomínají na důležitost reflexních prvků
 author: Petr Meluzín
-category: z regionu
+category: zprávy
 tags:
 - okres Blansko
 - 2-2014

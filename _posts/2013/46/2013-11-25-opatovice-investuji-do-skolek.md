@@ -1,7 +1,7 @@
 ---
 title: Ve Velkých Opatovicích investují do renovace mateřských škol
 author: Ludmila Dobrozemská
-category: z regionu
+category: zprávy
 tags:
 - Velké Opatovice
 - mateřské školy

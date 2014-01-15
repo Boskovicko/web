@@ -1,7 +1,7 @@
 ---
 title: Kraj chce pokročit v územním plánování
 author: Petra Bílá
-category: z regionu
+category: zprávy
 tags: Boskovicko doprava R43 1-2014
 ---
 

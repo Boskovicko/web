@@ -1,7 +1,7 @@
 ---
 title: Firmu Katzmair prověřuje policie pro možné podvodné jednání
 author: Petr Meluzín
-category: informace
+category: zprávy
 tags: Boskovice 48-2013
 ---
 

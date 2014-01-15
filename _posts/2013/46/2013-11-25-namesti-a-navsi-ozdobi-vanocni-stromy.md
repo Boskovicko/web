@@ -1,7 +1,7 @@
 ---
 title: Náměstí a návsi ozdobí vánoční stromy
 author: Petra Bílá
-category: přečtěte si
+category: publicistika
 tags: Boskovicko Vánoce 46-2013
 ---
 

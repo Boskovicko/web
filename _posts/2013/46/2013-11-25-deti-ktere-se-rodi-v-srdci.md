@@ -1,7 +1,7 @@
 ---
 title: Děti, které se rodí v srdci, aneb důvod, proč taky může vzniknout kniha
 author: Jitka Melkusová
-category: z regionu
+category: publicistika
 tags: Letovice 46-2013
 ---
 

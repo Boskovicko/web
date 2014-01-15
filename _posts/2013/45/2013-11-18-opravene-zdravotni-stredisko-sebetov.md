@@ -1,7 +1,7 @@
 ---
 title: V Šebetově opravili zdravotní středisko
 author: Petra Bílá
-category: z regionu
+category: zprávy
 tags: Šebetov opravy 45-2013
 ---
 

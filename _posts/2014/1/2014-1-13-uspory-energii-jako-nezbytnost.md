@@ -1,7 +1,7 @@
 ---
 title: Úspory energií jako nezbytnost
 author: Martina Lukešová
-category: přečtěte si
+category: publicistika
 tags:
 - ekologie
 - K sobě navzájem

@@ -1,7 +1,7 @@
 ---
 title: Kde ruce seniorů promlouvají a učí řeči generací
 author: Jitka Melkusová
-category: z regionu
+category: publicistika
 tags: Boskovice muzeum stáří 49-2013
 ---
 

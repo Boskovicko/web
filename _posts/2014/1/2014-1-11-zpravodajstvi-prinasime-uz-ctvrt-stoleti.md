@@ -1,7 +1,7 @@
 ---
 title: Zpravodajství z regionu přinášíme svým čtenářům už čtvrt století
 author: Tomáš Trumpeš, Andrea Šrámková
-category: přečtěte si
+category: publicistika
 tags:
 - Boskovice
 - rozhovor

@@ -1,7 +1,7 @@
 ---
 title: Územní plán se pomalu rýsuje
 author: Petra Bílá
-category: z regionu
+category: zprávy
 tags: Boskovice 48-2013
 ---
 

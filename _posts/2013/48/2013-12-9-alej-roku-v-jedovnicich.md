@@ -1,7 +1,7 @@
 ---
 title: Jedovničtí se pyšní alejí roku 2013
 author: Žaneta Ondroušková
-category: z regionu
+category: publicistika
 tags: Jedovnice 48-2013
 ---
 

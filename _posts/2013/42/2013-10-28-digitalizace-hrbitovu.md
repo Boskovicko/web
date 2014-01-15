@@ -1,7 +1,7 @@
 ---
 title: 'Hřbitovy on-line? Jejich digitalizace pokračuje'
 author: Andrea Šrámková
-category: z regionu
+category: zprávy
 tags: Boskovicko 42-2013
 ---
 

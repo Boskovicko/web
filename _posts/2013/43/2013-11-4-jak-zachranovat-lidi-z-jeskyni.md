@@ -1,7 +1,7 @@
 ---
 title: Jak zachraňovat lidi z jeskyní
 author: Jitka Melkusová
-category: informace
+category: publicistika
 tags:
 - Moravský kras
 - 43-2013

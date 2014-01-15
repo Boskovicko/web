@@ -1,7 +1,7 @@
 ---
 title: Musíme si vydobýt své místo na slunci, říká o místních akčních skupinách Zdeněk Peša
 author: Jitka Melkusová
-category: z regionu
+category: publicistika
 tags: Boskovice MAS EU rozhovor 45-2013
 ---
 

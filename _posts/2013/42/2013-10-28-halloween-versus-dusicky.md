@@ -1,7 +1,7 @@
 ---
 title: Halloween versus dušičky, a proč se nevylučují
 author: Žaneta Ondroušková
-category: z regionu
+category: publicistika
 tags: Boskovicko Halloween dušičky 42-2013
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Připravují opatření proti přívalovým dešťům
 author: Žaneta Ondroušková
-category: z regionu
+category: zprávy
 tags:
 - Lhota Rapotina
 - voda

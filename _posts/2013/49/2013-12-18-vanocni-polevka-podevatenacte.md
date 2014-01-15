@@ -1,7 +1,7 @@
 ---
 title: Vánoční polévka podevatenácté
 author: Rudolf Burgr
-category: z regionu
+category: publicistika
 tags:
 - Boskovice
 - Vánoce

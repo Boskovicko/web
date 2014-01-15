@@ -1,7 +1,7 @@
 ---
 title: Škola ve Žďárné prošla rekonstrukcí
 author: Marek Osouch
-category: z regionu
+category: zprávy
 tags: Žďárná opravy 45-2013
 ---
 

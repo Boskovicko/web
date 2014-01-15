@@ -1,7 +1,7 @@
 ---
 title: Vánoční zboží od loňského roku nezdražilo
 author: Petra Bílá
-category: z regionu
+category: publicistika
 tags: Boskovicko Vánoce 49-2013
 ---
 

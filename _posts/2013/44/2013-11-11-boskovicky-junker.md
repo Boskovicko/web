@@ -1,7 +1,7 @@
 ---
 title: Boskovický Junker je jediná firma v republice, kde se rodí slévárenské tavicí pece
 author: Andrea Šrámková
-category: z regionu
+category: publicistika
 tags:
 - Boskovice
 - Junker

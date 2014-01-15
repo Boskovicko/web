@@ -1,7 +1,7 @@
 ---
 title: Když polévka pomáhá
 author: Andrea Šrámková
-category: z regionu
+category: publicistika
 tags: Boskovicko charita 1-2014
 ---
 

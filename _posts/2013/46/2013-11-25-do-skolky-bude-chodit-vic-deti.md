@@ -1,7 +1,7 @@
 ---
 title: Do školky bude chodit více dětí
 author: Petra Bílá
-category: z regionu
+category: zprávy
 tags:
 - Rozseč
 - mateřské školy

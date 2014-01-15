@@ -1,7 +1,7 @@
 ---
 title: Od nového roku zaparkují levněji
 author: Petra Bílá
-category: z regionu
+category: zprávy
 tags: Boskovice doprava 2-2014
 ---
 

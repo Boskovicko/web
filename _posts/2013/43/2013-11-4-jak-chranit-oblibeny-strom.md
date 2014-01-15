@@ -1,7 +1,7 @@
 ---
 title: 'K sobě navzájem: Jak chránit oblíbený strom'
 author: Martina Lukešová
-category: přečtěte si
+category: publicistika
 tags: ekologie zeleň 43-2013
 ---
 

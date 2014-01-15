@@ -1,7 +1,7 @@
 ---
 title: Od ledna zvýhodněné parkování i na dalších místech
 author: Petra Bílá
-category: přečtěte si
+category: zprávy
 tags: Boskovice parkování 44-2013
 ---
 

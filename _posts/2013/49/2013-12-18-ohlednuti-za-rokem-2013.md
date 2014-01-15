@@ -1,7 +1,7 @@
 ---
 title: Ohlednutí za rokem 2013
 author: Jitka Melkusová
-category: přečtěte si
+category: publicistika
 tags: editorial 49-2013
 ---
 
