@@ -1,4 +1,11 @@
-<a href="/clanky/2014/01/11/zpravodajstvi-prinasime-uz-ctvrt-stoleti.html">
-    <img class="img-responsive ad-square" src="/img/narozeniny.png"
-        alt="už čtvrt století díky nám víte, co se v regionu děje">
+{% for ad in site.data.reklamy limit:1 %}
+<script>
+    try {
+        _gaq.push(['_trackEvent', 'reklama', 'zobrazení', '{{ ad.nazev }}']);
+    } catch (err) {}
+</script>
+<a href="{{ ad.url }}"
+    onClick="return trackLink(this, 'reklama', 'klik', '{{ ad.nazev }}')">
+    <img class="img-responsive ad-square" src="{{ ad.obrazek }}" alt="{{ ad.alt }}">
 </a>
+{% endfor %}
