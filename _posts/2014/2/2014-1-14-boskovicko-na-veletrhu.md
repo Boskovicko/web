@@ -1,7 +1,7 @@
 ---
 title: Boskovicko se bude prezentovat na veletrhu
 author: Petra Bílá
-category: publicistika
+category: zprávy
 tags: Boskovicko turismus 2-2014
 ---
 
