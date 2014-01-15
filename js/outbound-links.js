@@ -3,7 +3,7 @@
 function trackLink(link, category, action, label)
 {
     try {
-        _gaq.push(['_trackEvent', category, action, label]);
+        ga('send', 'event', category, action, label);
     } catch (err) {}
     setTimeout(function() {
         document.location.href = link.href;

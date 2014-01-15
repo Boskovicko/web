@@ -1,7 +1,7 @@
 {% for ad in site.data.reklamy limit:1 %}
 <script>
     try {
-        _gaq.push(['_trackEvent', 'reklama', 'zobrazení', '{{ ad.nazev }}']);
+        ga('send', 'event', 'reklama', 'zobrazení', '{{ ad.nazev }}');
     } catch (err) {}
 </script>
 <a href="{{ ad.url }}"
