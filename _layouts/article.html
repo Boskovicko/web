@@ -3,6 +3,8 @@
 <head>
     {% include html-head.html %}
     <title>{{ page.title }} | Boskovicko, regionální noviny</title>
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:site_name" content="Boskovicko, regionální noviny">
     {% if page.photo %}
     <meta property="og:image" content="{{ page.photo }}">
     {% endif %}
