@@ -5,7 +5,7 @@ photo: http://i.imgur.com/c8yZSNI.jpg
 category: publicistika
 tags:
 - Boskovice
-- rozhovor
+- rozhovory
 - 25 let Boskovicka
 - 1-2014
 ---
