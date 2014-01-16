@@ -1,6 +1,6 @@
 ---
 title: Voda v příštím roce podraží minimálně
-author: M. Krajíčková
+authors: M. Krajíčková
 category: zprávy
 tags: Boskovice voda 48-2013
 ---

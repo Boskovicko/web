@@ -1,6 +1,6 @@
 ---
 title: Basketbalisté neprohráli
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags:
 - okres Blansko

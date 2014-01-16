@@ -1,6 +1,6 @@
 ---
 title: Rybník v Míchově na návsi zarůstá
-author: Martina Lukešová
+authors: Martina Lukešová
 category: publicistika
 tags: Míchov 41-2013
 ---

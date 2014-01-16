@@ -1,6 +1,6 @@
 ---
 title: K boskovické knihovně
-author: Květoslava Navrátilová
+authors: Květoslava Navrátilová
 category: napsali nám
 tags: Boskovice knihovna 42-2013
 ---

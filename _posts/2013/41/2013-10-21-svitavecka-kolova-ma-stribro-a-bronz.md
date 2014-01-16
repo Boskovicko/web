@@ -1,6 +1,6 @@
 ---
 title: Svitávecká kolová má stříbro a bronz
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Svitávka cyklistika 41-2013
 ---

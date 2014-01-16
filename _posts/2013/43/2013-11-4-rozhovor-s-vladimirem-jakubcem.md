@@ -1,6 +1,6 @@
 ---
 title: „Změna přes staré partaje není absolutně možná,“ říká Vladimír Jakubec z ANO 2011
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: Z regionu
 tags: Boskovice politika volby ANO rozhovory 43-2013
 ---

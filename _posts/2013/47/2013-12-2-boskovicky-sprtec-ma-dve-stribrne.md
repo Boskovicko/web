@@ -1,6 +1,6 @@
 ---
 title: Boskovický šprtec má dvě mistrovská stříbra
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Praha šprtec 47-2013
 ---

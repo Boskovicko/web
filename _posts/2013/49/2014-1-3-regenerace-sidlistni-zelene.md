@@ -1,6 +1,6 @@
 ---
 title: Připravují regeneraci sídlištní zeleně
-author: Petra Bílá
+authors: Petra Bílá
 category: zprávy
 tags: Boskovice zeleň 49-2013
 ---

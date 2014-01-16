@@ -1,6 +1,6 @@
 ---
 title: 'Sonda teen: Taneční'
-author: Ludmila Dobrozemská
+authors: Ludmila Dobrozemská
 category: kultura
 tags:
 - sonda teen

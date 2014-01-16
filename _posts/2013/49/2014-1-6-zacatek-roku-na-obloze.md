@@ -1,6 +1,6 @@
 ---
 title: Začátek nového roku na obloze
-author: Jaroslav Chloupek
+authors: Jaroslav Chloupek
 category: informace
 tags: astronomie 49-2013
 ---

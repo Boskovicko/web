@@ -1,6 +1,8 @@
 ---
 title: Koncert k výročí příchodu sv. Cyrila a Metoděje na Moravu
-author: Marie Kosatíková, Marie Stejskalová 
+authors:
+    - Marie Kosatíková
+    - Marie Stejskalová
 category: napsali nám
 tags: Boskovice koncerty 44-2013
 ---

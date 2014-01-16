@@ -1,6 +1,6 @@
 ---
 title: Hubertova jízda v Borotíně
-author: Kateřina Sehnalová
+authors: Kateřina Sehnalová
 category: napsali nám
 tags: Borotín 44-2013
 ---

@@ -1,6 +1,6 @@
 ---
 title: S úsměvem jde všechno líp
-author: Tereza Jedličková
+authors: Tereza Jedličková
 category: napsali nám
 tags: 44-2013
 ---

@@ -1,6 +1,6 @@
 ---
 title: Zvolte okresního sportovce roku
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Boskovice Blansko 1-2014
 ---

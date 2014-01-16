@@ -1,6 +1,6 @@
 ---
 title: Cetkovičtí dokončují hasičskou zbrojnici
-author: Miroslava Boháčková
+authors: Miroslava Boháčková
 category: zprávy
 tags: Cetkovice 2-2014
 ---

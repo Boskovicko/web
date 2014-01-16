@@ -1,6 +1,6 @@
 ---
 title: Hokejisté Minervy Boskovice vyhráli v Rosicích
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags:
 - okres Blansko

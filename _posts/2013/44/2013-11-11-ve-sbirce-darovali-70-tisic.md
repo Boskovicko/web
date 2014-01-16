@@ -1,6 +1,6 @@
 ---
 title: Ve sbírce lidé darovali téměř sedmdesát tisíc
-author: Andrea Šrámková
+authors: Andrea Šrámková
 category: publicistika
 tags: Blansko 44-2013
 ---

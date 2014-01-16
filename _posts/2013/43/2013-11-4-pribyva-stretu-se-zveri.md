@@ -1,6 +1,6 @@
 ---
 title: Na podzim přibývá střetů se zvěří
-author: Petr Meluzín
+authors: Petr Meluzín
 category: zprávy
 tags:
 - okres Blansko

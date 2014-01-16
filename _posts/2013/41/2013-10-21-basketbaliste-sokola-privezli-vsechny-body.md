@@ -1,6 +1,6 @@
 ---
 title: Basketbalisté Sokola přivezli všechny body
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Boskovice basketbal 41-2013
 ---

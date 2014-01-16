@@ -1,6 +1,6 @@
 ---
 title: Město převezme správu kotelen
-author: redakce
+authors: redakce
 category: zprávy
 tags:
 - Boskovice

@@ -1,6 +1,6 @@
 ---
 title: Co bychom měli vědět o rychlostní silnici R 43
-author: Hana Přibylová
+authors: Hana Přibylová
 category: napsali nám
 tags: R43 1-2014
 ---

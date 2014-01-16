@@ -1,6 +1,6 @@
 ---
 title: Volby do Poslanecké sněmovny v číslech
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: zprávy
 tags:
 - okres Blansko

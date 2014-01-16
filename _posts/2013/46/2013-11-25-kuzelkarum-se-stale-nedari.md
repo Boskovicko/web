@@ -1,6 +1,6 @@
 ---
 title: Kuželkářům Velenu se stále nedaří
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Boskovice kuželky 46-2013
 ---

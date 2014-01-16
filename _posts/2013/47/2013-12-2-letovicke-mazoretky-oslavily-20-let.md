@@ -1,6 +1,6 @@
 ---
 title: Letovické mažoretky Vo Co Gou oslavily 20 let své skupiny
-author: Ludmila Dobrozemská
+authors: Ludmila Dobrozemská
 category: kultura
 tags: Letovice 47-2013
 ---

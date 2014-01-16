@@ -1,6 +1,6 @@
 ---
 title: Kuželkáři Velenu mají stále nulu
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Boskovice kuželky 44-2013
 ---

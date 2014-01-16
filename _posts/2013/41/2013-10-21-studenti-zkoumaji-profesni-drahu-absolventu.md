@@ -1,6 +1,6 @@
 ---
 title: Studenti gymnázia zkoumají profesní dráhu absolventů
-author: Marek Osouch
+authors: Marek Osouch
 category: publicistika
 tags: Boskovice 41-2013
 ---

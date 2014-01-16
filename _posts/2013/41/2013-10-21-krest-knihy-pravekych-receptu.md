@@ -1,6 +1,6 @@
 ---
 title: V knihovně pokřtí knihu pravěkých receptů
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice knihovna 41-2013
 ---

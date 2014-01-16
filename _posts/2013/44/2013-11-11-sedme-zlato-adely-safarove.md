@@ -1,6 +1,6 @@
 ---
 title: Adéla Šafářová má sedmé zlato
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Benešov cyklistika 44-2013
 ---

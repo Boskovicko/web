@@ -1,6 +1,6 @@
 ---
 title: Mnozí prožijí Vánoce odloučeni od rodin, ne však sami
-author: Petra Bílá
+authors: Petra Bílá
 category: publicistika
 tags: Boskovicko Vánoce 49-2013
 ---

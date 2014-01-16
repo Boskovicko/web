@@ -1,6 +1,6 @@
 ---
 title: Kuželkáři Velenu stále nevyhráli
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Brno kuželky 47-2013
 ---

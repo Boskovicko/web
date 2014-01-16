@@ -1,6 +1,6 @@
 ---
 title: Šafářová byla poprvé stříbrná
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Benešov cyklistika 45-2013
 ---

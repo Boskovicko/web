@@ -1,6 +1,6 @@
 ---
 title: Lidé o Dušičkách vzpomenou na své blízké zemřelé
-author: Petra Bílá
+authors: Petra Bílá
 category: publicistika
 tags: Boskovicko dušičky 42-2013
 ---

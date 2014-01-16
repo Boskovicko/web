@@ -1,6 +1,6 @@
 ---
 title: Úspory energií jako nezbytnost
-author: Martina Lukešová
+authors: Martina Lukešová
 category: publicistika
 tags:
 - ekologie

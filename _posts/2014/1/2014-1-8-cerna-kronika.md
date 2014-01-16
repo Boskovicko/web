@@ -1,6 +1,6 @@
 ---
 title: Černá kronika
-author: Petr Meluzín
+authors: Petr Meluzín
 category: informace
 excerpt: Výběr ze zásahů policie na přelomu roku.
 tags:

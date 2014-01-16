@@ -1,6 +1,6 @@
 ---
 title: Policie ČR informuje
-author: Petr Meluzín
+authors: Petr Meluzín
 category: informace
 tags:
 - okres Blansko

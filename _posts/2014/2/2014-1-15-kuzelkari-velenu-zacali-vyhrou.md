@@ -1,6 +1,6 @@
 ---
 title: Kuželkáři Velenu začali výhrou
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags:
 - okres Blansko

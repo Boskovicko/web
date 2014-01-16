@@ -1,6 +1,6 @@
 ---
 title: Výstava v muzeu připomene 150 let od založení spolku Velen
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice Velen muzeum Naboso výstavy 43-2013
 ---

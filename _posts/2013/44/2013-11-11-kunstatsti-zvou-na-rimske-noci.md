@@ -1,6 +1,6 @@
 ---
 title: Kunštátští zvou na Římské noci se Stašovou a Víznerem
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Kunštát divadlo 44-2013
 ---

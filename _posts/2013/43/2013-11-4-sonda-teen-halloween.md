@@ -1,6 +1,6 @@
 ---
 title: 'Sonda teen: Halloween'
-author: Ludmila Dobrozemská
+authors: Ludmila Dobrozemská
 category: publicistika
 tags:
 - halloween

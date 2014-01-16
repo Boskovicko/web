@@ -1,6 +1,6 @@
 ---
 title: Výdejny léčiv v Benešově a v Šebetově se osvědčily
-author: Marek Osouch
+authors: Marek Osouch
 category: zprávy
 tags: Boskovicko 46-2013
 ---

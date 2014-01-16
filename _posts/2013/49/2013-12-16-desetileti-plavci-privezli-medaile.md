@@ -1,6 +1,6 @@
 ---
 title: Desetiletí plavci přivezli medaile
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Třebíč plavání 49-2013
 ---

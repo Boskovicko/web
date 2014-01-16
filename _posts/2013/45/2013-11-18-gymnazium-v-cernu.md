@@ -1,6 +1,8 @@
 ---
 title: Gymázium v CERN
-author: Leona Palbuchtová a Milan Suk
+authors:
+    - Leona Palbuchtová
+    - Milan Suk
 category: napsali nám
 tags: gymnázium 45-2013
 ---

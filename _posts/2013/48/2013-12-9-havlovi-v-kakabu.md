@@ -1,6 +1,6 @@
 ---
 title: Něžně ke světlu pozvou v Kakabu manželé Havlovi
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice koncerty 48-2013
 ---

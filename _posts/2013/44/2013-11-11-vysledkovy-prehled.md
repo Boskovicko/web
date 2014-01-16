@@ -1,6 +1,6 @@
 ---
 title: Výsledkový přehled
-author: Lubomír Slezák
+authors: Lubomír Slezák
 excerpt: 'Aktuální výsledky z basketbalu, fotbalu, ledního hokeje a volejbalu.'
 category: sport
 tags:

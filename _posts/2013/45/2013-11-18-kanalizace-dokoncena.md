@@ -1,6 +1,6 @@
 ---
 title: 'Doubravice a Újezd hlásí: kanalizace dokončena, čistírna odpadních vod slavnostně otevřena'
-author: Eva Sáňková
+authors: Eva Sáňková
 category: napsali nám
 tags: kanalizace 45-2013
 ---

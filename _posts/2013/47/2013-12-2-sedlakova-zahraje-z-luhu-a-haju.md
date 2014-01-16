@@ -1,6 +1,6 @@
 ---
 title: Kristýna Sedláková zahraje na koncertě Z moravských luhů a hájů
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice koncerty 47-2013
 ---

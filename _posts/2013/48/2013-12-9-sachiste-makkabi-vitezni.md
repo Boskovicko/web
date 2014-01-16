@@ -1,6 +1,6 @@
 ---
 title: Šachisté Makkabi se vrátili s výhrou
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags:
 - okres Blansko

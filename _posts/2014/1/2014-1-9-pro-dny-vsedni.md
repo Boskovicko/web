@@ -1,6 +1,6 @@
 ---
 title: Pro dny všední…
-author: Andrea Šrámková
+authors: Andrea Šrámková
 category: napsali nám
 tags: 1-2014
 ---

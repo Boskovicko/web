@@ -1,6 +1,6 @@
 ---
 title: V Kunštátě začaly přípravy na příští Rok Pánů z Kunštátu
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags:
 - Kunštát

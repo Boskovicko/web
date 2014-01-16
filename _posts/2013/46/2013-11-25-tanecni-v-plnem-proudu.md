@@ -1,6 +1,6 @@
 ---
 title: Podzimní taneční kurzy jsou v plném proudu
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice tanec 46-2013
 ---

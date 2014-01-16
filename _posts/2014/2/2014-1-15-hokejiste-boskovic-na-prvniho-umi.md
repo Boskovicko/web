@@ -1,6 +1,6 @@
 ---
 title: Hokejisté Boskovic to na prvního umí
-author: Lubomír Slezák
+authors: Lubomír Slezák
 photo: http://i.imgur.com/brtuHWm.jpg
 category: sport
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Pavel Kolmačka bude číst v muzeu
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice 47-2013
 ---

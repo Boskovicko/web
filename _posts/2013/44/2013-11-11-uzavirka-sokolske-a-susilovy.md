@@ -1,6 +1,6 @@
 ---
 title: Ulice Sokolská a Sušilova budou částečně uzavřeny
-author: Petra Bílá
+authors: Petra Bílá
 category: zprávy
 tags: Boskovice doprava 44-2013
 ---

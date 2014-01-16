@@ -1,6 +1,6 @@
 ---
 title: Jsem Vojtěch Jasný – pořád stále šťastný
-author: Eva Sáňková
+authors: Eva Sáňková
 category: napsali nám
 tags: film kino 43-2013
 ---

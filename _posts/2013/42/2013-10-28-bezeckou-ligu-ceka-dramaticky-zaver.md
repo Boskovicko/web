@@ -1,6 +1,6 @@
 ---
 title: Běžeckou ligu čeká dramatický závěr
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags:
 - okres Blansko

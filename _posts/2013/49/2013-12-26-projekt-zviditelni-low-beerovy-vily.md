@@ -1,6 +1,6 @@
 ---
 title: Projekt zviditelní Löw-Beerovy vily ve Svitávce a v Chrastavci
-author: Andrea Šrámková
+authors: Andrea Šrámková
 category: publicistika
 tags: Svitávka MAS 49-2013
 ---

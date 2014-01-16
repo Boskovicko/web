@@ -1,6 +1,6 @@
 ---
 title: Sníh prý silničáře letos nezaskočí
-author: Petra Bílá
+authors: Petra Bílá
 category: zprávy
 tags: Boskovice doprava 45-2013
 ---

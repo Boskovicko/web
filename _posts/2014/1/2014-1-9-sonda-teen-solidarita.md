@@ -1,6 +1,6 @@
 ---
 title: 'Sonda teen: Vánoční solidarita'
-author: Ludmila Dobrozemská
+authors: Ludmila Dobrozemská
 category: publicistika
 tags:
 - sonda teen

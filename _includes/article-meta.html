@@ -1,13 +1,13 @@
 <p class="meta">
     <span>{{ post.date | date: "%-d. %-m. %Y" }}</span>
-    {% if post.author %}
-        {% assign author_info = site.data.autori[post.author] %}
+    {% for author in post.authors %}
+        {% assign author_info = site.data.autori[author] %}
         {% if author_info.mail %}
-        <a href="mailto:{{ author_info.mail }}" class="author">{{ post.author }}</a>
+        <a href="mailto:{{ author_info.mail }}" class="author">{{ author }}</a>
         {% else %}
-        <span class="author">{{ post.author }}</span>
+        <span class="author">{{ author }}</span>
         {% endif %}
-    {% endif %}
+    {% endfor %}
     {% if post.category %}
         <a class="section" href="/rubriky/{{ post.category | url_encode }}/">{{ post.category }}</a>
     {% endif %}

@@ -1,6 +1,6 @@
 ---
 title: Ach ty veřejné zakázky
-author: Ilja Melkus
+authors: Ilja Melkus
 category: napsali nám
 tags:
 - veřejné zakázky

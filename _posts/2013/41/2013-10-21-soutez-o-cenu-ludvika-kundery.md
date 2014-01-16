@@ -1,6 +1,6 @@
 ---
 title: Vyhlašují soutěž O cenu Ludvíka Kundery
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Kunštát 41-2013
 ---

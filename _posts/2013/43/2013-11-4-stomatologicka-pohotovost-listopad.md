@@ -1,6 +1,6 @@
 ---
 title: Stomatologická lékařská služba první pomoci v listopadu
-author: Petr Meluzín
+authors: Petr Meluzín
 category: informace
 tags:
 - okres Blansko

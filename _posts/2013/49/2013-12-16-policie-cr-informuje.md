@@ -1,6 +1,6 @@
 ---
 title: Policie ČR informuje
-author: Petr Meluzín
+authors: Petr Meluzín
 excerpt: Pravidelný přehled černé kroniky.
 category: informace
 tags:

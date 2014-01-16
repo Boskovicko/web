@@ -1,6 +1,8 @@
 ---
 title: Vybudovali posezení u řeky
-author: Šárka Bartoňková a Jana Strecková
+authors:
+    - Šárka Bartoňková
+    - Jana Strecková
 category: napsali nám
 tags: Svitávka 47-2013
 ---

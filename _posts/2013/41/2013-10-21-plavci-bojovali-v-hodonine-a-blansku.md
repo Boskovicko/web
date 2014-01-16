@@ -1,6 +1,6 @@
 ---
 title: Boskovičtí plavci bojovali v Hodoníně a v Blansku
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Boskovice plavání 41-2013
 ---

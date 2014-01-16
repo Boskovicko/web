@@ -1,6 +1,6 @@
 ---
 title: Podpořte plánování Místní akční skupiny Boskovicko PLUS
-author: Radka Bezděková
+authors: Radka Bezděková
 category: publicistika
 tags: Boskovicko MAS 45-2013
 ---

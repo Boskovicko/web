@@ -1,6 +1,6 @@
 ---
 title: Sadros postoupil do finále
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Brno fotbal 47-2013
 ---

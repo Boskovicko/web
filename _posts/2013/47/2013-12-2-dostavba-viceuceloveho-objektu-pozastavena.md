@@ -1,6 +1,6 @@
 ---
 title: Dostavba víceúčelového objektu se na čas zastaví
-author: Petra Bílá
+authors: Petra Bílá
 category: zprávy
 tags: Vratíkov opravy 47-2013
 ---

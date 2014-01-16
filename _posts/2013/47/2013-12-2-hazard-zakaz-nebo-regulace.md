@@ -1,6 +1,6 @@
 ---
 title: Nejde o to, jestli hazard regulovat, ale jestli ho úplně zakázat
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: publicistika
 tags: Boskovice hazard 47-2013
 ---

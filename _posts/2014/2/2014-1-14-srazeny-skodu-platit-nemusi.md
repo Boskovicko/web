@@ -1,6 +1,6 @@
 ---
 title: Sražený mladík škodu na autě uhradit nemusí
-author: Petr Meluzín
+authors: Petr Meluzín
 category: zprávy
 tags:
 - Újezd u Kunštátu

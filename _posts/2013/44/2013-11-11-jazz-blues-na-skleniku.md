@@ -1,6 +1,6 @@
 ---
 title: Zámecký skleník bude po celou sezónu hostit jazz & blues
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice koncerty 44-2013
 ---

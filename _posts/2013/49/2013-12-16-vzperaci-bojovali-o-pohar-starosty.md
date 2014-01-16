@@ -1,6 +1,6 @@
 ---
 title: Vzpěrači bojovali o Pohár starosty
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Boskovice vzpírání 49-2013
 ---

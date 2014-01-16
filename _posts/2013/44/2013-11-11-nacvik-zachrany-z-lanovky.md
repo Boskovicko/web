@@ -1,6 +1,6 @@
 ---
 title: Záchrana cestujících z lanovky byla jen cvičením
-author: Petr Meluzín
+authors: Petr Meluzín
 category: zprávy
 tags:
 - Moravský kras

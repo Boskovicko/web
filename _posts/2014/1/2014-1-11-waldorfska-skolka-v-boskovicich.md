@@ -1,6 +1,6 @@
 ---
 title: V Boskovicích usilují o otevření waldorfské školky
-author: Andrea Šrámková
+authors: Andrea Šrámková
 photo: http://i.imgur.com/Uj2hE4j.jpg
 category: zprávy
 tags:

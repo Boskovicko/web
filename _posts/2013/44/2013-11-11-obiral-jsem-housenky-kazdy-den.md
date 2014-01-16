@@ -1,6 +1,6 @@
 ---
 title: 'Jak se žilo v Boskovicích: 8. Já jsem obíral housenky každý den'
-author: Miroslava Boháčková
+authors: Miroslava Boháčková
 category: publicistika
 tags:
 - Boskovice

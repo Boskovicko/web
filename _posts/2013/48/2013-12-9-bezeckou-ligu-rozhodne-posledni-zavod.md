@@ -1,6 +1,6 @@
 ---
 title: Běžeckou ligu rozhodne poslední závod
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags:
 - okres Blansko

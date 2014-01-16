@@ -1,6 +1,6 @@
 ---
 title: V Brně zahájili výstavu boskovické rodačky Vlasty Vostřebalové Fischerové
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Brno výstavy 46-2013
 ---

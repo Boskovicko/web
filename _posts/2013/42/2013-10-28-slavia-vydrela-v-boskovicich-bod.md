@@ -1,6 +1,6 @@
 ---
 title: Moravská Slavia vydřela v Boskovicích bod
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags:
 - okres Blansko

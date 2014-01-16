@@ -1,6 +1,6 @@
 ---
 title: Boskovičtí sociální demokraté se tvrdě postavili vedení strany
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: zprávy
 tags: politika ČSSD Boskovice 43-2013
 ---

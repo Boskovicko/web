@@ -1,6 +1,6 @@
 ---
 title: Porotu zaujaly Pružiny
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Brno 47-2013
 ---

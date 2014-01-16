@@ -1,6 +1,6 @@
 ---
 title: Juniorky jsou zatím první
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Boskovice volejbal 44-2013
 ---

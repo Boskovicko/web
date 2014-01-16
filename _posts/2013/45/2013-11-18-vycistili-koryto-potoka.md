@@ -1,6 +1,6 @@
 ---
 title: Vyčistili koryto potoka
-author: Marek Osouch
+authors: Marek Osouch
 category: zprávy
 tags: Žďárná voda 45-2013
 ---

@@ -1,6 +1,6 @@
 ---
 title: Do Švýcarska a zpět aneb Hodně fyziky, francouzštiny, čokolády a trochu sýra
-author: Kateřina Látalová
+authors: Kateřina Látalová
 category: napsali nám
 tags: 45-2013
 ---

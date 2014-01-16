@@ -1,6 +1,6 @@
 ---
 title: Popáté a nejtěsněji
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: cyklistika 41-2013
 ---

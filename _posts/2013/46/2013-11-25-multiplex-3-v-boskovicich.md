@@ -1,6 +1,6 @@
 ---
 title: Vlastního multiplexu 3 se v Boskovicích jen tak nedočkají
-author: Marek Osouch
+authors: Marek Osouch
 category: zprávy
 tags: Boskovice televize 46-2013
 ---

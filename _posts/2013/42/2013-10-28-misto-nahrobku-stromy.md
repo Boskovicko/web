@@ -1,6 +1,6 @@
 ---
 title: 'Časy se mění: místo náhrobků stromy, i tak může vypadat pohřbívání'
-author: Žaneta Ondroušková
+authors: Žaneta Ondroušková
 category: publicistika
 tags: Boskovicko 42-2013
 ---

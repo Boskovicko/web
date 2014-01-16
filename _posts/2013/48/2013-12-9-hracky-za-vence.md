@@ -1,6 +1,6 @@
 ---
 title: Za prodané adventní věnce koupí Cetkovičtí hračky
-author: Miroslava Sedláková
+authors: Miroslava Sedláková
 category: napsali nám
 tags: 48-2013
 ---

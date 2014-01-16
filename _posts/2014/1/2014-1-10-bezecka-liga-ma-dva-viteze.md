@@ -1,6 +1,6 @@
 ---
 title: Okresní běžecká liga má dva vítěze
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags:
 - okres Blansko

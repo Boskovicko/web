@@ -1,6 +1,6 @@
 ---
 title: Do jara vstoupili nejlépe fotbalisté Kunštátu
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags:
 - okres Blansko

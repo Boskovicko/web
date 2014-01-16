@@ -1,6 +1,6 @@
 ---
 title: Svatomartinské sprinty se vydařily
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Hodonín plavání 46-2013
 ---

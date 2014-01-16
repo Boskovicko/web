@@ -1,6 +1,6 @@
 ---
 title: Nabídka listopadového hvězdného nebe
-author: Jaroslav Chloupek
+authors: Jaroslav Chloupek
 category: informace
 tags: astronomie 42-2013
 ---

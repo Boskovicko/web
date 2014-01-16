@@ -1,6 +1,6 @@
 ---
 title: V derby se radovalo domácí Blansko
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Blansko hokej 48-2013
 ---

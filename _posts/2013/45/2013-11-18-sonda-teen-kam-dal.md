@@ -1,6 +1,6 @@
 ---
 title: 'Sonda teen: Kam dál'
-author: redakce
+authors: redakce
 category: publicistika
 tags:
 - sonda teen

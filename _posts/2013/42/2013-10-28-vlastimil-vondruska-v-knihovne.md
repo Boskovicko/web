@@ -1,6 +1,6 @@
 ---
 title: Knihovnu navštíví Vlastimil Vondruška
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice knihovna 42-2013
 ---

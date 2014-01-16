@@ -1,6 +1,6 @@
 ---
 title: Výsledkový přehled
-author: Lubomír Slezák
+authors: Lubomír Slezák
 excerpt: Shrnutí sportovních výsledků z volejbalu a stolního tenisu.
 category: sport
 tags:

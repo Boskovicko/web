@@ -1,6 +1,6 @@
 ---
 title: Život XVIII. – Čistá energie na Zemi
-author: Martina Lukešová
+authors: Martina Lukešová
 category: publicistika
 tags: Boskovice ekologie 46-2013
 ---

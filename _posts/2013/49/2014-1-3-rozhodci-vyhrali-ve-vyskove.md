@@ -1,6 +1,6 @@
 ---
 title: Rozhodčí vyhráli ve Vyškově
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Vyškov fotbal 49-2013
 ---

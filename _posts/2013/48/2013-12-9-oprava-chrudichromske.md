@@ -1,6 +1,6 @@
 ---
 title: Na pořadu dne je oprava Chrudichromské
-author: Petra Bílá
+authors: Petra Bílá
 category: zprávy
 tags: Boskovice doprava silnice opravy 48-2013
 ---

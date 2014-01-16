@@ -1,6 +1,6 @@
 ---
 title: Ani desáté kolo body nepřineslo
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Boskovice kuželky 45-2013
 ---

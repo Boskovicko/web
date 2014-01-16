@@ -1,6 +1,6 @@
 ---
 title: V Brně vyhrál turnaj ve šprtci Jakub David
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Brno šprtec 43-2013
 ---

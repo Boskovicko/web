@@ -1,6 +1,6 @@
 ---
 title: Na jarmark do Šebetova
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Šebetov Vánoce 48-2013
 ---

@@ -1,6 +1,6 @@
 ---
 title: Provozovatelé sportovišť usilují o pomoc kraje
-author: Petra Bílá
+authors: Petra Bílá
 category: zprávy
 tags: Boskovice 49-2013
 ---

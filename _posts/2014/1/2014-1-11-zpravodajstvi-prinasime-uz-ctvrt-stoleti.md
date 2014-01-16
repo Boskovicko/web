@@ -1,6 +1,8 @@
 ---
 title: Zpravodajství z regionu přinášíme svým čtenářům už čtvrt století
-author: Tomáš Trumpeš, Andrea Šrámková
+authors:
+    - Tomáš Trumpeš
+    - Andrea Šrámková
 photo: http://i.imgur.com/c8yZSNI.jpg
 category: publicistika
 tags:

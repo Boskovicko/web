@@ -1,6 +1,6 @@
 ---
 title: Černá kronika
-author: Petr Meluzín
+authors: Petr Meluzín
 category: informace
 excerpt: Pravidelný výběr ze zásahů policie ČR v regionu.
 tags: Boskovicko 2-2014

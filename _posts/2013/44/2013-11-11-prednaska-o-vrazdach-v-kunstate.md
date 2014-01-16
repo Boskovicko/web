@@ -1,6 +1,6 @@
 ---
 title: Přednáška připomene vraždy na kunštátském zámku
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Kunštát 44-2013
 ---

@@ -1,6 +1,6 @@
 ---
 title: Boskovičtí podpořili mikulášskou jízdu
-author: Petra Bílá
+authors: Petra Bílá
 category: zprávy
 tags: Boskovice železnice 44-2013
 ---

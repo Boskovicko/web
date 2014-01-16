@@ -1,6 +1,6 @@
 ---
 title: V muzeu zahájí vánoční výstavy
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice muzeum 47-2013
 ---

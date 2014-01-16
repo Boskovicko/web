@@ -1,6 +1,6 @@
 ---
 title: 'Anketa: Půjdete k volbám?'
-author: Andrea Šrámková
+authors: Andrea Šrámková
 category: publicistika
 tags:
 - Boskovicko

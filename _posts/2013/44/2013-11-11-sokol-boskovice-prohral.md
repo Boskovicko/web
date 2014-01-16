@@ -1,6 +1,6 @@
 ---
 title: Sokol Boskovice poprvé prohrál
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Boskovice basketbal 44-2013
 ---

@@ -1,6 +1,6 @@
 ---
 title: Zahrádkáři zvou na cyklus odborných přednášek
-author: Andrea Šrámková
+authors: Andrea Šrámková
 category: napsali nám
 tags: Boskovice 1-2014
 ---

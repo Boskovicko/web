@@ -1,6 +1,6 @@
 ---
 title: Studenti oboru ekonomiky a podnikání navštívili Prahu
-author: Tereza Novotná
+authors: Tereza Novotná
 category: napsali nám
 tags: Boskovice 42-2013
 ---

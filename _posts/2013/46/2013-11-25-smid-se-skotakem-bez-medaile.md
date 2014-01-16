@@ -1,6 +1,6 @@
 ---
 title: Šmíd se Skotákem jsou bez medaile
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Basilej cyklistika 46-2013
 ---

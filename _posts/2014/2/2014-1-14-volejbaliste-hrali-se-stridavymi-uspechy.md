@@ -1,6 +1,6 @@
 ---
 title: Volejbalisté hráli se střídavými úspěchy
-author: Lubomír Slezák
+authors: Lubomír Slezák
 photo: http://i.imgur.com/0TmDmoC.jpg
 category: sport
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Vánoční králík
-author: Petr Meluzín
+authors: Petr Meluzín
 category: napsali nám
 tags: Vánoce 48-2013
 ---

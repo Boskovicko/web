@@ -1,6 +1,6 @@
 ---
 title: Dárky přenesly radost i v dětském domově
-author: Jarmila Štůlová
+authors: Jarmila Štůlová
 category: napsali nám
 tags: Boskovice charita 1-2014
 ---

@@ -1,6 +1,6 @@
 ---
 title: Na zámku oslaví svatého Huberta
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice 42-2013
 ---

@@ -1,6 +1,6 @@
 ---
 title: Opravují zničený chodník
-author: Petra Bílá
+authors: Petra Bílá
 category: zprávy
 tags: Lysice opravy 41-2013
 ---

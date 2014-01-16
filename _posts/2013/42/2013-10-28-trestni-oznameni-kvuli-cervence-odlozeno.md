@@ -1,7 +1,7 @@
 ---
 title: Policie odložila trestní oznámení kvůli Července
 category: zprávy
-author: Marek Osouch
+authors: Marek Osouch
 tags:
   - koupaliště
   - "42-2013"

@@ -1,6 +1,6 @@
 ---
 title: V Okrouhlé vysadili krajové odrůdy ovocných stromů
-author: Pavel Chlup
+authors: Pavel Chlup
 category: napsali nám
 tags: Okrouhlá 1-2014
 ---

@@ -1,6 +1,6 @@
 ---
 title: Velkou pozornost si zaslouží projekty spolupráce MAS
-author: Jitka Melkusová
+authors: Jitka Melkusová
 category: publicistika
 tags: Boskovicko MAS 45-2013
 ---

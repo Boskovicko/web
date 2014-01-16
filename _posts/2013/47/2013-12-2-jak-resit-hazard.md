@@ -1,6 +1,6 @@
 ---
 title: 'Anketa: Jak řešit hazard?'
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: publicistika
 tags: anketa hazard 47-2013
 ---

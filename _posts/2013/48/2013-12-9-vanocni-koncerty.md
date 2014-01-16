@@ -1,6 +1,6 @@
 ---
 title: Vánoční svátky přivítá také řada koncertů
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovicko koncerty Vánoce 48-2013
 ---

@@ -1,6 +1,8 @@
 ---
 title: Svitávka chystá otevření naučné stezky
-author: Jana Strecková a Šárka Bartoňková
+authors:
+    - Jana Strecková
+    - Šárka Bartoňková
 category: napsali nám
 tags: Svitávka 44-2013
 ---

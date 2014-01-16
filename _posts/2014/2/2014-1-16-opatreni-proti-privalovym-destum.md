@@ -1,6 +1,6 @@
 ---
 title: Připravují opatření proti přívalovým dešťům
-author: Žaneta Ondroušková
+authors: Žaneta Ondroušková
 category: zprávy
 tags:
 - Lhota Rapotina

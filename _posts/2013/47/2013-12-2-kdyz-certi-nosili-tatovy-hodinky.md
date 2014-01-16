@@ -1,6 +1,6 @@
 ---
 title: Když čerti nosili tátovy hodinky
-author: Andrea Šrámková
+authors: Andrea Šrámková
 category: napsali nám
 tags: Vánoce 47-2013
 ---

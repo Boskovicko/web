@@ -1,6 +1,6 @@
 ---
 title: Bluesový večer ve skleníku
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice 47-2013
 ---

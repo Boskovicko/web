@@ -1,6 +1,6 @@
 ---
 title: Ve Skalici žila princezna z Krakatitu
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: publicistika
 photo: http://i.imgur.com/tkiZ2ep.jpg
 tags:

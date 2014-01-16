@@ -1,6 +1,6 @@
 ---
 title: Hlasovací mašina
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: napsali nám
 tags:
 - Boskovice

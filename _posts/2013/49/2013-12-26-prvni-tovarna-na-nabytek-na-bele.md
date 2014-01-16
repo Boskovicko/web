@@ -1,6 +1,6 @@
 ---
 title: První továrna na nábytek byla na Bělé
-author: Miroslava Boháčková
+authors: Miroslava Boháčková
 category: publicistika
 tags:
 - Boskovice

@@ -1,6 +1,6 @@
 ---
 title: Parlamentní volby jsou za dveřmi
-author: Petra Bílá
+authors: Petra Bílá
 category: zprávy
 tags:
 - Boskovicko

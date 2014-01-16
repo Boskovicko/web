@@ -1,6 +1,6 @@
 ---
 title: V Borotíně zkvalitňují knihovnické služby
-author: Jitka Melkusová
+authors: Jitka Melkusová
 category: kultura
 tags: Borotín knihovna dotace 42-2013
 ---

@@ -1,6 +1,6 @@
 ---
 title: Omlazovací cvičení čínských císařů pokračuje
-author: Andrea Šrámková
+authors: Andrea Šrámková
 category: sport
 tags: Boskovice 2-2014
 ---

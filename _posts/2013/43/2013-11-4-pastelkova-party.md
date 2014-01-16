@@ -1,6 +1,6 @@
 ---
 title: Pastelková párty ve školní družině
-author: Alena Koutná
+authors: Alena Koutná
 category: napsali nám
 tags: 43-2013
 ---

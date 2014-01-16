@@ -1,6 +1,6 @@
 ---
 title: Rudice na úvod prohrála
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Rudice šachy 42-2013
 ---

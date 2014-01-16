@@ -1,6 +1,6 @@
 ---
 title: Sloup vyhlásí nejlepší sportovce
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Sloup 44-2013
 ---

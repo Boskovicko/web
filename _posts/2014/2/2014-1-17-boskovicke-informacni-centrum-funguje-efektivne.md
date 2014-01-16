@@ -1,6 +1,6 @@
 ---
 title: Boskovické informační centrum funguje efektivně
-author: Petra Bílá
+authors: Petra Bílá
 category: zprávy
 tags: Boskovice 2-2014
 ---

@@ -1,6 +1,6 @@
 ---
 title: Výsledkový přehled
-author: Lubomír Slezák
+authors: Lubomír Slezák
 excerpt: Pravidelný přehled sportovních výsledků, tentokrát ze stolního tenisu.
 category: sport
 tags:

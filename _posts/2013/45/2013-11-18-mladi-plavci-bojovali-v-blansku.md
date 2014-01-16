@@ -1,6 +1,6 @@
 ---
 title: V Blansku bojovali mladí plavci
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Blansko plavání 45-2013
 ---

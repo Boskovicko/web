@@ -1,6 +1,6 @@
 ---
 title: Jíme proto, abychom umřeli
-author: Jitka Melkusová
+authors: Jitka Melkusová
 category: napsali nám
 tags: 2-2014
 ---

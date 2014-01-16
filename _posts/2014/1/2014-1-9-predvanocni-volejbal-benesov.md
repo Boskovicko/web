@@ -1,6 +1,6 @@
 ---
 title: Předvánoční volejbal v Benešově
-author: Regina Rusová
+authors: Regina Rusová
 category: sport
 tags: Benešov volejbal 1-2014
 ---

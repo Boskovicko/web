@@ -1,6 +1,6 @@
 ---
 title: Letovičtí hasiči získali ocenění, tentokrát za tradiční pořádání mikulášské nadílky
-author: M. Krajíčková
+authors: M. Krajíčková
 category: zprávy
 tags: Letovice hasiči 47-2013
 ---

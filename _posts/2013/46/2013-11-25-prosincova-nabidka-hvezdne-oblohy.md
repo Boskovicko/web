@@ -1,6 +1,6 @@
 ---
 title: Prosincová nabídka na hvězdné obloze
-author: Jaroslav Chloupek
+authors: Jaroslav Chloupek
 category: informace
 tags: astronomie 46-2013
 ---

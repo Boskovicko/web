@@ -1,6 +1,6 @@
 ---
 title: 'Jak se žilo v Boskovicích: 9. Já nevím o žádné rvačce'
-author: Miroslava Boháčková
+authors: Miroslava Boháčková
 category: publicistika
 tags:
 - Boskovice

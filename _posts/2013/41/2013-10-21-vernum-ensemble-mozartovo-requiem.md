@@ -1,6 +1,6 @@
 ---
 title: Ondřej Tajovský připravuje s Vernum 2013 Ensemble Mozartovo Requiem
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 photo: http://i.imgur.com/QXFxFsR.jpg
 tags:

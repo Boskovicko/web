@@ -1,6 +1,6 @@
 ---
 title: Vysvětili novou přístavbu hřbitova ve Svitávce
-author: Miroslav Holík
+authors: Miroslav Holík
 category: napsali nám
 tags: Svitávka 44-2013
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vlastimil Hebelka skončil osmý
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Boskovice golf 45-2013
 ---

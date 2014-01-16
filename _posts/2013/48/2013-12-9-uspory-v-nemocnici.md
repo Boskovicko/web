@@ -1,6 +1,6 @@
 ---
 title: Vedení nemocnice připravuje řadu úsporných opatření
-author: Petra Bílá
+authors: Petra Bílá
 category: zprávy
 tags: Boskovice nemocnice rozhovory 48-2013
 ---

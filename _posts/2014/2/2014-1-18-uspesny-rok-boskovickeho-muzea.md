@@ -1,6 +1,6 @@
 ---
 title: Muzeum Boskovicka hodnotí loňský rok jako úspěšný
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice muzeum 2-2014
 ---

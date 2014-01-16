@@ -1,6 +1,6 @@
 ---
 title: Tajemství knihy
-author: Zuzana Hrubá
+authors: Zuzana Hrubá
 category: napsali nám
 tags: Boskovice knihovna 48-2013
 ---

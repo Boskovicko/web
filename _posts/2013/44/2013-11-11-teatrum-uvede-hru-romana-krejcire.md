@@ -1,6 +1,6 @@
 ---
 title: TEATRUM uvede hru Romana Krejčíře
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags:
 - Velké Opatovice

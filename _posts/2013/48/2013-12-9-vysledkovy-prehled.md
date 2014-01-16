@@ -1,6 +1,6 @@
 ---
 title: Výsledkový přehled
-author: Lubomír Slezák
+authors: Lubomír Slezák
 excerpt: Přehled aktuálních výsledků z šipkových soutěží.
 category: sport
 tags:

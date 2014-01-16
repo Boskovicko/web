@@ -1,6 +1,6 @@
 ---
 title: Orel přivezl z Prahy bronz
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Praha šprtec 44-2013
 ---

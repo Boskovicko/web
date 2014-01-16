@@ -1,6 +1,6 @@
 ---
 title: Na Vánočním koncertě zazní Moravská vánoční mše doubravická
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice Vánoce koncerty 46-2013
 ---

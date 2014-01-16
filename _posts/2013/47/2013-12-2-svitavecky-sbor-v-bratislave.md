@@ -1,6 +1,6 @@
 ---
 title: Svitávecký sbor vystupoval v hlavním městě Slovenska
-author: Miroslav Holík
+authors: Miroslav Holík
 category: napsali nám
 tags: Svitávka 47-2013
 ---

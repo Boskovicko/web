@@ -1,6 +1,6 @@
 ---
 title: 'Sonda teen: Co ti říká jméno Otakar Kubín?'
-author: Ludmila Dobrozemská
+authors: Ludmila Dobrozemská
 category: kultura
 tags:
 - sonda teen

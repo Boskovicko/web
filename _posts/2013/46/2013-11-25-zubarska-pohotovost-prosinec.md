@@ -1,6 +1,6 @@
 ---
 title: Stomatologická lékařská služba první pomoci v prosinci
-author: redakce
+authors: redakce
 category: informace
 tags:
 - okres Blansko

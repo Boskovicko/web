@@ -1,6 +1,6 @@
 ---
 title: Soud stavbu haly nezastavil
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: zprávy
 tags:
 - Boskovice

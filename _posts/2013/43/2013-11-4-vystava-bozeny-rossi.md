@@ -1,6 +1,6 @@
 ---
 title: V Galerii Otakara Kubína bude vystavovat Božena Rossí
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags:
 - Boskovice

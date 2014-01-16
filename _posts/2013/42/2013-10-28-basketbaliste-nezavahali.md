@@ -1,6 +1,6 @@
 ---
 title: Basketbalisté nezaváhali
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Boskovice basketbal 42-2013
 ---

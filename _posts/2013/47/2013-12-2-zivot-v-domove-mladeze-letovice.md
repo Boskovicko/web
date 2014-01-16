@@ -1,6 +1,6 @@
 ---
 title: Život v Domově mládeže Masarykovy střední školy Letovice není jen učení	
-author: kolektiv vychovatelů
+authors: kolektiv vychovatelů
 category: napsali nám
 tags: Letovice 47-2013
 ---

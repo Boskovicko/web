@@ -1,6 +1,6 @@
 ---
 title: 'Sonda teen: Světelná reklama'
-author: Ludmila Dobrozemská
+authors: Ludmila Dobrozemská
 category: publicistika
 tags:
 - sonda teen

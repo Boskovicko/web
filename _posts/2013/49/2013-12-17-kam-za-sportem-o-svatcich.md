@@ -1,6 +1,6 @@
 ---
 title: Kam za sportem o svátcích
-author: Ludmila Dobrozemská
+authors: Ludmila Dobrozemská
 category: sport
 tags: Boskovicko 49-2013
 ---

@@ -1,6 +1,6 @@
 ---
 title: V mlékárně Miltra končí výroba
-author: M. Krajíčková
+authors: M. Krajíčková
 category: zprávy
 tags:
 - Městečko Trnávka

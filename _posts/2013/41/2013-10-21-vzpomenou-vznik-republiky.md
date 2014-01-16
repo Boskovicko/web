@@ -1,6 +1,6 @@
 ---
 title: Vzpomenou vznik republiky
-author: Jitka Melkusová
+authors: Jitka Melkusová
 category: zprávy
 tags: Boskovicko 41-2013
 ---

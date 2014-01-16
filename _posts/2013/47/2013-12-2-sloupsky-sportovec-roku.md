@@ -1,6 +1,6 @@
 ---
 title: Sloup vyhlásil sportovce roku
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Sloup 47-2013
 ---

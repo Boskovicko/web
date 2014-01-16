@@ -1,6 +1,6 @@
 ---
 title: Basketbalisté Boskovic jsou druzí
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags:
 - okres Blansko

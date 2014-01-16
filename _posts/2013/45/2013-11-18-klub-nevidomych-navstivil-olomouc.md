@@ -1,6 +1,6 @@
 ---
 title: Boskovický klub nevidomých a slabozrakých navštívil Olomouc
-author: Marie Reková
+authors: Marie Reková
 category: napsali nám
 tags: 45-2013
 ---

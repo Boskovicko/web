@@ -1,6 +1,6 @@
 ---
 title: Basketbalisté byli úspěšní
-author: Lubomír Slezák
+authors: Lubomír Slezák
 category: sport
 tags: Boskovice basketbal 46-2013
 ---

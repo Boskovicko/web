@@ -1,6 +1,6 @@
 ---
 title: Divadlo KočéBR uvede hru podle vyprávění Věry Škápíkové
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Blansko divadlo 44-2013
 ---

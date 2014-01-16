@@ -1,6 +1,6 @@
 ---
 title: Knihovna v Roubanině získala ocenění
-author: Zdeňka Mifková
+authors: Zdeňka Mifková
 category: napsali nám
 tags: Roubanina knihovna 44-2013
 ---

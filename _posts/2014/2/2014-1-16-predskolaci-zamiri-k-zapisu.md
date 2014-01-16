@@ -1,6 +1,6 @@
 ---
 title: Předškoláci zamíří k zápisu
-author: M. Krajíčková
+authors: M. Krajíčková
 category: zprávy
 tags: Boskovice 2-2014
 ---

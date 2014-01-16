@@ -1,6 +1,6 @@
 ---
 title: Primář Jan Machač operoval před tři sta dvaceti diváky
-author: Andrea Šrámková
+authors: Andrea Šrámková
 category: publicistika
 tags: Boskovice nemocnice 45-2013
 ---

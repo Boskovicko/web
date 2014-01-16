@@ -1,6 +1,6 @@
 ---
 title: Beseda představí expedici do Konga
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice 43-2013
 ---

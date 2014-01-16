@@ -1,6 +1,6 @@
 ---
 title: Referendum o sportovní hale stálo 170 tisíc
-author: Tomáš Trumpeš
+authors: Tomáš Trumpeš
 category: zprávy
 photo: http://i.imgur.com/U72Zi12.jpg
 tags:

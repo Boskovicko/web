@@ -1,6 +1,6 @@
 ---
 title: Vítězství v celorepublikové soutěži si odnesla zdravotní sestra z Boskovic
-author: M. Krajíčková
+authors: M. Krajíčková
 category: Z regionu
 tags: Boskovice nemocnice rozhovory 43-2013
 ---

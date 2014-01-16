@@ -1,6 +1,6 @@
 ---
 title: V Úsobrně odhalili památník
-author: redakce
+authors: redakce
 category: zprávy
 tags: Úsobrno 46-2013
 ---
