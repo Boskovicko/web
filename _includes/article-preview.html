@@ -3,6 +3,9 @@
     <img class="img-responsive titulni-obrazek" src="{{ post.photo }}" alt="">
     {% endif %}
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p class="perex">{{ post.excerpt }}</p>
+    <p class="perex">
+        {{ post.excerpt | strip_html }}
+        <a href="{{ post.url }}">čtěte dál »</a>
+    </p>
     {% include article-meta.html %}
 </div>
