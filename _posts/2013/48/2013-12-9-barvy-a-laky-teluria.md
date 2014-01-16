@@ -2,7 +2,7 @@
 title: Ve Skrchově vyrábíme zhruba třetinu české produkce nátěrových hmot, prozradil Jakub Noll
 author: Andrea Šrámková
 category: publicistika
-tags: Skrchov rozhovor 48-2013
+tags: Skrchov rozhovory 48-2013
 ---
 
 V názvu společnosti, do níž zavítáme třetím pokračováním seriálu věnovaného firmám na Boskovicku, stála od počátku bohyně země Teluria. Podle ní se i dnes jmenuje firma ve Skrchově u Letovic, zaměřující se už přes sto let na výrobu nejrůznějších nátěrových hmot. Současný ředitel společnosti Barvy a laky Teluria Jakub Noll tvrdí, že s jejich barvami lze natřít snad cokoliv, tak široký sortiment dokážou ve skrchovském areálu vyrobit.

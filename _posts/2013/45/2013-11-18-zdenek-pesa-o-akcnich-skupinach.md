@@ -2,7 +2,7 @@
 title: Musíme si vydobýt své místo na slunci, říká o místních akčních skupinách Zdeněk Peša
 author: Jitka Melkusová
 category: publicistika
-tags: Boskovice MAS EU rozhovor 45-2013
+tags: Boskovice MAS EU rozhovory 45-2013
 ---
 
 *Místní akční skupina.* Název jak z padesátých let klame. Žádný jiný systém není tak životaschopný a tak rozprostřený venkovským prostorem, jako právě „maska“, jak je zvykem jí říkat. Možná právě proto se o nich tak málo ví a tak málo píše, že se týká právě jen venkovského prostoru.

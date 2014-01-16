@@ -2,7 +2,7 @@
 title: Vedení nemocnice připravuje řadu úsporných opatření
 author: Petra Bílá
 category: zprávy
-tags: Boskovice nemocnice rozhovor 48-2013
+tags: Boskovice nemocnice rozhovory 48-2013
 ---
 
 V září letošního roku udělal jednatel Nemocnice Boskovice Dan Navrátil dva významné kroky. Nejprve oficiálně oznámil, že hospodaření nemocnice se ocitá v červených číslech. Poté jmenoval do funkce ekonomického náměstka Tomáše Julínka. Zeptali jsme se, jaké další kroky směřující ke stabilizaci nemocnice budou následovat, či jak je na tom hospodaření nemocnice ke konci roku.
