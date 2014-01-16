@@ -254,6 +254,10 @@ a.home {
 .tag-list a:hover { background: orange; color: white; }
 .tag-list a:hover:before { border-color: transparent orange transparent transparent; }
 
+.fb-like {
+    float: right;
+}
+
 /* Inzerce */
 
 .advertising .thumbnail {

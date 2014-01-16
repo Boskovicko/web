@@ -21,6 +21,7 @@
                 {{ content }}
                 {% if page.tags.size > 0 %}
                 <hr class="medium">
+                {% include facebook-like-button.html %}
                 <ul class="tag-list">
                     {% for tag in page.tags %}
                     <li><a href="/temata/{{ tag | url_encode }}/">{{ tag }}</a></li>
