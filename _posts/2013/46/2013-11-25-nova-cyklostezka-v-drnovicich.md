@@ -1,7 +1,7 @@
 ---
 title: Drnovičtí plánují postavit cyklostezku
 authors: Žaneta Ondroušková
-category: zprávy
+category: zpravodajství
 tags: Drnovice cyklistika 46-2013
 ---
 

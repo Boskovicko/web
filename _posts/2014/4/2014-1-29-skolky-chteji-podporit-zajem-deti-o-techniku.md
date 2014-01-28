@@ -1,7 +1,7 @@
 ---
 title: Mateřské školy chtějí podpořit zájem dětí o techniku
 authors: Andrea Šrámková
-category: zprávy
+category: zpravodajství
 tags:
 - Rudka u Kunštátu
 - MAS

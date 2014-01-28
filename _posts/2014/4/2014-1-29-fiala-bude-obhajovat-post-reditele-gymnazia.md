@@ -1,7 +1,7 @@
 ---
 title: Fiala bude na jaře obhajovat post ředitele gymnázia
 authors: Marek Osouch
-category: zprávy
+category: zpravodajství
 tags: Boskovice gymnázium 4-2014
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Rukama zastupitelů projdou návrhy rozpočtů na příští rok
 authors: Petra Bílá
-category: zprávy
+category: zpravodajství
 tags: Boskovicko 46-2013
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Město pro byznys – Boskovice mezi nejslabšími v kraji
 authors: Petra Bílá
-category: zprávy
+category: zpravodajství
 tags: Boskovice Blansko podnikání 3-2014
 ---
 

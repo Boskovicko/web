@@ -1,7 +1,7 @@
 ---
 title: Letovičtí radní připravují přesun autobusového nádraží z náměstí
 authors: Marek Osouch
-category: zprávy
+category: zpravodajství
 tags: Letovice doprava 1-2014
 ---
 

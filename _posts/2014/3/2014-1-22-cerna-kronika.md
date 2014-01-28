@@ -2,7 +2,7 @@
 title: Černá kronika
 authors: Petr Meluzín
 excerpt: "Pravidelný přehled z černé kroniky – vloupání ve Velkých Opatovicích, tradiční řízení pod vlivem alkoholu a finanční podvody."
-category: zprávy
+category: zpravodajství
 tags: 3-2014
 ---
 

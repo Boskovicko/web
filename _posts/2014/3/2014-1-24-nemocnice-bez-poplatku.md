@@ -1,7 +1,7 @@
 ---
 title: Pobyt v nemocnici je od ledna bez poplatku
 authors: Petra Bílá
-category: zprávy
+category: zpravodajství
 tags: Boskovice Blansko nemocnice 3-2014
 ---
 

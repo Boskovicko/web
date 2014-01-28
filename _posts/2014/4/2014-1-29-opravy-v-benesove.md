@@ -1,7 +1,7 @@
 ---
 title: V Benešově upraví okolí sokolovny, kostela i hasičské zbrojnice
 authors: Miroslava Boháčková
-category: zprávy
+category: zpravodajství
 tags: Benešov opravy 4-2014
 ---
 

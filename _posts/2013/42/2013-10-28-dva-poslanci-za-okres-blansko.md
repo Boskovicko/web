@@ -1,7 +1,7 @@
 ---
 title: Za okres Blansko se budou brát dva poslanci
 authors: Petra Bílá
-category: zprávy
+category: zpravodajství
 tags:
 - okres Blansko
 - politika

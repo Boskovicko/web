@@ -1,7 +1,7 @@
 ---
 title: Novela zákona o veřejných zakázkách přinesla i významné úspory
 authors: Marek Osouch
-category: zprávy
+category: zpravodajství
 tags: Boskovicko 4-2014
 ---
 

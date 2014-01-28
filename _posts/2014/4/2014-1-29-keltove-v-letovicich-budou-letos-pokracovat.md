@@ -1,7 +1,7 @@
 ---
 title: Keltové v Letovicích budou letos pokračovat
 authors: M. Krajíčková
-category: zprávy
+category: zpravodajství
 tags: Letovice 4-2014
 ---
 

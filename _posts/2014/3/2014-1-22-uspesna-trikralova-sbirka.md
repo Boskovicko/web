@@ -1,7 +1,7 @@
 ---
 title: Tříkrálová sbírka byla úspěšnější než minulý rok
 authors: M. Krajíčková
-category: zprávy
+category: zpravodajství
 tags:
 - okres Blansko
 - charita

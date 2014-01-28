@@ -1,7 +1,7 @@
 ---
 title: Díky novému projektu bude boskovický městský úřad otevřenější veřejnosti
 authors: Petra Bílá
-category: zprávy
+category: zpravodajství
 tags: Boskovice úřady 47-2013
 ---
 

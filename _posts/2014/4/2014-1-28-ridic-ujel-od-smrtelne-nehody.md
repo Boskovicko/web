@@ -1,6 +1,6 @@
 ---
 title: Řidič ujel od smrtelné nehody
-category: zprávy
+category: zpravodajství
 tags: Lipovec 4-2014
 ---
 

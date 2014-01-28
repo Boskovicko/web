@@ -2,7 +2,7 @@
 title: Černá kronika
 authors: Petr Meluzín
 excerpt: Pravidelný souhrn zásahů policie v regionu.
-category: zprávy
+category: zpravodajství
 tags:
 - okres Blansko
 - 4-2014

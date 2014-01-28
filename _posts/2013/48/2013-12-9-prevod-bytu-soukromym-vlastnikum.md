@@ -1,7 +1,7 @@
 ---
 title: Byty převedou soukromým vlastníkům
 authors: Petra Bílá
-category: zprávy
+category: zpravodajství
 tags: Boskovice bydlení 48-2013
 ---
 

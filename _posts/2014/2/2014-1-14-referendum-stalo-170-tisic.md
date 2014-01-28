@@ -1,7 +1,7 @@
 ---
 title: Referendum o sportovní hale stálo 170 tisíc
 authors: Tomáš Trumpeš
-category: zprávy
+category: zpravodajství
 photo: http://i.imgur.com/U72Zi12.jpg
 tags:
 - Boskovice

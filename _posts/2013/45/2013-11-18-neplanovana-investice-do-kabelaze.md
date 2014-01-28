@@ -1,7 +1,7 @@
 ---
 title: Havarijní stav elektrických kabelů si vyžádal neplánovanou investici
 authors: Andrea Šrámková
-category: zprávy
+category: zpravodajství
 tags: Boskovice nemocnice 45-2013
 ---
 

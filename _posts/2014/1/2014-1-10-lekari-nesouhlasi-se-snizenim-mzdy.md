@@ -1,7 +1,7 @@
 ---
 title: Lékaři v nemocnici nesouhlasí se snížením mzdy
 authors: Andrea Šrámková
-category: zprávy
+category: zpravodajství
 tags: Boskovice nemocnice 1-2014
 ---
 

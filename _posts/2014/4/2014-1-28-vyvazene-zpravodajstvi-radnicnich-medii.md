@@ -1,7 +1,7 @@
 ---
 title: "Nový zákon: Radniční média by měla informovat vyváženě"
 authors: Tomáš Trumpeš
-category: zprávy
+category: zpravodajství
 tags: Boskovice 4-2014
 ---
 

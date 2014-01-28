@@ -1,7 +1,7 @@
 ---
 title: Výplaty dávek se mohou zpozdit i obyvatelům Boskovicka
 authors: Marek Osouch
-category: zprávy
+category: zpravodajství
 tags: Boskovicko 2-2014
 ---
 

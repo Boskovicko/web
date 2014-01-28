@@ -1,7 +1,7 @@
 ---
 title: V Šebetově otevřou mateřské centrum
 authors: Miroslava Boháčková
-category: zprávy
+category: zpravodajství
 tags: Šebetov 3-2014
 ---
 

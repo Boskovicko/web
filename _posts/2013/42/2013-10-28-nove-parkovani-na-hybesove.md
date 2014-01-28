@@ -1,7 +1,7 @@
 ---
 title: Na Hybešově ulici mají vzniknout nová parkovací místa
 authors: Petra Bílá
-category: zprávy
+category: zpravodajství
 tags: Boskovice parkování 42-2013
 ---
 

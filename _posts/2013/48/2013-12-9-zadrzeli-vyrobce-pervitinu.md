@@ -1,7 +1,7 @@
 ---
 title: Blanenská policie zadržela dva výrobce pervitinu
 authors: Andrea Šrámková
-category: zprávy
+category: zpravodajství
 tags:
 - okres Blansko
 - drogy

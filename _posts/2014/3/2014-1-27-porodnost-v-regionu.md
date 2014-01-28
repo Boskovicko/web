@@ -1,7 +1,7 @@
 ---
 title: Rodí se více chlapců, v některých obcích klesá počet obyvatel
 authors: Miroslava Boháčková
-category: zprávy
+category: zpravodajství
 tags: Boskovicko demografie 3-2014
 ---
 

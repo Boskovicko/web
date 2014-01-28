@@ -1,7 +1,7 @@
 ---
 title: Rodiny hendikepovaných lidí doplácí vysoké částky za dopravu
 authors: Petra Bílá
-category: zprávy
+category: zpravodajství
 tags: Boskovicko charita 4-2014
 ---
 

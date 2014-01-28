@@ -1,7 +1,7 @@
 ---
 title: Všichni společně si přejí – ať stoupá spotřeba vody
 authors: Jitka Melkusová
-category: zprávy
+category: zpravodajství
 excerpt: Ti, co hlídají kvalitu a cenu vody, i ti, co se starají o vodárenský servis, společně oslavili dvacítku.
 tags: Boskovice voda 41-2013
 ---

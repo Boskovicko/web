@@ -1,7 +1,7 @@
 ---
 title: Zastupitelé odpověděli petentům ze Štefánikovy
 authors: Tomáš Trumpeš
-category: zprávy
+category: zpravodajství
 tags: Boskovice doprava 49-2013
 ---
 

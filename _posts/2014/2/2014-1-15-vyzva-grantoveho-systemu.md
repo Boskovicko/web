@@ -1,7 +1,7 @@
 ---
 title: Boskovičtí vyhlásili výzvu do grantového systému
 authors: Petra Bílá
-category: zprávy
+category: zpravodajství
 tags: Boskovice granty 2-2014
 ---
 

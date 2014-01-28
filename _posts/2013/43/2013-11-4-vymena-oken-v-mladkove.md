@@ -1,7 +1,7 @@
 ---
 title: V Mladkově nechají vyměnit okna
 authors: Petra Bílá
-category: zprávy
+category: zpravodajství
 tags: Mladkov opravy 43-2013
 ---
 

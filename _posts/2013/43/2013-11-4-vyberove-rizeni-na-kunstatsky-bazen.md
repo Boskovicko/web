@@ -1,7 +1,7 @@
 ---
 title: Na projekt bazénu vyhlásí třetí výběrové řízení
 authors: Ludmila Dobrozemská
-category: zprávy
+category: zpravodajství
 tags: Kunštát výstavba 43-2013
 ---
 

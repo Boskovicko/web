@@ -1,7 +1,7 @@
 ---
 title: Tržnice změní své stanoviště
 authors: Petra Bílá
-category: zprávy
+category: zpravodajství
 tags: Boskovice trhy 46-2013
 ---
 

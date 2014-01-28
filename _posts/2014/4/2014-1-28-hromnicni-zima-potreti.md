@@ -1,7 +1,7 @@
 ---
 title: Už potřetí zve blanenská charita na benefiční akci Hromniční zima
 authors: Andrea Šrámková
-category: zprávy
+category: zpravodajství
 tags: Boskovice Blansko charita 4-2014
 ---
 

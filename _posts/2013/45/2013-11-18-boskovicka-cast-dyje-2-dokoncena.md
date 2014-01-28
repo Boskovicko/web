@@ -1,7 +1,7 @@
 ---
 title: Boskovická část projektu Dyje II byla ukončena s výraznou úsporou
 authors: Jitka Melkusová
-category: zprávy
+category: zpravodajství
 tags: Boskovice voda 45-2013
 ---
 

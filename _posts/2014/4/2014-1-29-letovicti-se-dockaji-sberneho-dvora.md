@@ -1,7 +1,7 @@
 ---
 title: Letovičtí se konečně dočkají sběrného dvora
 authors: M. Krajíčková
-category: zprávy
+category: zpravodajství
 tags: Letovice odpad 4-2014
 ---
 

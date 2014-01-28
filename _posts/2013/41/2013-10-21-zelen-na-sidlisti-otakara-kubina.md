@@ -1,7 +1,7 @@
 ---
 title: Zeleň na sídlišti Otakara Kubína prořídne
 authors: Petra Bílá
-category: zprávy
+category: zpravodajství
 tags: Boskovice zeleň 41-2013
 ---
 

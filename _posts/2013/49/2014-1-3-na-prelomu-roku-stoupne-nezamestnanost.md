@@ -1,7 +1,7 @@
 ---
 title: Na přelomu roku stoupne počet lidí bez práce
 authors: Petra Bílá
-category: zprávy
+category: zpravodajství
 tags: Boskovicko nezaměstnanost 49-2013
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Polní cesta z Boskovic do Mladkova je hotová a připravená k užívání
 authors: Petra Bílá
-category: zprávy
+category: zpravodajství
 tags: Boskovice silnice doprava 48-2013
 ---
 
