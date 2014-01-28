@@ -1,0 +1,13 @@
+---
+title: V Benešově upraví okolí sokolovny, kostela i hasičské zbrojnice
+authors: Miroslava Boháčková
+category: zprávy
+tags: Benešov opravy 4-2014
+---
+
+Hned několik investičních akcí, které do jisté míry pozmění dosavadní tvář obce, chystají během letošního roku v Benešově. A nepůjde pouze o úpravy veřejného prostranství a jejich dovybavení venkovním mobiliářem, jako jsou lavičky, květináče a odpadkové koše, či o revitalizaci zeleně. „Jakmile počasí dovolí, začneme s úpravou kolem sokolovny, kde mimo jiné plánujeme vybudovat deset parkovacích míst. Mezi sokolovnou a obchodem dále vznikne plocha pro umístění kontejnerů na tříděný odpad. Celková investice vyjde na devět set patnáct tisíc, z čehož dotace z MAS Boskovicko Plus činí pět set tisíc, zbývající část hradíme z obecního rozpočtu,“ upřesnil starosta obce Antonín Rus.
+
+„Dále v rámci projektu Revitalizace centra obce začneme od podzimka s obnovou prostranství kolem kostela. I zde vzniknou parkovací místa, dále nová komunikace a pochopitelně dojde i na celkovou úpravu zeleně. Akci již máme schválenou k financování z ROP Jihovýchod, nyní čekáme na podpis smlouvy. Celkové náklady představují necelých pět milionů sedm set tisíc, z čehož obec ze svého rozpočtu uhradí přibližně devět set tisíc. Dále jsme financovali vypracování žádosti na vybudování víceúčelového hřiště, kterou si u MŠMT podala Tělocvičná jednota Sokol. Zda tato žádost uspěje, bude zřejmé na jaře,“ vypočítal dále Antonín Rus.
+
+Z obecních prostředků se Benešovští v dohledné době pustí také do úpravy prostranství kolem nové hasičské zbrojnice. Práce přijdou na tři sta tisíc a hotové by měly být do května, kdy tamní hasiči oslaví 125. výročí svého založení. Plánovaná je i oprava prostranství kolem obecního úřadu, což si z obecního rozpočtu vyžádá necelých tři sta tisíc. Naopak před dokončením je adaptace autobusové čekárny včetně přilehlé nocovny pro řidiče, kde náklady činily tři sta tisíc. Místní čtenáři se pak v brzké době mohou těšit na zrekonstruovanou knihovnu. Ta se v rámci obecní budovy přestěhovala do přízemí a mimo stávající služby nově nabídne i připojení k internetu či zařízenou studovnu. Celková investice přišla obec na sto třicet tisíc.
+A do budoucna? „Pochopitelně nezapomínáme ani na výstavbu rodinných domků. V současné době se zpracovává projektová dokumentace na zasíťování pozemků v části obce Pastvisko, kde po vybudování infrastruktury nabídneme k prodeji třináct stavebních míst,“ načrtl starosta Antonín Rus další z investičních akcí, kterou Benešov brzy čeká.
