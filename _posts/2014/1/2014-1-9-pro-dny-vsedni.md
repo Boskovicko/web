@@ -1,7 +1,7 @@
 ---
 title: Pro dny všední…
 authors: Andrea Šrámková
-category: napsali nám
+category: publicistika
 tags: 1-2014
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Dosáhl na 2. místo na celostátní úrovni
 authors: Pavla Bojdová
-photo: http://i.imgur.com/D1dJRVR.jpg
 category: napsali nám
 tags: Letovice 2-2014
 ---

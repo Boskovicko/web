@@ -1,7 +1,7 @@
 ---
 title: Jíme proto, abychom umřeli
 authors: Jitka Melkusová
-category: napsali nám
+category: publicistika
 tags: 2-2014
 ---
 

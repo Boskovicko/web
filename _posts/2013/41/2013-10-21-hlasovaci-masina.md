@@ -1,7 +1,7 @@
 ---
 title: Hlasovací mašina
 authors: Tomáš Trumpeš
-category: napsali nám
+category: publicistika
 tags:
 - Boskovice
 - sportovní hala

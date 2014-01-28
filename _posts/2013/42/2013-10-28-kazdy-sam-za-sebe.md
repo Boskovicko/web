@@ -1,7 +1,7 @@
 ---
 title: Každý sám za sebe
 authors: Jitka Melkusová
-category: napsali nám
+category: publicistika
 tags: volby 42-2013
 ---
 

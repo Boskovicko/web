@@ -1,7 +1,7 @@
 ---
 title: Přímo do očí
 authors: Andrea Šrámková
-category: napsali nám
+category: publicistika
 tags: 43-2013
 ---
 

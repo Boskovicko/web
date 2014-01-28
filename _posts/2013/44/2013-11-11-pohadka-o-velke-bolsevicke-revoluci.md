@@ -1,7 +1,7 @@
 ---
 title: Pohádka o velké bolševické revoluci
 authors: Petr Meluzín
-category: napsali nám
+category: publicistika
 tags: 44-2013
 ---
 

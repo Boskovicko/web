@@ -1,7 +1,7 @@
 ---
 title: Hvězdy svítí i ve dne
 authors: Martina Lukešová
-category: napsali nám
+category: publicistika
 tags: 49-2013
 ---
 
