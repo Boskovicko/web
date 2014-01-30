@@ -180,15 +180,13 @@ a.home {
 /* Nejčtenější články */
 
 .top-articles ol {
-    margin-left: 0;
-    padding-left: 0;
-    list-style-position: inside;
+    margin-left: 10px;
+    padding-left: 8px;
     color: gray;
 }
 
 .top-articles a {
     text-transform: uppercase;
-    margin-left: 0.5ex;
 }
 
 .top-articles li {
