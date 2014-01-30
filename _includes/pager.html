@@ -16,18 +16,20 @@
         {% endif %}
         <div class="row">
             <div class="col-md-6 col-sm-12">
-            {% for post in paginator.posts limit:3 %}
+            {% for post in paginator.posts %}
                 {% if post.url != featured_post.url %}
                     {% include article-preview.html %}
                 {% endif %}
             {% endfor %}
             </div>
-            <div class="col-md-6 col-sm-12">
-            {% for post in paginator.posts offset:3 limit:3 %}
-                {% if post.url != featured_post.url %}
-                    {% include article-preview.html %}
-                {% endif %}
-            {% endfor %}
+            <div class="col-md-6 col-sm-12 photo-column">
+                <h2>Region v obrazech</h2>
+                {% for photo in site.data.fotky limit:3 %}
+                <div class="photo-post-preview">
+                    <img src="{{ photo.nahled }}" alt="" class="img-responsive">
+                    <p><span class="name">{{ photo.nazev }}</span> {{ photo.text }}</p>
+                </div>
+                {% endfor %}
             </div>
         </div>
         {% if paginator.total_pages > 1 %}
