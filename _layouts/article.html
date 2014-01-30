@@ -3,11 +3,7 @@
 <head>
     {% include html-head.html %}
     <title>{{ page.title }} | Boskovicko, regionální noviny</title>
-    <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:site_name" content="Boskovicko, regionální noviny">
-    {% if page.cover-photo %}
-    <meta property="og:image" content="{{ page.cover-photo }}">
-    {% endif %}
+    {% include open-graph-meta.html %}
 </head>
 <body>
     <script src="/js/balanced-sidebar.js"></script>
