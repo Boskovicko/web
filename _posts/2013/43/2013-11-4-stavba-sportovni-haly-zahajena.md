@@ -2,7 +2,7 @@
 title: Stavba sportovní haly zahájena
 authors: Tomáš Trumpeš
 category: Z regionu
-photo: http://i.imgur.com/mCjjMHq.jpg
+cover-photo: http://i.imgur.com/mCjjMHq.jpg
 tags:
 - Boskovice
 - výstavba

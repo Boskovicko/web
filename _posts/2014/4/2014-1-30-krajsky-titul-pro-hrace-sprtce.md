@@ -1,7 +1,7 @@
 ---
 title: Mladí hráči šprtce mají další krajský titul
 authors: Lubomír Slezák
-photo: http://i.imgur.com/YQJOwvB.jpg
+cover-photo: http://i.imgur.com/YQJOwvB.jpg
 category: sport
 tags: Brno šprtec 4-2014
 ---

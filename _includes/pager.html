@@ -1,5 +1,5 @@
 {% for post in paginator.posts %}
-    {% if post.photo and (featured_post == blank) %}
+    {% if post.cover-photo and (featured_post == blank) %}
         {% assign featured_post = post %}
     {% endif %}
 {% endfor %}

@@ -1,7 +1,7 @@
 ---
 title: Volejbalisté hráli se střídavými úspěchy
 authors: Lubomír Slezák
-photo: http://i.imgur.com/0TmDmoC.jpg
+cover-photo: http://i.imgur.com/0TmDmoC.jpg
 category: sport
 tags:
 - okres Blansko

@@ -1,7 +1,7 @@
 ---
 title: Sokol BK Sadros Boskovice je mistrem republiky
 authors: Lubomír Slezák
-photo: http://i.imgur.com/GxSFA1Y.jpg
+cover-photo: http://i.imgur.com/GxSFA1Y.jpg
 category: sport
 tags: Milovice Boskovice fotbal 3-2014
 ---

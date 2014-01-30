@@ -1,7 +1,7 @@
 ---
 title: Malby Vladimíra Kiseljova doprovodí Wagnerovu hudbu
 authors: Tomáš Trumpeš
-photo: http://i.imgur.com/8wDGAp5.jpg
+cover-photo: http://i.imgur.com/8wDGAp5.jpg
 category: kultura
 tags: koncerty 47-2013
 ---

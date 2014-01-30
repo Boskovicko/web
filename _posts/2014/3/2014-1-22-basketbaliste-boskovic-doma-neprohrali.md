@@ -1,7 +1,7 @@
 ---
 title: Basketbalisté Boskovic doma neprohráli
 authors: Lubomír Slezák
-photo: http://i.imgur.com/hMS7hds.jpg
+cover-photo: http://i.imgur.com/hMS7hds.jpg
 category: sport
 tags:
 - okres Blansko

@@ -1,7 +1,7 @@
 ---
 title: Na Sklepech zahrají Elektrick Mann a Nikola Mucha
 authors: Tomáš Trumpeš
-photo: http://i.imgur.com/q5QkEwv.jpg
+cover-photo: http://i.imgur.com/q5QkEwv.jpg
 category: kultura
 tags: Boskovice Sklepy koncerty 2-2014
 ---

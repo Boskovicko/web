@@ -1,8 +1,8 @@
 <div class="article-preview">
-    {% if post.photo and include.photo == true %}
+    {% if post.cover-photo and include.photo == true %}
     <div class="cover-photo">
         <a href="{{ post.url }}">
-            <img class="img-responsive" src="{{ post.photo }}" alt="">
+            <img class="img-responsive" src="{{ post.cover-photo }}" alt="">
         </a>
     </div>
     {% endif %}

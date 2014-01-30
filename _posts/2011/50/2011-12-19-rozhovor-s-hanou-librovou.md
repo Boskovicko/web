@@ -2,7 +2,7 @@
 title: „Na malohanáckou přírodu mám silné vzpomínky,“ říká profesorka Hana Librová
 authors: Tomáš Trumpeš
 category: publicistika
-photo: http://i.imgur.com/umamYmN.jpg
+cover-photo: http://i.imgur.com/umamYmN.jpg
 tags:
 - Boskovice
 - vánoční příloha
