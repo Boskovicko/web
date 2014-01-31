@@ -6,25 +6,6 @@
         <option value="{{ vydani.cislo | replace: '/', '-' }}">{{ vydani.cislo }}  {{ vydani.datum }}</option>
         {% endfor %}
     </select>
-    <script>
-        $(document).ready(function() {
-            $('.issue-picker option').each(function() {
-                var issue = $(this).attr('value');
-                var url_pattern = '/temata/' + issue;
-                var index = window.location.href.indexOf(url_pattern);
-                if (index != -1) {
-                    $('.issue-picker').val(issue);
-                }
-            });
-            $('.issue-picker').change(function() {
-                var issue = $(this).val();
-                if (issue) {
-                    window.location = '/temata/' + $(this).val() + '/';
-                }
-            });
-        });
-    </script>
     <p>Starší čísla převádíme na nový web postupně. Pokud hledáte
-    vydání, které v seznamu chybí, najdete ho na <a
-    href="http://stare.boskovicko.cz">našem starším webu</a>.</p>
+    vydání, které v seznamu chybí, najdete ho na <a href="http://stare.boskovicko.cz">našem starším webu</a>.</p>
 </div>
