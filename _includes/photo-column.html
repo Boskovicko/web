@@ -1,7 +1,9 @@
 <h2>Region v obrazech</h2>
 {% for photo in site.data.fotky limit:3 %}
 <div class="photo-post-preview">
-    <img src="{{ photo.nahled }}" alt="" class="img-responsive">
+    <a href="{{ photo.fotka }}" title="Autor fotografie: {{ photo.autor }}">
+        <img src="{{ photo.nahled }}" alt="" class="img-responsive">
+    </a>
     <p><span class="name">{{ photo.nazev }}</span> {{ photo.text }}</p>
 </div>
 {% endfor %}

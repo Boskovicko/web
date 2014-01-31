@@ -1,19 +1,33 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=1000">
+
 <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
 <link href="/css/shared.css" rel="stylesheet" media="screen">
-<link href="/lib/zoomable-type/zt.css" rel="stylesheet" media="screen">
+
 <script src="/lib/jquery/jquery-1.10.2.min.js"></script>
 <script src="/js/ga.js"></script>
-<script src="/lib/zoomable-type/zt.js"></script>
 <script src="/js/outbound-links.js"></script>
 <script src="/js/cover-photos.js"></script>
-<!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-<![endif]-->
+
+<script src="/lib/zoomable-type/zt.js"></script>
+<link href="/lib/zoomable-type/zt.css" rel="stylesheet" media="screen">
 <script>
     $(document).ready(function() {
         $('.phone').add('.zoomable').zoomabletype();
     });
 </script>
+
+<link rel="stylesheet" href="/lib/fancybox/jquery.fancybox.css?v=2.1.5" media="screen">
+<script src="/lib/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".photo-post-preview a").fancybox({
+            "margin": [40, 40, 40, 40]
+        });
+	});
+</script>
+
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
