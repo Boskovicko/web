@@ -10,7 +10,7 @@
         {% if featured_post %}
             <div class="featured-article">
             {% assign post = featured_post %}
-            {% include article-preview.html photo=true %}
+            {% include article/preview.html photo=true %}
             <hr>
             </div>
         {% endif %}
@@ -18,7 +18,7 @@
             <div class="col-md-6 col-sm-12">
             {% for post in paginator.posts %}
                 {% if post.url != featured_post.url %}
-                    {% include article-preview.html %}
+                    {% include article/preview.html %}
                 {% endif %}
             {% endfor %}
             </div>
@@ -51,9 +51,6 @@
         {% endif %}
     </div>
     <div class="col-xs-4 sidebar">
-        {% include ad-square.html %}
-        {% include event-calendar.html %}
-        {% include issue-picker.html %}
-        {% include top-articles.html %}
+        {% include sidebar/full.html %}
     </div>
 </div>
