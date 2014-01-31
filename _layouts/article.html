@@ -3,7 +3,7 @@
 <head>
     {% include html-head.html %}
     <title>{{ page.title }} | Boskovicko, regionální noviny</title>
-    {% include open-graph-meta.html %}
+    {% include social/open-graph-meta.html %}
 </head>
 <body>
     <script src="/js/balanced-sidebar.js"></script>
@@ -13,11 +13,11 @@
                 {% include masthead.html %}
                 <h2>{{ page.title }}</h2>
                 {% assign post = page %}
-                {% include article-meta.html %}
+                {% include article/meta.html %}
                 {{ content }}
                 {% if page.tags.size > 0 %}
                 <hr class="medium">
-                {% include facebook-like-button.html %}
+                {% include social/facebook-like-button.html %}
                 <ul class="tag-list">
                     {% for tag in page.tags %}
                     <li><a href="/temata/{{ tag | url_encode }}/">{{ tag }}</a></li>
@@ -26,10 +26,10 @@
                 {% endif %}
             </div>
             <div class="col-xs-4 sidebar">
-                {% include ad-square.html %}
+                {% include sidebar/ad-square.html %}
                 {% for post in site.related_posts | limit:5 %}
                     {% if post.url != page.url %}
-                        {% include article-preview-small.html %}
+                        {% include article/preview-small.html %}
                     {% endif %}
                 {% endfor %}
             </div>

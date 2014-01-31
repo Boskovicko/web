@@ -12,7 +12,7 @@
     <div class="container main-container">
         {% capture paging_prefix %}/{{ page.grouptype }}/{{ page.title | url_encode }}{% endcapture %}
         {% assign paging_root = paging_prefix %}
-        {% include pager.html %}
+        {% include pagination/regular.html %}
     </div>
     {% include footer.html %}
 </body>

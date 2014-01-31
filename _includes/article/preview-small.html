@@ -1,5 +1,5 @@
 <div class="article-preview article-preview-small box">
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <p class="perex">{{ post.excerpt | markdownify | strip_html }}</p>
-    {% include article-meta.html %}
+    {% include article/meta.html %}
 </div>

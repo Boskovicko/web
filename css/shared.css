@@ -193,6 +193,21 @@ a.home {
     margin-bottom: 2px;
 }
 
+/* Titulní sloupec s fotkami */
+
+.photo-post-preview {
+    margin-bottom: 20px;
+}
+
+.photo-post-preview p {
+    margin-top: 1ex;
+}
+
+.photo-post-preview .name {
+    text-transform: uppercase;
+    color: gray;
+}
+
 /* Stránkování */
 
 .pager {
