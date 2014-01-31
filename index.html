@@ -1,3 +1,21 @@
 ---
-layout: home-page
 ---
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    {% include html-head.html %}
+    <title>Boskovicko, regionální noviny</title>
+</head>
+<body>
+    <div class="container main-container">
+        {% assign paging_prefix = '/clanky' %}
+        {% assign paging_root = '' %}
+        {% if paginator.page == 1 %}
+            {% include pagination/homepage.html %}
+        {% else %}
+            {% include pagination/regular.html %}
+        {% endif %}
+    </div>
+    {% include footer.html %}
+</body>
+</html>

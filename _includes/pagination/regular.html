@@ -1,0 +1,33 @@
+{% include pagination/featured-post.html %}
+<div class="row">
+    <div class="col-xs-8">
+        {% include masthead.html %}
+        {% if featured_post %}
+            <div class="featured-article">
+            {% assign post = featured_post %}
+            {% include article/preview.html photo=true %}
+            <hr>
+            </div>
+        {% endif %}
+        <div class="row">
+            <div class="col-md-6 col-sm-12">
+            {% for post in paginator.posts limit:3 %}
+                {% if post.url != featured_post.url %}
+                    {% include article/preview.html %}
+                {% endif %}
+            {% endfor %}
+            </div>
+            <div class="col-md-6 col-sm-12">
+            {% for post in paginator.posts offset:3 %}
+                {% if post.url != featured_post.url %}
+                    {% include article/preview.html %}
+                {% endif %}
+            {% endfor %}
+            </div>
+        </div>
+        {% include pagination/links.html %}
+    </div>
+    <div class="col-xs-4 sidebar">
+        {% include sidebar/full.html %}
+    </div>
+</div>
