@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(function() {
     $('.article-preview img').each(function(i, preview) {
         $(preview).load(function() {
             var image = $(this);

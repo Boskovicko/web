@@ -1,20 +1,2 @@
+<script defer src="/js/facebook-like-button.js"></script>
 <div id="fb-root"></div>
-<script>
-    (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/cs_CZ/all.js#xfbml=1";
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-</script>
-<script>
-    jQuery('<div/>', {
-        'class': "fb-like",
-        'data-href': document.location.href,
-        'data-layout': "button_count",
-        'data-action': "recommend",
-        'data-show-faces': "false",
-        'data-share': "true"
-    }).insertAfter('#fb-root');
-</script>

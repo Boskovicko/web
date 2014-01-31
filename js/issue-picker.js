@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(function() {
     $('.issue-picker option').each(function() {
         var issue = $(this).attr('value');
         var url_pattern = '/temata/' + issue;

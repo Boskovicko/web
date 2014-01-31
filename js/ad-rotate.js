@@ -1,18 +1,18 @@
-$(document).ready(function() {
+$(function() {
     $.getJSON('/ads/list.js', function(adList) {
         // Sanity check
-        if (!jQuery.isArray(adList)) {
+        if (!$.isArray(adList)) {
             return;
         }
         // Pick random ad
         var ad = adList[Math.floor(Math.random()*adList.length)];
         // Create the link
-        var image = jQuery('<img/>', {
+        var image = $('<img/>', {
             "src": ad.image,
             "alt": ad.text || '',
             "class": 'img-responsive ad-square'
         });
-        var link = jQuery('<a/>', {"href": ad.url});
+        var link = $('<a/>', {"href": ad.url});
         link.append(image);
         link.click(function(event) {
             event.preventDefault();
