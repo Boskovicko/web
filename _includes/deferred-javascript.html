@@ -4,18 +4,11 @@
 <script src="/js/outbound-links.js"></script>
 <script src="/js/cover-photos.js"></script>
 
-<link href="/lib/zoomable-type/zt.css" rel="stylesheet" media="screen">
 <script src="/lib/zoomable-type/zt.js"></script>
-<script>
-    $(function() {
-        $('.phone').add('.zoomable').zoomabletype();
-    });
-</script>
-
-<link href="/lib/fancybox/jquery.fancybox.css?v=2.1.5" rel="stylesheet" media="screen">
 <script src="/lib/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
 <script>
 	$(function() {
+        $('.phone').add('.zoomable').zoomabletype();
 		$(".photo-post-preview a").fancybox({
             "margin": [40, 40, 40, 40]
         });
