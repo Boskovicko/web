@@ -8,7 +8,7 @@ tags: Boskovice rozhovory 4-2014
 
 Mandolinista Martin Krajíček o sobě říká, že se začal muzice věnovat pozdě, ale s o to větší vervou. Jen při letmém pohledu na jeho hráčské aktivity je zřejmé, že nasazení mu vydrželo doposud. A Martin navíc hudbu také skládá, učí, a nepřehlédnutelná je v poslední době i jeho role v přípravě akcí boskovické Základní umělecké školy (ZUŠ).
 
-**ν Martine, na tuhle otázku už jsi asi odpovídal často, ale jak ses dostal ke hraní na mandolínu? Předpokládám, že v té době to nebyl zrovna nejpopulárnější nástroj.**
+**Martine, na tuhle otázku už jsi asi odpovídal často, ale jak ses dostal ke hraní na mandolínu? Předpokládám, že v té době to nebyl zrovna nejpopulárnější nástroj.**
 
 Ano, na to se mě samozřejmě ptala už spousta lidí. Chodil jsem jako dítě do oddílu Vatra, kde působil Zdeněk Krajíček, což byl takový náš guru, který nás vedl ke spoustě zajímavých věcí. Když mně bylo asi 14 let, začal jsem se zajímat o kytaru. Ale v oddíle už bylo několik kytaristů a Zdeněk řekl: Hrajte někdo taky na mandolínu nebo na bendžo. Já jsem ani netušil, jak se mandolína ladí a jak se na ni hraje, ale Zdeněk byl taková osobnost, že jsem zkrátka nasedl do vlaku a jel si koupit mandolínu.
 
