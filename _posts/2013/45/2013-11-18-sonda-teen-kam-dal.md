@@ -4,7 +4,7 @@ authors: redakce
 category: publicistika
 tags:
 - sonda teen
-- anketa
+- ankety
 - vzdělávání
 - 45-2013
 ---

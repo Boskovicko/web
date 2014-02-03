@@ -4,7 +4,7 @@ authors: Ludmila Dobrozemská
 category: kultura
 tags:
 - sonda teen
-- anketa
+- ankety
 - tanec
 - 46-2013
 ---

@@ -4,7 +4,7 @@ authors: Ludmila Dobrozemská
 category: publicistika
 tags:
 - sonda teen
-- anketa
+- ankety
 - 41-2013
 ---
 

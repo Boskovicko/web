@@ -2,7 +2,7 @@
 title: Povolební anketa
 authors: Tomáš Trumpeš
 category: publicistika
-tags: Boskovice volby politika 43-2013
+tags: Boskovice volby ankety politika 43-2013
 ---
 
 Od voleb do Poslanecké sněmovny uplynuly první dny nabité událostmi, dosud však není příliš jasné, kam tyto události směřují. Několika místních politiků jsme se zeptali, jak výsledek voleb hodnotí a jaký očekávají další vývoj. Otázky jsme formulovali stručně: 1) Jak hodnotíte výsledek voleb? 2) Jak odhadujete další vývoj povolebních vyjednávání?

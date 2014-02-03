@@ -2,7 +2,7 @@
 title: 'Anketa: Jak řešit hazard?'
 authors: Tomáš Trumpeš
 category: publicistika
-tags: anketa hazard 47-2013
+tags: ankety hazard 47-2013
 ---
 
 Jak řešit hazard? Ponechat, regulovat, nebo úplně zakázat?

@@ -4,7 +4,7 @@ authors: Andrea Šrámková
 category: publicistika
 tags:
 - Boskovicko
-- anketa
+- ankety
 - parlamentní volby
 - 41-2013
 ---

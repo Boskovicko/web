@@ -4,7 +4,7 @@ authors: redakce
 category: publicistika
 excerpt: Podobně jako loni jsme se i letos zeptali několika osobností, o kterých jsme v průběhu roku psali, jaká regionální událost pro ně byla v roce 2013 nejvýznamnější.
 tags:
-- anketa
+- ankety
 - vánoční příloha
 - 49-2013
 ---
