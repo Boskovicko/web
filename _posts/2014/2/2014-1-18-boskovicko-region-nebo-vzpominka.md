@@ -1,8 +1,9 @@
 ---
-title: Je Boskovicko regionem, nebo vzpomínkou?
+title: "Psali jsme v roce 1991: Je Boskovicko regionem, nebo vzpomínkou?"
 authors: Jitka Melkusová
 category: publicistika
 tags:
+- Boskovicko
 - 25 let Boskovicka
 - 2-2014
 ---
@@ -29,4 +30,4 @@ Jaký tedy chceme region? Především svébytný, samostatný, prosperující. 
 
 Chceme, aby naše Regionální noviny byly tribunou názorů, návrhů, zkušeností, ale i diskusí, kritik, jenž pomohou Boskovicku na nohy a zařadí je mezi regiony směřijící nikoliv do Orientu, ale do Evropy.
 
-Doc. Dr. Alois Hynek, CS.
+*Doc. Dr. Alois Hynek, CS.*
