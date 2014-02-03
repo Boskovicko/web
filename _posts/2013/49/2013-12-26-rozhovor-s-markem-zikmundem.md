@@ -5,7 +5,7 @@ category: publicistika
 cover-photo: http://i.imgur.com/xYWFVJb.jpg
 tags:
 - Boskovice
-- rozhovor
+- rozhovory
 - vánoční příloha
 - 49-2013
 ---

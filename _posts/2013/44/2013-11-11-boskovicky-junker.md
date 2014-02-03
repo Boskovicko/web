@@ -5,7 +5,8 @@ category: publicistika
 tags:
 - Boskovice
 - Junker
-- rozhovor
+- podnikání
+- rozhovory
 - 44-2013
 ---
 

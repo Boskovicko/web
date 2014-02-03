@@ -4,7 +4,7 @@ authors: Miroslava Boháčková
 category: publicistika
 tags:
 - Boskovice
-- rozhovor
+- rozhovory
 - vánoční příloha
 - 49-2013
 ---
