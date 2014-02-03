@@ -44,14 +44,14 @@ Věříme, že se tento náš názor u Vás objevuje i z jiných obcí, protože
 
 Dne 1. prosince 1990 nabyl platnosti zákon o převodech vlastnictví státu k některým věcem na jiné právnické nebo fyzické osoby, tzv. malá privatizace. Již v březnu 1991 se uskutečnila první dražba ve skleníku:
 
-<table class="table">
+<table class="sortable table">
 	<thead>
 		<tr>
-			<td>název</td>
-			<td>místo</td>
-			<td>vyvolávací cena</td>
-			<td>cena zásob</td>
-			<td>vydraženo</td>
+			<th>název</th>
+			<th>místo</th>
+			<th>vyvolávací cena</th>
+			<th>cena zásob</th>
+			<th>vydraženo</th>
 		</tr>
 	</thead>
 	<tbody>
