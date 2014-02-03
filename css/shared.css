@@ -164,19 +164,19 @@ a.home {
     color: black;
 }
 
-/* Nejčtenější články */
+/* Nejčtenější články a podobně */
 
-.top-articles ol {
+.link-list ol, .link-list ul {
     margin-left: 10px;
     padding-left: 8px;
     color: gray;
 }
 
-.top-articles a {
+.link-list a {
     text-transform: uppercase;
 }
 
-.top-articles li {
+.link-list li {
     margin-bottom: 2px;
 }
 
