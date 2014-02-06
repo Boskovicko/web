@@ -1,6 +1,6 @@
 ---
 title: V Letovicích předávali výtěžek z vánoční polévky
-cover-photo: http://i.imgur.com/Efh9dnf.jpg
+cover-photo: http://i.imgur.com/CY4twlA.jpg
 authors: Andrea Šrámková
 category: zpravodajství
 tags: Letovice charita 5-2014
