@@ -1,0 +1,12 @@
+---
+title: O Zlatý erb letos usilují Skrchov a Šebetov
+authors: M. Krajíčková
+category: zpravodajství
+tags: Boskovice 6-2014
+---
+
+Do šestnáctého ročníku soutěže Zlatý erb, který hodnotí webové stránky a elektronické služby obcí, se letos na Boskovicku přihlásil Skrchov a Šebetov. Z blanenského okresu o úspěch usiluje dále Černá Hora, Jedovnice, Křtiny a Petrovice, které zvítězily v loňském krajském kole, město se letos nepřihlásilo žádné. Celkem se v Jihomoravském kraji do soutěže zařadilo 6 měst a 17 obcí, v celé republice pak 215 zájemců. Jednotlivé návrhy vyhodnotí odborná komise, vítězové krajských kol budou vyhlášeni v březnu. V rámci krajů se může zapojit i široká veřejnost udělením hlasu pro Cenu veřejnosti. Ten lze zaslat e-mailem do 24. února.
+
+„Do soutěže se hlásíme pravidelně od roku 2011, bereme ji jako nezávislé posouzení našich webových stránek vytvořených nejen k plnění zákonem daných povinností, ale také jako co nejlepší komunikační nástroj mezi úřadem a občanem. Návštěvníky bych pozval na procházku sekce fotogalerie a videogalerie, ale také na nahlédnutí do služby mapový portál, který byl vytvořen v loňském roce. Díky historickým mapám a možnosti jejich prolínání se současným stavem má pak každý možnost seznámit se s vývojem v naší obci a tím i její historií,“ uvedl Petr Kopečný, který se stará o [webové stránky Skrchova](http://www.obec-skrchov.eu).
+
+V Šebetově se vytvoření [nových stránek obce](http://www.sebetov.cz) ujal sám starosta Zdeněk Čížek. „Představu o podobě a konstrukci webu jsem nosil v hlavě skoro dva roky,“ prozradil. „V srpnu loňského roku jsem si na něj vyhradil téměř veškerý čas. Svůj virtuální život web zahájil na příhodné datum 9. 9. v 9 hodin. Jeho startem ale vlastně nic neskončilo, spíš začalo. Za čtyři měsíce provozu dosáhnul skvělé návštěvnosti. Přihlásit se do soutěže Zlatý erb nebyl můj cíl, ale ta nejlepší motivace k práci. Jsem zvědav, jak hodnotící komise přijme moji naprosto jednoduchou navigaci, která vychází z pouhých třech odkazů-rozcestníků. Srozumitelnost a přehlednost webu byla moje jasná priorita. Webu jsem dal spoustu nápadů a vychytávek. Jestli ale stojí za klik, to už musí posoudit návštěvníci,“ dodal Zdeněk Čížek. S webem Šebetovští přihlásili i elektronickou službu SMS hlídač pohledávek. Těm, kdo si ji bezplatně na úřadě aktivují, přijde na mobil upozorňovací SMS, pokud by zapomněli uhradit některý z obecních poplatků, například za odpad nebo za psa.

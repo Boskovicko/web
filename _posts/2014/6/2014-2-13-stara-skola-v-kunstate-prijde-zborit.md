@@ -1,0 +1,14 @@
+---
+title: Starou školu v Kunštátě srovnají se zemí
+authors: Petra Bílá
+category: zpravodajství
+tags: Kunštát 6-2014
+---
+
+Dvě stě let stará raně klasicistní budova staré školy v Kunštátě letos na jaře zmizí. Stavba, která stojí nad kostelem svatého Stanislava na náměstí Československého červeného kříže, je ve špatném technickém stavu a její oprava je nad síly Kunštátských. „Střecha je špatná, zatéká tam, budova je vlhká – podobných problémů by se dalo najít ještě hodně. Opravit školu by bylo kvůli vysokým finančním nákladům v řádu několika milionů ekonomicky neúnosné,“ sdělil vedoucí stavebního odboru v Kunštátě Jan Španěl.
+
+Předtím, než se začne bourat, musí příslušní úředníci zajistit přesunutí autobusových zastávek a vyřešit průběh dopravy. Budova staré školy totiž stojí v blízkosti silnice třetí třídy. „Až toto bude zajištěno, přistoupíme k demolici. Vše by mělo být hotovo do dubna letošního roku. Za zbourání stavby zaplatíme přibližně jeden milion korun,“ prozradil starosta Kunštátu Zdeněk Wetter. S volným prostranstvím, které po budově zbude, už mají Kunštátští plány. „Podle studie, kterou jsme si nechali dříve zpracovat, prostor plánujeme parkově upravit a rozšíříme tam parkovací místa. Toto je ale dlouhodobější záležitost,“ uvedl starosta.
+
+Podle kastelána kunštátského zámku Radima Štěpána bude budova staré školy v Kunštátě chybět. „Ve středu města se moc historických budov nenachází. Podobně už v minulosti zbourali i dům básníka Klementa Bochořáka. Vím, že na první pohled stavba staré školy nikoho nezaujme, protože tam jsou vidět novodobé zásahy. Ale myslím, že citlivě provedená rekonstrukce by stavbě prospěla. Pro mě má budova staré školy dvojí rozměr. Jednak je to její historická hodnota, jedná se o ranně klasicistní stavbu. Budovu nechal vystavět někdejší majitel kunštátského panství na přelomu osmnáctého a devatenáctého století. Stavba není honosná, ale má architektonickou hodnotu. Druhý rozměr je v duchovní rovině. Stavba byla postavena jako budova školy a tomuto účelu sloužila do té doby, než byla postavena nynější,“ popsal Štěpán. Nicméně i on rozhodnutí kunštátských zastupitelů a radních chápe.
+
+„Stará škola na mě na první pohled nepůsobí dobře. Myslím, že Kunštátu nepřinese žádnou velkou slávu. Když zastupitelé takto rozhodli, ať ji klidně nechají zbourat,“ zhodnotila seniorka bydlící v Kunštátě. Ne všichni obyvatelé Kunštátu jsou ale stejného názoru, jako ona. Proti demolici staré školy dokonce lidé před několika lety podepisovali petici. Organizoval ji právě Radim Štěpán. Nakonec ale zastupitelé loni v létě demolici schválili. Z dvanácti přítomných zastupitelů tehdy jedenáct hlasovalo pro její zbourání.
