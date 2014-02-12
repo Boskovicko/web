@@ -1,5 +1,5 @@
 <h2>Region v obrazech</h2>
-{% for photo in site.data.fotky limit:3 %}
+{% for photo in site.data.fotosloupek limit:3 %}
 <div class="photo-post-preview">
     <a href="{{ photo.fotka }}" title="Autor fotografie: {{ photo.autor }}">
         <img src="{{ photo.nahled }}" alt="" class="img-responsive">
