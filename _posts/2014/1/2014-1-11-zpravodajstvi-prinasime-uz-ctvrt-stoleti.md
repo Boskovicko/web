@@ -74,7 +74,9 @@ V poslední době cítím, že se lidé bojí víc než dříve. Věří na temn
 **Cítila jste někdy jako hendikep, že nejste rodačka, ale jak se říká naplavenina?**
 
 Po pravdě cítila. Ale trochu jinde, než by se dalo čekat. Nikdy se mi nepodařilo zcela proniknout do rodových linií, příbuzenských vztahů. A navíc trpím hendikepem, nepamatuju si jména. Při setkání vím určitě, že se známe, ale nevím s kým ani odkud. Za to se všem omlouvám. Působím proto jako netýkavka. Na druhé straně to je velká výhoda být cizí. Mohla jsem si dovolit měřit skutečně rovným metrem. Nechodila jsem s nikým do školy, ani moje babička neměla zahradu vedle toho zločince.
+
 Na rozdíl od místních jsem znala všechny obce, ba i samoty v okrese, protože jsem fakturovala práci kominíků. No a díky práci na zámku a působení mého muže v muzeu jsem vhlédla do historie.
-ν Která konkrétní místa na Boskovicku máte ráda a táhne vás to tam čistě jen vychutnat si jejich krásu.
+
+**Která konkrétní místa na Boskovicku máte ráda a táhne vás to tam čistě jen vychutnat si jejich krásu.**
 
 Boskovicko je nádherné celé. I proto jsem ho tak ráda propagovala na veletrzích cestovního ruchu a tvořila pobytové programy. Vyhlídky jsou místa pro bohy – pohledy z Vísek, z Vratíkova, z Újezda, ale i z Vinohrádek, Rovné. Jak čas dovolí, meditovat a hledět na zapadající Slunce. Nádherné lesy třeba v okolí Němčic, Újezda. Ale moje srdeční záležitost je Moravský kras, zejména Holštejn, kde jsem prožila mnoho dní v podzemí, pak křtinský kostel a snad nejúžasnější – gotický kostelík v Kateřině. Všechny kamenné zdi, sýpky a domy jsou „moje“ stejně jako staré baráky, často až ruiny, v nichž můžu najít duši.
