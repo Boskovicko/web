@@ -1,0 +1,16 @@
+---
+title: Po vítězství v kraji Boskovice usilují o titul Historické město roku 2013
+authors: Veronika Požárová
+category: zpravodajství
+tags: Boskovice 7-2014
+---
+
+Postupem z krajského kola mezi čtrnáct finalistů soutěže zaměřené na regenaraci městských památkových zón se můžou od minulého týdne pochlubit Boskovice. V listopadu se totiž město již tradičně přihlásilo do soutěže o Cenu Programu regenerace městských památkových rezervací a městských památkových zón, jejíž vítěz získá krom finanční odměny také titul Historické město roku 2013.
+
+Tuto soutěž vyhlašuje společně Sdružení historických sídel Čech, Moravy a Slezska s ministerstvy kultury a pro místní rozvoj a Národní památkový ústav. Letos se do soutěže zapojilo celkem 51 měst. Boskovice získaly 262 bodů, podařilo se jim tak zvítězit v kraji a postoupit do celostátního kola. Za Jihomoravský kraj se dále účastnila Lomnice, která skončila druhá se 189 body, a jako poslední Slavkov, který získal 173 bodů.
+
+Boskovice se hlásí do soutěže téměř každý rok a od roku 2001 město zvítězilo v krajském kole již sedmkrát, z toho dvakrát dostalo odměnu 100 tisíc Kč. „I letos jsme za výhru v kraji získali 100 tisíc korun. Tuto částku hodláme připojit k dotaci od Programu regenerace, která činí 1 395 tisíc korun, a použít na opravy kulturních památek. Půjde o objekty města ale i o objekty ve vlastnictví právnických a fyzických osob. Každý vlastník musí navíc přidat na opravu další částku,“ uvedla místostarostka Jaromíra Vítková. Dále vysvětlila, že pokud je vlastníkem město, 50 % částky za opravu hradí samo a 50 % je hrazeno z dotace. Pokud je objekt v soukromém vlastnictví, vlastník hradí 40 %, 50 % je poskytnuto z dotace a 10 % přispívá město. Celkem tak budou do kulturních památek Boskovic v letošním roce investovány téměř tři miliony korun. Vedení města bude hledat optimální řešení, aby byly dotace vyčerpány a nemuselo se nic vracet, ale přitom, aby byly použity na památky, které to nejvíce potřebují. „Zatím nemůžeme říct, o jaké konkrétní objekty půjde. Dohromady jde téměř o tři miliony korun, což je nejvíc za poslední dobu. Myslím, že je to dobře a svědčí to o tom, že město má zájem se přiměřeně o historické objekty starat,“ podotkl starosta Jaroslav Dohnálek.
+
+V roce 2013 byly opraveny objekty U Vážné studny čp. 3 a 15, fasáda dvorního traktu radnice a historická výmalba v malé zasedací síni radnice, dále podlahy a schody v budově rezidence. Zda se Boskovice stanou vítězem celostátního kola, bude posuzovat hodnotitelská komise, která v březnu navštíví všechny vítěze krajských kol. Konečný vítěz vyhrává cenu z českého křišťálu a částku jeden milion korun. Místostarostka si šanci na výhru v celostátním kole zatím netroufá odhadovat. „Jednou jsme se dokonce dostali mezi tři nejlepší. Bylo to v roce 2004 a měli jsme velké šance na výhru, nakonec ale zvítězily Františkovy Lázně a Boskovice skončily na druhém místě. Kdyby se to letos povedlo, byla bych moc ráda, ale netroufám si říct,“ vyjádřila se Vítková.
+
+Slavnostní vyhlášení dvacátého ročníku soutěže proběhne ve čtvrtek 17. dubna ve Španělském sále Pražského hradu při setkání u příležitosti Mezinárodního dne památek a historických sídel, který spadá na následující den, 18. dubna.
