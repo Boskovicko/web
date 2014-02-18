@@ -1,0 +1,19 @@
+---
+title: Úplný zákaz hazardu v Boskovicích neplánují
+authors: Marek Osouch
+category: zpravodajství
+tags: Boskovice hazard 7-2014
+---
+
+Rada města po více než čtyřech měsících od dodání analýzy hazardu přišla s  výstupem na veřejnost. Ten je však zatím nejasný. Radní plánují rozdat úkoly příslušným odborům úřadu, ti by měli své závěry odevzdat do sedmého dubna. Podle starosty Boskovic Jaroslava Dohnálka však v městské radě žádné hlasy nesměřovaly k tomu, aby se hazard v Boskovicích úplně zakázal.
+
+Městská policie, sociální odbor a odbor správy úřadu mají za necelé dva měsíce předložit městské radě své návrhy opatření týkající se heren na území Boskovic. „Výstupem uvedené spolupráce by měl vzniknout návrh konkrétních opatření pro eliminaci rizik hazardu na území města,“ uvedla jen obecně vedoucí odboru správy úřadu Miluše Rozkošná. Sociální odbor, ani městští strážníci však nedostali do konce minulého týdne žádné pokyny. „Do dnešního dne se mi nedostal ověřený zápis z rady města. Takže sám ještě nevím, co se po nás chce,“ uvedl šéf strážníků David Krátký. Žádné konkrétní úkoly nedostal zatím ani sociální odbor.
+
+Odbory se mají nyní spojit se zpracovatelem analýzy, tedy Českým institutem pro výzkum závislostí, a společně pracovat na návrzích opatření, které budou vycházet z analýzy. Ta navrhuje regulaci loterie a jiných podobných her v blízkém okolí škol a školských zařízení a v lokalitách zvláštního významu pro obec. 
+Doporučuje celkovou regulaci provozování interaktivních videoloterijních terminálů a lokálních loterijních systémů s vysokým nastavením sázek a případné povolení jen výherních hracích přístrojů s nízkým nastavením sázky, výhry a nejvyšší hodinové prohry či přijetí obecné závazné vyhlášky a fixaci nabídky regulovaných druhů loterií a jiných podobných her, aby se dále nemohla zvyšovat. Analýza také uvádí, že ve srovnání s obdobnými městy v České republice je v Boskovicích dvojnásobný počet heren.
+
+„Šlo to komisemi, teď jsme rozdali úkoly odborům, takže uvidíme, jak se to vyvine. Nicméně nepadl zatím žádný návrh, aby se přijímala vyhláška jako v Blansku. Uvidíme, jaké návrhy nám budou sedmého dubna předloženy,“ prohlásil starosta Boskovic. Vedení města se nebrání ani diskuzi, a tak naplánovalo besedu s obyvateli města. „Setkání se uskuteční dne 11. března v 16.30 hodin v Zámeckém skleníku za přítomnosti zástupce z Českého institutu pro výzkum závislostí, zástupců Policie ČR, městské policie, sociálního odboru a odboru správy úřadu,“ uvedl tiskový mluvčí boskovické radnice Jaroslav Parma.
+
+V Blansku na podzim minulého roku schválili vyhlášku, která zakazuje ve městě jakékoliv herny. Schvalování vyhlášky provázela dlouhá diskuze, nicméně nakonec ji nejtěsnější většinou zastupitelé přijali. „Je pro mě nepochopitelné, že sanujeme rozpočet města na prevenci kriminality, podporu sportu a mládeže. To znamená, že prevenci proti patologickým jevům financujeme penězi, které jsou výnosem z činnosti vydělávající právě na těchto sociálně patologických jevech. Zákaz hazardu chápu především jako prevenci proti případným novým potenciálním hráčům,“ odůvodnil tehdy zákaz současný starosta Blanska Ivo Polák.
+
+Boskovice loni na hazardu vydělaly 9,5 milionu korun. Příspěvky pro sportovní oddíly přesáhly jeden milion korun. Mluvčí boskovické radnice ovšem zdůrazňuje, že se nedá říct, že by příjmy z hazardu šly do sportu. „Není striktně určeno, že příjmy z hazardu budou sloužit výhradně na financování sportu. Navíc podpora sportu ve městě neobsahuje pouze příspěvky sportovním oddílům. V rozpočtu města je v oddíle tělovýchovné a zájmové činnosti ke sportovním účelům na rok 2014 vyčleněna částka 64,8 milionu korun, což je zhruba sedminásobek příjmů města z hazardu,“ vysvětlil Parma.
