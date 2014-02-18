@@ -22,5 +22,11 @@
         "image": "/ads/rytiri.png",
         "text": "Rytíři zločinu dva",
         "url": "/clanky/2014/02/18/rytiri-zlocinu-dva.html"
+    },
+    {
+        "name": "Diskuze o hazardu",
+        "image": "/ads/hazard.png",
+        "text": "Přijďte diskutovat o hazardu v Boskovicích",
+        "url": "/clanky/2014/02/18/uplny-zakaz-hazardu-boskovice-neplanuji.html"
     }
 ]
