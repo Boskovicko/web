@@ -2,7 +2,7 @@
 title: Výběrové řízení na úpravu dětského hřiště má vítěze
 authors: Veronika Požárová
 category: zpravodajství
-tags: Boskovice opravy 7-2014
+tags: Boskovice školky opravy 7-2014
 ---
 
 Teprve ve druhém výběrovém řízení byla vybrána firma, která provede úpravu hřiště mateřské školy Na Dolech. Protože při prvním řízení se nepřihlásilo dost zájemců, vyzvalo město k podání nabídek osm firem. Přesto hodnotící komise převzala jen dvě. Z nich rada města schválila jako vítěznou tu, kterou s cenou těsně pod milion sto tisíc připravil boskovický Stavkom. 
