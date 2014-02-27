@@ -1,0 +1,21 @@
+---
+title: Rájecké kamélie tentokrát poměří svoji krásu s růžemi
+authors: Tomáš Trumpeš
+category: kultura
+tags: Rájec-Jestřebí květiny 8-2014
+---
+
+Tradiční výstava prezentující sbírku kamélií, tedy chloubu zámeckého zahradnictví, se uskuteční na zámku v Rájci od pátku 7. do neděle 16. března. Letošní ročník nese název Kamélie – růže dálného východu, a tomu bude podřízena i koncepce výstavy.
+„Kamélie, nazývané Japonskými nebo Zimními růžemi, poměří svoji krásu s pravými růžemi i jinými květinami, nesoucími v názvu slovo růže. Bohaté interiéry zámku vyzdobí kvetoucí keře kamélií, staré až 50 let, spolu s historickými i novodobými květinovými aranžmá,“ popsala kastelánka rájeckého zámku Jana Kopecká.
+
+Výstava bude otevřena denně mimo pondělí 10. března, a to ve všední dny od 9 do 16.30 a v sobotu a v neděli od 9 do 17 hodin. Na výstavu je bezbariérový přístup.
+
+Zámecké skleníky s kvetoucími keři kamélií jsou otevřeny již od začátku února a do konce března budou přístupné v čase od 9 do 15 hodin denně mimo pondělky. Skleníky nabízí zhlédnutí až 400 druhů kamélií s možností nákupu rostlin a možností konzultace se zahradníky.
+
+„Návštěvníci se mohou těšit také na otevřenou Galerii Kruh, kde představí své práce Milan Růžek se zahradní a dekorativní keramikou, Renata Soušková s keramikou z Andělského vrchu, Ateliér Žampach s reliéfně pískovaným sklem, umělecký kovář Jiří Genov a Ivana Škrancová s malbou na sklo a textil,“ doplnila kastelánka Jana Kopecká. Volně přístupný je i zámecký park a občerstvení na zámku.
+
+„Sbírání kamélií bylo v 19. století zábavou šlechty, ale i představitelů jiných majetných vrstev. Pro kamélie se stavěly zvláštní skleníky. Kvetoucí rostliny byly též využívány k výzdobě zimních zahrad. Jedinečným dokladem slavné éry kamélií je sbírka udržovaná v zámeckém zahradnictví v Rájci nad Svitavou. Jejím základem jsou matečné rostliny přivezené roku 1973 z Výzkumného ústavu okrasného zahradnictví v Průhonicích u Prahy. Bylo to celkem 85 patnáctiletých rostlin. Péčí tehdejšího vedoucího zahradníka Františka Bárty a především jeho nástupce Jana Dvořáka se podařilo většinu z 85 keřů dopěstovat dodnes. Tyto rostliny tvoří základ současné kolekce. V průběhu let se sbírka rozrůstala na dnešních asi 150 klasických odrůd. K tomuto základu postupně přibývaly unikátní rostliny vybrané panem Dvořákem z tisíců semenáčů, zprvu spíše náhodných, později záměrně křížených. Současný soubor tedy obsahuje až 300 klasických i méně známých odrůd kamélií,“ uvádějí ráječtí pěstitelé kamélií.
+
+V době největšího květu kamélií, koncem února a začátkem března, se představuje tahle královna zimních květin v historických prostorách zámku v Rájci už od začátku devadesátých let. Letos budou rájecké kamélie prezentovány také na zámku v Litomyšli, kde se v interiérech zámku bude konat výstava Rájecké sbírky kamélií od 20. do 23. března.
+
+Ráječtí pěstitelé kamélií a pořadatelé výstavy vyzývají milovníky kamélií, aby se jejich pěstování nebáli. Obavy jsou podle nich často přehnané, protože kamélie není zase tak náročná květina, jak se lidé často domnívají. „Jen málokterá exotická květina budí u pěstitelů takové obavy jako kamélie, přitom ještě v první polovině minulého století zdobily i letité rostliny mnohou domácnost. Jsou tedy kamélie tak choulostivé, nebo byly naše babičky tak zdatné zahradnice? S tou choulostivostí to asi nebude tak zlé, uvážíme-li že ve východní Číně, Japonsku a Koreji, odkud nejčastěji pěstovaná kamélie japonská pochází, nejsou slabší mrazy v zimě výjimkou a v létě teploty stoupají ke čtyřicítce. V kultuře je kamélie celkem běžná v Evropě na jih a západ od Alp, v teplejších oblastech Ameriky, v Austrálii a na Novém Zélandu. Všude tam je ovšem oblíbenou dřevinou zahrad a parků. Těmto chladnomilným dřevinám v zimě méně uškodí slabší mráz do –5 stupňů Celsia než teploty nad 15–18 stupňů, které jsou běžné v našich dnešních bytech. Kamélie tedy není v pravém slova smyslu pokojovou rostlinou. Může být ale nevšední ozdobou zimních zahrad, světlých chodeb, hal i nepřetopených ložnic. V létě jsou pak nekvetoucí rostliny zajímavou zelení v přistíněných částech zahrady až do příchodu mrazů,“ uvedli odborníci na pěstování kamélií z rájeckého zámku.

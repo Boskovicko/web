@@ -1,0 +1,20 @@
+---
+title: Hvězdná obloha na přelomu zimy a jara
+authors: Jaroslav Chloupek
+category: publicistika
+tags: astronomie 8-2014
+---
+
+Všichni ti, kteří dychtivě očekávají jaro, budou jistě potěšeni. Přichází měsíc březen, který se loučí se zimou a vítá jaro. Bude tomu tak z astronomického hlediska. Co ukáže příroda, poznáme sami.
+
+Pohledy na oblohu patří v tomto období ještě zimním souhvězdím, i když se od východu nesměle tlačí jarní souhvězdí. Když pozorujeme souhvězdí zvířetníku večer, tak od východu směrem na západ vidíme souhvězdí Lva, Raka, Blíženců, Býka a Berana. Nad Býkem září souhvězdí Vozky a Persea. Naše oči míří směrem k jižnímu bodu. Kdyby se náš zrak obrátil severním směrem, setká se mimo jiné se známými souhvězdími Velké medvědice, Malého medvěda a Draka. Ještě jsme se nerozloučili s tím krásným souhvězdím Orionu, patřícím zimní obloze. Je ještě dobře vidět. K Orionu neoddělitelně patří dvě menší souhvězdí s názvy Velký pes (Canis Maior) a Malý pes (Canis Minor).
+
+Souhvězdí Velkého psa představuje psa Lailapsa ležícího u nohou lovce Oriona. Tento pes byl dar bohyně lovu Artemidy. Byl proslulý tím, že mu žádná kořist neutekla. V revíru krále Amfitriona řádila nepolapitelná liška, proto při jednom lovu vzali s sebou psa Lailapsa. Nejvyšší bůh Zeus přenesl slavného psa a neméně slavnou lišku na oblohu. Na obloze Velký pes jedním okem sleduje lovce Oriona a druhým okem blízkého Zajíce (souhvězdí pod Orionem). Pro všechny případy Lišku (souhvězdí) Zeus umístil na opačnou stranu oblohy. Malý pes je jedním z loveckých psů ze psí smečky lovce Oriona. Velký pes leží vlevo dole vedle Oriona a nad ním najdeme Malého psa. Hvězdní veleobři Adhara, Murzim a Wezen mají vyšší zářivost než nejjasnější hvězda souhvězdí Sirius. Jeví se však slabší pro jejich velkou vzdálenost. Významná je také otevřená hvězdokupa M 41 o vzdálenosti 2 300 ly, někdy viditelná i pouhým okem. Nejdůležitější je však hvězda Sirius (Psí hvězda) od nás vzdálena jen 8,6 ly a má velkou jasnost –1,5 mag. Je to dvojhvězda (má dvě složky A a B). Je považována za nejjasnější hvězdu oblohy, najdete ji na čenichu psa. Nejjasnější hvězdou Malého psa je Procyon (tj. hvězda předcházející před Siriem). Patří mezi jasné hvězdy oblohy s jasností 0,4 mag a vzdáleností 11,4 ly a je trojhvězdou.
+
+Naše nejbližší hvězda, Slunce, bude k nám v březnu svými paprsky více štědrá. Při svém pohybu po obloze dosáhne světového rovníku. Kdybychom stáli na zemském rovníku, bude Slunce v nadhlavníku a bude svítit kolmo na rovník. Pohyb po světovém rovníku Slunce zaznamená dne 20. 3., kdy vstoupí do znamení Berana v 17:56 h. Začne astronomické jaro a jarní rovnodennost. Den trvá téměř stejně dlouho jako noc. 20. 3. Slunce vyjde v 6:03 h a zapadne v 18:13 h. Sluneční azimut má hodnotu 91° a do konce měsíce vzroste na 98°. Od 20. března bude Slunce stoupat nad světový rovník. Připomeňme, že 30. 3. skončí středoevropský čas (SEČ) a začne platit středoevropský letní čas (SELČ).
+
+U Měsíce v březnu zjistíme, že ukáže pět svých fází: 1. 3. nov, 8. 3. první čtvrt, 16. 3. úplněk, 24. 3. poslední čtvrt a ještě znovu nov 30. 3. Nejdále od Země bude Měsíc 11. 3. (405 396 km) a nejblíže Zemi bude 27. 3. (vzdálenost 365 680 km).
+
+Neuvidíme planety Merkur, Uran a Neptun. Výraznou Jitřenkou nad jihovýchodním obzorem bude Venuše. Mars uvidíme kromě večera po celou noc (v Panně). Po celou noc kromě rána bude v Blížencích zářit Jupiter. Ve druhé polovině noci v souhvězdí Vah nalezneme Saturn.
+
+Pokud chceme pozorovat konjunkce Měsíce s planetami, bude to 10. 3. Jupiter, 19. 3. Mars, 21. 3. Saturn a 27. 3. Venuše. Pozoruhodný úkaz nastane ve dnech 18.–22. 3., kdy bude možné uvidět seskupení Měsíce, Marsu, hvězdy Spiky a Saturnu ve druhé polovině noci na jihu a jihozápadě. Na jihovýchodě silně svítí planeta Venuše s jasností –4,5 mag.

@@ -1,0 +1,14 @@
+---
+title: Příroda se probouzí, rostliny začínají vegetovat
+authors: Petra Bílá
+category: zpravodajství
+tags: Boskovicko počasí 8-2014
+---
+
+Letošní zima je podle statistik jihomoravských meteorologů jednou z deseti nejsušších a nejteplejších zim za posledních padesát let. Zimní plískanice ani třeskuté mrazy se letos zatím nekonaly. „Zima je neobvyklá, ale není nejextrémnější. Stejně sucho bylo před šesti roky. Úplně nejtepleji bylo sedm let zpátky. Například v Brně Tuřanech, kde provádíme naše měření, doposud v celkovém součtu napadly čtyři centimetry sněhu. Sněhová pokrývka zde ležela celkem pět dní, průměr je přitom sedmadvacet dní sněhové pokrývky,“ shrnul Petr Münster z brněnské pobočky Českého hydrometeorologického ústavu.
+
+Pokud se počasí zásadně nepromění a nepřijdou velké mrazy, letošní úrodě to neuškodí. Na tom se shodují oslovení zemědělci. Hlavní agronom letovického Ledeka Stanislav Šaršon vysvětlil, jak stávající počasí ovlivňuje plodiny. „V prvé řadě je problém s vodou, rostliny budou na jaře v první fázi vegetace strádat. Nejsou mrazy, které by poničily plevel a patogenní houby. Ty mohou napadnout rostliny. Pokud budou pole bez sněhu a během časného jara přijdou holomrazy, může dojít k poškození rostlin, kterým se začínají prodlužovat rostlinná pletiva a jsou citlivé na chlad. Když to shrnu, zatím se nic dramatického neděje, ale nesmí přijít holomrazy,“ popsal Šaršon.
+
+Podobně vidí situaci Jiří Šafář, ředitel lysického Zeasu. „Je pravda, že vláhy je málo, protože pořádně ani nesněžilo ani nepršelo. Rostliny v tomto počasí začínají vegetovat, což by až tak nevadilo. Špatné by bylo, kdyby na polích nebyl sníh a přišly mrazy,“ řekl Šafář. Jiří Stříž z boskovické organizace Českého zahrádkářského svazu prozradil, že na některých zahrádkách začínají vykukovat krokusy, nebo třeba sněženky. „Poněkud brzo vylezl i česnek. Ale to mohlo ovlivnit i to, že ho lidé dali do země brzy. Správně se má sázet těsně před zámrazem,“ prozradil zahrádkář. I on je toho názoru, že pokud teploty nespadnou hluboko pod stupeň mrazu, rostliny brzký příchod jara přečkají. „Možná bude více škůdců a hrabošů,“ dodal Stříž.
+
+Živo začíná být i poblíž včelínů. Jak prozradil včelař Miroslav Mašek, když venkovní teploty stoupnou nad deset stupňů, včely vylétají z úlů. „Je to svým způsobem dobře, protože se včely vypráší a zase se stáhnou,“ vysvětlil Mašek. Podle jeho zkušeností prý zatím nehrozí, že by se v úlech mohl přemnožit roztoč Varroa destructor. „Je otázka, kolik mají včely těchto roztočů v úlech a zda matky plodují, nebo ne. Když jsem se díval do úlů, tak zatím namnožení roztoče podle mě nehrozí, protože plodů je málo,“ uzavřel včelař Mašek.
