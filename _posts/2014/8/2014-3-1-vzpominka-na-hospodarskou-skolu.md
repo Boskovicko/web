@@ -1,5 +1,6 @@
 ---
 title: Vzpomínka na hospodářskou školu
+cover-photo: http://i.imgur.com/3K8fh8y.jpg
 authors: Inocenc Pernica
 category: napsali nám
 tags: Boskovice historie školství 8-2014
