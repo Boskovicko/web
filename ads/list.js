@@ -12,12 +12,6 @@
         "url": "/clanky/2014/01/11/waldorfska-skolka-v-boskovicich.html"
     },
     {
-        "name": "Rytíři zločinu dva",
-        "image": "/ads/rytiri.png",
-        "text": "Rytíři zločinu dva",
-        "url": "/clanky/2014/02/18/rytiri-zlocinu-dva.html"
-    },
-    {
         "name": "Diskuze o hazardu",
         "image": "/ads/hazard.png",
         "text": "Přijďte diskutovat o hazardu v Boskovicích",
