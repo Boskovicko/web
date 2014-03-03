@@ -2,12 +2,7 @@
 title: Zahrady mateřských škol čekají úpravy
 authors: Petra Bílá
 category: zpravodajství
-tags:
-- Boskovicko
-- mateřské školy
-- opravy
-- dotace
-- 48-2013
+tags: Boskovicko školky opravy dotace 48-2013
 ---
 
 Aby si předškolní děti vytvářely vztah k přírodě a životnímu prostředí, budou mít k dispozici názorné ukázky. Jezírko, živá zvířata, různé druhy rostlin nebo třeba záhonky. Zahrady čtyř mateřských škol, které uspěly se svými projekty v žádostech o dotace, čekají úpravy v duchu environmentálního vzdělávání. Osvětu v předškolních zařízeních pomohou financovat dotace z Operačního programu Životní prostředí.

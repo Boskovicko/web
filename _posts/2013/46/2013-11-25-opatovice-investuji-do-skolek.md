@@ -4,7 +4,7 @@ authors: Ludmila Dobrozemská
 category: zpravodajství
 tags:
 - Velké Opatovice
-- mateřské školy
+- školky
 - opravy
 - 46-2013
 ---

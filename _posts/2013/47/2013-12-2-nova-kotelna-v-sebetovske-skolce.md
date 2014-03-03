@@ -2,11 +2,7 @@
 title: V šebetovské mateřské škole dokončili rekonstrukci kotelny
 authors: Miroslava Boháčková
 category: zpravodajství
-tags:
-- Šebetov
-- mateřské školy
-- opravy
-- 47-2013
+tags: Šebetov školky opravy 47-2013
 ---
 
 Nastávající zimy se už rozhodně nemusejí obávat děti a zaměstnanci Mateřské školy v Šebetově. Během uplynulých třech týdnů, které provizorně strávili v prostorách místní hasičské zbrojnice, totiž proběhla ve školce celková rekonstrukce původní více než třicet let staré kotelny.
