@@ -1,0 +1,33 @@
+---
+title: Březnové slunce láká k jarní očistě zahrady i k první výsadbě
+authors: Petr Kumšta
+category: publicistika
+tags:
+- Rady do zahrady
+- 9-2014
+---
+
+S měsícem březnem přichází vytoužené jaro. Dlouhodobé průměrné teploty jsou přibližně 3 °C v nadmořské výšce 400 metrů, s narůstající výškou na každých sto metrů teplota klesá o 0,6 až 0,7 °C, takže v 600 m n. m. je jen 1,5 °C. Výkyvy teplot jsou častější nejen mezi dnem a nocí, ale i den ze dne. Půda se začíná prohřívat, ale zatím jen na povrchu. Na počátku měsíce zde bývá asi 1,5 °C, ale v hloubce zůstává stále chladná: ve 20 cm je pouze 0,5 °C, v 60 cm 1,5 °C a ve 100 cm 2,5 °C. Do konce měsíce se však teplota půdy postupně zvýší, tak že na povrchu bude přibližně 7 °C a v hloubce 20 cm asi 5 °C, a to jsou již podmínky pro první výsevy odolnějších druhů rostlin.
+Srážky v tomto měsíci bývají převážně dešťové, ale dosti malé intenzity, ve 400 m n. m. kolem 45 mm, tedy kolem 45 litrů na metr čtvereční.
+
+Chvojí, vrstva listí či jiná ochrana rostlin před mrazem už splnila svou úlohu a měli bychom ji odstranit. Rané jarní cibuloviny a rané trvalky se po oteplení snaží rychle prorůst za světlem a vytvářejí pod ochranou slabé žluté výhonky s nedostatkem chlorofylu. Záhon očistíme v závislosti na počasí, sledujeme probouzení rostlin a když se začnou nad povrchem půdy objevovat první nové výhonky, ochranu opatrně odstraníme. Podobně postupujeme i u trvalých okrasných trav. Stará stébla, která v zimě rostlinu chránila, odstraníme těsně u země dřív, než mezi nimi vyrostou nová. Pokud se opozdíme, musíme řezat výš, abychom mladé výhonky nepoškodili.
+
+Očistíme jahodník od starých, zaschlých a nemocných listů a přihnojíme jej kompostem, popř. jednosložkovými nebo kombinovanými hnojivy se základními živinami i stopovými prvky vhodnými pro jahodník.
+
+Koncem měsíce odhrneme zem od keřových růží, stromkové růže uvolníme ze zimního krytu a přivážeme k opoře.
+
+Je důležité mít v první polovině března ukončen zimní řez révy vinné. Při pozdějším řezu je totiž nebezpečí, že réva bude silně slzet, čímž dochází ke ztrátě mízy a oslabení keřů. Pokračujeme v základním řezu jabloní a hrušní. Větší rány ošetříme proti chorobám buď stromovým balzámem, latexem, štěpařským voskem nebo Kambilanem. Vyvážeme a ohýbáme větve u ovocných stěn a štíhlých vřeten. Na jednoleté výhony lze využít různá těžítka nebo drátěná ohýbadla. Do konce března roubujeme a přeroubováváme všechny peckoviny, v některých případech i jádroviny. Podmínkou pro úspěšné roubování jsou nenarašené rouby. Volíme obyčejnou nebo anglickou kopulaci, sedélkování, popřípadě kozí nožku.
+Pokračujeme ve hnojení výsadeb a vápníme půdu, pokud vykazuje kyselou reakci. U velkoplodých borůvek nebo zahradních brusinek může být vápnění škodlivé, stejně jako zálivka vodou s vyšším obsahem vápenatých solí.
+
+Ošetříme stromy s mrazovými trhlinami a deskami nebo kmeny poškozené hlodavci. Vykopeme staré nemocné, mrazem značně poškozené nebo usychající stromy a keře. Na místo po likvidaci dřevin nesázíme stejný nebo příbuzný druh, raději necháme půdu zregenerovat a důkladně prohnojíme kompostem, případně zapravíme zelené hnojení. Vysazujeme některé ovocné dřeviny, s broskvoněmi však nespěcháme, ty by měly být v době výsadby mírně narašené. Úspěšná je i výsadba meruněk i maliníku. Ihned po výsadbě je nutný řez korunky a důkladná zálivka, eventuálně připevnění stromku ke kůlu.
+
+V březnu také můžeme množit rostliny dřevitými řízky, oddělky i roubováním. Dřevité řízky, které jsme připravili v zimě napícháme do pařeniště, u odolnějších druhů i přímo na záhon. Pravidelně zaléváme, udržujeme záhon bez plevelů a provádíme ochranu proti škůdcům a chorobám.
+
+Jak a kde přezimují mšice škodící na ovocných stromech? Všechny druhy mšic přezimují ve stádiu vajíček nakladených do menších skupin na kůře ovocných dřevin, obyčejně v úžlabí pupenů. Na jaře se z nich vylíhnou larvy, které hned začnou sát šťávu z rašících listů. Dospělé samičky již nekladou vajíčka, ale rodí živé larvy. V jarním období se na ovocných stromech vyvine několik generací mšic. V poslední generaci se objeví křídlatí jedinci, kteří přeletují na letní hostitelské rostliny. Zde se celé léto rozmnožují a škodí na nich, ale na podzim se vracejí zpět na zimní hostitele. Tady se páří a samičky nakladou vajíčka, která přezimují. Některé druhy mšic ale hostitelské rostliny nemají a koncem jara pouze přeletují na jiné jedince stejného druhu. 
+
+Kdo chce mít na zahradě kvalitní trávník, záhy pozná, že péče o něj je stejně náročná, ne-li náročnější, než pěstovat zeleninu či květiny. Velice častým problémem bývá tvorba mechu, což podporuje celá řada faktorů. Nejčastěji je to nedostatečná výživa, zastíněné nebo vlhké stanoviště, kyselá půda a nesprávné sečení. Příliš nízké strniště nebo dokonce skalpování drnu sekačkou má totiž za následek zvýšenou tvorbu mechu. Teplé a vlhké zimy vytváří pro vznik mechu přímo ideální podmínky. Bude proto nutné pustit se do boje s mechem s plným nasazením. Než ale přistoupíme k hnojení, provzdušňování a sečení, vyplatí se nejprve zbavit trávník mechu mechanicky. Na malém pozemku vystačíme s železnými hráběmi, ale na pozemku o rozloze několika arů je ruční vyhrabování nadlidský výkon. Na takové ploše se vyplatí použít vyčesávač, který je dodáván jako příslušenství rotačního kypřiče půdy. Ocelové pruty snadno a rychle vyčešou veškerý mech.
+
+Závěrem měsíce můžeme v teplejších polohách za příznivých podmínek vysazovat ven připravenou sadbu listových druhů jako je raný salát, čekanka hlávková, pekingské zelí, kedlubny, ranou kapustu a květák. Mladou sadbu určitě přikryjeme bílou netkanou textilií.
+
+Při výsevu mrkve dbáme především na volbu pozemku, odrůdy a hustotu výsevu. Rozhodně nesejeme příliš hustě, nesklidili bychom kořeny kvalitní, ale niťovité, pokroucené a poškozené škůdci. Meziřádková vzdálenost by měla být 25 až 30 cm, abychom mohli mrkev pohodlně okopávat. Semena mrkve jsou poměrně malá, 1 gram obsahuje 800 až 900 semen. Na každý čtvereční metr by mělo přijít jen asi 0,5 g osiva. Při setí se vyplatí promíchat osivo mrkve s dvojnásobným množstvím suchého jemného písku, tak se dá dodržet správný výsev. Hloubka výsevu má být asi 0,5 cm a řádky je třeba po zahrnutí přimáčknout. Pokud zjistíme, že je výsev po vzejití příliš hustý, vyjednotíme rostlinky na vzdálenost minimálně 5 cm od sebe. Pro lepší klíčení semen mrkve nebo petržele je vhodné přikrýt zaseté záhony průhlednou fólií, kterou ponecháme na záhonech asi po dobu dvou týdnů. 
+Pro výsevy používáme uznané osivo. Můžeme jej také mořit biologickým přípravkem Polyversum, který sníží výskyt nežádoucího padání klíčících rostlin.
