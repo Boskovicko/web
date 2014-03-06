@@ -75,15 +75,19 @@ Jestli Kristus je, a jestli sedí nebo stojí na pravici Boha Otce a přijde sou
 
 ---
 
-„Duše není niternost sama o sobě. Je to niternost, která se otevírá. Základní otevřenost člověka. Jeho podstata. Schopnost se vztahovat ke světu. Přesahovat sebe sama. Duše je to nejniternější a zároveň to nejotevřenější v člověku. (…)
+### Petr Pazdera Payne: Maskovaná milost
 
-Duše je velvyslanectví bližního, toho druhého a toho jiného v nás. Pátá kolona. Achillova pata, za níž můžeme být vytaženi a zachráněni. 
+Duše není niternost sama o sobě. Je to niternost, která se otevírá. Základní otevřenost člověka. Jeho podstata. Schopnost se vztahovat ke světu. Přesahovat sebe sama. Duše je to nejniternější a zároveň to nejotevřenější v člověku.
 
-Bože vrať nám duši!“
+(…)
 
-*—Petr Pazdera Payne: Maskovaná milost*
-    
-Vít Ondráček: Kunštát 2010 
+Duše je velvyslanectví bližního, toho druhého a toho jiného v nás. Pátá kolona. Achillova pata, za níž můžeme být vytaženi a zachráněni. 
+
+Bože vrať nám duši!
+
+### Vít Ondráček: Kunštát 2010 
+
+Tato moje báseň vznikla po zbourání Bochořákova domu. Jsou v ní narážky na poezii J. M. Tomeše, F. Halase a L. Kundery. Dům míval krásný prošlapaný mramorový práh v barvě bílé, trochu do žluta, asi jako peří drané z křídel andělských…
     
 Do mrazu obutý nad mrtvým Kunštátem  
 hleděl jsem na městys tam přikrčený k zemi  
@@ -96,8 +100,4 @@ Ze stráně vzchází sad, jablka levitují.
 Stavení hlídalo městys jak škapulíř  
 procházíš domem tím a již se rychle smráká  
 připozdívá se beze zdí za prahem kamenným  
-stával dům básníka Klementa Bochořáka  
-
-Tato moje báseň vznikla po zbourání Bochořákova domu. Jsou v ní narážky na poezii J. M. Tomeše, F. Halase a L. Kundery. Dům míval krásný prošlapaný mramorový práh v barvě bílé, trochu do žluta, asi jako peří drané z křídel andělských…
-    
-*—Vít Ondráček*
+stával dům básníka Klementa Bochořáka
