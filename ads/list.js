@@ -10,11 +10,5 @@
         "image": "/ads/skolka.png",
         "text": "Waldorfská školka v Boskovicích?",
         "url": "/clanky/2014/01/11/waldorfska-skolka-v-boskovicich.html"
-    },
-    {
-        "name": "Diskuze o hazardu",
-        "image": "/ads/hazard.png",
-        "text": "Přijďte diskutovat o hazardu v Boskovicích",
-        "url": "/clanky/2014/02/18/uplny-zakaz-hazardu-boskovice-neplanuji.html"
     }
 ]
