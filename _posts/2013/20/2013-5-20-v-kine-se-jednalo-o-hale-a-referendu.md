@@ -1,5 +1,5 @@
 ---
-title: V kině jednalo hale a referendu
+title: V kině se jednalo o hale a referendu
 authors:
     - Jiří Vorlický
     - Leopold Němec
