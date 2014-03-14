@@ -12,6 +12,12 @@
         "url": "/temata/skolky/"
     },
     {
+        "name": "Téma: Hala",
+        "image": "/ads/hala.png",
+        "text": "Sportovní hala Slovákova: dostavíme ji? Za kolik?",
+        "url": "/temata/sportovni-hala/"
+    },
+    {
         "name": "Téma: Hazard",
         "image": "/ads/hazard.png",
         "text": "Přečtěte si, jak se vypořádáváme s hazardem.",
