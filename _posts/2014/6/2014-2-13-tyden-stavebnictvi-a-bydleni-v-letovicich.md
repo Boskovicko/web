@@ -1,6 +1,6 @@
 ---
 title: Týden stavebnictví a bydlení na letovické střední letos zpestřil dvoumetrový dinosaurus
-cover-photo: http://i.imgur.com/YUVRhd9.jpg
+cover-photo: http://i.zmotula.cz/YUVRhd9.jpg
 authors: Martina Lukešová
 category: publicistika
 tags: Letovice 6-2014

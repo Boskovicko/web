@@ -1,6 +1,6 @@
 ---
 title: První turnaj v kolové vyhrál Favorit Brno
-cover-photo: http://i.imgur.com/QdTzm9x.jpg
+cover-photo: http://i.zmotula.cz/QdTzm9x.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Svitávka kolová 8-2014

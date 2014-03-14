@@ -1,6 +1,6 @@
 ---
 title: Radnice čelí kritice za skácení aleje lip lemující cestu k zámku
-cover-photo: http://i.imgur.com/056erHm.jpg
+cover-photo: http://i.zmotula.cz/056erHm.jpg
 authors: Petra Bílá
 category: zpravodajství
 tags: Lysice zeleň 9-2014

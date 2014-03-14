@@ -1,6 +1,6 @@
 ---
 title: Okresní běžecká liga v sobotu začala Ráječkovskou desítkou
-cover-photo: http://i.imgur.com/QXfFNKF.jpg
+cover-photo: http://i.zmotula.cz/QXfFNKF.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Ráječko běh 6-2014

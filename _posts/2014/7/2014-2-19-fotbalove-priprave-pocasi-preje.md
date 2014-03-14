@@ -1,6 +1,6 @@
 ---
 title: Fotbalistům v přípravě počasí přeje
-cover-photo: http://i.imgur.com/BFhkapb.jpg
+cover-photo: http://i.zmotula.cz/BFhkapb.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

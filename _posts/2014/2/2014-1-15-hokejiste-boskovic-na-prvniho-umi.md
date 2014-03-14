@@ -1,7 +1,7 @@
 ---
 title: Hokejisté Boskovic to na prvního umí
 authors: Lubomír Slezák
-cover-photo: http://i.imgur.com/brtuHWm.jpg
+cover-photo: http://i.zmotula.cz/brtuHWm.jpg
 category: sport
 tags:
 - okres Blansko

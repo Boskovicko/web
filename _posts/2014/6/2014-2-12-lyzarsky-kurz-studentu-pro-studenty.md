@@ -1,6 +1,6 @@
 ---
 title: Studenti pedagogické školy připravili lyžařský kurz pro boskovické třeťáky a čtvrťáky
-cover-photo: http://i.imgur.com/9TSWsE0.jpg
+cover-photo: http://i.zmotula.cz/9TSWsE0.jpg
 authors: M. Krajíčková
 category: publicistika
 tags: Boskovice 6-2014

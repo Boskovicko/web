@@ -1,6 +1,6 @@
 ---
 title: V okresním čtvrtfinále se radovalo Blansko
-cover-photo: http://i.imgur.com/0KYaWqP.jpg
+cover-photo: http://i.zmotula.cz/0KYaWqP.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Boskovice Blansko hokej 9-2014

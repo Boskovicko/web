@@ -1,6 +1,6 @@
 ---
 title: Brněnskému poháru zbývají do konce tři závody
-cover-photo: http://i.imgur.com/hTX2J8q.jpg
+cover-photo: http://i.zmotula.cz/hTX2J8q.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

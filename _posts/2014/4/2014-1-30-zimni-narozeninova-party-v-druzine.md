@@ -1,7 +1,7 @@
 ---
 title: Zimní narozeninová párty v družině
 authors: Alena Koutná
-cover-photo: http://i.imgur.com/pI03iFf.jpg
+cover-photo: http://i.zmotula.cz/pI03iFf.jpg
 category: napsali nám
 tags: 4-2014
 ---

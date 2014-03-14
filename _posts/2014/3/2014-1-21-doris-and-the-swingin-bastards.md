@@ -1,7 +1,7 @@
 ---
 title: Ve skleníku se představí Doris & The Swingin’ Bastards
 authors: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/eNgK8P4.jpg
+cover-photo: http://i.zmotula.cz/eNgK8P4.jpg
 category: kultura
 tags: Boskovice koncerty 3-2014
 ---

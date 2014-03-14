@@ -1,6 +1,6 @@
 ---
 title: Uspořádali konferenci k 20. výročí Mezinárodního roku rodiny
-cover-photo: http://i.imgur.com/LKJbEbn.jpg
+cover-photo: http://i.zmotula.cz/LKJbEbn.jpg
 authors: Martina Lukešová
 category: zpravodajství
 tags: Boskovice 9-2014

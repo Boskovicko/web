@@ -1,7 +1,7 @@
 ---
 title: Šachový pohár DDM je ve druhé polovině
 authors: Lubomír Slezák
-cover-photo: http://i.imgur.com/63FxQqq.jpg
+cover-photo: http://i.zmotula.cz/63FxQqq.jpg
 category: sport
 tags: Boskovice šachy 3-2014
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Psali jsme v roce 1992: Knihovna, velká privatizace a další"
-cover-photo: http://i.imgur.com/auEbXfM.jpg
+cover-photo: http://i.zmotula.cz/auEbXfM.jpg
 authors: Jitka Melkusová
 category: publicistika
 tags:

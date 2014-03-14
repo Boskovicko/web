@@ -1,7 +1,7 @@
 ---
 title: Výstava Vostřebalové Fischerové v Moravské galerii je velmi zdařilá
 authors: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/GT1T9fn.jpg
+cover-photo: http://i.zmotula.cz/GT1T9fn.jpg
 category: kultura
 tags: Brno výstavy 3-2014
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dětská Porta se konala už po sedmadvacáté
-cover-photo: http://i.imgur.com/C0rArMG.jpg
+cover-photo: http://i.zmotula.cz/C0rArMG.jpg
 authors: Andrea Šrámková
 category: kultura
 tags: Krhov Porta 9-2014

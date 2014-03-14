@@ -1,6 +1,6 @@
 ---
 title: Letovičtí se brání sesuvům skalnatého svahu
-cover-photo: http://i.imgur.com/isnBdiU.jpg
+cover-photo: http://i.zmotula.cz/isnBdiU.jpg
 authors: Andrea Šrámková
 category: zpravodajství
 tags: Letovice 9-2014

@@ -1,6 +1,6 @@
 ---
 title: Záznam besedy o hazardu
-cover-photo: http://i.imgur.com/UWspezB.jpg
+cover-photo: http://i.zmotula.cz/UWspezB.jpg
 authors:
     - Tomáš Znamenáček
     - Tomáš Trumpeš

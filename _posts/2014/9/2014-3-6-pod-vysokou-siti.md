@@ -1,6 +1,6 @@
 ---
 title: Pod vysokou sítí
-cover-photo: http://i.imgur.com/q1oGv8W.jpg
+cover-photo: http://i.zmotula.cz/q1oGv8W.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

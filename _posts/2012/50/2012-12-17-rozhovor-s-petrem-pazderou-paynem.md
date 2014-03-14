@@ -1,6 +1,6 @@
 ---
 title: „Obstojí to, co je hodno tradování a co někdo tradovat chce a potřebuje. A to jsou zejména myšlenky“
-cover-photo: http://i.imgur.com/ZMz66ry.jpg
+cover-photo: http://i.zmotula.cz/ZMz66ry.jpg
 authors: Tomáš Trumpeš
 category: publicistika
 tags:

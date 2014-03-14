@@ -1,6 +1,6 @@
 ---
 title: V Boskovicích se uskuteční Den pro Tibet
-cover-photo: http://i.imgur.com/TDXKKk8.jpg
+cover-photo: http://i.zmotula.cz/TDXKKk8.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice 8-2014

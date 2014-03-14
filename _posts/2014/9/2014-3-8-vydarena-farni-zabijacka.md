@@ -1,6 +1,6 @@
 ---
 title: První farní zabíjačka se vydařila
-cover-photo: http://i.imgur.com/SPokKEE.jpg
+cover-photo: http://i.zmotula.cz/SPokKEE.jpg
 authors: Vladimír Ševčík
 category: napsali nám
 tags: Žďárná 9-2014

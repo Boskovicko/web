@@ -1,6 +1,6 @@
 ---
 title: Rybáři se již nemohou dočkat nové sezony
-cover-photo: http://i.imgur.com/MUiGqSn.jpg
+cover-photo: http://i.zmotula.cz/MUiGqSn.jpg
 authors: Vladimír Zahálka
 category: napsali nám
 tags: Olešnice rybaření 9-2014

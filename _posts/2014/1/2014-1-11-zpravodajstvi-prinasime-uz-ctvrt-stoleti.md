@@ -3,7 +3,7 @@ title: Zpravodajství z regionu přinášíme svým čtenářům už čtvrt sto
 authors:
     - Tomáš Trumpeš
     - Andrea Šrámková
-cover-photo: http://i.imgur.com/c8yZSNI.jpg
+cover-photo: http://i.zmotula.cz/c8yZSNI.jpg
 category: publicistika
 tags:
 - Boskovice

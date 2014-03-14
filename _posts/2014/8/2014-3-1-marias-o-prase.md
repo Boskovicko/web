@@ -1,6 +1,6 @@
 ---
 title: Šedesát mariášníků hrálo na Okrouhlé o půlku prasete
-cover-photo: http://i.imgur.com/2qnQew1.jpg
+cover-photo: http://i.zmotula.cz/2qnQew1.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Okrouhlá mariáš 8-2014

@@ -2,7 +2,7 @@
 title: Práce na rekonstrukci vodovodních přivaděčů jsou v plném proudu
 authors: Andrea Šrámková
 category: zpravodajství
-cover-photo: http://i.imgur.com/PAugQL4.jpg
+cover-photo: http://i.zmotula.cz/PAugQL4.jpg
 tags:
 - okres Blansko
 - voda

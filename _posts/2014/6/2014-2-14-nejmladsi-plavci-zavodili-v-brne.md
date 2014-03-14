@@ -1,7 +1,7 @@
 ---
 title: Nejmladší plavci závodili v Brně
 authors: Lubomír Slezák
-cover-photo: http://i.imgur.com/Mp5oP6l.jpg
+cover-photo: http://i.zmotula.cz/Mp5oP6l.jpg
 category: sport
 tags: Brno Boskovice plavání 6-2014
 ---

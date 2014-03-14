@@ -1,6 +1,6 @@
 ---
 title: Boskovický režisér Michal Griga dokončuje film Rytíři zločinu dva
-cover-photo: http://i.imgur.com/alDOdZz.jpg
+cover-photo: http://i.zmotula.cz/alDOdZz.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice film 7-2014

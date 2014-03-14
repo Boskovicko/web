@@ -1,6 +1,6 @@
 ---
 title: Kunštátské divadlo LMD připravuje hru bratří Čapků Ze života hmyzu
-cover-photo: http://i.imgur.com/uUVWeHv.jpg
+cover-photo: http://i.zmotula.cz/uUVWeHv.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: Kunštát divadlo 10-2014

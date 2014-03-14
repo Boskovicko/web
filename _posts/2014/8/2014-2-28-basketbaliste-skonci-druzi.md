@@ -1,6 +1,6 @@
 ---
 title: Basketbalisté Sokola skončí v oblastním přeboru druzí
-cover-photo: http://i.imgur.com/2gCjw4e.jpg
+cover-photo: http://i.zmotula.cz/2gCjw4e.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

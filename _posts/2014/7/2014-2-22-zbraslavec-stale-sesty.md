@@ -1,6 +1,6 @@
 ---
 title: Zbraslavec je stále na šestém místě
-cover-photo: http://i.imgur.com/c5Gfi5a.jpg
+cover-photo: http://i.zmotula.cz/c5Gfi5a.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

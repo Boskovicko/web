@@ -2,7 +2,7 @@
 title: Pohádková zima
 authors: Zuzana Fajglová
 category: napsali nám
-cover-photo: http://i.imgur.com/gR7w1Sk.jpg
+cover-photo: http://i.zmotula.cz/gR7w1Sk.jpg
 tags: školky 4-2014
 ---
 

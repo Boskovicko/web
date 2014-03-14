@@ -1,7 +1,7 @@
 ---
 title: Zimní nálady
 authors: Marie Ženatová
-cover-photo: http://i.imgur.com/zo3KI28.jpg
+cover-photo: http://i.zmotula.cz/zo3KI28.jpg
 category: napsali nám
 tags: 5-2014
 ---

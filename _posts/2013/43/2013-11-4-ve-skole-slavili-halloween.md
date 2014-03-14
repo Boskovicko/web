@@ -1,7 +1,7 @@
 ---
 title: Ve škole ve Svitávce slavili Halloween
 authors: Iva Paráková
-cover-photo: http://i.imgur.com/bpUHpGK.jpg
+cover-photo: http://i.zmotula.cz/bpUHpGK.jpg
 category: napsali nám
 tags: Svitávka halloween 43-2013
 ---

@@ -2,7 +2,7 @@
 title: James Harries opět zahraje pro dětský domov
 authors: Tomáš Trumpeš
 category: kultura
-cover-photo: http://i.imgur.com/YO7caDn.jpg
+cover-photo: http://i.zmotula.cz/YO7caDn.jpg
 tags: Boskovice koncerty 42-2013
 ---
 

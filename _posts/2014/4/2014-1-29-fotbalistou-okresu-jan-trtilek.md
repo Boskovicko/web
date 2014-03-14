@@ -1,7 +1,7 @@
 ---
 title: Nejlepším fotbalistou okresu je opět Jan Trtílek
 authors: Lubomír Slezák
-cover-photo: http://i.imgur.com/OPI0PfG.jpg
+cover-photo: http://i.zmotula.cz/OPI0PfG.jpg
 category: sport
 tags: Blansko fotbal 4-2014
 ---

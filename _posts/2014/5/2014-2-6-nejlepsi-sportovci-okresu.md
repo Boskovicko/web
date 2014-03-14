@@ -1,7 +1,7 @@
 ---
 title: Nejlepší sportovci okresu jsou známi
 authors: Lubomír Slezák
-cover-photo: http://i.imgur.com/dYp5dGO.jpg
+cover-photo: http://i.zmotula.cz/dYp5dGO.jpg
 category: sport
 tags:
 - okres Blansko

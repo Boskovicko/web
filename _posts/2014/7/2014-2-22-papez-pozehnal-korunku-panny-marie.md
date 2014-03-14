@@ -1,6 +1,6 @@
 ---
 title: Papež požehnal korunku pro sochu olešnické Panny Marie
-cover-photo: http://i.imgur.com/xOgDbA5.jpg
+cover-photo: http://i.zmotula.cz/xOgDbA5.jpg
 authors: Andrea Šrámková
 category: zpravodajství
 tags: Olešnice Vatikán 7-2014

@@ -1,7 +1,7 @@
 ---
 title: „Letos bych rád dokončil sólové album, o kterém sním několik let,“ říká mandolinista Martin Krajíček
 authors: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/u1R4rAm.jpg
+cover-photo: http://i.zmotula.cz/u1R4rAm.jpg
 category: kultura
 tags: Boskovice rozhovory 4-2014
 ---

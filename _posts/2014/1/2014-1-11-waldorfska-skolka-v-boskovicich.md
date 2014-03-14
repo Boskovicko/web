@@ -1,7 +1,7 @@
 ---
 title: V Boskovicích usilují o otevření waldorfské školky
 authors: Andrea Šrámková
-cover-photo: http://i.imgur.com/Uj2hE4j.jpg
+cover-photo: http://i.zmotula.cz/Uj2hE4j.jpg
 category: zpravodajství
 tags: Boskovice školky 1-2014
 ---

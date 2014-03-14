@@ -1,6 +1,6 @@
 ---
 title: Panský dvůr na Hradní ulici čeká kompletní rekonstrukce
-cover-photo: http://i.imgur.com/pVyIPId.jpg
+cover-photo: http://i.zmotula.cz/pVyIPId.jpg
 authors: Tomáš Trumpeš
 category: zpravodajství
 tags: Boskovice opravy 7-2014

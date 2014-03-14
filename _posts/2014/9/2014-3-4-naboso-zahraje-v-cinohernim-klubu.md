@@ -1,6 +1,6 @@
 ---
 title: Naboso si zahraje v Činoherním klubu
-cover-photo: http://i.imgur.com/nXy41OX.jpg
+cover-photo: http://i.zmotula.cz/nXy41OX.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice divadlo 9-2014

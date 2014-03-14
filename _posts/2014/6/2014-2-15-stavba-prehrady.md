@@ -1,6 +1,6 @@
 ---
 title: "Psali jsme v roce 1992: Stavba přehrady"
-cover-photo: http://i.imgur.com/4UOtK5a.jpg
+cover-photo: http://i.zmotula.cz/4UOtK5a.jpg
 authors: Jitka Melkusová
 category: publicistika
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Eldéenka získala certifikáty kvality
 authors: Jitka Melkusová
-cover-photo: http://i.imgur.com/IJu1gtz.jpg
+cover-photo: http://i.zmotula.cz/IJu1gtz.jpg
 category: zpravodajství
 tags: Letovice nemocnice 3-2014
 ---

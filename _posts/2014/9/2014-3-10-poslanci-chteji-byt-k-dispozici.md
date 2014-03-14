@@ -1,6 +1,6 @@
 ---
 title: Poslanci chtějí být lidem k dispozici
-cover-photo: http://i.imgur.com/cpWefV6.jpg
+cover-photo: http://i.zmotula.cz/cpWefV6.jpg
 authors: Petra Bílá
 category: zpravodajství
 tags: Blansko Boskovice politika 9-2014

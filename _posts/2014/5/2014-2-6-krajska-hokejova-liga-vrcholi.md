@@ -1,7 +1,7 @@
 ---
 title: Hokejové boje v krajské lize vrcholí
 authors: Lubomír Slezák
-cover-photo: http://i.imgur.com/44Am4sc.jpg
+cover-photo: http://i.zmotula.cz/44Am4sc.jpg
 category: sport
 tags:
 - okres Blansko

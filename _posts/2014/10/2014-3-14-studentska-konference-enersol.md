@@ -1,6 +1,6 @@
 ---
 title: V Letovicích proběhla studentská konference Enersol
-cover-photo: http://i.imgur.com/JGuToIr.jpg
+cover-photo: http://i.zmotula.cz/JGuToIr.jpg
 authors: Andrea Šrámková
 category: zpravodajství
 tags: Letovice 10-2014
