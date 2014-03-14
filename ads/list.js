@@ -6,6 +6,12 @@
         "url": "/clanky/2014/01/11/zpravodajstvi-prinasime-uz-ctvrt-stoleti.html"
     },
     {
+        "name": "Záznam diskuze o hazardu",
+        "image": "/ads/hazard.png",
+        "text": "Podívejte se na záznam diskuze o hazardu.",
+        "url": "/clanky/2014/03/13/beseda-o-hazardu.html"
+    },
+    {
         "name": "Waldorfská školka",
         "image": "/ads/skolka.png",
         "text": "Waldorfská školka v Boskovicích?",
