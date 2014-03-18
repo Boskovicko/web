@@ -2,7 +2,7 @@
 title: Po roce a půl boskovičtí lékaři opět ošetřují muže s otravou metanolem
 authors: Andrea Šrámková
 category: zpravodajství
-tags: Boskovice Vanovice 6-2014
+tags: Boskovice Vanovice metanol 6-2014
 ---
 
 V pátek ráno kolem osmé hodiny přijali v boskovické nemocnici další případ otravy metanolem. Dvaapadesátiletého muže z Vanovic přivezla manželka, protože trpěl silnými křečovými bolestmi břicha a ztrácel vědomí. V neděli odpoledne byl stále ještě v bezvědomí, ale již bez přímého ohrožení života. Případ vyšetřuje policie, zdroj otravy zatím znám není.
