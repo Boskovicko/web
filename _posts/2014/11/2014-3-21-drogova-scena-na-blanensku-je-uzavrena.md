@@ -1,9 +1,7 @@
 ---
 title: „Drogová scéna na Blanensku je dost uzavřená, přímo na ulici si nikdo pervitin nepíchá,“ říká poradkyně Petra Zatloukalová
 cover-photo: http://i.imgur.com/DcmhpDH.jpg
-authors:
-    - Žaneta Ondroušková
-    - Ludmila Dobrozemská
+authors: Žaneta Ondroušková
 category: publicistika
 tags: Blansko Boskovice drogy hazard 11-2014
 ---

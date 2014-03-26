@@ -1,0 +1,14 @@
+---
+title: Díky mírné zimě bude více peněz na údržbu silnic
+authors: Petra Bílá
+category: zpravodajství
+tags: Boskovicko doprava silnice 12-2014
+---
+
+Letošní zimní počasí bylo k řidičům přívětivé. Zima se obešla takřka bez sněhu, sem tam cesty pokrylo náledí. Celkově ale silničáři zasahovali spíše méně a zimní údržba tak ve srovnání s jinými roky stála méně peněz.
+
+„V průběhu ledna a února jsme měli patnáct zásahových dnů. Většinou se jednalo o námrazy a náledí, odklízení sněhové pokrývky bylo minimálně. Při normálním průběhu zimy bývá v tomto období kolem čtyřicet až padesát zásahových dnů,“ prozradil vedoucí blanenské správy a údržby silnic Miloš Bažant. Náklady na zimní údržbu v období ledna a února se zastavily na osmi milionech korun, což je zhruba polovina toho, kolik stojí zimní údržba při obvyklém průběhu zimy. „Za srovnatelné období loňského roku jsme utratili za zimní údržbu kolem šestnácti milionů korun. Ale z uvedených čísel nelze usuzovat, že máme osm milionů korun k dobru. Na údržbu silnic máme k dispozici určitý balík peněz, které můžeme za rok vyčerpat. To, co ušetříme v zimě, můžeme čerpat v létě na sekání trávy u silnic, různé vysprávky a podobně. Vzhledem k průběhu počasí jsme se ve zvýšené míře věnovali údržbě silniční vegetace, ke které bychom se při normálním průběhu zimy nedostali,“ vysvětlil Bažant. Podle zákona o pozemních komunikacích zimní období končí k poslednímu březnu. „Letos již máme přestavěny dva mechanizmy ze zimní údržby na letní. Jedná se o zametací nástavby a již jsme zahájili úklid zejména v průtazích obcí,“ dodal ještě Bažant. Silnice jsou po letošní mírné zimě ve viditelně lepším stavu.
+
+Náklady na úklid chodníků a silnic každoročně seberou část peněz také z rozpočtů měst. Letos částky vyfakturované za zimní údržbu nebudou tak vysoké. Miroslav Levý z boskovického městského úřadu sečetl, že zimní údržba komunikací a chodníků v Boskovicích zatím probíhala jednadvacet dní. „Po celé zimní období však měli pracovníci firmy Sita zimní pohotovost. Ta byla také fakturována a proplacena. Počítáme, že do konce března bude na zimní údržbu vyčerpáno sedm set tisíc korun. Za loňskou zimu to činilo téměř milion a půl. Díky mírné zimě tak dojde ke značné úspoře. Ušetřené peníze zůstanou v rozpočtu města k dalšímu využití,“ sdělil Miroslav Levý.
+
+Letovičtí na zimní údržbu vyčlenili jeden milion korun. Kolik z této částky letos vezmou, zatím nespočítali. „Určitě ale můžu říct, že jsme díky mírné zimě ušetřili. Jak vysoká tato úspora bude, zatím nemáme sečteno, protože zima ještě není u konce,“ konstatoval starosta Letovic Vladimír Stejskal.

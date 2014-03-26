@@ -1,0 +1,18 @@
+---
+title: Bytové domy za nemocnicí nebudou, nahradit je mají rodinné domky
+authors: Marek Osouch
+category: zpravodajství
+tags: Boskovice bydlení 12-2014
+---
+
+Mělo zde vyrůst zhruba tři sta bytů. Alespoň takový plán měla boskovická radnice a developerská společnost Reko. Pro nezájem o byty však projekt bytových domů za nemocnicí končí.
+
+Psal se rok 2008 a vedení města mluvilo o rozsáhlé výstavbě. Za nemocnicí bylo v plánu tři sta bytů, na jiných místech po Boskovicích další čtyři sta. „Připravovaná výstavba je určitě nejrozsáhlejší od roku 1989,“ uvedl tehdy vedoucí odboru výstavby a územního plánování boskovického městského úřadu Slavoj Horečka. S krizí ovšem přišla i krize ve stavebnictví a zájem o byty klesl. To se podle obchodního ředitele společnosti Reko Pavla Knapce stalo příčinou ukončení celého projektu. Podle původního plánu chtěla společnost Reko dokončit výstavbu v polovině letošního roku. V roce 2009 boskovické zastupitelstvo prodloužilo termíny dokončení až na rok 2020 a letos v březnu celý projekt zrušilo.
+
+A pozemky? „Firma Reko ve své žádosti nabízí pozemek za symbolickou cenu deset tisíc korun. Na druhé straně požaduje vrácení poskytnuté zálohy na kupní cenu a ukončení všech příslušných smluv bez dalších nároků,“ prohlásil vedoucí majetkového odboru Pavel Musil. Celkem Boskovice zaplatí Reku více než tři a tři čtvrtě milionu korun. Co s danou lokalitou bude, zatím podle Musila není jasné. „Město bude s touto lokalitou nakládat dle platného územního plánu. Ten umožňuje výstavbu bytových nebo rodinných domů. Konkrétní plán město zatím nemá,“ vysvětlil Musil. Postavené základy prvního bytového domu však podle něj město odstraňovat nebude. „Ideální by byla dostavba, například startovacích nebo sociálních bytů. Záleží to na dotačních titulech. V případě, že by se do budoucího záměru nehodil bytový dům, je možné na základech vybudovat parkoviště či hřiště,“ dodal.
+
+Klidným místem v nejbližších letech však lokalita za nemocnicí nebude. Před necelým rokem rozhodlo boskovické zastupitelstvo o výstavbě rodinných domů na poli vedle zahrádkářské kolonie na Rovné. Podle plánu jich zde má vyrůst šestatřicet. Výstavbu má v režii společnost BK INVEST. Radnice se zavázala zde vybudovat chodníky a silnici z městského rozpočtu celkově za pět milionů korun.
+
+Lidé z blízkého okolí však mají na výstavbu rozpolcené názory. „Nelíbí se nám to. Tady je chatová oblast, tak bychom tady chtěli mít klid,“ poznamenala Monika Živná, která pobývá na zahrádce hned vedle pole. Z druhé strany silnice, kde v dnešní době stojí první rodinný domek, naopak nezaznívá žádná kritika. „Nám osobně to nebude vadit. Bude tady víc živo, ale větší hluk zde stejně dělá Deas,“ sdělila nám spolumajitelka domu Vlasta Pulcová.
+
+Město kritickým hlasům namítá, že v jiných částech nevlastní pozemky, navíc toto místo se jeví velice příznivé i z hlediska nákladů. „V současné době nemá město žádnou vlastní lokalitu, kde by mohly být v krátké době bez větších finančních nákladů vytvořeny podmínky pro výstavbu rodinných domů. Byla například zpracována zastavovací studie lokality ulice Zahradní směrem na Mladkov, podle které by činily náklady na technickou infrastrukturu více než 25 milionů korun pro 22 rodinných domů. V této lokalitě navíc město nevlastní žádné pozemky. Výkupy by představovaly minimálně dalších 10 milionů korun,“ argumentovala radnice s tím, že podobně se stavělo už také v jiných částech města. „Uvedeným způsobem již město spolupracovalo na zajištění podmínek pro výstavbu rodinných domů na Absolonově ulici nebo v Hrádkově,“ dodala radnice.
