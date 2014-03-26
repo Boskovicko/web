@@ -2,7 +2,7 @@
 title: Anketa o drogách
 authors: Žaneta Ondroušková
 category: publicistika
-tags: Boskovicko drogy 11-2014
+tags: Boskovicko ankety drogy 11-2014
 ---
 
 Lidé v ulicích Boskovic odpovídali na otázku, co si myslí o drogách, a jak to podle nich vypadá s návykovými látkami v našem regionu.
