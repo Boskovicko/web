@@ -1,0 +1,14 @@
+---
+title: Boskovice si nechaly zpracovat posudek svého hospodaření
+authors: Marek Osouch
+category: zpravodajství
+tags: Boskovice 13-2014
+---
+
+Boskovická radnice si objednala posudek zaměřený na její hospodaření a rozpočtovou politiku. Nedávno přišel výsledek s hodnocením na stupni B, což je třetí nejlepší stupeň ze sedmi a znamená podle společnosti velmi nízké riziko, tedy finanční stabilitu.
+
+„Posuzované město převyšuje rámec srovnatelných subjektů. Ekonomické ukazatele prokazují velmi dobrou finanční stabilitu,“ stojí ve zprávě společnosti Czech Credit Bureau, která hodnocení pro Boskovice zpracovala. Negativní hodnocení podala jen v oblasti počtu podnikatelů na počet obyvatel. Starostu Boskovic Jaroslava Dohnálka hodnocení těší. „Je vidět, že jsme v minulých letech zacházeli obezřetně s finančními prostředky a investicemi ve městě a že jsme rozpočtovou politiku nedělali zase tak špatně. Nejde o zázrak, ale letitou a systematickou práci,“ pochválil starosta a dodal, že ačkoliv si vedení města posudek objednalo, je to stále objektivní a nestranné hodnocení. „Oni nepracovali s podklady od nás, ale s tím, co se odevzdává na Ministerstvo financí,“ upřesnil. Boskovice za hodnocení zaplatily jedenáct a půl tisíce korun a získaly za rok 2012 stupeň B, což je oproti roku 2009 zlepšení o tři stupně. Za rok 2013 zatím posudek zpracován nebyl. Starosta očekává, že bude opět lepší.
+
+S dobrou rozpočtovou politikou města souhlasí i opoziční zastupitel Vladimír Farský. „Já jsem zatím neviděl tu zprávu, nicméně s tím souhlasím. Podle mě město hospodaří dobře, mimo jiné se snižuje celkové zadlužení města,“ prohlásil. Od roku 2010 se celkový dluh Boskovic snížil o více než padesát milionů. Za období let 2000 až 2012 se dluh snížil na necelých jednatřicet milionů korun. Farský ale také podotkl, že je to vždy na úkor něčeho jiného. Například prosincové zasedání zastupitelstva v roce 2012 odsouhlasilo zvýšení platby za odpad z pěti set na pět set padesát korun na obyvatele. Proti zvyšování se tenkrát postavil Milan Kolínský z ČSSD a navrhoval zachovat pětisetkorunovou částku.
+
+Hodnocení rozpočtové politiky Boskovicím zpracovala společnost Czech Credit Bureau, jejímž vlastníkem je italská společnost CRIF. Sama sebe poté prezentuje jako jedničku na evropském trhu v poskytování bankovních úvěrových informací. Kromě toho však vymyslela i metodiku ratingové hodnocení pro komerční i neziskový sektor. „Hodnocení je komplexní známkou kvality hospodaření obce, její  schopnosti dodržet vlastní závazky, splácet včas a řádně úroky i jistinu dlužné částky. Metodika se nemění a je stejná pro každé město či obec,“ vysvětlil Luděk Mácha, který má ve společnosti ratingové hodnocení na starosti. Podle obchodního rejstříku ale není předmět podnikání této firmy přesně vymezený. Při výpočtu hodnocení pro obce vychází podle Máchy z veřejně dostupných zdrojů. Jedním z nich je portál státní pokladny provozovaný Ministerstvem financí.
