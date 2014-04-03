@@ -1,9 +1,9 @@
 [
     {
-        "name": "25 let Boskovicka",
-        "image": "/ads/narozeniny.png",
-        "text": "Už čtvrt století díky nám víte, co se v regionu děje.",
-        "url": "/clanky/2014/01/11/zpravodajstvi-prinasime-uz-ctvrt-stoleti.html"
+        "name": "Auteco BS",
+        "image": "/ads/auteco.png",
+        "text": "Auteco BS: Autorizovaný servis Renault",
+        "url": "http://www.autecobs.cz/"
     },
     {
         "name": "Téma: Školky",
