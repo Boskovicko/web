@@ -1,0 +1,29 @@
+---
+title: „Lidé by měli podržet české výrobky a české firmy,“ říká podnikatel Pavel Schwarzer
+cover-photo: http://i.imgur.com/bno84Yd.jpg
+authors: Petra Bílá
+category: publicistika
+tags: Boskovice rozhovory 14-2014
+---
+
+Před více než třemi roky se boskovický podnikatel a funkcionář hospodářské komory Pavel Schwarzer pustil do odvážného projektu. V insolvenčním řízení odkoupil areál bývalého Krasu, aby tam vybudoval prodejní centrum. Dnes už velká část objektu prošla rekonstrukcí a v prostorách probíhá čilý obchodní ruch. Majitel firmy EKO-DOMOV prozradil, že aby podnikatelé a živnostníci obstáli v konkurenci supermarketů, musí jít s dobou a nabídnout zákazníkovi přidanou hodnotu.
+
+**Vaše firma funguje na trhu už osmnáct let? Cítíte, že se mění podnikatelské prostředí?**
+
+Podnikatelské prostředí se za tu dobu diametrálně změnilo všude, i v Boskovicích. Dříve měl obchod pevnou strukturu. Výrobce dodal velkoobchodu, ten zásoboval maloobchodní prodejny a řemeslníky. Pokud chtěli zákazníci koupit zboží, kupovali je v kamenných obchodech za nabízené ceny. Dnes se maloobchod přesouvá na internetové obchody a z větší části do velkých nákupních center. Cenu jakéhokoliv zboží lze obecně zjistit na internetu za pár minut. Obchod probíhá tak, že obchodníci se snaží prodat za každou cenu komukoliv cokoliv a zejména některé garážové internetové obchody nesmyslně sráží ceny. Regionálním obchodníkům klesají obchodní marže a stoupají náklady. Mnoho prodejců v regionu zaniká, protože je ničí mezinárodní obchodní řetězce a internetové obchody. To je velký problém, který se řeší nejen na úrovni naší republiky, ale i celé Evropy. Začíná se jasně ukazovat, že do budoucna budou regionálně fungovat jenom firmy, které budou mít velkou kamennou prodejnu nebo výdejnu, kde budou ukazovat prodávané zboží, ale současně budou provádět i velkoobchod a provozovat internetový obchod. Do budoucna nejdůležitější se stane logistika a poskytované služby. Tímto směrem chce jít i naše firma. Již dnes provozujeme dva internetové obchody, vybudovali jsme velkou maloobchodní prodejnu, ale zabýváme se i velkoobchodem a mezinárodním obchodem. Předpokládáme, že výrobci zboží budou chtít do budoucna spolupracovat s firmami, které dělají všechny tyto věci, protože v nich vidí potenciál.
+
+**Jakým směrem se vyvíjí podnikání v Boskovicích a na Boskovicku?**
+
+Boskovičtí obchodníci dlouho fungovali tak, že měli obchody v centru města a dařilo se jim. Kvůli nově postaveným supermarketům se v poslední době obchodní činnost pomalu přesouvá na okraj města, kam se některé místní firmy také přemísťují. Na náměstí anebo v židovské čtvrti se soustředí spíše kavárny, restaurace a vinárny a obchodní činnost polevuje. Navíc recese zasáhla koupěschopnost lidí. Ti nakupují míň a spousta menších nebo středních firem živoří nebo končí, protože zde není kupní síla.
+
+**Můžou zákazníci tento trend nějak změnit?**
+
+Lidé jezdí nakupovat do nákupních center. Zde je třeba říct, že obchodní řetězce, které tady fungují, jsou zahraniční. Veškeré zisky, které tady udělají, odvádí do zahraničí, hlavně do Německa, Francie, Anglie a ne do České republiky. V supermarketech sice jsou zaměstnaní lidé z regionu. Ti ale pracují většinou za minimální mzdu a jako zákazníci tudíž nemají kupní sílu. Je potřeba si uvědomit, že žijeme v České republice a měli bychom podporovat české výrobky a české firmy.
+
+**V této, pro podnikatele nelehké době, jste přišel s projektem obchodního centra, kde by se pod jednou střechou soustředilo několik obchodů nabízejících sortiment pro byt, dům a zahradu. Podařilo se vám to?**
+
+Centrum Kras by mělo sloužit všem lidem v regionu. Žije tady padesát tisíc lidí. Chceme, aby těch padesát tisíc lidí z Boskovicka a okolí mělo službu přímo tady a mohli pohodlně nakupovat na jednom místě celý sortiment pro zahradu, dům nebo byt. Kromě požadovaného zboží by měli dostat i služby, poradenství a servis. Proto vznikl projekt Centrum KRAS, aby obyvatelé regionu mohli kupovat i jiné zboží než to, co nabízí obchodní řetězce, a abychom pro ně zachovali služby a kulturu prodeje, že se budou cítit jako zákazníci. Pokud se nám nepodaří v Boskovicích udržet prodej, může se v budoucnu stát, že když si člověk bude chtít koupit vrtačku nebo šroubky, bude muset jet do Brna. Takto je to dnes už například s oděvy, když si člověk chce koupit oblečení, musí koupit buď vietnamské oblečení nebo jet nakoupit do Brna. Tady v Boskovicích zůstalo pár českých prodejen oděvů, které cenově těžko konkurují velkým zahraničním řetězcům. A drží se jenom díky velmi dobré kvalitě zboží a nabízeným službám.
+
+**V posledních týdnech se hodně hovoří o stavbě distribučního centra Amazonu v Brně. Může to v budoucnosti nějak ovlivnit regionální trh?**
+
+O stavbě Amazonu jsem diskutoval se spoustou lidí. Prý se toho nemusíme bát, protože centrum postaví jen proto, aby mohli prodávat do Německa a do Rakouska a v Česku prodávat nebudou. Já se ale domnívám, že pokud tady bude postaven obchod, kde má pracovat čtyři a půl tisíce lidí, tak se dá předpokládat, že bude prodávat i v České republice. A tady určitě nastane problém: Amazon je velice konkurenceschopný americký řetězec, nabízí zboží z celého světa. Myslím, že může dost výrazně zasáhnout i současné internetové obchody, obzvlášť v odvětví elektroniky. Významně ovlivní trh a ubere kupní sílu i mezinárodním řetězcům. Když si vezmeme, kolik je tady obchodních řetězců, dá se odhadnout, že bude ještě méně zákazníků pro nás, české, potažmo regionální podnikatele. K tomu můžu jen říct, že bych si moc přál, aby všichni místní a regionální podnikatelé mohli nadále poskytovat své služby občanům Boskovicka i širokého okolí jako doposud.
