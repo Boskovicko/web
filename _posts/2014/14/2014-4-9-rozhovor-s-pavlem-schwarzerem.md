@@ -6,7 +6,7 @@ category: publicistika
 tags: Boskovice rozhovory 14-2014
 ---
 
-Před více než třemi roky se boskovický podnikatel a funkcionář hospodářské komory Pavel Schwarzer pustil do odvážného projektu. V insolvenčním řízení odkoupil areál bývalého Krasu, aby tam vybudoval prodejní centrum. Dnes už velká část objektu prošla rekonstrukcí a v prostorách probíhá čilý obchodní ruch. Majitel firmy EKO-DOMOV prozradil, že aby podnikatelé a živnostníci obstáli v konkurenci supermarketů, musí jít s dobou a nabídnout zákazníkovi přidanou hodnotu.
+Před více než třemi roky se boskovický podnikatel Pavel Schwarzer pustil do odvážného projektu. V insolvenčním řízení odkoupil areál bývalého Krasu, aby tam vybudoval prodejní centrum. Dnes už velká část objektu prošla rekonstrukcí a v prostorách probíhá čilý obchodní ruch. Majitel firmy EKO-DOMOV prozradil, že aby podnikatelé a živnostníci obstáli v konkurenci supermarketů, musí jít s dobou a nabídnout zákazníkovi přidanou hodnotu.
 
 **Vaše firma funguje na trhu už osmnáct let? Cítíte, že se mění podnikatelské prostředí?**
 
