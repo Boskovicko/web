@@ -1,0 +1,19 @@
+---
+title: V sousedství soukromých domků chtějí stavět sběrný dvůr. Jejich obyvatelé s umístěním nesouhlasí
+authors: Petra Bílá
+category: zpravodajství
+tags: 15-2014 Žďárná
+---
+
+Už šest roků řeší Žďárenští stavbu sběrného dvora, další jednání proběhlo minulý týden. Mají přiznané dotace a mezi stavebními firmami vysoutěžili výhodnou cenu díla. Chybí jim ale platné stavební povolení. Podle územního plánu by stavba měla stát mezi zástavbou v sousedství hasičské zbrojnice, sídla firmy JVP a několika rodinných domů. A právě vlastníci sousedících rodinných domů jsou proti, aby se sběrný dvůr ve vybrané lokalitě stavěl. 
+
+„Bydlím dvacet metrů vzdušnou čarou od místa, kde by měl sběrný dvůr stát. Vedení obce a úředníci ze stavebního úřadu nedokážou pochopit, že tady na tomto místě sběrný dvůr nechceme. Nemáme zájem o to, aby nám pod okny zapáchal například zahradní odpad uložený v otevřených kontejnerech na sběrném dvoře, nemluvě o zvýšené dopravě. Oni mi řeknou, že když mi vadí smrad, ať si zavřu okno, ale tak se to nedá řešit. Když jsem stavěl dům, firma JVP už stála na svém místě, s tím jsem se musel smířit, ale se sběrným dvorem se nesmířím. Určitě nebudu jediný, komu umístění sběrného dvora vadí, ale ostatní se bojí veřejně něco říct,“ zhodnotil nejen za sebe situaci jeden z účastníků stavebního řízení Václav Hrubý.
+
+„Stavební úřad Boskovice na stavbu sběrného dvora odpadů vydal stavební povolení, ale rozhodnutím z druhého ledna odbor územního plánování a stavebního řádu Krajského úřadu v Brně toto stavební povolení zrušil. Vrátil našemu stavebnímu úřadu k novému projednání,“ popsala dosavadní průběh Radka Pospíšilová ze stavebního úřadu v Boskovicích. Dodala, že stavební úřad oznámil pokračování řízení. „Na osmého dubna jsme svolali ústní jednání. Přítomní účastníci řízení podali opakovaně námitky, které budou vyhodnoceny a zpracovány v novém stavebním povolení. Nové stavební povolení bude vydáno co nejdříve, vzhledem k tomu, že obec Žďárná má zájem získat dotace na realizaci stavby. Účastníci řízení se však mohou proti novému stavebnímu povolení opět odvolat,“ sdělila referentka stavebního úřadu.
+
+Starostka Žďárné Radomíra Hénková podotkla, že netuší, jak se účastníci stavebního řízení k připravovanému stavebnímu povolení postaví. „Nicméně bych si moc přála, aby se nám podařilo celou věc dotáhnout do konce. Byla by škoda, kdybychom přišli o dotaci, kterou na sběrný dvůr máme. Všechnu potřebnou dokumentaci máme v pořádku, ale legislativně je to uděláno tak, že účastníci stavebního řízení se mohou opakovaně odvolávat. Na druhou stranu dotace, kterou máme přiznanou, je jen na určitý časový úsek. Již jsme si dříve zažádali o prodloužení čerpání dotace, teď jsme si pro jistotu zažádali o druhé prodloužení, kdyby se příprava stavby protáhla,“ uvedla starostka Žďárné. 
+
+Václav Hrubý se netají tím, že pro něj v tomto okamžiku nejsou jednání u konce. „Stavební úřad v Boskovicích vydá stavební povolení, ale my se proti tomu pravděpodobně odvoláme na krajský úřad, kde se to bude zkoumat a uvidí se, jak se to bude řešit dál,“ sdělil Hrubý.
+Nedaleko od místa, kde se má svěrný dvůr stavět, bydlí Jaromír Žáček. Tomu ale stavba nijak zásadně nevadí. „Když jsem před lety seděl v zastupitelstvu, hlasoval jsem pro, aby sběrný dvůr stál na onom místě. Žádný problém mi to nedělá,“ vyjádřil se Jaromír Žáček.
+
+Žďárenští mají na stavbu sběrného dvora přiznanou dotaci z fondu operačního fondu životního prostředí a státního fondu životního prostředí ve výši devadesáti procent celkových nákladů. „Konečná cena díla, kterou jsme vysoutěžili ve výběrovém řízení, je ve výši čtyř milionů dvou set tisíc korun. Financování máme zajištěno. Kdybychom do konce dubna nebo května získali platné stavební povolení, tak je všechno v pořádku a můžeme začít stavět,“ uzavřela Hénková. 
