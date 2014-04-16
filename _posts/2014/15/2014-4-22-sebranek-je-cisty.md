@@ -1,8 +1,8 @@
 ---
 title: A Sebránek je čistý. Na jak dlouho?
 authors:
-	- Andra Rehová
-	- Hana Podloucká
+    - Andra Rehová
+    - Hana Podloucká
 cover-photo: http://i.imgur.com/3vWm24c.jpg
 category: napsali nám
 tags: 15-2014 Svitávka
