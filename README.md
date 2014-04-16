@@ -24,4 +24,4 @@ Pro stažení zdrojového kódu z GitHubu je praktický jejich vlastní grafick�
 [github]: https://windows.github.com
 [organizace]: https://github.com/orgs/Boskovicko/members
 
-Podrobnější návod na aktualizaci webu bude později.
+Podrobnější návod na aktualizaci webu [bude postupně přibývat tady](_doc/vkladani.md).
