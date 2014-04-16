@@ -3,4 +3,4 @@ paginate_path: "/clanky/strana/:num"
 paginate: 6
 
 future: false
-exclude: ['Makefile']
+exclude: ['Makefile', 'README.md']
