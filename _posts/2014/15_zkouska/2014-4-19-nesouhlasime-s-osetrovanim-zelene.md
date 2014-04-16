@@ -1,8 +1,8 @@
 ---
 title: Se způsobem ošetřování zeleně nesouhlasíme
-authors: Irena a Vojtěch Havlovi, obyvatelé sídliště Hybešova
+authors: Irena a Vojtěch Havlovi
 category: napsali nám
-tags: 15-2014 Boskovice
+tags: 15-2014 Boskovice zeleň
 ---
 
 Jsme hudebníci a skladatelé a koncertujeme po celé České republice i v zahraničí a Boskovice jsou výjimečné tím, že jsou zasazené v nadherné přírodě a ještě v lesoparku. Je to jedno z nejkrásnějších měst a mohlo by být příkladem i pro všechna ostatní. 

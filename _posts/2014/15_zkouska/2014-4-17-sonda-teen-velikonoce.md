@@ -2,8 +2,14 @@
 title: "Sonda teen: Velikonoce"
 authors: Ludmila Dobrozemská
 category: publicistika
-tags: 15-2014
+tags:
+- ankety
+- Velikonoce
+- sonda teen
+- 15-2014
 ---
+
+Velikonoce jsou nejvýznamnějším církevním svátkem v roce. Co znamenají pro tebe?
 
 ###Vítek, 16 let
 

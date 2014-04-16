@@ -2,7 +2,7 @@
 title: Úcta k životu
 authors: Tomáš Trumpeš
 category: publicistika
-tags: 15-2014
+tags: 15-2014 zeleň
 ---
 
 Na jarní kácení stromů si asi nejde zvyknout. Oblíbená místa jsou náhle podivně prázdná, nově otevřené průhledy jako by je donutily k nepatřičné veřejné nahotě. Naše oči uhýbají a bloudí stejně jako zmatení ptáci a nemají, kde by spočinuly.

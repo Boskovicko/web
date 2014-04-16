@@ -2,7 +2,7 @@
 title: Ve skleníku vystoupí americký bluesman
 authors: Tomáš Trumpeš
 category: kultura
-tags: 15-2014 Boskovice
+tags: 15-2014 Boskovice koncerty
 ---
 
 Po vyprodaném koncertě Gwyn Ashton Tria pokračuje ve středu 23. dubna od 19 hodin v zámeckém skleníku koncertní cyklus jazz-blues-boskovice vystoupením amerického bluesmana Rene Trossmana. 

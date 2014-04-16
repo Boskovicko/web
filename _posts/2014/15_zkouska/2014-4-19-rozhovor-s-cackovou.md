@@ -1,9 +1,9 @@
 ---
-title: Přestože se moje rozhodnutí někomu nelíbila, stojím si za nimi, říká bývalá ředitelka jihomoravského úřadu práce Marie Cacková
+title: „Přestože se moje rozhodnutí někomu nelíbila, stojím si za nimi,“ říká bývalá ředitelka jihomoravského úřadu práce Marie Cacková
 cover-photo: http://i.imgur.com/E3jnUYh.jpg
 authors: Žaneta Ondroušková
 category: publicistika
-tags: 15-2014 Boskovicko
+tags: 15-2014 Boskovicko rozhovory
 ---
 
 Jsou to čtyři měsíce, co bývalá místostarostka Kunštátu a později krajská radní Marie Cacková rezignovala na svůj post ředitelky jihomoravské pobočky úřadu práce. Stalo se tak krátce po tom, co ji média i nadřízení kritizovali za podporu firmy Místní sociální služby (MSS), které úřad pod vedením Cackové přiznal dotaci v řádech desítek milionů korun. Za to, že na jihu Moravy vybuduje síť pečovatelů o nemohoucí, kteří se rekrutují z řad nezaměstnaných. Na podzim loňského roku ministerstvo práce dotaci stoplo s tím, že poptávka po dalších poskytovatelích sociálních služeb v kraji chybí, a nová společnost tudíž není potřeba. Marie Cacková si stojí za tím, že na venkově služby dostupné nejsou, a smysl projektu obhajuje i po svém odstoupení. Momentálně se vrací ke své původní profesi, advokacii.
@@ -124,8 +124,6 @@ Pořád stejně (směje se). Nejsem vdaná a nebudu se vdávat, protože jsem ce
 
 Jednoznačně jsem jen to. A chodím k volbám.
 
-###**Marie Cacková**
+--- 
 
-absolvovala práva na Masarykově univerzitě v Brně. Po studiích pracovala rok jako redaktorka v Lidové demokracii a poté se věnovala advokacii. V politice má zkušenosti jako bývalá místostarostka Kunštátu, krajská zastupitelka a v letech 2004 až 2008 radní pro oblast sociálních věcí. Znovu se do rady dostala v roce 2010. V roce 2012 po čtyřiadvaceti letech vystoupila z KDU-ČSL a zvítězila ve výběrovém řízení na post ředitelky jihomoravského úřadu práce. Odtud na podzim loňského roku odešla po kauze s firmou MSS. Žije na půl v Brně, na půl v Kunštátě se svým synem. 
- 
-
+*Marie Cacková absolvovala práva na Masarykově univerzitě v Brně. Po studiích pracovala rok jako redaktorka v Lidové demokracii a poté se věnovala advokacii. V politice má zkušenosti jako bývalá místostarostka Kunštátu, krajská zastupitelka a v letech 2004 až 2008 radní pro oblast sociálních věcí. Znovu se do rady dostala v roce 2010. V roce 2012 po čtyřiadvaceti letech vystoupila z KDU-ČSL a zvítězila ve výběrovém řízení na post ředitelky jihomoravského úřadu práce. Odtud na podzim loňského roku odešla po kauze s firmou MSS. Žije na půl v Brně, na půl v Kunštátě se svým synem.*

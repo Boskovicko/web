@@ -2,7 +2,7 @@
 title: Kvůli údajnému kácení bez povolení vedou s dřevorubcem správní řízení
 authors: Petra Bílá
 category: zpravodajství
-tags: 15-2014 Lysice
+tags: 15-2014 Lysice zeleň
 ---
 
 Kácení lipové aleje u zámku v Lysicích má nečekaný vývoj. Z podnětu občanů kácení prošetřují inspektoři z České inspekce životního prostředí. Jako viníka nyní označili Martina Mikulu, který kácení provedl. S ním také zahájili správní řízení. Mluvčí inspekce Simona Cigánková nechtěla k případu zatím zveřejnit žádné podrobnosti. „Informace o průběhu šetření a případných správních řízení mi zákon nepovoluje sdělovat,“ zdůvodnila Cigánková. Prozradila jen, že první závěry správního řízení budou zřejmé začátkem května.

@@ -1,8 +1,8 @@
 ---
-title: Policisté chytili zloděje, který se vloupal do 19 rodinných domů. Lidé v Boskovicích se konečně mohou přestat bát
+title: Policisté chytili zloděje, který se vloupal do 19 rodinných domů
 authors: Jitka Melkusová
 category: zpravodajství
-tags: 15-2014 Boskovicko
+tags: 15-2014 Boskovicko kriminalita hazard
 ---
 
 Jdu vyvenčit psa, vrátím se a mám vykradený dům. Nebo na nákup, do práce, za přáteli. Takovou zkušenost má za sebou 13 rodin v Boskovicích a další ve Žďárné, Velkých Opatovicích, Černé Hoře či Blansku. Série vloupání do rodinných domů na území okresu Blansko se udála v průběhu minulého roku a byla svým rozsahem naprosto mimořádná. Vloni v březnu byly dokonce dvakrát vykradeny v průběhu jedné noci vždy dva domy v Boskovicích. Kromě policie byla znepokojena samozřejmě i veřejnost.

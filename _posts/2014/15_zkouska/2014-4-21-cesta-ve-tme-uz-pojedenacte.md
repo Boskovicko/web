@@ -1,6 +1,6 @@
 ---
 title: Cestu ve tmě pořádáme už pojedenácté
-authors: Marie Reková, Sjednocená organizace nevidomých a slabozrakých, oblastní odbočka Blansko a Bílý klíč porozumění Blansko
+authors: Marie Reková
 category: napsali nám
 tags: 15-2014
 ---

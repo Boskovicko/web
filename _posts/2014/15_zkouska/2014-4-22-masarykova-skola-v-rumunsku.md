@@ -1,6 +1,6 @@
 ---
 title: Studenti Masarykovy střední školy Letovice navštívili Rumunsko
-authors: Pavell Horáček, student třídy EV4
+authors: Pavell Horáček
 category: napsali nám
 tags: 15-2014 Letovice
 ---

@@ -2,7 +2,10 @@
 title: Pečovatelů je dost, ale hlavně ve městech. Na venkově je to horší
 authors: Žaneta Ondroušková
 category: zpravodajství
-tags: 15-2014 Blanensko
+tags:
+- 15-2014
+- Blanensko
+- sociální služby
 ---
 
 Myšlenka vytvořit síť stovek pečovatelů z přeškolených nezaměstnaných obletěla v loňském roce celou jižní Moravu. Uskutečnit ji měla firma Místní sociální služby, která od úřadu práce dostala na nová místa mnohamilionovou dotaci. Podnik ale zkrachoval, protože ministerstvo práce naznalo, že další podobné služby nejsou v kraji potřeba. O nemohoucí totiž dávno pečují zavedení poskytovatelé. A není jich málo. Jen na Blanensku mají vlastní pečovatelskou službu Boskovičtí, Letovičtí a ve velké části regionu funguje tradičně i Charita. Otázkou zůstává, jak jsou na tom s péčí lidé na venkově.
