@@ -2,7 +2,7 @@
 title: Na radnici zasahovala protikorupční policie
 authors: Tomáš Trumpeš
 category: zpravodajství
-tags: 16-2014 Boskovice
+tags: 16-2014 Boskovice korupce
 ---
 Překvapivý zásah policie se uskutečnil minulé pondělí na boskovické radnici. Výsledkem bylo nejen zajištění dokumentů a počítače na odboru dopravy, ale především zatčení jednoho z úředníků, vůči kterému bylo zahájeno trestní stíhání pro zločin přijetí úplatku a přečin zneužití pravomocí úřední osoby. Z veřejně dostupných zdrojů je známé i jméno zadrženého, jedná se o referenta pro přestupky Filipa Kincla.
 

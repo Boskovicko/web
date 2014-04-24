@@ -1,8 +1,12 @@
 ---
-title: Psali jsme v roce 1994: Budou Boskovice okresním městem? 
+title: "Psali jsme v roce 1994: Budou Boskovice okresním městem?"
 authors: Jitka Melkusová
 category: publicistika
-tags: 16-2014 Boskovice
+excerpt: Další díl vzpomínek ze starších čísel Boskovicka vydaných v devadesátých letech, tentokrát na téma rozdělování obcí a výběru okresů.
+tags:
+- 16-2014
+- Boskovice
+- 25 let Boskovicka
 ---
 
 ###Nové obce
@@ -15,7 +19,7 @@ Jako termín, do něhož chce rozhodnout o vzniku některých nových okresů, s
 
 Těžko soudit, zda šlo o diplomacii nebo vlastní přesvědčení, ale ani Milan Uhde jako představitel ODS v době, kdy byl ministrem kultury, ani nyní jako předseda Parlamentu, neprojevil nesouhlas. Nápravu dvou, tří nejbolestnějších případů připustil ministr Lux jak na radnici v Moravské Třebové - v tu chvíli nikdo nepochyboval, že mluví zrovna o okresech Moravská Třebová a Boskovice. Zrovna tak domácí ministr Bělehrádek je příznivcem obnovení okresu a Boskovicku nezbývá než věřit, že udělá vše pro to, aby vznik okresu 20. října podpořil.
 
-Je jistě vhodné připomenout skutečnost, že naše noviny vznikly jako podpora snah o rehabilitaci boskovického okresu a že hned jejich druhé číslo přineslo text žádosti s reprodukcí podpisů. ...
+Je jistě vhodné připomenout skutečnost, že naše noviny vznikly jako podpora snah o rehabilitaci boskovického okresu a že hned jejich druhé číslo přineslo text žádosti s reprodukcí podpisů. …
 
 Proti v lednu 1990 nebylo ani Blansko při jasně stanovených podmínkách vzniku dvou okresů - Blansko a Boskovice. V této souvislosti stojí za úvahu, kdo se zcela nedávno pokusil vnutit veřejnosti, že Boskovice se snaží připravit Blanenské o okres.
 
@@ -41,7 +45,7 @@ Jan Ruml se v Letovicích k problému postavil čelem. Uvedl, že žádostí o o
 
 ###Vláda rozhodla: Boskovice okresním městem nebudou
 
-...Výsledek překvapil téměř všechny, neboť byl v rozporu se zaručenými informacemi představitelů některých politických stran a města Boskovic.
+…Výsledek překvapil téměř všechny, neboť byl v rozporu se zaručenými informacemi představitelů některých politických stran a města Boskovic.
 
 Ti zcela v intencích lidové moudrosti, že přání je otcem myšlenky, neslyšeli informace svých přátel a zaručených informátorů na ministerstvech o dělení žádostí 48 měst do tří kategorií, kdy do první byla zařazena pouze žádost Jeseníku, do druhé Rumburk, Uherský Brod a Valašské Meziříčí a třetí zahrnovala zbytek. Zda byly Boskovice na prvním či posledním místě ve třetí kategorii je zcela nepodstatné.
 

@@ -5,7 +5,7 @@ category: publicistika
 tags: 16-2014 
 ---
 
-Ve stejné době, kdy se tyto noviny tiskly, seděli v lavicích středních škol deváťáci skládající přijímací zkoušky. A další den ještě jednou, ti samí – podobně jako při dětské hře škatule, hýbejte se – na jiných školách vyplňovali testy při druhém termínu. Propiska klouže po papíru, mozkové závity šrotují a loví z paměti, zda v ní uvízly doptávané vědomosti. Za c), nebo za a)? Zaškrtnutá odpověď ovlivňuje cestu, po níž se dotyční vydají do života. ´
+Ve stejné době, kdy se tyto noviny tiskly, seděli v lavicích středních škol deváťáci skládající přijímací zkoušky. A další den ještě jednou, ti samí – podobně jako při dětské hře škatule, hýbejte se – na jiných školách vyplňovali testy při druhém termínu. Propiska klouže po papíru, mozkové závity šrotují a loví z paměti, zda v ní uvízly doptávané vědomosti. Za c), nebo za a)? Zaškrtnutá odpověď ovlivňuje cestu, po níž se dotyční vydají do života.
 
 Je obecně známo, že míst na středních školách je v současné době víc než dětí opouštějících zdi škol základních. Takže většina se bez větších problémů dostane, kam chce. Snaží se tedy spíše školy třetího stupně – získat dostatek oveček. Zatím stále zůstává financování škol podle počtu dětí, takže některým školám jde o to přežít toto období slabých populačních ročníků a berou vše, co má ruce nohy bez ohledu, nač dosáhne hlava. 
 

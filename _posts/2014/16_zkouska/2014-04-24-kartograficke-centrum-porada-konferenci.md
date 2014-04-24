@@ -2,7 +2,9 @@
 title: Moravské kartografické centrum pořádá konferenci
 authors: Jitka Melkusová
 category: kultura
-tags: 16-2014 Velké Opatovice
+tags:
+- 16-2014
+- Velké Opatovice
 ---
 Na konci dubna pořádá Moravské kartografické centrum Kartogarfickou konferenci. Po dva dny - 29. a 30. dubna - budou odborníci, studenti a další zájemci přednášet své příspěvky o místopisu, mapách, starých mapách a podobně. Některé příspěvky se budou týkat i budoucnosti zdejšího unikátu – plastické mapy Moravy.
 

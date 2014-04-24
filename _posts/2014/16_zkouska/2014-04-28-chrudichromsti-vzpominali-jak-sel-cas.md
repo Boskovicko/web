@@ -5,11 +5,12 @@ authors: Radomíra Měkutová
 category: napsali nám
 tags: 16-2014 Chrudichromy
 ---
-V sobotu 5. dubna proběhlo v kulturním domě v Chrudichromech zahájení druhé výstavy fotografií Chrudichromy v proměnách času, kterou připravilo občanské sdružení Chrudichromský šípek. Výstava se tentokrát zaměřila na období 1950 – 2000. 
+V sobotu 5. dubna proběhlo v kulturním domě v Chrudichromech zahájení druhé výstavy fotografií Chrudichromy v proměnách času, kterou připravilo občanské sdružení Chrudichromský šípek. Výstava se tentokrát zaměřila na období 1950–2000. 
 
 Na výstavu zavítalo nejen hodně sousedů a přátel, ale také mnozí rodáci a bývalí spoluobčané, kteří se sice odstěhovali, ale do Chrudichrom se vracejí. Někteří z nich přijeli po dlouhých letech, s některými jsme se osobně setkali poprvé. Vernisáže se zúčastnila členka krajského zastupitelstva a místostarostka města Boskovic Jaromíra Vítková, která nad výstavou převzala záštitu, a ředitelka Muzea Boskovicka, Dagmar Hamalová.
 
 Kulturní vystoupení, kterého se zhostili Zd. Kotouček, L. Dohnálková a S. Golubkov, se setkalo s nadšeným ohlasem. Poté následovalo představení výstavy, jejímž cílem bylo připomenout si, jak se měnila tvář obce a jak žili její obyvatelé v 2. polovině minulého století.
+
 Hodně návštěvníků zaujaly fotografie rekrutů a vojáků. Na společných fotografiích z odvodů totiž našli značnou část starší mužské populace Chrudichrom. Školní fotografie zase připomněly jednotřídku v Chrudichromech a na třídní fotografii ze základní devítileté školy z roku 1967 se usmívalo hned několik žáků z Chrudichrom.
 
 Vitrína s názvem Zvyky a tradice zahrnovala vánoční, velikonoční a maškarní tématiku.
