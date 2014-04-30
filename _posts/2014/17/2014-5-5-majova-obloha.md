@@ -1,0 +1,18 @@
+---
+title: Kvetoucí májová obloha
+authors: Jaroslav Chloupek
+category: publicistika
+tags: astronomie 17-2014
+---
+
+Když nastane nejkrásnější měsíc v roce nazvaný máj, česky květen, máme před očima kvetoucí přírodu. Když však pohlédneme na oblohu, jsme trochu zklamaní, protože zde nenajdeme nic kvetoucího. Zde musí mít každý pozorovatel trochu fantazie a představit si, že to velké množství zářících hvězd jsou vlastně hvězdné květy. Nejvíce „kvetou“ velmi jasné hvězdy všech souhvězdí jako například hvězda Arkturus v Pastýři, Spika v Panně, Regulus ve Lvu, Pollux a Castor v Blížencích, Prokyon v Malém psu a další. Tisíce méně jasných hvězd vyplňují celý hvězdný koberec či kvetoucí hvězdnou louku.
+
+A z tohoto velkého množství hvězd si vybereme seskupení zvané souhvězdí. Má název Panna (Virgo) a pokud známe polohu souhvězdí Lva, pak Panna leží vlevo trochu níže než Lev. Je to rozsáhlé souhvězdí, které najdeme večer dost vysoko nad jižním bodem. V lidské představě z doby antické souhvězdí představuje bohyni Pannu zvanou Astraea, která drží v ruce váhy spravedlnosti (odtud sousední souhvězdí Vah). Pro Řeky byla Panna známá jako bohyně Demeter, která pečovala o rolnictví a plodnost země. V levé ruce drží klas jako symbol letní úrody. V tomto místě leží nejjasnější hvězda souhvězdí Spica (Klas) o jasnosti 1,0 mag a vzdálenosti 262 ly. Je to zákrytová proměnná hvězda, která mění nepatrně svoji jasnost v periodě 4 dnů. Také hvězda Arich je dvojhvězdou. K nejzajímavějším objektům souhvězdí patří takzvaná kupa galaxií v Panně. Obsahuje přibližně 2 500 galaxií a je vzdálena asi 60 milionů ly. Nachází se v severní části souhvězdí. Mezi hvězdami éta a beta najdeme tzv. podzimní bod. Je to průsečík světového rovníku s ekliptikou. V něm se Slunce nalézá 23. září, kdy začíná podzim. V současné době v Panně září planeta Mars.
+
+V květnu Slunce šplhá vzhůru nad světový rovník směrem k obratníku Raka. Ve čtvrtek 1. 5. Slunce vychází v 5:37 h a zapadá ve 20:18 h, 31. 5. vychází ve 4:57 h a zapadá ve 20:59 h. Den se opět prodlužuje a v měsíci květnu den naroste o 1 h 21 min. Také sluneční azimut vzroste ze 115° na 127° (o 12°). Do souhvězdí Blíženců přejde 21. 5. ve 4:59 h SELČ.
+
+Na Měsíc, pokud je viditelný, se díváme denně. Jistě nám neujdou měsíční fáze: 7. 5. v 5 h první čtvrt, 14. 5. ve 21 h úplněk, 21. 5. v 15 h poslední čtvrt a 28. 5. ve 21 h nov. Měsíční odzemí nastane 6. 5., vzdálenost 404 357 km a přízemí nastane 18. 5. o vzdálenosti 367 074 km.
+
+Je zajímavé vyhledat na obloze planety. Merkur se objeví večer nad severozápadním obzorem. Nízko nad východním obzorem najdeme jasnou Venuši. Mars v souhvězdí Panny je vidět po celou noc kromě jitra. V první polovině noci v Blížencích září jasný Jupiter. Po celou noc v souhvězdí Vah se nalézá Saturn. Uran je nepozorovatelný, avšak Neptun ve Vodnáři bude vidět ráno nízko nad jihovýchodním obzorem.
+
+Každý měsíc se na obloze objeví zajímavé úkazy. Také květen jich několik nabídne. Nejsnáze se pozorují konjunkce Měsíce s planetami a hvězdami. Jsou to: 4. 5. konjunkce s Jupiterem (večer nad západním obzorem), 11. 5. s Marsem, 14. 5. se Saturnem, 25. 5. s Venuší (Měsíc v blízkosti Venuše 25. a 26. 5. ráno nízko nad východním obzorem), 30. 5. s Merkurem večer nízko nad západním obzorem. Ve dnech 10.–14. 5. po celou noc bude možné pozorovat seskupení Měsíce, Marsu, hvězdy Spiky a Saturnu v oblasti souhvězdí Panny a Vah. Dne 10. 5. nastane největší přiblížení Saturnu k Zemi na vzdálenost 1 331,4 milionů km. Astronomové budou dne 17. 5. dalekohledy pozorovat současný přechod stínů Jupiterových měsíců Io a Kallisto přes Jupiter. Stíny se na Jupiteru projeví jako tmavé skvrnky.
