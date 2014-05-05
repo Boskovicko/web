@@ -6,6 +6,12 @@
         "url": "http://www.autecobs.cz/"
     },
     {
+        "name": "COOP Boskovice",
+        "image": "/ads/coop.png",
+        "text": "COOP Boskovice",
+        "url": "http://www.coop.cz/"
+    },
+    {
         "name": "Téma: Školky",
         "image": "/ads/skolky.jpg",
         "text": "Mateřské školy v regionu: lesní školky, waldorfská školka a další.",
