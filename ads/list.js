@@ -9,7 +9,7 @@
         "name": "COOP Boskovice",
         "image": "/ads/coop.png",
         "text": "COOP Boskovice",
-        "url": "http://www.coop.cz/"
+        "url": "http://www.jednotabce.cz/promo-akce.php"
     },
     {
         "name": "Téma: Školky",
