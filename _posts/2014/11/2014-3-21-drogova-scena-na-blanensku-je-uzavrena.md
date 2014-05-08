@@ -3,7 +3,7 @@ title: „Drogová scéna na Blanensku je dost uzavřená, přímo na ulici si n
 cover-photo: http://i.imgur.com/DcmhpDH.jpg
 authors: Žaneta Ondroušková
 category: publicistika
-tags: Blansko Boskovice drogy hazard 11-2014
+tags: Blansko Boskovice drogy 11-2014
 ---
 
 Žádná jiná místnost nevypadá takto. Stěny zdobí dvě obrovské malby znázorňující drogově závislého člověka a svobodu toho, který se ze své závislosti vymanil. Na stole leží krabičky s čistými injekčními stříkačkami. A Petra Zatloukalová, vedoucí Víceúčelové drogové služby Podané ruce na Blanensku, zrovna rovná malé kontejnery s nápisy jako „medical“ a „warning“. Ještě má půl hodiny, než se svými spolupracovníky otevře poradnu pro drogově závislé v blanenské Fügnerově ulici.
