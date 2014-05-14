@@ -1,0 +1,12 @@
+---
+title: Snahy o obnovu keltské osady pokračují
+authors: Andrea Šrámková
+category: zpravodajství
+tags: Letovice 19-2014
+---
+
+Isarno, keltský areál v bývalém lomu na okraji Letovic, se po letech chátrání probouzí z nečinnosti. Přestože návštěvníkům zatím z bezpečnostních důvodů cedule vstup zakazují, probíhají tam úpravy směřující k jeho obnově. Už druhým rokem má Isarno pronajaté keltské sdružení Keltoi. Po nepříliš aktivním minulém roce došlo k několika jednáním mezi letovickou radnicí, která je majitelem prostoru, a Václavem Horákem z Keltoi. Přehodnocovalo se uplynulé období, zvažovala se vstřícnější úprava nájemní smlouvy, ale i ukončení spolupráce.
+
+A nyní? Nejen posekaná tráva, ale postupná oprava vybraných objektů, domluvené školní výlety, opakované využití stávajících staveb při natáčení České televize, plány na akce o letních víkendech, zařazení Isarna mezi cíle brněnské turistické kanceláře Kudrna… To jsou současné aktivity v keltské osadě. „Opravou prochází například kovárna a polozemnice. U staveb se mění rákosová střecha a některé dřevěné prvky, které byly zubem času poškozeny. To vše za dodržení technologických pravidel z doby Keltů - nahrazujeme třeba použití hřebíků či vázacího drátu dřevěnými kolíky a pásky kůže,“ upřesnil Václav Horák s nadějí, že se podaří vše postupně zrealizovat. A posun k lepšímu potvrdilo i město. „Udělal se tam kus práce, snaží se to dát do pořádku,“ uvedl místostarosta Jiří Palbuchta. „Nová smlouva nakonec podepsaná nebyla, zkomplikoval to nový občanský zákoník a vše tedy jede podle té původní. Pokud se Keltoi podaří provoz obnovit, bude to dobře. Dáváme jim čas do konce roku,“ doplnil dále Palbuchta.
+
+Keltoi je nezisková organizace, rekonstrukce je proto závislá na grantech, dotacích a sponzorech. „Výsledky žádostí o granty ale ještě nemáme, teprve čekáme, jak to dopadne,“ prozradil Horák s tím, že při akcích i probíhající opravě pomáhají dobrovolníci ze širokého okolí. I na tuto sobotu je svolána brigáda. „Budeme rádi za každou pomocnou ruku,“ doplnil. Akce pro návštěvnickou veřejnost jsou pak naplánovány především na víkendy v červenci a srpnu, při nichž budou ukazovat vybraná řemesla jako kovářství, tavbu železa, mletí mouky, pečení placek, tkalcovství, ukázky jídel, ražbu mincí a podobně. Některá řemesla si budou moci návštěvníci sami vyzkoušet. V červnu se do archeoparku vypraví i děti ze škol a zúčastní se výukového programu věnovanému poznávání života Keltů. 
