@@ -1,5 +1,6 @@
 ---
 title: Manželé Havlovi slaví třicet let společného hraní
+cover-photo: http://i.imgur.com/VKdJEys.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice koncerty 20-2014
