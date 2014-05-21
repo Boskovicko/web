@@ -1,0 +1,14 @@
+---
+title: Budujeme Zahradu poznání
+authors: Antonín Petrů
+category: napsali nám
+tags: vzdělávání zeleň 20-2014
+---
+
+Školní zahrada je místem, kde je možné pozorovat přírodní děje, provádět pokusy, rozvíjet zručnost a dovednost, ale také odpočívat. Naším cílem je vytvořit zahradu, která bude žáky inspirovat k různým činnostem a posilovat v nich pozitivní vztah k přírodě a životnímu prostředí. Chceme vybudovat zahradu, využitelnou v mnoha vyučovacích předmětech, napomáhající žákům při získávání znalostí na základě pozorování a vlastní prožité zkušenosti, sloužící k aktivitám, relaxaci, vzájemné komunikaci a porozumění. Teoretická výuka žáků tak bude nenásilnou cestou propojena s přímým smyslovým a zážitkovým vnímáním přírody.
+
+Zahrada poznání je projektem, v němž nebude chybět travnatá plocha osázená ovocnými a okrasnými keři s popisky, ohraničené záhony s jednoletými i trvalými rostlinami a bylinkovým šnekem pro účelné využití v hodinách praktických činností. Zahrada umožní žákům sledování ptactva v krmítkách a ptačích budkách, hmyzu v motýlích a hmyzích hotelech. Vodní biotop bude možné pozorovat v malém jezírku, při jehož realizaci zůstane využita původní menší vodní nádrž. Malá meteorologická stanice zajistí sledování vlhkosti vzduchu, rozcestník určí žákům nadmořskou výšku a směrovky ukážou směr nejbližších obcí, v nichž žáci bydlí. Pocitová stezka a malé divadelní hlediště s kreslírnou přispějí k relaxaci a celkovému harmonickému rozvoji osobnosti žáků s různými druhy zdravotního postižení. 
+
+Vzhledem k tomu, že se v našem zařízení vzdělávají  děti s různým stupněm zdravotního postižení a žáci ze sociálně znevýhodněného prostředí, je zbudování zahrady dalším článkem vzdělávacího řetězce umožňujícím jejich všestranný rozvoj. Projekt Zahrada poznání je rozdělen do čtyř etap a do jeho budování jsou zapojeni všichni žáci a zaměstnanci školy. V letošním školním roce 2013/2014 vstupujeme do druhé etapy prací. Čeká nás vybudování pocitové stezky a další osazování záhonů jednoletými květinami, vysazování zeleninových záhonů, údržba ploch s ovocnými keři a další aktivity.
+
+Je zřejmé, že tento projekt je časově i finančně velmi náročný, a proto se snažíme hledat firmy i jednotlivce  pro jeho uskutečnění. Každou nabídnutou pomoc vítáme! Jsme rádi, že nám při realizaci projektu pomáhá boskovická divize akciové společnosti Vodárenská, jejíž pomoci si velmi vážíme. Touto cestou bychom chtěli poděkovat vedení VAS Boskovice, jmenovitě řediteli Ing. Petru Fialovi, Viktoru Daňkovi a ostatním zaměstnancům, kteří odvedli na naší zahradě velký kus práce. Rovněž děkujeme panu Chlupovi z firmy SITA s.r.o. za pomoc při odvozu dřevěného odpadu v rámci rekonstrukce parkové zeleně v areálu školy.
