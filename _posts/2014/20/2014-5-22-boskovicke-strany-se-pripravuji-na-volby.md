@@ -39,7 +39,7 @@ Post místostarosty a dva mandáty bude ve volbách v Boskovicích obhajovat TO
 
 ### KSČM
 
-Kandidátku zatím nemají hotovou boskovičtí komunisté, rozhodnuto nepadlo dosud ani o lídrovi. Uzavírat a schvalovat se kandidátka bude na konci května, poté strana informace zveřejní. Podle svého šéfa Ladislava Topinky se hlavní osa programu bude sestavovat na základě domluvy s Vladimírem Farským, který je byť jako nestraník za KSČM jedním z nejaktivnějších zastupitelů a asi neviditelnějším reprezentantem komunistů. Zda to bude právě on, kdo povede kandidátku do voleb, se tedy voliči dozví na konci května.
+Kandidátku zatím nemají hotovou boskovičtí komunisté, rozhodnutí nepadlo dosud ani o lídrovi. Uzavírat a schvalovat se kandidátka bude na konci května, poté strana informace zveřejní. Podle svého šéfa Ladislava Topinky se hlavní osa programu bude sestavovat na základě domluvy s Vladimírem Farským, který je byť jako nestraník za KSČM jedním z nejaktivnějších zastupitelů a asi neviditelnějším reprezentantem komunistů. Zda to bude právě on, kdo povede kandidátku do voleb, se tedy voliči dozví na konci května.
 
 ### Sportovci
 
