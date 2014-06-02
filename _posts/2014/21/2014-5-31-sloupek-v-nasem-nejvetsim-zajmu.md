@@ -14,5 +14,4 @@ Moc protievropsky nevypadaly ani poslední průzkumy veřejného mínění. Poku
 
 „Vztahy mezi státy jsou jenom monstrózní zvětšeniny vztahů mezi lidmi,“ napsali v jedné ze svých detektivek Josef Škvorecký a Jan Zábrana. A do našich osobních vztahů přece nevstupujeme se snahou prosadit maximum svých zájmů, svého programu.
 
-Představa politiky jako snahy prosazovat zájmy mi připadá odjakživa trochu zvrácená. Nevolím politiky proto, aby se prali za moje zájmy. Volím ty, u kterých věřím, že se budou umět s ostatními domlouvat na tom, abychom žili ve vlídné a přátelské společnosti. A bezpečné – což se v tuto chvíli v evropském kontextu ukazuje možná jako nejpodstatnější. Nejspíš kvůli tomu budeme muset všichni ze svých osobních zájmů trochu slevit. Ale právě to je přece někdy v našem největším zájmu.    
-
+Představa politiky jako snahy prosazovat zájmy mi připadá odjakživa trochu zvrácená. Nevolím politiky proto, aby se prali za moje zájmy. Volím ty, u kterých věřím, že se budou umět s ostatními domlouvat na tom, abychom žili ve vlídné a přátelské společnosti. A bezpečné – což se v tuto chvíli v evropském kontextu ukazuje možná jako nejpodstatnější. Nejspíš kvůli tomu budeme muset všichni ze svých osobních zájmů trochu slevit. Ale právě to je přece někdy v našem největším zájmu.

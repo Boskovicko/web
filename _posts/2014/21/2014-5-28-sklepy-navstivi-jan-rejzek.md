@@ -5,6 +5,7 @@ category: kultura
 tags: 
 - 21-2014
 - Boskovice
+- koncerty
 ---
 
 Přední český kritik a publicista Jan Rejžek navštíví v pátek 30. května boskovický hudební klub Sklepy, kde od 19 hodin představí svůj pořad Kaleidoskop.

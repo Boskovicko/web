@@ -1,6 +1,8 @@
 ---
 title: Někde oslaví Den dětí v sobotu, jinde v neděli
-authors: Tomáš Trumpeš, Ludmila Dobrozemská
+authors:
+    - Tomáš Trumpeš
+    - Ludmila Dobrozemská
 category: kultura
 tags: 
 - 21-2014

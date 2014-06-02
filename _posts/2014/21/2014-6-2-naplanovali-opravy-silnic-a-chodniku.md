@@ -1,6 +1,6 @@
 ---
 title: Naplánovali opravy silnic a chodníků
-authors: Miroslava Krajíčková
+authors: M. Krajíčková
 category: zpravodajství
 tags: 
 - 21-2014

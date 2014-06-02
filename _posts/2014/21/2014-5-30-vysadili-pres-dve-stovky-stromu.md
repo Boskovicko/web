@@ -1,6 +1,6 @@
 ---
 title: Vysadili přes dvě stovky nových stromů
-authors: Miroslava Krajíčková
+authors: M. Krajíčková
 category: zpravodajství
 tags: 
 - 21-2014

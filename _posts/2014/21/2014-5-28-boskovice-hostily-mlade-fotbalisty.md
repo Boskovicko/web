@@ -5,6 +5,7 @@ authors: Lubomír Slezák
 category: sport
 tags: 
 - 21-2014
+- fotbal
 - Boskovice
 ---
 V sobotu 24. května se do Jihomoravského kraje přesunul jubilejní desátý ročník největšího fotbalového turnaje pro fotbalisty do 10 let - E.ON Junior Cup 2014. Šestým místem, kde se tento turnaj letos hrál, byly Boskovice. Areál v Červené zahradě přivítal 24 mužstev, která bojovala o postup do velkého finále.

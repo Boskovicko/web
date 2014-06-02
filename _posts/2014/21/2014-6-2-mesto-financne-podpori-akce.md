@@ -1,12 +1,12 @@
 ---
 title: Město finančně podpoří prázdninové akce
-authors: Miroslava Krajíčková
+authors: M. Krajíčková
 category: zpravodajství
 tags: 
 - 21-2014
 - Boskovice
 - dotace
-- festival
+- festivaly
 ---
 Na základě žádostí od Unijazzu Praha, Českého svazu chovatelů, Základní organizace chovatelů koček Boskovice a Festiválku bez bojů a válek, které obdrželo Město Boskovice, schválila rada města finanční dary na jejich akce. 
 

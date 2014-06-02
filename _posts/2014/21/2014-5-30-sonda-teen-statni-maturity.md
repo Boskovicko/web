@@ -5,6 +5,8 @@ category: publicistika
 tags: 
 - 21-2014
 - Boskovice
+- sonda teen
+- ankety
 - státní maturita
 ---
 Vrátit maturitě prestiž a výpovědní hodnotu o vědomostech studentů, srovnat laťku ve vzdělávání u jednotlivých škol, zastavit propad ve vědomostech, to byly některé z důvodů k návratu k jednotným zkouškám z dospělosti. Jak je vnímají studenti?

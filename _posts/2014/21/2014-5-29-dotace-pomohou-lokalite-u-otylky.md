@@ -1,6 +1,6 @@
 ---
 title: Dotace pomohou lokalitě U Otylky
-authors: Miroslava Krajíčková
+authors: M. Krajíčková
 category: zpravodajství
 tags: 
 - 21-2014

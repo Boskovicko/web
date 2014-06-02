@@ -1,6 +1,6 @@
 ---
 title: V Boskovicích otvírají Family Point
-authors: Miroslava Krajíčková
+authors: M. Krajíčková
 category: zpravodajství
 tags: 
 - 21-2014

@@ -1,6 +1,6 @@
 ---
 title: Natáčeli jsme s televizí
-authors: J.Němečková
+authors: J. Němečková
 category: napsali nám
 tags: 
 - 21-2014

@@ -4,6 +4,7 @@ authors: Lubomír Slezák
 category: sport
 tags: 
 - 21-2014
+- fotbal
 - okres Blansko
 ---
 Po nezdarech v letech 2010 a 2012 proti výběru Zlínského KFS tentokrát jihomoravský amatérský výběr v prvním kole Regions Cupu uspěl a postoupil do republikového finále. Ve Žďáře nad Sázavou porazil Královehradecký KFS 4:1. V týmech hrají hráči, kteří nikdy neměli profesionální smlouvu a nehráli v I. a II. lize.

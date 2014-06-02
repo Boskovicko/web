@@ -4,6 +4,7 @@ authors: Lubomír Slezák
 category: sport
 tags: 
 - 21-2014
+- cyklistika
 - Benešov
 - Bedřichov
 ---
