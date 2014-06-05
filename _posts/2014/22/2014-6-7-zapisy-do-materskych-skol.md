@@ -1,0 +1,21 @@
+---
+title: Zápisy do mateřských škol už nebyly tak dramatické
+authors: Petra Bílá
+category: zpravodajství
+tags: Boskovicko školky 22-2014 
+---
+
+Zápisy do mateřských škol přinesly pro většinu rodičů pozitivní zprávy. Zoufalá situace z minulých let, kdy ředitelé některých školek museli při zápisu odmítnout i padesát procent zapsaných dětí a mladší děti neměly při zápisu takřka žádnou šanci, se letos neopakuje. Například v Boskovicích ředitelka tamní školky přijala i děti, které ještě nemají tři roky. V Lysicích se do školky dostaly všechny místní děti narozené do května 2011.
+
+„Při zápisu jsme dostali sto sedmdesát jedna žádostí, kapacita školky umožňuje přijmout sto čtyřicet pět dětí. Z toho dvě místa máme ještě neobsazená do vyřízení odkladů školní docházky u dvou dětí,“ sdělila ředitelka boskovické mateřské školy Dagmar Burianová s tím, že při přijímání dětí postupovali podle kritérií, jako jsou například věk dítěte, trvalý pobyt v Boskovicích či to, zda docházka do školky bude celodenní. „Mohli jsme letos přijmout i devětadvacet dětí, které oslaví třetí narozeniny až v termínu od prvního září do konce letošního roku,“ prozradila Burianová. Ta připomněla, že velkou poptávku po místech v mateřské škole zvládli díky tomu, že dlouhodobě sledovali demografický vývoj. „Za podpory zřizovatele jsme maximálně využili kapacitu mateřské školy. 
+
+Významný je i fakt, že letos odchází do první třídy o osmnáct dětí více než loni,“ dodala Burianová.
+
+Pokrýt zájem o místa v mateřské škole pomůže v Boskovicích i nově vznikající waldorfská školka. Jak prozradila Kateřina Kejíková, jedna z jejích z iniciátorek, k zápisu přišlo pětadvacet dětí. „Bohužel hodně z nich ještě nemá tři roky. Od září otevřeme tedy jednu třídu s dvanácti dětmi, které jsou tříleté. Od nového roku se k nám připojí devět dětí, které tři roky mezitím dovrší,“ sdělila Kejíková. Vysvětlila, že podle principů waldorfské pedagogiky, dítě mladší tří let ještě není zralé pro každodenní pobyt ve skupině. „Také podle zákona, kdy první rok budeme školku provozovat soukromě na volnou živnost, můžeme přijmout až tříleté děti,“ dodala Kejíková. 
+
+I pro rodiče malých dětí z Knínic dopadl letošní zápis příznivě. Do školky se hlásilo šestadvacet dětí, od září může nastoupit sedmnáct z nich. „V prvním kole jsme přijali šestnáct dětí, jedno místo necháváme volné na odvolání. Při přijímání hrály roli faktory jako je předškolní věk a bydliště v Knínicích. Body dostaly i děti, které dosáhnou věku tří let do konce letošního kalendářního roku,“ sdělil ředitel Základní a mateřské školy Knínice Jiří Horníček s tím, že do školky přijali i několik dětí, které ještě tři roky nemají. 
+
+Do lysické školky se hlásilo šedesát dětí z Lysic a okolních spádových obcí. Kapacita školky však umožňuje přijmout pouze polovinu ze zapsaných dětí. „Přednostně byly uspokojeny předškolní děti a děti s bydlištěm v Lysicích. Plánujeme přístavbu jedné třídy, takže věřím, že se situace vyřeší v průběhu prázdnin,“ sdělila ředitelka Mateřské školy v Lysicích Monika Sklářová. Starosta Luděk Baláč potvrdil, že zastupitelé jsou nakloněni tomu, aby městys investoval do přístavby školky. „Jen trochu pochybuju o tom, že se to stihne zrealizovat v průběhu prázdnin, jak jsme předpokládali,“ dodal Baláč.
+K zápisu do mateřské školy na Komenského náměstí v Letovicích přišlo čtyřiašedesát dětí, některé z nich se však nechaly zároveň zapsat i v některé z dalších dvou mateřských škol v Letovicích. „Prozatím jsme přijali sedmatřicet dětí, čtyři místa ještě necháváme volná na odvolání. Mám zjištěno, že v Letovicích se do žádné školky nedostalo čtrnáct dětí, z toho pět, které jsou narozené až v roce 2012,“ konstatovala ředitelka Eva Pařilová.
+
+Rodiče, kteří své děti zapsali do mateřinky v Kunštátě, v době uzávěrky novin ještě nevěděli, zda bylo vyhověno jejich žádosti o přijetí dítěte. Ředitel tamní mateřské a základní školy Vratislav Sedlák proto nechtěl výsledky zápisu blíže komentovat. Sdělil pouze, že situace už není tak dramatická jako v minulých letech.

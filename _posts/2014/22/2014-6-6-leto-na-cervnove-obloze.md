@@ -1,0 +1,18 @@
+---
+title: Vítáme léto na červnové obloze
+authors: Jaroslav Chloupek
+category: publicistika
+tags: astronomie 22-2014 
+---
+
+Červen považujeme za důležitý měsíc, uzavírá totiž první polovinu roku a otevře dokořán bránu létu. Je bohatý na sluneční svit a délku dne a přináší první ovocné plody. Z astronomického hlediska více sledujeme Slunce a pozorování hvězd posuneme do pozdních večerních hodin.
+
+Jarní souhvězdí na obloze postupně vystřídají letní souhvězdí. Mezi ně patří hlavně Labuť, Lyra, Orel, Herkules, na jihu Štír, Váhy a další zajímavá souhvězdí. Vyberme si malé souhvězdí zvěrokruhu, souhvězdí Vah (Libra). Leží mezi nádhernými souhvězdími Štíra a Panny. Souhvězdí Vah neobsahuje žádné jasné hvězdy. Má tvar nepravidelného čtyřúhelníku. Největší jasnost má hvězda s názvem Zuben Elschemali, a to 2,6 mag, vzdálena je 120 ly. Váhy původně patřily k souhvězdí Štíra. Tomu také odpovídají názvy hvězd Zuben Elschemali (Severní klepeto) a Zuben Elgenubi (Jižní klepeto). K oddělení obou souhvězdí došlo už za Caesara. Váhy byly pro Římany symbolem spravedlivého rozhodnutí. Podle pověsti dcera Diova Astraia držela váhy zvednuty, aby se poznalo, zda-li bylo spravedlivě rozhodnuto. Váhy můžeme za bezměsíčné noci vyhledat níže nad obzorem nad jižním bodem před půlnocí. Uvnitř čtyřúhelníku, který představuje Váhy, září planeta Saturn s jasností přibližně 0,3 mag a přibližnou vzdáleností 1,366 miliardy km (tj. 9,131 AU).
+
+Středem našeho zájmu v červnu bude Slunce. V tomto měsíci bude Slunce nejvýš nad obzorem. Maximální výšky dosáhne dne 21. června ve 12:51 h SELČ. Tehdy Slunce vstoupí do znamení Raka, nastane letní slunovrat a zároveň začátek astronomického léta. Potom se Slunce bude den po dni vracet zpět ke světovému rovníku (Slunce bude couvat zpět podobně, jako se pohybuje rak). Pro nás to znamená pozorovat zkracování délky dne a pokles slunečního azimutu. Uveďme maximální velikost azimutu dne 21. 6., tj. 130°. Do konce měsíce hodnota klesne na 129°. Nejdelší den v roce zažijeme v době slunovratu, který trvá 16 h 23 min. Poslední červen ukáže délku dne 16 h 19 min. Výška Slunce dne 21. 6. v poledne nad obzorem je vyjádřena v naší zeměpisné šířce hodnotou 73,5°. V této době pozorujeme nejkratší stíny naší postavy i dalších předmětů. Tato poloha Slunce patří létu, které budeme prožívat.
+
+Naší přirozené družice Měsíce se tyto události netýkají. Proběhnou obvyklé fáze Měsíce, a to 5. 6. první čvrt, 13. 6. úplněk, 19. 6. poslední čtvrt a 27. 6. nov. Nejdále od Země se bude Měsíc nalézat 3. 6. (vzdálenost 404 988 km) a 30. 6. (vzdálenost 405 955 km) a nejblíže Zemi bude 15. 6. v 5:00 h ve vzdálenosti 362 048 km.
+
+Planety uvidíme všechny, avšak v různém časovém rozpětí. Merkur je začátkem června večer nad západním obzorem, Venuše však ráno nízko nad východním obzorem. V první polovině noci v souhvězdí Panny nalezneme Mars, v Blížencích nízko na západě je Jupiter, většinu noci kromě rána ve Vahách září Saturn. Ráno nad východním obzorem se nalézá Uran (v Rybách) a také Neptun (ve Vodnáři).
+
+Další úkazy: 1. 6. bude Měsíc v konjunkci s Jupiterem, 10. 6. se Saturnem a 24. 6. s Venuší. Také nastanou zajímavá seskupení nebeských těles. 8. 6. ve 2:00 h lze pozorovat seskupení Měsíce, Marsu, Spiky ze souhvězdí Panny a Saturnu. Toto seskupení proběhne od 7. 6. do 10. 6. v první polovině noci. V průběhu konjunkce Venuše a Měsíce 24. 6. v 17:00 h bude Měsíc v blízkosti Venuše pozorovatelných 24. a 25. 6. ráno nad východním obzorem, severně od Měsíce a Venuše můžeme vidět známou hvězdokupu M 45 Plejády. Tyto jevy můžeme ze Země pozorovat. Jde však mimo naši představu, co vše se současně děje ve vzdálených oblastech vesmíru.
