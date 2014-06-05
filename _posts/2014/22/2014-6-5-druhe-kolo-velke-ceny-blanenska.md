@@ -1,7 +1,7 @@
 ---
 title: Jabloňanský hasičský areál byl dějištěm druhého kola Velké ceny Blanenska v požárním útoku
 cover-photo: http://i.imgur.com/e3PVIYQ.jpg
-authors: Andrea Šrámková
+authors: Bronislava Zhořová
 category: sport
 tags: 22-2014 
 ---
