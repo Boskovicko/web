@@ -6,6 +6,12 @@
         "url": "http://www.autecobs.cz/"
     },
     {
+        "name": "Festival",
+        "image": "/ads/festival.png",
+        "text": "Festival Boskovice 2014",
+        "url": "http://boskovice-festival.cz/"
+    },
+    {
         "name": "COOP Boskovice",
         "image": "/ads/coop.png",
         "text": "COOP Boskovice",
