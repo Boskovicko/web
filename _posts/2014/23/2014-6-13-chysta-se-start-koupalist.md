@@ -1,0 +1,14 @@
+---
+title: Už brzy bude na koupalištích živo
+authors: Petra Bílá
+category: zpravodajství
+tags: Boskovicko 23-2014
+---
+
+Několik červnových dní bylo ve znamení letních teplot. Ti, kteří by rádi svlažili tělo na veřejném koupališti, si ještě museli počkat. Provozovatelé koupališť a bazénů však dělají vše pro to, aby před začátkem prázdnin mohli otevřít.
+
+Boskovické koupaliště v Červené zahradě otevře své brány už tento týden. „Třináctého června od čtyř hodin pořádáme akci s názvem Letní noc na Července. Tu bereme jako zahájení sezony a příležitost k tomu, abychom návštěvníkům představili nového provozovatele občerstvení,“ pozval na koupaliště jednatel Služeb Boskovice Milan Strya. Dodal, že občerstvení na Července bude letos nově provozovat firma Eden JG, která se stará také o provoz občerstvení na koupalištích v Blansku a ve Vyškově. „Firma vyšla vítězně z výběrového řízení,“ doplnil ještě Strya. Ten ujistil, že provozní doba koupaliště letos zůstane stejná. Nezmění se ani výše vstupného. „Už třetím rokem bude také platit pravidlo, že za příznivého počasí bude otevřeno na Července, v opačném případě se lidé budou moci vykoupat v lázních,“ konstatoval Strya.
+
+Letovičtí se stanovením termínu, kdy začne letošní sezona na tamním koupališti, zatím vyčkávají. „Určitě otevřeme od prvního prázdninového dne. Pokud ale bude několik dní pěkné počasí, otevřeme už třináctého června,“ prozradil ředitel Technických služeb Letovice Miroslav Doskočil. Podle něj pracovníci služeb provádějí na koupališti drobné opravy, jako je sekání trávy nebo oprava rozbitého chodníku. „Pokud se bude počasí vyvíjet příznivě, v příštích dnech bychom mohli bazén začít napouštět a vše by tak bylo nachystáno, abychom opravdu v polovině června případně zahájili sezonu,“ dodal Doskočil. Připomněl také, že provozní doba i ceník vstupného na koupališti zůstávají stejné. „Pouze jsme pořídili nové vnitřní sprchy, které návštěvníci využijí jak před vstupem do bazénu, tak před odchodem z koupaliště,“ dodal ještě Doskočil.
+
+I na koupališti ve Velkých Opatovicích dělají předsezonní přípravu. „Na některých místech přetíráme bazén, vyměňovali jsme několik obkladů, které nevydržely přes zimu. Do konce června by ale koupaliště mělo být připraveno k uvedení do provozu,“ sdělila Anna Kaderková ze Služeb města Velké Opatovice. Podle ní letos návštěvníkům nabídnou širší možnosti sportovního vyžití. „Pořídili jsme vybavení a hřiště na pétanque, zakoupili jsme i několik sad na badminton. Dále chceme návštěvníkům nově nabídnout možnost koupit si na koupaliště permanentku. Co se týká provozní doby či ceny vstupného, nic se od loňska nezměnilo,“ prozradila Kaderková.
