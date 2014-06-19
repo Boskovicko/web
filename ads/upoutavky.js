@@ -25,6 +25,11 @@
         "url": "/temata/25-let-boskovicka/"
     },
     {
+        "nazev": "Anketa Panský dvůr",
+        "text": "Zajímá vás budoucnost Panského dvora? Vyplňte anketu!",
+        "url": "http://goo.gl/38zpqB"
+    },
+    {
         "nazev": "Téma: Školky",
         "text": "Přečtěte si → Mateřské školky na Boskovicku",
         "url": "/temata/skolky/"
