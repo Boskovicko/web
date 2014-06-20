@@ -1,0 +1,21 @@
+---
+title: Student gymnázia Matěj Vavrinec uspěl v řečnické soutěži Demosthenes
+cover-photo: http://i.imgur.com/eCA87Si.jpg
+authors: Tomáš Trumpeš
+category: kultura
+tags: Boskovice gymnázium 24-2014 
+---
+
+V sedmém ročníku mezinárodní soutěže v řečnickém umění uspěl student boskovického gymnázia Matěj Vavrinec. Soutěž nese název Mladý Demosthenes a boskovický zástupce se po vítězstvích ve školním, regionálním a krajském kole umístil na druhé příčce v celostátním klání. Na podzim ho tak čeká ještě kolo mezinárodní, ve kterém se proti sobě postaví tři nejlepší v jednotlivých kategoriích z České republiky a ze Slovenska.
+
+„Soutěž se zabývá řečnickým uměním, schopností komunikovat s lidmi a prezentovat jim nějaký originální, autentický a autorský projev,“ popsal Matěj Vavrinec. Ten se do soutěže dostal díky vyučující Ivetě Juřekové, která na gymnáziu soutěž již několik let organizuje. „Konkrétně to bylo tak, že loni jsme se do soutěže přihlásili, ale pak jsme se na to vykašlali a paní profesorka na nás byla rozhněvaná, takže letos jsem do toho šel, abych si to u ní urovnal. Takže poděkovat musím hlavně jí, i ve škole platí, že mě dokáže jako jedna z mála motivovat tak, abych se chtěl něco naučit,“ vysvětlil s úsměvem student septimy. 
+
+Před celostátním kolem se Matěj Vavrinec zúčastnil soustředění, kde se soutěžící učili správně technicky mluvit, dělali slovní a dechová cvičení, osvojovali si správný pohyb na pódiu, neverbální komunikaci s publikem a další dovednosti. 
+
+Poté prezentoval svůj autorský projev před porotou, ve které v celostátním kole zasedli třeba pořadatelka moderátorka a pedagožka rétoriky Jana Adámková, herečka Markéta Pravdová a různí zástupci z akademické sféry. Celostátní kolo moderoval Alexandr Hemala.
+
+Soutěžní projev trvá jednu až dvě minuty, přičemž soutěžící ho prezentují zpaměti. „Porota nám vytýkala hlavně nepřesnou výslovnost, polykání koncovek a malé pauzy během řeči. Tématem mého proslovu bylo moje vysněné povolání. Jako malý jsem toužil být řidičem autobusu. Ten jsem jako malý kluk dosti věrně napodoboval, chodil jsem a točil volantem, napodoboval zvuky motoru a dveří, blinkrů, hlásil jsem zastávky. Vše směřovalo ke vtipné pointě, kterou ale nebudu prozrazovat. Myslím, že téma sehrálo velkou roli v tom, že jsem se dostal tak daleko, bylo dost odlišné od toho, co se na soutěži běžně prezentovalo,“ popsal Matěj Vavrinec, podle kterého bylo hlavně důležité udržovat kontakt s publikem, takže ti, kteří měli něco naučeného přesně nazpaměť, v soutěži spíše neuspěli. Student předposledního ročníku gymnázia už ovšem o dráze řidiče autobusu neuvažuje a rád by se stal právníkem, k čemuž se mu dobré rétorické schopnosti mohou hodit. 
+
+Iveta Juřeková, která na gymnáziu učí český a francouzský jazyk, se na škole o soutěž stará už několik let. „Podstatné je, že nikdy nešlo pouze o naučené znalosti, porota hodnotí téma, práci s informací, využití jazykových prostředků, techniku práce s hlasem, neverbální komunikaci, celkový dojem. Myslím si, že pokud chce člověk v celostátním kole uspět, musí mít nejen rétorské schopnosti, ale musí být osobností. Matěj Vavrinec silnou osobností bezesporu je. I v celostátním kole dokázal potlačit stres z vystupování před zaplněným sálem a s ležérní lehkostí opět podal skvělý řečnický výkon.  Ráda bych mu za velice příjemnou spolupráci a skvělé výkony poděkovala,“ uvedla Iveta Juřeková s tím, že školního kola se účastní asi dvacítka studentů.
+
+Tak daleko jako letos se v minulosti žádný student boskovického gymnázia ještě nedostal. Přesto není pedagožka ke mluvenému projevu dnešních studentů přehnaně skeptická. „Nechci kategorizovat a říkat, že studenti neumějí správně používat spisovnou češtinu. Ve školním kole soutěžilo několik opravdu vynikajících řečníků, a to i v nejnižší kategorii. Zároveň ovšem zastávám názor, že by bylo třeba posílit výuku mluveného projevu a soustavně ve škole sledovat, jak studenti mluví, jak formulují své myšlenky, jaké jazykové prostředky používají. Pomoci by jim měli právě učitelé, dle mého názoru nejen češtináři,“ popsala své zkušenosti Iveta Juřeková.
