@@ -1,6 +1,6 @@
 ---
 title: Boskovice hostily mladé fotbalisty
-cover-photo: http://i.imgur.com/NlEQyyP.jpg
+cover-photo: http://i.zoul.cz/NlEQyyP.jpg
 authors: Lubomír Slezák
 category: sport
 tags: 

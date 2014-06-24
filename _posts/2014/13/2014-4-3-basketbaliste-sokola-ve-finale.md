@@ -1,6 +1,6 @@
 ---
 title: Basketbalisté Sokola jsou ve finále
-cover-photo: http://i.imgur.com/lWziwoT.jpg
+cover-photo: http://i.zoul.cz/lWziwoT.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Brno Boskovice basketbal 13-2014

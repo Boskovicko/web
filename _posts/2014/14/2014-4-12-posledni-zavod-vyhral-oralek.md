@@ -1,6 +1,6 @@
 ---
 title: Poslední závod vyhrál Daniel Orálek
-cover-photo: http://i.imgur.com/ykocTEQ.jpg
+cover-photo: http://i.zoul.cz/ykocTEQ.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Brno běh 14-2014

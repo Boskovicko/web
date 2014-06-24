@@ -1,6 +1,6 @@
 ---
 title: Školní rok s Angličanem aneb Češi pohledem zvenku
-cover-photo: http://i.imgur.com/NFcrams.jpg
+cover-photo: http://i.zoul.cz/NFcrams.jpg
 authors: Vendula Dvořáková
 category: napsali nám
 tags: Boskovice rozhovory 19-2014

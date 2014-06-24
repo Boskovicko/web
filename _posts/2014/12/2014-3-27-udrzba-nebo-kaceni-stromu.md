@@ -1,6 +1,6 @@
 ---
 title: Stromy nebo bezpečí, aneb údržba nebo kácení?
-cover-photo: http://i.imgur.com/T4kZGqF.jpg
+cover-photo: http://i.zoul.cz/T4kZGqF.jpg
 authors: Martina Lukešová
 category: zpravodajství
 tags: Boskovicko zeleň 12-2014

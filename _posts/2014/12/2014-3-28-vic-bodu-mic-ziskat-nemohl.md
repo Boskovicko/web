@@ -1,6 +1,6 @@
 ---
 title: Víc bodů Robert Míč získat nemohl
-cover-photo: http://i.imgur.com/mGlucTO.jpg
+cover-photo: http://i.zoul.cz/mGlucTO.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Boskovice Brno běh 12-2014

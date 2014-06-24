@@ -1,6 +1,6 @@
 ---
 title: Pod budoucí sportovní halou se nachází vrstva uhlí
-cover-photo: http://i.imgur.com/qK1VBF4.jpg
+cover-photo: http://i.zoul.cz/qK1VBF4.jpg
 authors: Tomáš Trumpeš
 category: zpravodajství
 tags:

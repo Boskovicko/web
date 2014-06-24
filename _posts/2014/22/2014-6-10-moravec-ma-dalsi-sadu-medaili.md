@@ -1,6 +1,6 @@
 ---
 title: Moravec má další sadu medailí
-cover-photo: http://i.imgur.com/DME1Enb.jpg
+cover-photo: http://i.zoul.cz/DME1Enb.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

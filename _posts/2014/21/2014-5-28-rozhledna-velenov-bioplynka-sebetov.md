@@ -1,6 +1,6 @@
 ---
 title: Rozhledna ve Velenově bude, bioplynku v Šebetově nechtějí
-cover-photo: http://i.imgur.com/z5Q9wQr.jpg
+cover-photo: http://i.zoul.cz/z5Q9wQr.jpg
 authors: Tomáš Trumpeš
 category: zpravodajství
 tags: 

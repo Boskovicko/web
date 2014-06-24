@@ -1,6 +1,6 @@
 ---
 title: Desítky starobylých knih zmizely z křtinské fary
-cover-photo: http://i.imgur.com/JnOyxUP.jpg
+cover-photo: http://i.zoul.cz/JnOyxUP.jpg
 authors: Andrea Šrámková
 category: zpravodajství
 tags: Křtiny Přerovsko kriminalita 19-2014

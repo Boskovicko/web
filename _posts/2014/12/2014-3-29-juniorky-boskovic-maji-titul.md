@@ -1,6 +1,6 @@
 ---
 title: Juniorky Boskovic mají titul
-cover-photo: http://i.imgur.com/BK175FD.jpg
+cover-photo: http://i.zoul.cz/BK175FD.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Boskovice Letovice volejbal 12-2014

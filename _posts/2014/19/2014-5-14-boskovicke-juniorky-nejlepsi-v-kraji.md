@@ -1,6 +1,6 @@
 ---
 title: Boskovické juniorky jsou nejlepší v kraji
-cover-photo: http://i.imgur.com/URbK2OO.jpg
+cover-photo: http://i.zoul.cz/URbK2OO.jpg
 authors: Michal Meluzín
 category: sport
 tags: Boskovice volejbal 19-2014

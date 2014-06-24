@@ -1,6 +1,6 @@
 ---
 title: Boskovičtí plavci zářili v Hodoníně
-cover-photo: http://i.imgur.com/bvnXoix.jpg
+cover-photo: http://i.zoul.cz/bvnXoix.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Boskovice Hodonín plavání 12-2014

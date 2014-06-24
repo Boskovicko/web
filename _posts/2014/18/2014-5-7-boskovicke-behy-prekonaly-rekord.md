@@ -1,6 +1,6 @@
 ---
 title: Boskovické běhy překonaly rekord
-cover-photo: http://i.imgur.com/m9M8XKR.jpg
+cover-photo: http://i.zoul.cz/m9M8XKR.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Boskovice běh 18-2014

@@ -1,6 +1,6 @@
 ---
 title: „Přestože se moje rozhodnutí někomu nelíbila, stojím si za nimi,“ říká bývalá ředitelka jihomoravského úřadu práce Marie Cacková
-cover-photo: http://i.imgur.com/E3jnUYh.jpg
+cover-photo: http://i.zoul.cz/E3jnUYh.jpg
 authors: Žaneta Ondroušková
 category: publicistika
 tags: 15-2014 Boskovicko rozhovory

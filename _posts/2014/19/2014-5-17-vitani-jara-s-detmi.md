@@ -1,6 +1,6 @@
 ---
 title: Přivítali jaro s dětmi
-cover-photo: http://i.imgur.com/qQjqGsl.jpg
+cover-photo: http://i.zoul.cz/qQjqGsl.jpg
 authors:
     - I. Staffová
     - J. Kiršnerová

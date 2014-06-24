@@ -1,6 +1,6 @@
 ---
 title: Mistrem Evropy je opět hráč z Boskovic
-cover-photo: http://i.imgur.com/VcBVij8.jpg
+cover-photo: http://i.zoul.cz/VcBVij8.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Boskovice Krakov šprtec 23-2014 

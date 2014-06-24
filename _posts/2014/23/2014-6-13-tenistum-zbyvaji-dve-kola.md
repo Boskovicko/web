@@ -1,6 +1,6 @@
 ---
 title: Tenistům zbývají ještě dvě kola
-cover-photo: http://i.imgur.com/BCuh3Ux.jpg
+cover-photo: http://i.zoul.cz/BCuh3Ux.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

@@ -9,7 +9,7 @@ První měsíc ponořený cele do jara je právě duben. Často používáme jak
 
 Na obloze se „otvírají“ našim pohledům jarní souhvězdí. Většinou se večer zaměříme na souhvězdí nad jižním bodem a výše. Tam ve směru od východu k západu uvidíme souhvězdí Panny, Lva, Raka, Blíženců a Býka. Pod nimi leží souhvězdí Havrana, Hydry, Malého psa a Orionu. Nad Býkem se rozkládá souhvězdí Vozky. V Blížencích silně září planeta Jupiter.
 
-<img class="img-responsive" src="http://i.imgur.com/y8ZMuSu.jpg" alt="obrázek souhvězdí lva">
+<img class="img-responsive" src="http://i.zoul.cz/y8ZMuSu.jpg" alt="obrázek souhvězdí lva">
 
 Které z těch jarních souhvězdí je nejvýraznější? Snad rozsáhlé a dobře viditelné souhvězdí Lva. Poloha jeho hvězd velmi dobře připomíná hlavu a tělo ležícího krále zvířat, což je patrné z obrázku. Jde o devět jasnějších hvězd, z nichž nejjasnější je hvězda Regulus, česky Srdce Lva. Patří mezi čtyři královské hvězdy, k nimž náleží Aldebaran (Býk), Fomalhaut (Jižní ryba) a Antares (Štír). Regulus má jasnost 1,4 mag a je od nás vzdálen 78 ly. Na ocasu Lva najdeme Denebolu (2,1 mag a vzdálenost 36 ly), na hřbetě Zosmu a na krku hvězdu s názvem Algieba. Blízko hlavy Lva se nachází radiant meteorického roje Leonid (výskyt přibližně v polovině listopadu). V souhvězdí Lva se nachází velký počet spirálních galaxií, z nichž je nejznámější galaxie M 66. Nad Lvem leží nepatrné souhvězdí s názvem Malý lev.
 

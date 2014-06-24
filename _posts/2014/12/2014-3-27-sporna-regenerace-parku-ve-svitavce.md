@@ -1,6 +1,6 @@
 ---
 title: S jarem ve Svitávce vrcholí sporná regenerace parku
-cover-photo: http://i.imgur.com/szVUHcr.jpg
+cover-photo: http://i.zoul.cz/szVUHcr.jpg
 authors: Žaneta Ondroušková
 category: zpravodajství
 tags: Svitávka zeleň 12-2014

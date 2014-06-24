@@ -1,6 +1,6 @@
 ---
 title: Boskovice si znovu mění místo s Kunštátem
-cover-photo: http://i.imgur.com/oGN0RV4.jpg
+cover-photo: http://i.zoul.cz/oGN0RV4.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Hrdlička se Staňkem jsou mistry republiky
-cover-photo: http://i.imgur.com/sDxp4oi.jpg
+cover-photo: http://i.zoul.cz/sDxp4oi.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Svitávka kolová 17-2014

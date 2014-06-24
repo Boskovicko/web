@@ -1,6 +1,6 @@
 ---
 title: V derby byl šťastnější celek Boskovic
-cover-photo: http://i.imgur.com/s3yjNUz.jpg
+cover-photo: http://i.zoul.cz/s3yjNUz.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Mladí plavci bojovali v Blansku
-cover-photo: http://i.imgur.com/qlWOd3N.jpg
+cover-photo: http://i.zoul.cz/qlWOd3N.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Blansko plavání 20-2014

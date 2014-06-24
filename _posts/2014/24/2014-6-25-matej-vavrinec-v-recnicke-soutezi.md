@@ -1,6 +1,6 @@
 ---
 title: Student gymnázia Matěj Vavrinec uspěl v řečnické soutěži Demosthenes
-cover-photo: http://i.imgur.com/eCA87Si.jpg
+cover-photo: http://i.zoul.cz/eCA87Si.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice gymnázium 24-2014 

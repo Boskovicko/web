@@ -1,6 +1,6 @@
 ---
 title: O pamětické pouti vysvětili požární vůz
-cover-photo: http://i.imgur.com/SfK4CoL.jpg
+cover-photo: http://i.zoul.cz/SfK4CoL.jpg
 authors: František Staněk
 category: napsali nám
 tags: Pamětice 22-2014 

@@ -1,6 +1,6 @@
 ---
 title: „Lidé by měli podržet české výrobky a české firmy,“ říká podnikatel Pavel Schwarzer
-cover-photo: http://i.imgur.com/bno84Yd.jpg
+cover-photo: http://i.zoul.cz/bno84Yd.jpg
 authors: Petra Bílá
 category: publicistika
 tags: Boskovice rozhovory 14-2014

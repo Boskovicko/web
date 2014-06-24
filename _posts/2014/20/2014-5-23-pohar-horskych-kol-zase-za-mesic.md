@@ -1,6 +1,6 @@
 ---
 title: Pohár se vrátí zase za měsíc
-cover-photo: http://i.imgur.com/rsUB19E.jpg
+cover-photo: http://i.zoul.cz/rsUB19E.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

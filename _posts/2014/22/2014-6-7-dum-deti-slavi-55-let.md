@@ -1,6 +1,6 @@
 ---
 title: Dům dětí a mládeže v Boskovicích oslavuje, smysluplnou náplň pro volný čas nabízí dětem už 55 let
-cover-photo: http://i.imgur.com/6I6WkII.jpg
+cover-photo: http://i.zoul.cz/6I6WkII.jpg
 authors: M. Krajíčková
 category: publicistika
 tags: Boskovice rozhovory 22-2014 

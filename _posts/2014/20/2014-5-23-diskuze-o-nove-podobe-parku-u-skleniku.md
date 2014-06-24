@@ -1,6 +1,6 @@
 ---
 title: Ve skleníku se diskutovalo o nové podobě parku
-cover-photo: http://i.imgur.com/ccir4Ab.jpg
+cover-photo: http://i.zoul.cz/ccir4Ab.jpg
 authors: Martina Lukešová
 category: zpravodajství
 tags: Boskovice zeleň 20-2014

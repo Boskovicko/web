@@ -1,6 +1,6 @@
 ---
 title: Mladí boskovičtí plavci závodili v Blansku
-cover-photo: http://i.imgur.com/JNC0wN3.jpg
+cover-photo: http://i.zoul.cz/JNC0wN3.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

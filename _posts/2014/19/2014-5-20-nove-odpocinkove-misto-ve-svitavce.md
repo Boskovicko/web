@@ -1,6 +1,6 @@
 ---
 title: Svitávka má nové odpočinkové místo
-cover-photo: http://i.imgur.com/QIAbfVN.jpg
+cover-photo: http://i.zoul.cz/QIAbfVN.jpg
 authors: Šárka Bartoňková
 category: napsali nám
 tags: Svitávka 19-2014

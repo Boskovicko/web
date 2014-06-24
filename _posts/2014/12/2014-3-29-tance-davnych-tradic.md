@@ -1,6 +1,6 @@
 ---
 title: Tance dávných tradic si účastníci opravdu užili
-cover-photo: http://i.imgur.com/yjf8koX.jpg
+cover-photo: http://i.zoul.cz/yjf8koX.jpg
 authors: Daniela Meluzínová
 category: napsali nám
 tags: 12-2014

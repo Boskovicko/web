@@ -1,6 +1,6 @@
 ---
 title: Čapkovská alegorie Ze života hmyzu divadlu LMD prospěla
-cover-image: http://i.imgur.com/0GMyf3V.jpg
+cover-image: http://i.zoul.cz/0GMyf3V.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: Kunštát divadlo 13-2014

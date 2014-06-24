@@ -1,6 +1,6 @@
 ---
 title: Okresní běžecká liga zavítala do Blanska
-cover-photo: http://i.imgur.com/JwGlh6V.jpg
+cover-photo: http://i.zoul.cz/JwGlh6V.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Blansko běh 13-2014

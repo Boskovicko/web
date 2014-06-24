@@ -1,6 +1,6 @@
 ---
 title: Chrudichromští vzpomínali, jak šel čas
-cover-photo: http://i.imgur.com/1sOIKTv.jpg
+cover-photo: http://i.zoul.cz/1sOIKTv.jpg
 authors: Radomíra Měkutová
 category: napsali nám
 tags: 16-2014 Chrudichromy

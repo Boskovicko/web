@@ -1,6 +1,6 @@
 ---
 title: Záznam jednání zastupitelstva o sportovní hale
-cover-photo: http://i.imgur.com/IRSyjvs.jpg
+cover-photo: http://i.zoul.cz/IRSyjvs.jpg
 authors: Tomáš Znamenáček
 category: zpravodajství
 tags:

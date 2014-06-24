@@ -1,6 +1,6 @@
 ---
 title: Divadlo NABOSO zve na inscenaci románu Lhář
-cover-photo: http://i.imgur.com/9bdKdL2.jpg
+cover-photo: http://i.zoul.cz/9bdKdL2.jpg
 authors: Anna Dudková
 category: kultura
 tags: Boskovice divadlo 17-2014

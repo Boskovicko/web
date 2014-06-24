@@ -1,7 +1,7 @@
 ---
 title: Okolo s kolem podvacáté 
 authors: Lubomír Slezák
-cover-photo: http://i.imgur.com/gZcDlV2.jpg
+cover-photo: http://i.zoul.cz/gZcDlV2.jpg
 category: sport
 tags:
 - okres Blansko

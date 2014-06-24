@@ -1,6 +1,6 @@
 ---
 title: Muzeum Boskovicka připravilo výstavu o vaření piva 
-cover-photo: http://i.imgur.com/0VJ0DAs.jpg
+cover-photo: http://i.zoul.cz/0VJ0DAs.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice muzeum 14-2014

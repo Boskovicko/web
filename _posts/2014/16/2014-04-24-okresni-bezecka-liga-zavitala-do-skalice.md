@@ -1,6 +1,6 @@
 ---
 title: Okresní běžecká liga zavítala do Skalice
-cover-photo: http://i.imgur.com/K9onGhg.jpg 
+cover-photo: http://i.zoul.cz/K9onGhg.jpg 
 authors: Lubomír Slezák 
 category: sport
 excerpt: Výsledky okresní běžecké ligy po skalickém závodu.

@@ -1,6 +1,6 @@
 ---
 title: Děti navštívily pohádkové království
-cover-photo: http://i.imgur.com/QtWFnX3.jpg
+cover-photo: http://i.zoul.cz/QtWFnX3.jpg
 authors: Libuše Magniová
 category: napsali nám
 tags: 24-2014 

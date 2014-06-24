@@ -1,6 +1,6 @@
 ---
 title: V Doubravici vyhrál Jan Kohut
-cover-photo: http://i.imgur.com/Y9XbbFm.jpg
+cover-photo: http://i.zoul.cz/Y9XbbFm.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Doubravice běh 23-2014 

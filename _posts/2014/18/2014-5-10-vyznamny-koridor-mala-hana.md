@@ -1,6 +1,6 @@
 ---
 title: Malá Haná byla už v minulosti významným koridorem
-cover-photo: http://i.imgur.com/8IIxQJ7.jpg
+cover-photo: http://i.zoul.cz/8IIxQJ7.jpg
 authors: Jitka Melkusová
 category: zpravodajství
 tags:

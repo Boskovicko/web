@@ -1,6 +1,6 @@
 ---
 title: "Drogy v regionu: desítky varen i úspěšný toxi tým"
-cover-photo: http://i.imgur.com/DvLzGjC.jpg
+cover-photo: http://i.zoul.cz/DvLzGjC.jpg
 authors: Žaneta Ondroušková
 category: zpravodajství
 tags: Blanensko drogy 11-2014

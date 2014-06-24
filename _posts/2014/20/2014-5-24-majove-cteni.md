@@ -1,6 +1,6 @@
 ---
 title: Májové čtení
-cover-photo: http://i.imgur.com/tTCq59L.jpg
+cover-photo: http://i.zoul.cz/tTCq59L.jpg
 authors: Gabriela Vajčnerová
 category: napsali nám
 tags: Boskovice školky 20-2014

@@ -1,6 +1,6 @@
 ---
 title: V Letovicích proběhlo Mistrovství světa
-cover-photo: http://i.imgur.com/hphww7o.jpg
+cover-photo: http://i.zoul.cz/hphww7o.jpg
 authors: Lubomír Slezák
 category: sport
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Černovice opět zasáhla blesková povodeň
-cover-photo: http://i.imgur.com/lQ7rerf.jpg
+cover-photo: http://i.zoul.cz/lQ7rerf.jpg
 authors: Marek Osouch
 category: zpravodajství
 tags: Černovice voda 22-2014 

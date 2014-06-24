@@ -1,6 +1,6 @@
 ---
 title: Hrdlička se Staňkem vybojovali bronz
-cover-photo: http://i.imgur.com/duFphh8.jpg
+cover-photo: http://i.zoul.cz/duFphh8.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Svitávka kolová 22-2014 

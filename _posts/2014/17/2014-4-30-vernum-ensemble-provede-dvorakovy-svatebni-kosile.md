@@ -1,6 +1,6 @@
 ---
 title: Vernum 2013 Ensemble provede Dvořákovy Svatební košile
-cover-photo: http://i.imgur.com/9AXPHDj.jpg
+cover-photo: http://i.zoul.cz/9AXPHDj.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovicko koncerty 17-2014

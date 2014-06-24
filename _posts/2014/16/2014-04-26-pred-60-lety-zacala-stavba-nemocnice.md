@@ -1,6 +1,6 @@
 ---
 title: Před 60 lety započala stavba boskovické nemocnice
-cover-photo: http://i.imgur.com/4BZDvaq.jpg
+cover-photo: http://i.zoul.cz/4BZDvaq.jpg
 authors: Miroslava Krajíčková
 category: publicistika
 tags: 16-2014 Boskovice nemocnice

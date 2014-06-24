@@ -1,6 +1,6 @@
 ---
 title: Bobrů je čím dál víc, ve Svitavě jsou jako doma
-cover-photo: http://i.imgur.com/ySJzbsf.jpg
+cover-photo: http://i.zoul.cz/ySJzbsf.jpg
 authors: Žaneta Ondroušková
 category: zpravodajství
 tags: Blanensko 14-2014

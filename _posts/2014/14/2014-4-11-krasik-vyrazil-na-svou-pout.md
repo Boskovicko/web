@@ -1,6 +1,6 @@
 ---
 title: Krasík vyrazil na svou dobrodužnou pouť
-cover-photo: http://i.imgur.com/6lEkabC.jpg
+cover-photo: http://i.zoul.cz/6lEkabC.jpg
 authors: Jitka Melkusová
 category: zpravodajství
 tags: Senetářov 14-2014

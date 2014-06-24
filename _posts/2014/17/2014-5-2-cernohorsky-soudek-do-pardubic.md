@@ -1,6 +1,6 @@
 ---
 title: Černohorský soudek odjel do Pardubic
-cover-photo: http://i.imgur.com/ksxfSo5.jpg
+cover-photo: http://i.zoul.cz/ksxfSo5.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Boskovice šachy 17-2014

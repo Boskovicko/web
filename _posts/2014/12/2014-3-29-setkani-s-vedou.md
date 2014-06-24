@@ -1,6 +1,6 @@
 ---
 title: Setkání s vědou
-cover-photo: http://i.imgur.com/Kw0OWZL.jpg
+cover-photo: http://i.zoul.cz/Kw0OWZL.jpg
 authors: Jana Marková
 category: napsali nám
 tags: 12-2014

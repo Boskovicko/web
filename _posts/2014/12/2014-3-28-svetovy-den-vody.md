@@ -1,6 +1,6 @@
 ---
 title: Slavili Světový den vody
-cover-photo: http://i.imgur.com/9ql9lbI.jpg
+cover-photo: http://i.zoul.cz/9ql9lbI.jpg
 authors: Jitka Melkusová
 category: zpravodajství
 tags: Doubravice Boskovice voda 12-2014

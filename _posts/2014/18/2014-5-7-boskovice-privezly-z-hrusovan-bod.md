@@ -1,6 +1,6 @@
 ---
 title: Boskovice přivezly z Hrušovan bod
-cover-photo: http://i.imgur.com/6Q3fSWZ.jpg
+cover-photo: http://i.zoul.cz/6Q3fSWZ.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

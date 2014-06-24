@@ -1,6 +1,6 @@
 ---
 title: Edukativně-stimulační skupiny pro předškoláky
-cover-photo: http://i.imgur.com/Lc1YlbT.jpg
+cover-photo: http://i.zoul.cz/Lc1YlbT.jpg
 authors: Zuzana Fajglová
 category: napsali nám
 tags: Boskovice školky 13-2014

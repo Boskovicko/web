@@ -1,6 +1,6 @@
 ---
 title: Fotbalisté Boskovic nečekaně vyhráli v Brně
-cover-photo: http://i.imgur.com/n253gpV.jpg
+cover-photo: http://i.zoul.cz/n253gpV.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

@@ -1,6 +1,6 @@
 ---
 title: „Současnost je typická přemírou informací. Škola by děti měla učit, co s nimi,“ říká budoucí ředitelka gymnázia Alena Svanovská 
-cover-photo: http://i.imgur.com/N1fvnZF.jpg
+cover-photo: http://i.zoul.cz/N1fvnZF.jpg
 authors: Žaneta Ondroušková
 category: publicistika
 tags: Boskovice gymnázium rozhovory 24-2014 

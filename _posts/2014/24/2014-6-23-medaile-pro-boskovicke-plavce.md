@@ -1,6 +1,6 @@
 ---
 title: Boskovickým plavcům cinkaly na krku medaile
-cover-photo: http://i.imgur.com/t3XcCYB.jpg
+cover-photo: http://i.zoul.cz/t3XcCYB.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Boskovice plavání 24-2014 

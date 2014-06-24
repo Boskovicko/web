@@ -1,6 +1,6 @@
 ---
 title: Blansko zakončilo divizní sezónu výhrou
-cover-photo: http://i.imgur.com/g5BnD8L.jpg
+cover-photo: http://i.zoul.cz/g5BnD8L.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

@@ -1,6 +1,6 @@
 ---
 title: V Černé Hoře vyhrál Jan Kohut
-cover-photo: http://i.imgur.com/dOWoo9G.jpg
+cover-photo: http://i.zoul.cz/dOWoo9G.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

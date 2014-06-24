@@ -1,6 +1,6 @@
 ---
 title: Drnovice hostí mistrovství Evropy v truck trialu
-cover-photo: http://i.imgur.com/OROvBj4.jpg
+cover-photo: http://i.zoul.cz/OROvBj4.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

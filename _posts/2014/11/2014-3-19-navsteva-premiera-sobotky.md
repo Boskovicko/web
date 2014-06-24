@@ -1,6 +1,6 @@
 ---
 title: Premiér Sobotka navštívil Boskovice a Kunštát
-cover-photo: http://i.imgur.com/3XEpVIS.jpg
+cover-photo: http://i.zoul.cz/3XEpVIS.jpg
 authors: Tomáš Trumpeš
 category: zpravodajství
 tags:

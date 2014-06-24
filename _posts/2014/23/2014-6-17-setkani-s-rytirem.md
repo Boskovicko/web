@@ -1,6 +1,6 @@
 ---
 title: Setkání s rytířem
-cover-photo: http://i.imgur.com/NPdFzji.jpg
+cover-photo: http://i.zoul.cz/NPdFzji.jpg
 authors: Š. Doležel
 category: napsali nám
 tags: Boskovice 23-2014 

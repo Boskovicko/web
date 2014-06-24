@@ -1,6 +1,6 @@
 ---
 title: Forest a Woody
-cover-photo: http://i.imgur.com/pWJ9ZtL.jpg
+cover-photo: http://i.zoul.cz/pWJ9ZtL.jpg
 authors: Mária Bašná
 category: napsali nám
 tags: 11-2014
