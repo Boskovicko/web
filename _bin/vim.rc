@@ -1,4 +1,0 @@
-set makeprg='_bin/validate-articles.pl'
-set errorformat=%f:%l:%c:%m
-map <C-Right> :cn<Return>
-map <C-Left> :cp<Return>
