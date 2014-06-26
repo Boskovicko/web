@@ -1,0 +1,14 @@
+---
+title: Kraj oživil debatu kolem boskovické spojky
+authors: Marek Osouch
+category: zpravodajství
+tags: Boskovice Brno doprava 25-2014 
+---
+
+Boskovická spojka neboli přímé vlakové spojení Brna a Boskovic bylo předmětem memoranda, které podepsali zástupci kraje a dotčených obcí minulý pátek v Židlochovicích. Svým aktem tak chtějí přiblížit její stavbu.
+
+Kromě výstavby elektrifikované železniční spojky mezi Boskovicemi a Lhotou Rapotinou se memorandum týká výstavby dalších dvou tratí mezi Šakvicemi a Hustopečemi a dále mezi Hrušovany u Brna a Židlochovicemi. „Memorandum deklaruje jednoznačnou podporu přípravě odpovídajících opatření na uvedených tratích a jejich realizaci v co nejkratším termínu. Cílem je zjednodušení využití železniční dopravy pro obyvatele v brněnské aglomeraci, které umožní cesty do krajské metropole a obcí s rozšířenou působností bez přestupu, zkrátí cestovní doby a umožní zvýšení počtu objednávaných vlaků,“ uvedl jihomoravský hejtman Michal Hašek.
+
+Výstavbu dlouhodobě podporuje i boskovická radnice. „Předpokládám, že lidé, kteří jezdí vlakem, asi neodmítají přímé spojení do Brna. Uvědomuje si to i Jihomoravský kraj, že my jsme jediné město třetího typu, které nemá s jihomoravskou metropolí přímé spojení. Je dobře, že to nezapadlo, že s tím kraj i železničáři počítají,“ souhlasil s tímto krokem kraje  starosta Boskovic Jaroslav Dohnálek. „Naším cílem je dovést elektrifikovanou trať do Boskovic,“ dodal. Celou stavbu ovšem považuje starosta Lhoty Rapotiny Michal Sedlák za ekonomický nesmysl. „Pro občany je to o ničem. Lidé se tomu jen smějí,“ podotkl starosta s tím, že pro obyvatele Lhoty je lepší cestovat autobusem nebo autem než případně chodit někam dál za obec na železniční zastávku. Ta totiž má s boskovickou spojkou ve Lhotě také vzniknout. Jeho slova tak odporují slovům boskovického starosty, který tvrdí, že se na boskovickou spojku těší naprostá většina obyvatel Lhoty. „Teoreticky jedinou přidanou hodnotou by pro nás bylo protipovodňové opatření, které má díky trati vzniknout. Lepší by však bylo vybudování nové silnice mezi Blanskem a Boskovicemi,“ dodal Sedlák. Za nesmysl to považují také ve Skalici nad Svitavou. Starosta Skalice Richard Černý by raději uvítal rekonstrukci silnic. 
+
+Kdy a zda vůbec se začne se stavbou boskovické spojky, není jasné. Investorem je totiž stát a otázka vybudování trati záleží na postoji Správy železničních dopravních cest. Memorandum také není první, které zástupci kraje, obcí a železničářů podepsali. První vzniklo již v roce 2006 a počítalo se zahájením prací do roku 2013. Nic se ovšem dodnes nestalo, zatím ani není projekt, a tak vzniká nové memorandum. Cena stavby se v úvahách z roku 2006 pohybovala mezi 200 a 300 miliony korun.
