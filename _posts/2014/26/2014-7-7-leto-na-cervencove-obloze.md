@@ -1,0 +1,21 @@
+---
+title: Léto vládne i na červencové obloze
+authors: Jaroslav Chloupek
+category: publicistika
+tags: astronomie 26-2014 
+---
+
+Měsíc červenec je prvním celým měsícem, který patří létu. Letní slunovrat už minul, avšak v červenci ještě budeme prožívat dlouhé dny a krátké noci. Přesto se pozvolna Slunce posunuje jižním směrem ke světovému rovníku. Že je léto, na obloze dosvědčují krásná letní souhvězdí, mezi něž především patří známá souhvězdí Labutě, Lyry a Orla. Nemůžeme vynechat souhvězdí Herkula, Hadonoše a nad jižním obzorem souhvězdí Štíra a Střelce. Často se zapomíná na drobná letní souhvězdí s názvy Koníček, Delfín, Šíp, Lištička, Štít nebo Had. 
+
+Tato souhvězdí mají malé rozměry, obsahují slabé hvězdy a často je obtížné je nalézt. Přesto se pokusíme poznat jedno z těchto malých souhvězdí nazvané Delfín (Delphinus). Leží těsně u východního okraje Mléčné dráhy asi uprostřed mezi Labutí (nahoře) a Orlem (dole) směrem k jihu. Souhvězdí je sice malé ale nápadné, ležící blízko hvězdy Altair (souhvězdí Orla). Často bylo souhvězdí pokládáno za Malý vůz. Čtyřúhelník nejjasnějších hvězd v souhvězdí připomíná diamant. Souhvězdí Delfína je prý půvabné jako miniatura a kompaktní jako drahokam. Svým tvarem také připomíná delfína. Nejjasnější hvězdou je Rotanev s jasností 3,6 mag. Je vzdálen 97 ly. Nejznámějším objektem v tomto souhvězdí byla Nova Delphini 1967, v tomto roce byla právě objevena.
+
+Podle antické pověsti námořníci vydírali básníka a pěvce Ariona, který svou hrou vydělal spoustu peněz. Námořníci se však báli prozrazení, a tak Ariona vrhli do moře. On však neutonul. Začal hrát a svou hrou přilákal hejno delfínů. Jeden z nich vzal pěvce na hřbet a doplul s ním do přístavu. Za záchranu velkého umělce byl tento delfín umístěn mezi souhvězdí na oblohu. Souhvězdí je třeba hledat za bezměsíčné noci.
+
+Naše životodárné Slunce bude v červenci vysoko na obloze. Jeho azimut však trochu poklesne, a to ze 129° na 120°, zároveň se trochu zmenší denní sluneční oblouk. 1. 7. je východ Slunce ve 4.55 a západ ve 21.13, 31. 7. je východ v 5.28 a západ ve 20.44. Během července se den zkrátí o hodinu a dvě minuty. Do znamení Lva Slunce přejde 22. 7. ve 23.41 SELČ. Nesmíme opomenout důležitou skutečnost, že 4. 7. ve 2.00 SELČ je Země nejdále od Slunce, což je 152,1 milionů km.
+
+Když bychom nic jiného na obloze nepozorovali, tak si jistě všimneme Měsíce, zvláště jeho fází. První čtvrt 5. 7., úplněk 12. 7., 19. 7. poslední čtvrt a 26. 7. nov. Nejblíže Zemi bude Měsíc 13. 7. v 10.00 (358 253 km) a nejdále od Země 28. 7. v 5.00 (406 576 km).
+
+Od Měsíce přejděme na planety. Od poloviny července spatříme Merkur ráno nad severovýchodním obzorem. Podobně tomu bude s Venuší po celý měsíc. Mars v souhvězdí Panny najdeme večer na jihozápadě. Nelze pozorovat planetu Jupiter. Saturn v souhvězdí Vah najdeme v první polovině noci. Ve druhé polovině můžeme dalekohledem pozorovat Uran (v Rybách) a Neptun (ve Vodnáři).
+Úkazy na obloze dosvědčují pohyb nebeských těles. Zvláště to pozorujeme u Měsíce a planet. 6. 7. ráno kolem 4. hodiny bude možné pozorovat konjunkci Měsíce s Marsem. Zajímavé bude velké seskupení Měsíce, Marsu, Spiky (ze souhvězdí Panny) a Saturnu v době 5.–8. 7. v první polovině noci. 24. 7. ve 20.00 nastane seskupení Měsíce, Venuše a Merkuru a to bude možné vidět 25. a 26. 7. v ranních červáncích na východě.
+
+Čeští astronomové si letos připomínají významnou osobnost. Dne 4. dubna t.r. by se dožil 100 let astronom světového jména profesor Zdeněk Kopal, rodák z Litomyšle. Většinu života prožil v zahraničí, naposledy jako první vedoucí katedry astronomie na univerzitě v Manchesteru. Několikrát navštívil naši republiku. V lednu 1976 navštívil Brno a zdejší přírodovědeckou fakultu MU, aby se zúčastnil vědeckého semináře o výzkumu světelných změn těsných zákrytových dvojhvězd. Autor tohoto článku měl možnost se s profesorem Kopalem osobně setkat a vyměnit s ním krátkou korespondenci. Zůstává živá vzpomínka. Toto významné výročí vzpomenou koncem června v jeho rodné Litomyšli.
