@@ -1,7 +1,7 @@
 ---
 title: Betonové sloupy v oplocení letního kina už poničili vandalové
 authors: Marek Osouch
-category: zpravodajstvi
+category: zpravodajství
 tags: Boskovice kino 25-2014 
 ---
 
