@@ -7,9 +7,9 @@
     },
     {
         "name": "Festival",
-        "image": "/ads/festival.png",
+        "image": "/ads/festival.jpg",
         "text": "Festival Boskovice 2014",
-        "url": "http://boskovice-festival.cz/"
+        "url": "https://www.facebook.com/media/set/?set=a.10152496178873632.1073741841.231822703631&type=1"
     },
     {
         "name": "COOP Boskovice",
