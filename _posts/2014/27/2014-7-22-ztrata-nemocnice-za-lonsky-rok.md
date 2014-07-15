@@ -1,0 +1,15 @@
+---
+title: Ztráta nemocnice za loňský rok skončila na 15,5 milionech
+authors: Tomáš Trumpeš
+category: zpravodajství
+tags: Boskovice nemocnice 27-2014 
+---
+
+Již v září loňského roku informovalo vedení boskovické nemocnice společně se zástupci města, jakožto jejího vlastníka, že na základě nastavení úhradové vyhlášky a především požadavků zdravotních pojišťoven za vratky poskytnuté péče v roce 2012, se může nemocnice v roce 2013 dostat do hospodářského propadu až dvacet milionů korun. Nakonec tato ztráta činí něco přes 15,5 milionu korun. Účetní uzávěrku s tímto výsledkem schválila na svém posledním zasedání městská rada, která je zároveň valnou hromadou nemocnice.
+
+„Je to záležitost, která se očekávala. Provozní ztrátu se nakonec podařilo stáhnout, protože už od září nebyl ani jeden další měsíc v záporném hospodářském výsledku. Výsledek není žádná katastrofa, nic, co nemůže obchodní společnost potkat. Za uplynulá léta má nemocnice zhruba 25 milionů nerozdělený zisk, takže stávající ztráta se převede a tento zisk nastřádaný z předchozích let se zhruba o těch 15 milionů sníží. Podstatné je, že od září se hospodaření nemocnice začalo měnit do černých čísel. Vliv měla spořící opatření, jednání s pojišťovnami a hlavně nová úhradová vyhláška,“ vyjádřil se boskovický starosta Jaroslav Dohnálek.
+
+S výsledným číslem je spokojen i jednatel nemocnice Dan Navrátil. Ten navíc vysvětluje, že hospodaření nemocnice v roce 2013 bylo ještě úspěšnější, protože jsou v něm zahrnuty i ztrátové účetní položky z roku 2012. „S výsledkem jsem hodně spokojen, protože původní propad se čekal okolo 20 milionů korun a hospodaření za loňský rok skončilo ve ztrátě 6,5 milionů. Zbytek z té výsledné částky více než 15 milionů tvoří další dohadné položky z roku 2012 a vysoké dohadné položky za rok 2013, které by mohly být zahrnuty až do roku 2014. Ale my jsme chtěli hospodaření vyčistit, proto jsme je zahrnuli. A zároveň jsou zahrnuty i velké odpisy, protože nemocnice má samozřejmě značný majetek. Ale to jsou účetní operace, čisté hospodaření za loňský rok nakonec skončilo ve ztrátě 6,5 milionu a od září jsme stále v plusu. Myslím, že se nám podařilo odvést velký kus práce,“ vysvětlil jednatel Dan Navrátil.
+
+Kladné hospodářské výsledky se tedy od zářijového obratu daří držet i v letošním roce, za první kvartál roku 2014 je nemocnice podle Jaroslava Dohnálka asi 3,6 milionu v zisku. Za záporný hospodářský výsledek v roce 2014 podle starosty nenese odpovědnost toto vedení nemocnice, ale především stará úhradová vyhláška, která byla kritizována mnoha zdravotnickými zařízeními v celé republice. „Myslím, že pro nerozkolísání situace v nemocnici bylo správné, že jsme nepřistoupili k žádnému snižování odměňování lékařů,“ dodal boskovický starosta. 
+S atmosférou v nemocnici je spokojený i jednatel Navrátil. „Nemůžu hovořit za všechny, ale v nemocnici je stabilizovaná personální situace. Všechna oddělení jsou dostatečně zajištěna. A myslím, že atmosféra se pročistila, prvotní nedůvěra pominula a vztahy jsou dobré,“ uzavřel Dan Navrátil.

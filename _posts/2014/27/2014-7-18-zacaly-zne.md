@@ -1,0 +1,17 @@
+---
+title: Žně začaly sklizní řepky a ozimého ječmene
+authors: Petra Bílá
+category: zpravodajství
+tags: Boskovicko 27-2014 
+---
+
+Začátkem července vyjeli zemědělci do polí. Sklízejí rané odrůdy obilovin a osivové trávy. Už teď je jasné, že na kvalitě a množství úrody se negativně podepsalo sucho. Vrásky však zemědělcům dělají i prudké bouřky.
+
+„Přes zimu nebyla vláha, na jaře spadlo jen minimum srážek. Sucho daleko více vadí obilovinám než třeba řepce, která je docela odolná plodina,“ sdělil vedoucí rostlinné výroby v letovickém Ledeku Stanislav Šaršon. Přesto na tom Boskovicko a Letovicko ve srovnání s jinými regionu není zas až tak bídně. „Spolupracujeme s jihomoravskými zemědělci z oblasti Morkůvek a Vnorov, kam jsme v tuto chvíli poslali naše kombajny. Od nich máme zprávy, že výnosy tam jsou špatné, zrno je zaschlé,“ prozradil Šaršon. Zemědělci z Ledeka zatím sklidili polovinu ozimého ječmene. „Následovat bude osivová tráva a řepka. Ozimý ječmen je krmná plodina, tu máme pro vlastní potřebu na krmení hospodářských zvířat, kvalita je průměrná, trochu to zaschlo a úplně to nedozrálo, takže výnos je v průměru. Netroufám si odhadnout, jaká bude celková úroda. Porosty vypadají pěkně, ale jak jsem řekl, vlivem sucha může mít zrno nízkou váhu,“ zhodnotil Šaršon.
+
+Kombajny lysického Zeasu v těchto dnech sklízejí ozimý ječmen, osivové trávy jsou již vymláceny. „Následně by měla přijít na řadu velmi raná odrůda ozimé pšenice a kolem dvacátého července začneme se sklizní ozimé řepky,“ popsal ředitel lysického Zeasu Jiří Šafář. Dodal, že zatím je brzy hodnotit výsledek žní. 
+„V našich podmínkách to vypadá na slušný výsledek. Ale přijde jedna větší bouřka a stav může být úplně jiný. Někde už nás bouřky zasáhly, část řepky poničily kroupy,“ naznačil Šafář. Výnosy negativně ovlivní také sucho. „Srážek nebylo moc, ve spodních katastrech okolo Lysic to výrazný vliv mít nebude, ale v horních katastrech kolem Kozárova a Rašova jsou obiloviny a řepka suchem postiženy,“ dodal Šafář.
+
+Lány na území od Krhova po Černou Horu obhospodařuje bořitovské Zepo. Vedení družstva vyslalo kombajny do polí začátkem druhého červencové ho týdne. „Zralý je zatím jen ozimý ječmen. Pokračovat budeme podle vývoje počasí. Koncem týdne plánujeme začít sklízet řepku. Po patnáctém červenci další ječmen a pšenici,“ sdělil minulý týden místopředseda představenstva družstva Zepo Bořitov Břetislav Mach. Ten odhadl, že výnosy budou mít průměrné, někde možná slabší průměr. „Neočekáváme výraznější propad. Je pravda, že byl nedostatek zimní vláhy, ale v průběhu vegetace srážky přišly. Zatím máme výnosy kolem šesti tun na hektar,“ prozradil Břetislav Mach.
+
+Třeba na Benešovsku ještě není co sklízet. Kvůli vyšší nadmořské výšce tam obilí zatím není dostatečně zralé. „Je to otázka čtrnácti dní, kdy začneme síct, nejprve v níže položených oblastech.  První přijde na řadu ozimý ječmen a rané odrůdy pšenice. Máme žně vždycky nejpozději ze všech,“ sdělil agronom zemědělského družstva Skály Benešov Jaromír Žáček. Ten si myslí, že obilí na Benešovsku sucho příliš nepostihlo. „Nějaké srážky byly a podle dosavadního vývoje zůstávám optimista. Myslím, že výnosy budou slušné, na úrovni loňska, ale na druhou stranu dokud není sklizeno, není co vyhodnocovat,“ uzavřel Žáček.
