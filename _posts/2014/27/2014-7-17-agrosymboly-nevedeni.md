@@ -6,7 +6,7 @@ category: publicistika
 tags: 27-2014 
 ---
 
-Hned na začátku prázdnin Boskovice proslavil mysteriózní v kruh v obilí za Hurábovou cihelnou. Fotografie na městském webu zhlédly desítky tisíc lidí, přímo na místo putovala početná procesí poutníků i kroky osamělých zvědavců.
+Hned na začátku prázdnin Boskovice proslavil mysteriózní kruh v obilí za Hurábovou cihelnou. Fotografie na městském webu zhlédly desítky tisíc lidí, přímo na místo putovala početná procesí poutníků i kroky osamělých zvědavců.
 
 Zajímavé bylo pozorovat v reakcích na internetu i ve vlastním okolí, jak rychlé a radikální postoje umíme zaujímat. Jedni jsou přesvědčeni, že za celou záležitostí stojí partička vtipálků, druzí jsou stejně skálopevně přesvědčeni, že agrosymbol je dílem mimozemských civilizací. Otázka vzniku je asi otázkou nejdiskutovanější. Možná jsem neměl štěstí, ale na poučenější diskusi o tom, co může symbol znázorňovat a znamenat, jsem nenarazil.
 
