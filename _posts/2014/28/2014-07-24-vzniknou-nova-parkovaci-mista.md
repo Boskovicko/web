@@ -5,6 +5,7 @@ category: zpravodajství
 tags: 
 - 28-2014
 - Boskovice
+- doprava
 ---
 Ještě letos vznikne u nemocnice v Boskovicích celkem 15 nových parkovacích míst, dalších 42 jich město chce vybudovat příští rok na Hybešově ulici.
 

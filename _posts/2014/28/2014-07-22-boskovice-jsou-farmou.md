@@ -10,6 +10,7 @@ tags:
 V roce 2011 vznikl ve fotbale projekt farem. Díky projektu farem mohly profesionální kluby posílat méně vytížené hráče na rozehrání do amatérských celků.
 
 Od letošní sezóny své farmy mohou mít nově i kluby MSFL a divizí. A to v krajských soutěžích. V jihomoravském fotbale se do projektu zatím mohla zapojit Zbrojovka Brno (spolupracovala se Spartou Brno a nyní s Líšní) a také Znojmo (spolupracovalo s Rosicemi). Teď mohou stejným způsobem spolupracovat s klubem z krajského přeboru, I. A třídy nebo I. B třídy mužstva z MSFL a divizí.
+
 Devátého července byla podepsána dohoda o spolupráci mezi 1. SK Prostějov a FC Boskovice pro soutěžní ročník 2014/15 k využití sportovně – herního potencionálu zápasově nevytížených hráčů uvedených klubů bez nutnosti institutu přestupu nebo hostování.
 
 V praxi to znamená, že hráčům A - týmu dospělých se povoluje přímá delegace registrovaných hráčů pro využití v A - týmu dospělých spolupracujícího klubu a naopak. Pro hráče a fanoušky se tak nabízí možnost zahrát si a vidět v boskovickém dresu vybrané hráče účastníka Moravskoslezské ligy 1. SK Prostějov v mistrovských utkáních I. A třídy. Boskovice pak mohou nabídnout klubu, který by měl bojovat o špici a případný postup do 2. ligy talentované hráče a upřednostnit jejich působení v mužstvu Prostějova před ostatními kluby.

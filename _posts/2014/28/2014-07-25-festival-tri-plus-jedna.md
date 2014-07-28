@@ -1,5 +1,5 @@
 ---
-title: Letovice zvou na Festival 3 + 1
+title: Letovice zvou na Festival 3+1
 authors: Ludmila Dobrozemská
 category: kultura
 tags: 

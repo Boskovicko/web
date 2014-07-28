@@ -5,6 +5,7 @@ category: zpravodajství
 tags: 
 - 28-2014
 - Boskovicko
+- cyklistika
 ---
 V horkých letních dnech přijde vhod vychlazené pivo. Po jeho požití by málokdo sedl za volant, v případě řízení kola si ale spousta lidí těžkou hlavu nedělá. I cyklista je ale oficiálně řidič, i když pouze nemotorového vozidla, a může ho zastavit a zkontrolovat policejní hlídka. 
 

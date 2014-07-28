@@ -1,12 +1,12 @@
 ---
-title: "Med opět podraží. Včelařům se ani letos nedařilo, stočili ho ještě méně loni"
+title: "Med opět podraží. Včelařům se ani letos nedařilo, stočili ho ještě méně než loni"
 authors: Petra Bílá
-category:zpravodajství 
+category: zpravodajství
 tags: 
 - 28-2014
 - Boskovicko
 - zemedělství
-- med 
+- med
 ---
 Letošní včelařská sezóna je podle hodnocení včelařů z Boskovicka a Blanenska bídná, jedna z nejhorších za poslední roky. Můžou za to rozmary počasí. 
 
@@ -18,7 +18,7 @@ Ve srovnání s předcházejícím rokem se situace obrátila. „Loni na jaře 
 
 Velké množství drobných včelařů vozí svůj med do výkupu do firmy Včelpo Obora. I tam ale aktuálně řeší nedostatek medu. „Vykupujeme tak čtvrtinu toho, co jsme vykoupili loni. Ale vzhledem k tomu, že našim majitelem je Český svaz včelařů a med stahujeme v celé České republiky, věřím, že ho našim zákazníkům zvládneme zajistit,“ uvedl ředitel Včelpa Panagiotis Margaritopoulos. Ten přidal srovnání se sousedními regiony. „Co se týká květových medů, tak na Vysočině byla snůška nadprůměrná, na Jižní Moravě podprůměrná, na Blanensku průměrná. Medovicový med tady není žádný, stejné je to s akátovým a lipovým,“ prozradil ředitel Včelpa.
 
-### NÁKUP MEDU PODRAŽÍ
+### Nákup medu podraží
 
 Podle údajů českého statistického úřadu za poslední čtyři roky cena jednoho kilogramu medu značně vzrostla. Zdražování nekončí, i když podle ředitele Včelpa je maloobchodní cena medu už teď nejvyšší v historii České republiky. 
 

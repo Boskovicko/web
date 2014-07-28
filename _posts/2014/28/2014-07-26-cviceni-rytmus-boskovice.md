@@ -2,7 +2,7 @@
 title: Zdravotní cvičení v TJ Rytmus Boskovice
 cover-photo: http://i.imgur.com/JZGcLHJ.jpg
 authors: Marie Ženatová
-category: Napsali nám
+category: napsali nám
 tags: 
 - 28-2014
 - Boskovice
@@ -21,4 +21,3 @@ Na Velenově jsme se zašly podívat i na Vyhlídku, odkud je nádherný rozhled
 Na závěr jsme všechny obdržely od cvičitelky Věry rozepsané cvičení na prázdniny, a to na probuzení, protažení, posilování a Pozdrav slunci.
 
 Za její obětavost jí všechny děkujeme a už se všechny těšíme na naše další cvičení od podzimku ve školičce.
-

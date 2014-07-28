@@ -2,9 +2,7 @@
 title: Mezinárodní den družstev
 authors: Petr Meluzín
 category: publicistika 
-tags: 
-- 28-2014
-- sloupek
+tags: 28-2014
 ---
 To vážně není vtip, tento významný den opravdu existuje. OSN jej vyhlašuje každoročně na jednu červencovou sobotu. Konec konců, co je na tom tak zvláštního. Když se podíváte na seznam významných dnů, napočítáte jich přes osmdesát. Každý čtvrtý den tak máme co slavit. A když si navíc přečtete názvy, nestačíte se divit. 
 

@@ -11,7 +11,8 @@ Léto je dobou, kdy je více času na toulky přírodou. Měl jsi štěstí na n
 
 ### Andrea, 12 let
 
-Blízko u domu se nám vyhřívají ještěrky, sem tam k nám přijde i zajíc a včera jsem měla příležitost docela zblízka pozorovat srnce. 
+Blízko u domu se nám vyhřívají ještěrky, sem tam k nám přijde i zajíc a včera jsem měla příležitost docela zblízka pozorovat srnce.
+
 Ale letošní rok jsem měla celkově štěstí na taková setkání. Zjara jsme na jednom výletě s rodinou pozorovali v potoce malé chrostíky a v jedné kaluži pulce.
 
 ### Milada, 15 let

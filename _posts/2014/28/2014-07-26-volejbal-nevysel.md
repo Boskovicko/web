@@ -13,5 +13,6 @@ Příprava volejbalového družstva mužů začala počátkem srpna. Turnaje v D
 Ztráta tří smečařů měla vliv na úvod sezóny. První zápasy vyšly bodově naprázdno a cíl bojovat o přední příčky se pomalu měnil v boj o záchranu. Atmosféra v týmu a tréninková morálka některých mladších hráčů byla velmi špatná. Nechuť trénovat a špatné vztahy v týmu měly za následek, že po podzimní části zanechal činnosti trenér. Tým opustil také Marek Šimko.
 
 V jarní části se krize ještě prohloubila. Na zápasy přestal jezdit i Milan Reitschmied,, ze základní sestavy trénovali pouze Janků Lukáš, Sedlák a Kroupa. Na zápasy se jezdilo v sedmi a série porážek narůstala. Na závěr sezóny ze zdravotních a osobních důvodů opustili tým i bratři Holasové, ale tři výhry v posledních kolech znamenaly záchranu v soutěži a konečné 6. místo.
+
 Budoucnost mužského volejbalu v Letovicích je zatím ovšem nejistá.
 

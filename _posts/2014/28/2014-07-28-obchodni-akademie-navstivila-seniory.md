@@ -1,7 +1,7 @@
 ---
 title: Studenti obchodní akademie navštívili boskovické seniory
 authors: Jarmila Dufková
-category: Napsali nám
+category: napsali nám
 tags: 
 - 28-2014
 - školy

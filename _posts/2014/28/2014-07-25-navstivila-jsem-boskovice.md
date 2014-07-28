@@ -1,7 +1,7 @@
 ---
 title: Navštívila jsem Boskovice
 authors: Milada Špačková
-category: Napsali nám
+category: napsali nám
 tags: 
 - 28-2014
 - Boskovice
@@ -15,4 +15,3 @@ A to mě moc těší, protože letošní sbírka Český den proti rakovině byl
 Jako bývalá kantorka jsem velice kladně ocenila, že ještě je někdo, kdo se s takovým zapálením věnuje dětem ve svém volném čase, kde je pojem nuda rozhodně cizí, takové děti by určitě byla radost učit. 
 
 Dokázali prodat 846 kytiček a vybrat 17 061 Kč, 30 % z této částky pomůže onkologickému klubu Diana Brno financovat provoz, přispívat pacientům na léčebné pobyty a ulehčit tak mnohým jejich nelehkou životní situaci. Patří jim za to veliké poděkování a obdiv.
-
