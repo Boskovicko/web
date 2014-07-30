@@ -1,0 +1,21 @@
+---
+title: V Olešnici roste objekt chráněného bydlení
+authors: Petra Bílá
+category: zpravodajství
+tags:
+- Olešnice
+- sociální služby
+- 29-2014 
+---
+
+Dům chráněného bydlení v Olešnici začíná mít reálné obrysy. Stavební práce jedou podle plánu, v těchto dnech je hotová hrubá stavba. „Můžeme počítat s tím, že asi v říjnu bude stavba dokončena. Tři měsíce necháme na zkušební provoz a od ledna se můžou do objektu nastěhovat klienti,“ sdělil starosta Olešnice Zdeněk Peša s tím, že na Městském úřadě v Olešnici již sbírají žádosti o umístění v tomto zařízení.
+
+„Postavili jsme si pyramidu sociálních služeb na území města. Základnu tvoří terénní pečovatelská služba, střed jsou služby v domě s pečovatelskou službou a vrcholem je dům chráněného bydlení. Jde nám o to, aby občané našeho regionu, kteří se již nedokážou o sebe sami postarat, ale jejichž stav nevyžaduje hospitalizaci v léčebně dlouhodobě nemocných nebo služby domova důchodů, nemuseli odejít z místa, ke kterému mají vztah, kde celý život žili a pracovali. Už dnes je zřejmé, že z domu s pečovatelskou službou, který nemá parametry chráněného bydlení, se nám hlásí někteří zájemci,“ vysvětlil Peša.
+
+Nově budovaný objekt bude podle slov starosty uzpůsobený hendikepovaným lidem. Každý z osmi bytů má sociální zázemí. Budova i vybavení jsou upraveny tak, aby se tam postižený člověk mohl bez omezení pohybovat. Olešničtí již mají naplněnu asi polovinu kapacity. Ve vytipovávání klientů spolupracují i s charitou, ale konečné rozhodnutí záleží na daných lidech, jak se svobodně rozhodnou. „Kapacita je osm lidí, protože v každém bytečku bude bydlet jeden klient. Ale v případě, že například manželé nebo partneři o to požádají, mohou bydlet spolu. Ve výběru pro umístění mají přednost občané Olešnice a blízkého okolí. V případě, že nebude dostatečný zájem lidí z Olešnice a mikroregionu Olešnicko, ve spolupráci s charitou nabídneme místo lidem z širšího okolí,“ objasnil Peša.
+
+Součástí chráněného bydlení bude i zázemí pro pečovatelky. Na základě výsledku výběrového řízení budou službu poskytovat pracovníci Oblastní charity Blansko. Tato organizace již v Olešnici zajišťuje služby v tamním domě s pečovatelskou službou, v regionu poskytuje i terénní pečovatelské služby. Anna Kalová, vedoucí charitní pečovatelské služby Blansko, definovala termín chráněné bydlení podle zákona o sociálních službách. „Chráněné bydlení je samostatná sociální pobytová služba, kde občan uzavírá s poskytovatelem, v tomto případě s charitou, individuální smlouvu o poskytování služby. Je důležité, aby při jednání se zájemcem o službu byly dobře vydefinovány potřeby zájemců a veřejný závazek služby v souladu se zákonem o sociálních službách,“ upřesnila Kalová.
+
+Pečovatelky se budou starat o jednotlivé klienty a zajišťovat jim služby, které si na základě vlastních potřeb objednají. Pomohou jim s poskytnutím nebo zajištěním stravy, při zajištění chodu domácnosti nebo třeba při osobní hygieně. Součástí balíčku poskytovaných služeb budou i aktivizační a sociálně terapeutické činnosti. „Provozní doba bude od sedmi do devatenácti hodin a bude přizpůsobena aktuálním potřebám obyvatel nepřetržitě,“ uvedla Anna Kalová s tím, že Oblastní charita Blansko má k zajištění služby dostatečné množství kvalifikovaného personálu a tudíž nebude zatím jiný personál hledat. Za ubytování včetně energií a provozních nákladů zaplatí klienti čtyři a půl tisíce korun měsíčně. Řada klientů bude příjemcem příspěvku zdravotního charakteru, takže by neměli mít problém s úhradou objednaných služeb. Za poskytnutou péči se bude účtovat sto korun za hodinu, podle skutečně spotřebovaného času nezbytného k zajištění úkonů. Zajištění celodenní stravy činí sto padesát korun.
+
+Stavba chráněného bydlení měla původně stát více než dvaadvacet milionů korun. Ve výběrovém řízení ale Olešničtí cenu výrazně snížili. Celkové náklady by se měly zastavit na čtrnácti milionech korun, vedení Olešnice se zavázalo uhradit patnáct procent z této částky. Nadále se bude podílet i na úhradě provozních nákladů. „Bude to obdobné jako v domě s pečovatelskou službou, tam jsou provozní náklady minimální,“ uzavřel Peša.

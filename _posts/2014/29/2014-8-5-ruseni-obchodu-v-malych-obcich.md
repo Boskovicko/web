@@ -1,0 +1,14 @@
+---
+title: V Drválovicích a Vranové hrozí zrušení obchodu 
+authors: Marek Osouch
+category: zpravodajství
+tags: Drválovice Vranová 29-2014
+---
+
+Jediný obchod v Drválovicích a Vranové plánuje zrušit spotřební družstvo Jednota, pod které obchody patří. Důvodem je jejich ztrátovost bez možného zlepšení v budoucnu. Starostové obou obcí tomu chtějí zabránit. „V malých vesnických prodejnách klesá obrat, lidé jezdí do měst do supermarketů. Prodejny se tak dostávají do ztráty. Tu u prodejen v Drválovicích a Vranové vykazujeme již několik let,“ objasnil důvody rušení prodejen předseda představenstva spotřebního družstva František Lžičař. „Není tam perspektiva, že by se situace zlepšila,“ dodal. Ztráta se u každé prodejny pohybuje kolem šedesáti tisíc korun ročně.
+
+S rušením prodejen nesouhlasí v obou dotčených obcích. „Já si obec nedokážu bez obchodu představit. Pokud tady nebude, tak to bude velká ztráta,“ uvedl místostarosta Vranové Jiří Lepka. Negativně to vnímá také starosta Vanovic Petr Dvořáček, pod které Drválovice spadají. Oba shodně říkají, že to bude těžké zvlášť pro starší občany, kteří si nemohou zajet nakoupit do města. „Budeme se snažit hledat řešení za zachováním obchodu třeba i pod soukromníkem,“ prozradil Dvořáček s tím, že chce během čtrnácti dnů svolat zastupitelstvo a otázku obchodu v Drválovicích řešit. Z obou vesnic zní jednoznačně, že chtějí obchod zachovat.
+
+Jednota obcím navrhuje řešení, za jakých podmínek by se mohly obchody zachovat. Obce by musely provoz těchto zařízení dotovat ze svého rozpočtu. Místostarosta Vranové možnost dotování nechtěl komentovat. Obchod v obci však chtějí zachovat za každou cenu. Vanovický starosta řešení dotacemi nepovažuje za ideální. „Přijde mi divné, abychom to dotovali my jako obec,“ uvedl. Naopak spíš poukazuje na ztrátu, která podle něj není nijak vysoká. Ziskové prodejny by mohly podle něj právě tyto ztrátové dotovat. S tím však Lžičař nesouhlasí. „My se na to díváme v dlouhodobé perspektivě. Pokud je trend stále sestupný, bez možnosti zlepšení, tak nezbývá než prodejnu uzavřít. Žádný podnik nemůže mít dlouhodobě ztrátovou prodejnu,“ sdělil Lžičař. Ve ztrátě jsou podle jeho slov i jiné prodejny na okrese, nicméně zde zatím nedokážou posoudit vývoj.
+
+Řešení nevidí ani v omezení sortimentu zboží, kdy by zůstaly v obchodě jen základní potraviny, u kterých mají jistotu, že je prodají. „Tudy cesta nevede. Lidé by si stěžovali, že tam není téměř žádné zboží a na pokrytí nákladů na provoz by prodejna stejně nevydělala,“ poznamenal Lžičař. Právě pro základní potraviny, jako je pečivo, mléko či máslo si podle vanovického starosty chodí lidé do obchodu nejčastěji.
