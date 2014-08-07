@@ -8,5 +8,10 @@
         "name": "Téma: Hala",
         "text": "Přečtěte si → Sportovní hala Slovákova",
         "url": "/temata/sportovni-hala/"
+    },
+    {
+        "name": "Téma: Volby",
+        "text": "Přečtěte si → Komunální volby 2014",
+        "url": "/temata/komunalni-volby/"
     }
 ]
