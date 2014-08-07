@@ -1,5 +1,5 @@
 ---
-title: Etymologické zastavení: O jménu Boskovice
+title: "Etymologické zastavení: O jménu Boskovice"
 authors: Vít Boček
 category: publicistika
 tags: Boskovice 30-2014 
