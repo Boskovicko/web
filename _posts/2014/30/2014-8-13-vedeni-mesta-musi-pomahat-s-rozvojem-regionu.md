@@ -20,7 +20,9 @@ Kde vidíte hlavní problémy, které by měla nová boskovická radnice řešit
 Město zaujímá k položené otázce v podstatě dvě pozice. První je pozice organizátora a propagátora regionu. Pro ni mám hned několik doporučení: užší spolupráce s Hospodářskou komorou, představení a prezentace mikroregionu z hlediska pracovních sil na úrovni kraje a státu, větší spolupráce se zaměstnavateli regionu – navštěvovat je a zjišťovat, kde mohou být nápomocni, informovat společnosti o možnostech jejich prezentace v různých materiálech města nebo pořádaných akcích, zahrnout společnosti také do informačního centra nebo na web, kde bude přehled regionálních firem s jejich prezentací, či možnost využití městských nemovitostí pro začínající podnikatele. 
 
 Druhou pozicí je město jako zákazník. Zde by měla být průhlednější výběrová řízení, měly by se podporovat regionálních firmy, čímž se podporuje i zaměstnanost. V poslední době zde vidím více „cizích“  firem a regionální firmy krachují.
-Igor Láník, výkonný ředitel společnosti LANIK
+
+### Igor Láník, výkonný ředitel společnosti LANIK
+
 Pro oblast výroby by se nová radnice měla zaměřit na další rozvoj průmyslových zón ve městě. Aktuální kapacita je takřka vyčerpaná, pozemky se pomalu zaplňují a připravují se stavby, které na nich vyrostou. V horizontu několika let tedy dojde k tomu, že bude zapotřebí další prostor. To řeší současný územní plán, takže nová radnice na něj bude muset navázat, začít plánovat a budovat infrastrukturu.
 
 V oblasti služeb a podnikání si myslím, že aktuálně jsou na tom Boskovice dobře a že zde funguje tržní prostředí. Obchůdky a malé provozovny vznikají a vyplňují prostor po těch předešlých. Obchodníci upravují svůj sortiment dle aktuální poptávky. Radnice by těmto změnám měla poskytnout plnou podporu, bude se muset postarat, aby se z náměstí nestala mrtvá zóna, což znamená hlavně jasně definovat další představy o osudu náměstí.
