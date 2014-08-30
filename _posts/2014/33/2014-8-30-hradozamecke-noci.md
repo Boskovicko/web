@@ -1,0 +1,27 @@
+---
+title: Památky připravily Hradozámecké noci
+authors: Tomáš Trumpeš
+category: kultura
+tags: Boskovicko památky 33-2014 
+---
+
+Zámky v Kunštátě, v Lysicích i v Rájci-Jestřebí se připojily k akci nazvané Hradozámecká noc a připravily pro své návštěvníky na poslední prázdninovou sobotu speciální program. Nejrozsáhlejší podobu má letos Hradozámecká noc v Kunštátě, kam se letos soustředí pozornost díky probíhajícímu Roku pánů z Kunštátu.
+
+Program začne na kunštátském zámku v sobotu 30. srpna již ve 14 hodin, kdy se koná Hradozámecké matiné aneb zahájení Hradozámecké noci na zámeckém nádvoří. Představen bude celý program, který připravila ve spolupráci se správou zámku divadelní a šermířská společnost Gonfanon. Ta sehraje od 14.30 šermířskou pohádku nejen pro děti nazvanou O zakleté truhle aneb Borisova volba. Následovat bude od 15 hodin šermířská škola pro malé i velké. „V různých dobách se bojovalo různými zbraněmi a různými způsoby, jak konkrétně se dozvíte humornou formou v podání šermířské skupiny Gard,“ popsali pořad organizátoři z Gonfanonu. 
+
+Koncert v Pilastrovém sále naváže v 15.30, představí se na něm zpěvačka Pavla Fendrichová a loutnista Jindřich Macek. Ti společně představí milostné písně anglické renesance.
+V 16 hodin zahájí své představení na nádvoří zámku královský popravčí mistr Matěj, který uvede krátký příběh ze středověku o tom, jak zlý lapka všem škodil, jak byl dopaden a co všechno ho za trest v mučírně čekalo. „Vystoupení představuje vtipnou a zábavnou, zároveň i poučnou formou středověké mučící nástroje a způsoby tortury v této době. Tortura byla ve středověku a raném novověku běžnou součástí vyšetřování u světských a církevních soudů, kdy byla považována za legitimní způsob, jak dosáhnout přiznání obviněného,“ popsal Viktor Paulík z Gonfanonu. Po vystoupení mistra popravčího se koná v 16.30 pořad Přemyslovci: Železní páni, poté se návštěvníci přesunou do zámecké zahrady, kde je čeká od 17 hodin další koncert Pavly Fendrichové a Jindřicha Macka. Tentokrát zazní Moravská lidová poezie v písních Leoše Janáčka.
+
+Dvě komorní literární pásma si pro Hradozámeckou noc připravili členové boskovického amatérského divadla NABOSO. Pásma představí texty mnohostranné osobnosti renesančního básníka Hynka z Kunštátu a Poděbrad. Herec Jan Bařinka a kytarista Lukáš Koudelka uvedou nejprve od 17.30 v Pilastrovém sále překlady z Boccacciovských rozprávek. Doprovodí je kytarové improvizace inspirované renesančními melodiemi. „Hynek z Kunštátu a Poděbrad byl třetím synem krále Jiřího z Poděbrad, jeho matkou byla králova druhá manželka Johana z Rožmitálu. Měl základy humanistické vzdělanosti již z pražského dětství, protože jeho otec dbal na vzdělávání svých synů. Pokud nebyli přímo žáky pražské univerzity, měli domácí učitele blízké jejímu okruhu. Byl autorem, který vnesl do literatury prvky renesance. Přeložil 11 novel z Dekameronu a přidal k nim jednu novelu vlastní. Hynkovy překlady vydal Antonín Grund, spolu s Hynkovým pokusem o původní českou novelu, pod názvem Boccacciovské rozprávky. Psal především zábavnou prózu, pro své překlady si vybral vesměs témata erotická. V jeho tvorbě se prolínají středověké a renesanční prvky. Důležité je, že tradiční středověké prvky užil ve skladbách jiného zaměření. Novum nalézáme v užití bezrozměrného verše. Nemalý význam má také to, že Hynek psal česky, přičemž jazykem humanistů byla latina,“ představila pozoruhodnou osobnost Hana Paulíková.
+
+Slavnostní zahájení Hradozámecké noci s příjezdem krále Jiřího z Kunštátu a Poděbrad s družinou proběhne na zámeckém nádvoří v 18 hodin. 
+
+Divadelní a šermířská společnost Gonfanon sehraje v 19 hodin znovu pohádku O zakleté truhle aneb Borisova volba, poté zahrají od 19.30 v Pilastrovém sále loutnista Jindřich Macek s akordeonistkou Jitkou Baštovou koncert nazvaný La Brise de France. Ve 20 hodin se znovu představí popravčí Mistr Matěj a od 20.30 nechají členové divadla NABOSO znovu zaznít dílo Hynka z Kunštátu a Poděbrad, tentokrát z jeho vlastního lyrického textu Májový sen.
+
+Od 21 hodin se koná další koncert, tentokrát v zámecké kapli, kde loutnista Jindřich Macek přednese koncert Giovanni Zamboni: Barokní loutnová hudba. Poté navážou Rytíři a Lapkové z Vítku se svou Fakírskou show, dále Přemyslovci: Železní páni a ve 23 hodin akci uzavře Slavnostní zakončení Hradozámecké noci a Velká ohňová show a ohňostroj.
+
+„Po celou dobu Hradozámecké noci budou mít návštěvníci možnost absolvovat volné prohlídky II. trasy V erbu tří pruhů – páni z Kunštátu a jejich hrad; v rámci prohlídek v 19.30, 20.30 a 21 hodin bude připraveno šermířské vystoupení. Dále bude fungovat historická střelnice a hry pro děti, katovská dílna Mistra Matěje s výkladem, vojenské ležení a občerstvení v zámecké zahradě,“ doplnili informace pořadatelé.
+
+Na zámku v Lysicích se Hradozámecká noc koná rovněž v sobotu 30. srpna a nese podtitul Hradem, zámkem s kastelánem. Netradiční prohlídky zámku začínají ve 20 a 22 hodin. Připravena je rovněž netradiční prohlídka s vedoucím zahradníkem Večerním parkem a oranžerií, ta začíná ve 21 hodin. Lysičtí pořadatelé doporučují rezervaci na telefonu 516 472 235.
+
+Rájecký zámek se připojí taktéž v sobotu 30. srpna, zdejší Hradozámecká noc zahrnuje noční prohlídky s výkladem. „Pojďte se s námi podívat do 1. patra zámku v netradiční podobě s baterkami. Možná potkáme i bílou paní,“ zvou zámečtí z Rájce. Prohlídky startují ve 20.00, 20.30, 21.00 a 20.30, pořadatelé rovněž doporučují rezervaci na telefonu 216 432 013.

@@ -1,0 +1,21 @@
+---
+title: "Ministerstvo vzkázalo Němčickým: nádrž je vaše"
+authors: Žaneta Ondroušková
+category: zpravodajství
+tags: Němčice 33-2014 
+---
+
+Dlouholeté spory o vlastnictví vodní nádrže v Němčicích končí. Ministerstvo financí k poslednímu červenci schválilo dohodu mezi obcí a Ministerstvem zemědělství, která Němčické uznává jako vlastníky vodního díla. Vyřešil se tak právní problém, jenž vedení obce zaměstnával od roku 2008.
+
+Tehdy se nedávno zaniklá Zemědělská vodohospodářská správa přihlásila k vlastnictví nádrže, nacházející se asi půl kilometru východně od vsi Němčice. A poslala obci požadavek na odprodej pozemku pod nádrží. „Byl to pro zastupitele signál k tomu, že vlastnictví vodní nádrže není jednoznačné a je třeba jednat. Z pohledu obce do této doby nebylo o vlastnictví pochyb, nádrž byla účetně vedena jako majetek obce,“ vysvětlil němčický starosta Pavel Sadecký. Podklady, které Zemědělská vodohospodářská správa předložila jako důkaz, že nádrž vlastní stát, byly podle starosty v mnoha údajích mylné. „Svědčily o tom, že státem je evidován dávno zaniklý rybník v místě, které je v současné době na katastrální mapě označeno ‚U rybníka‘. Nachází se vlevo od komunikace ve směru na Žďár,“ uvedl Sadecký.
+
+V počáteční fázi sporu se zastupitelé snažili dokázat, že majetková evidence státu je v tomto případě chybná. „Po mnoha jednáních a písemnostech, které nevedly k řešení, se obec rozhodla podat soudní žalobu o určení vlastnictví. Uskutečnila se dvě předběžná soudní jednání, na která se žádný zástupce Zemědělské vodohospodářské správy nedostavil,“ objasnil Sadecký. Po zrušení státního podniku se účastníkem soudního řízení stalo Ministerstvo zemědělství. „Z přípravného jednání u blanenského okresního soudu vyplynulo, že obec Němčice se stala na základě zákona o historickém majetku obcí držitelem vodní nádrže v dobré víře a posléze, uplynutím deseti let, i jejím vlastníkem,“ uvedl ředitel odboru komunikace Ministerstva zemědělství Hynek Jordán. 
+Soudkyně navrhla mimosoudní řešení formou dohody o narovnání vlastnických práv ve prospěch Němčických. „Z dnešního pohledu šlo o správné a prozíravé rozhodnutí, které se však realizovalo díky výměně vlád a ministrů asi tři roky,“ dodal starosta Sadecký.
+
+Podle zákona o majetku státu takovou dohodu muselo schválit i Ministerstvo financí. A to se stalo až teď. „Po prověření obsahu dohody a v návaznosti na předchozí jednání byla schválena posledního července tohoto roku,“ upřesnil Michal Žurovec z Ministerstva financí. Podle dohody vezme nyní obec žalobu zpět a soudní spor skončí.
+
+Pro Němčické to znamená, že budou moci nádrž znova využívat a bez omezení spravovat jako v minulosti. Obyvatelé to poznají především na tom, že se bude nádrž opět hemžit rybami. „Již v počátku sporu Zemědělská vodohospodářská správa nařídila odrybnění nádrže s tím, že svými prostředky zajistí její další správu. Neznamenalo to žádná omezení až na to, že od roku 2009 nesměl být v nádrži prováděn chov ryb,“ řekl Sadecký s tím, že v budoucnu Němčičtí plánují nádrž opět zarybnit.
+
+Doteď ji využívali především hasiči a občasní rekreanti. Pryč jsou ale doby, kdy byly břehy němčického přírodního koupaliště, jak tamní obyvatelé nádrž nazývají, zaplněné lidmi. Koupat se tu však můžou i nadále. „Vodní nádrž není provozována jako koupaliště, proto není ověřována kvalita vody. Ale nikdo v tomto směru není omezován, koupání je zde na vlastní nebezpečí,“ doplnil starosta.
+
+Nádrž vznikala v letech 1975 až 1977. „Zčásti to bylo dodavatelsky, a zároveň v tehdejším systému ‚akce Z‘, to znamená za vydatné brigádnické pomoci místních občanů. V té době vlastně veškeré movité i nemovité věci veřejného zájmu patřily státu. Nicméně již v roce 1976 tehdejší Oblastní meliorační správa, předchůdce pozdější Zemědělské vodohospodářské správy, která zastupovala stát v majetkových záležitostech ve vztahu k vodním dílům, písemně doporučila převést nádrž do správy Němčic. A ty to přijaly. Potom v roce 2004 Zemědělská vodohospodářská správa obci oznámila, že zpracovává jako vlastník vodní nádrže provozní řád. Tehdejší zastupitelstvo na tento signál nezareagovalo a tím přispělo k pozdějším rozporům ve vztahu k určení vlastnictví,“ shrnul starší historii Sadecký.
