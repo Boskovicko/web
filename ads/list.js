@@ -1,8 +1,8 @@
 [
     {
         "name": "Volby trailer",
-        "image": "/ads/trailer.png",
-        "text": "Podívejte se na trailer k volebním rozhovorům",
-        "url": "https://vimeo.com/105990612"
+        "image": "/ads/rozhovory.png",
+        "text": "Natočili jsme pro vás rozhovory s lídry kandidátek do komunálních voleb",
+        "url": "http://video.boskovicko.cz"
     }
 ]

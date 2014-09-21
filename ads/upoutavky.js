@@ -11,7 +11,7 @@
     },
     {
         "name": "Téma: Volby",
-        "text": "Přečtěte si → Komunální volby 2014",
-        "url": "/temata/komunalni-volby/"
+        "text": "Komunální volby 2014: Podívejte se na videorozhovory s lídry kandidátek",
+        "url": "http://video.boskovicko.cz"
     }
 ]
