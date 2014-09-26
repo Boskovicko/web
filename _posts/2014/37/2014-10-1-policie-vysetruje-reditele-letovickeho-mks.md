@@ -1,0 +1,20 @@
+---
+title: Policie prošetřuje investice ředitele letovického MKS
+authors: Andrea Šrámková
+category: zpravodajství
+tags: Letovice 37-2014 
+---
+
+Necelé dva roky působí ve funkci ředitele letovického kulturního střediska Jiří Palán. Některé finanční transakce, uskutečněné zde za jeho vedení, se však nezdály městské radě. Ta proto začátkem léta požádala blanenské oddělení hospodářské kriminality, aby došlo k jejich prošetření.
+
+Nejasnosti se vážou především k nákupu dvaceti historických uniforem pro kapelu CK Letovice, k němuž však došlo bez souhlasu městské rady. Ta má investice přesahující stotisícovou částku nejprve schválit. „Uniformy pro CK hudbu byly zakoupeny v loňském roce a generují MKS Letovice prostřednictvím CK hudby zisk,“ uvedl na svou obhajobu Jiří Palán s tím, že současně reprezentují město Letovice po celé České republice i v dalších zemích Evropy. „Původní investice byla 138 tisíc korun a čistý zisk z CK hudby za první tři měsíce působení byl 35 tisíc. Ještě nejsme na konci roku a mám v plánu provozovat CK hudbu minimálně ještě několik dalších roků. Za tuto dobu zisk z uniforem bude rozhodně výrazně vyšší než prvotní investice,“ pokračoval. Jako reakci na článek publikovaný minulý týden v Blanenském deníku, v němž bývalý letovický radní Antonín Žilka uvádí informace o prodeji těchto uniforem muzikantům za šest tisíc, Palán doplnil, že uniformy zůstávají ve vlastnictví MKS Letovice, čili Města Letovice. „Rozhodně jsem je nikomu neprodával. Vždy na každou akci je u evidenčních listů příloha, kdo v jaké uniformě hraje,“ prohlásil.
+
+Jenže otazníky vzbuzuje právě i propůjčování uniforem muzikantům. Ne všechny podpisy na evidenčních listech byly v pořádku. „Musím bohužel potvrdit, že můj podpis byl zfalšovaný,“ sdělil hudebník z Jevíčka, který si nepřeje být jmenován. „V minulosti – asi před šesti lety – jsem měl obdobnou uniformu zapůjčenou ještě od jiné společnosti. Nové uniformy pro CK Letovice se začaly řešit v loňském roce, kdy jsem byl osloven, jestli bych si ji nepůjčil jako případný zástupce, když někdo z kapely vypadne. Já ale tuto spolupráci odmítl,“ popsal dále. Falšování podpisů však Palán odmítá.
+
+Nespokojenost někteří letovičtí radní dále vyjádřili například se způsobem přijímání sponzorských darů nebo se zakoupením ozvučovací aparatury, přestože letovické kulturní zařízení před dvěma lety jednu zakoupilo. „Ozvučovací aparatura skutečně v MKS už zakoupena byla, ta je však vhodná zejména do malých prostor, ne na ozvučení celé kapely. Tento systém však může velice dobře sloužit také jako monitor neboli odposlech, který je drtivou většinou hudebníků vyžadován. Druhá aparatura zakoupená v minulém roce za 38 tisíc slouží právě k ozvučení koncertů, a to zejména jazzu a dechovky. Společně pak tvoří kompaktní celek, který je na akcích MKS Letovice využíván,“ odůvodnil své rozhodnutí Palán a doplnil, že zakoupení hudební aparatury bylo naprosto v kompetenci ředitele MKS, jelikož šlo o nákup do 40 tisíc korun.
+
+Uvedená fakta vzbudila u vedení města pochybnosti. „Městská rada není spokojená s fungováním pana ředitele. Je domněnka – a proto odstoupil pan Žilka jako radní – že probíhají různé finanční transakce ve vedení Městského kulturního střediska. Rada rozhodla, že se kauza předá policii. Nebudu však ovlivňovat svědky, proto se k případu do jeho vyšetření nebudu blíž vyjadřovat,“ uvedl starosta Letovic Vladimír Stejskal. V průběhu vyšetřování není sdílná ani policie. „Prověřujeme podezření z trestného činu porušení povinností při správě cizího majetku z okruhu letovického kulturního domu, ale nikoho jsme zatím neobvinili. Pokud není žádné obvinění, nemůžeme se vyjadřovat ke konkrétním osobám,“ konstatovala tisková mluvčí policie Alice Musilová.
+
+Případ je navíc komplikován vztahem Jiřího Palána s Antonínem Žilkou, který do června působil jednak jako údržbář letovického kulturního zařízení a zároveň jako letovický radní. Z pracovního vztahu však pro nadbytečnost byl uvolněn, funkce radního se pak sám vzdal na výraz protestu, když rada neřešila postupy ředitele kulturního střediska.
+
+Všechny strany nyní očekávají, s jakými závěry přijde policie.
