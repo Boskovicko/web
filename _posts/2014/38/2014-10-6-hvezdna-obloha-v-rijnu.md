@@ -1,0 +1,21 @@
+---
+title: Podzimní hvězdná obloha v říjnu
+authors: Jaroslav Chloupek
+category: publicistika
+tags: astronomie 38-2014 
+---
+
+Plynutím času jsme se dostali do měsíce října, který je celý umístěn do letošního podzimu. V přírodě už to dobře pozorujeme, pociťují to zahrádkáři i myslivci a všichni, kdo si vyjdou do lesa i do otevřené krajiny. Pozvedneme-li hlavu vzhůru, i obloha nám nabídne působení podzimu, a to jak ve dne, tak i večer či v noci. Ve dne nám to dosvědčí poloha Slunce, teď už pod světovým rovníkem, večer pak nabídka podzimních souhvězdí. 
+
+Když si vybereme za jasného počasí večerní nebo noční pozorování hvězdné oblohy, nebudeme zklamáni. Při pohledu k jihu obdivujeme souhvězdí Vodnáře, Velryby, Ryb, Pegasa a Andromedy, při pohledu k severu nás vítá souhvězdí Kasiopeji, Cefea, Draka, Malé i Velké Medvědice. Zvlášť poslední uvedené souhvězdí je velmi nízko nad severním obzorem. Směrem k západu jsme se ještě nezbavili pohledu na Letní trojúhelník, který je večer v říjnu stále dobře vidět. 
+
+Bylo by možné si vybrat kterékoliv z uvedených souhvězdí, avšak snad každého astronoma zaujmou dvě typická podzimní souhvězdí: Pegasus a Andromeda. Jsou výrazná viditelností a svými jednoduchými tvary. Jsou vzájemně úzce propojena společnou hvězdou. Pegas je rozlehlé souhvězdí, ležící v oblasti poměrně chudé na hvězdy a mimo Mléčnou dráhu. Ke snadnému nalezení tohoto souhvězdí nám poslouží velký Pegasův čtverec. V jeho vrcholech najdeme hvězdy Markab, Scheat, Algenib a Sirrah (obr.). Tato poslední hvězda patří oběma souhvězdím Pegasa a Andromedy. Nejjasnější hvězdou souhvězdí je Scheat s jasností 2,5 mag a vzdáleností 199 ly. Je to červený obr, který má průměr 110krát větší, než je průměr Slunce. Nepravidelně mění svou jasnost. I další hvězdy souhvězdí mají zajímavé vlastnosti. Nejvzdálenější hvězdou je Algenib se vzdáleností 333 ly a jasností 2,8 mag. Nápadné seskupení čtyř hvězd v souhvězdí Pegasa se nazývá asterismus.
+
+Souhvězdí Pegasa je spojeno se zajímavou bájí, která vypráví o stvoření Pegasa. Název česky znamená okřídlený kůň. Tohoto okřídleného koně stvořil bůh vod Poseidon z kapek krve, která kapala do moře z useknuté hlavy Medúzy. Bůh Poseidon později věnoval Pegasa hrdinnému Bellerofontovi, který s ním vykonal hrdinské činy. Bellerofont však zpychl a chtěl na Pegasovi vystoupit mezi bohy na Olymp. Nejvyšší bůh Zeus se rozzlobil a poslal na Pegasa ovády. Pegas se jejich poštípáním splašil a jezdce shodil. Pro pyšného Bellerofonta zde doslava platí známé rčení, že pýcha předchází pád. Pegas se později dostal na oblohu jako souhvězdí. Název bájného koně pochází od starověkých mořeplavců Féničanů. Na obloze je Pegas položen hlavou dolů.
+Podzimní Slunce už nám přeje méně svých teplých paprsků. 1. 10. vychází v 7:00 h a zapadá v 18:39 h SELČ, 31. 10. vychází v 6:48 h a zapadá v 16:39 h SEČ. Nezapomeňme, že dne 26. října se vracíme na středoevropský čas (SEČ - o hodinu zpět). Slunce vstupuje do znamení Štíra 23. 10. v 1:56 h SELČ. Během října se den zkrátí o 1 h 45 min a sluneční azimut klesne z 86º na 69º (o 17º).
+
+V říjnu zaznamenáme pět měsíčních fází: 1. 10. první čtvrt, 8. 10. úplněk, v tento den nastane úplné zatmění Měsíce, od nás však nepozorovatelné, dále následuje 15. 10. poslední čtvrt, 23. 10. nov a 31. 10. první čtvrt. Při fázi, kdy je Měsíc v novu, nastane částečné zatmění Slunce, které však také neuvidíme. Nejblíže Zemi bude Měsíc 6. 10. (362 494 km) a nejdále od Země 18. 10. (404 860 km).
+
+Merkur bude koncem října ráno nad východním obzorem. Venuši neuvidíme. Mars ve Štíru je večer nad jihozápadem. V druhé polovině noci bude zářit Jupiter v Raku. Počátkem října večer nad jihozápadem se dá vidět Saturn ve Vahách. Uran v Rybách a Neptun ve Vodnáři lze pozorovat téměř po celou noc.
+
+Z úkazů uvedeme konjunkce Měsíce, Jupiteru a Saturnu, a to 18. 10. v 1:00 h SELČ s Jupiterem a 25. 10. v 19:00 SELČ se Saturnem. Zde nastane dokonce zákryt Saturnu Měsícem těsně nad západním obzorem. 21. 10. zaznamenáme maximum meteorického roje Orionid.
