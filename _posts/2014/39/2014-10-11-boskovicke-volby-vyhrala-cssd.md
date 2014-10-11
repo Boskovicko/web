@@ -18,4 +18,4 @@ Rozložení mandátů znamená, že stávající koalice ODS, TOP 09, Sportovc�
 
 <img class="img-responsive" src="http://i.imgur.com/s9qKRt3.png" alt="rozdělení mandátů, historický vývoj">
 
-S výsledky výrazně zamíchaly preferenční hlasy: mandáty vůbec nezískali lídři ANO Luděk Řehoř a ODS František Sivera. V ČSSD se pak na první místo díky preferenčním hlasům vyšvihl Petr Malach a u Sportovců přeskočil lídra Radka Mazáče pan Jiří Pevný, původně nominovaný na třetí místo.
+S výsledky výrazně zamíchaly preferenční hlasy: mandáty vůbec nezískali lídři ANO Luděk Řehoř a ODS František Sivera. V ČSSD se pak na první místo díky preferenčním hlasům vyšvihl Petr Malach a u Sportovců přeskočil lídra Radka Mazáče Jiří Pevný, původně nominovaný na třetí místo.
