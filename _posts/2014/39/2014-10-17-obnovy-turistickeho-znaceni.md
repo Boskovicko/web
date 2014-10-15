@@ -1,5 +1,5 @@
 ---
-title: Značení turistických stezek: každý rok se obnoví třetina tras
+title: "Značení turistických stezek: každý rok se obnoví třetina tras"
 authors: Anna Dudková
 category: publicistika
 tags:
