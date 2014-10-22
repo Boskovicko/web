@@ -1,5 +1,5 @@
 ---
-title: Úroda brambor by letos nebyla špatná, zemědělci si však stěžují na velké ztráty 
+title: Úroda brambor by letos nebyla špatná, zemědělci si však stěžují na velké ztráty
 authors: M. Krajíčková
 category: zpravodajství
 tags: Boskovice 40-2014 
