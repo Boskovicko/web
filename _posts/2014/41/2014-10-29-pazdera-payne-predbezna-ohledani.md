@@ -1,0 +1,24 @@
+---
+title: Petr Pazdera Payne vydal vynikající povídkovou knihu Předběžná ohledání
+authors: Tomáš Trumpeš
+category: kultura
+tags: Boskovicko recenze 41-2014 
+---
+
+Vynikající povídkovou knihu nazvanou Předběžná ohledání vydal spisovatel Petr Pazdera Payne. Soubor vyšel v nakladatelství Cherm a shrnuje celkem 22 textů, které nejenže představují skutečný vrchol stále se tematicky prohlubujícího a formálně sevřenějšího Paynova díla, ale především patří bez nadsázky k tomu nejlepšímu, co v české literatuře v poslední době vzniklo.
+
+Petr Pazdera Payne přitom nepatří do hlavního literárního proudu, není věnčen cenami ani obléhán redaktory rubrik pohříchu často spíše společenských než kulturních. Možná právě toto „bytí mimo“ však umožnilo jeho textům vyzrát v literární útvary, které jsou skutečnými tvary, nikoliv produkty, nepodléhají trendům, a právě proto mohou být nejen nadčasové, ale zároveň nahlédnout současnost z nečekaných a tudíž podstatných úhlů.
+
+Leitmotivem celé knihy vtěleným i do jejího názvu je ryze existenciální pohled na úděl člověka prizmatem soudního řízení. Téma soudu se vrací v neustálých a nejrozličnějších proměnách. Pokud se o Dostojevského Bratrech Karamazových s nadsázkou říká, že je to intelektuální detektivka, v níž je vrahem ateismus, pak Paynova kniha je sbírkou soudniček, v níž obžalovaným je člověk a trestněprávní mašinérií tento svět. Zločin zůstává podobně jako v Kafkově Procesu nezřejmý. Možná má co dělat s bezduchostí, pokud i ta není spíše součásti trestu. A ani duchovnost zbavená myšlenkové poctivosti v popisovaném soudním líčení neobstojí.
+
+K mimořádné kvalitě Paynových textů přispívá autorova neobyčejná vzdělanost, nesamoúčelná jazyková hravost, místy až surrealistická obrazivost a zejména právě neokázalá, střídmá, avšak na skutečnou dřeň jdoucí duchovnost. Vzděláním a několikaletou praxí je Petr Pazdera Payne ostatně evangelickým farářem, byť dnes už se profesi věnuje jen jako příležitostný kazatel. Bývá proto řazen do proudu evangelické literatury k Janu Balabánovi, s nímž ho mnohé skutečně spojuje. Ale naprostá absence patosu, sentimentu a daleko více uzavřený myšlenkový svět zajišťují, že Paynův autorský hlas je zcela svébytný.
+
+Společná je oběma literátům jistá, možná by se dalo říct protestantská přísnost v myšlení. Ta se však v Paynově případě obrací na jedné straně daleko více dovnitř a na straně druhé pozoruje okolní svět s větším odstupem. Pokud Balabán maloval ve svých povídkách výstižné a zaujaté portréty druhých lidí, kterými zabydloval svůj literární svět, Payne spíše vytváří obrazy vnitřního světa autorského a ty konfrontuje s detailním a pozorným zpodobňováním světa vezdejšího. Niterné se tak střetává s vnějším, duševní s fyzickým, posvátné s profánním. Součástí tohoto střetávání je nepominutelná absurdita, s jejímiž umělecky nejvýraznějšími podobami Petr Pazdera Payne souzní. A to přesně v tom podstatném proudu, který absurdity nevymýšlí, nýbrž odhaluje. 
+
+Pozoruhodná je i šíře témat, v každé povídce jinak, ale vždy přesně uchopených. Pokud nazveme povídkový soubor experimentálním, pak experiment zde není snahou o stylovou originalitu, ale právě přirozeným důsledkem pestrosti a bohatství témat, myšlenek, formální invence, řetězivé imaginace. A to vše v literárním výrazu, který je přes všudypřítomné ozvy autorovy erudice na hony vzdálen jakékoliv akademičnosti či uhlazenosti, díky čemuž ani v nejmenším nepostrádá autentičnost a jistou syrovost zcela konkrétních výpovědí živoucích, i když těžko uchopitelných lidských bytostí – postav. Na rozdíl od Balabánových postav však Paynovi hrdinové nevznikají převciťováním autora do jiných bytostí, spisovatel spíše rozepisuje vlastní já do více hlasů, jak popsal svou tvůrčí metodu dramatik Josef Topol.
+
+Je nasnadě, že „sbírka existenciálních soudniček“ Předběžná ohledání není pro čtenáře zrovna snadným soustem. Ale právě schopnost vyvarovat se snahy napsat knihu tak, aby se hlavně dobře četla, je podstatným vkladem, který v důsledku přispívá k tomu, že Petr Pazdera Payne nestojí pouze tak trochu mimo současnou literární scénu, ale její běžnou úroveň převyšuje. Právě v tomto vkladu nepodbízivosti tkví jeho vlastní poctivost, právě proto kniha obstojí i před nejpřísnějším soudem. Neboť nepodbízivost je podmínkou skutečných sdělení a opravdové kvality uměleckého díla. Předběžná ohledání obojí naplňují až po okraj, až do posledního řádku.
+
+### Petr Pazdera Payne
+
+Narodil se v roce 1960 v Praze. Absolvoval Komenského evangelickou bohosloveckou fakultu, tři roky působil jako duchovní. Pracoval též jako sanitář, topič, pečovatel, noční hlídač, vychovatel v Jedličkově ústavu, závozník, odborný asistent v humanitních oborech na ČVUT, koordinátor v Nadaci Člověk v tísni a nakladatel. Žije s rodinou v Olešnici a v Praze. Dosud vydal několik prozaických knih, sbírku kázání, svazek drobných dramatických textů či soubor esejů. 

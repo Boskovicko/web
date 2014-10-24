@@ -1,0 +1,16 @@
+---
+title: Příklady táhnou
+authors: Andrea Šrámková
+category: publicistika
+tags: 41-2014 
+---
+
+Znáte to, jednou vás něco praští do očí a od té doby jakoby to bylo více vidět.  No a zase tam byly tři. Vlastně byla tři. O čem mluvím? Řeč je o počtu aut, která jejich spěchající majitelé zaparkovali do zákazu vjezdu. Můj osobní rekord je jich na tom místě šest, ale je spíše výjimkou, aby tam v odpoledních hodinách alespoň jedno dvě auta neparkovala. Možná by stálo za pokus vyhlásit čtenářskou soutěž, které místo v Boskovicích vás při popisu zmíněné situace napadlo. Nicméně nebudu to protahovat – pokud jste tipovali prostor mezi ZUŠkou a základkou, trefili jste do černého.
+
+Mezi couvajícími a otáčejícími se auty (někteří řídící rodiče jsou takoví tvrďáci, že se ani otáčením nezdržují a ulici projedou) kličkují děti přicházející do umělecké školy. Je nasnadě, že právě pro jejich bezpečí kdysi kdosi rozhodl, že do ulice bude mít povolený vjezd jen dopravní obsluha. Pro všechny ostatní navštívení zóny za takovou značkou spadá do kategorie přestupku „porušení zákazové nebo příkazové značky“ s pokutou na místě až dva tisíce korun, ve správním řízení až dva a půl. Policisté tam čas od času rozdávají pokutové bločky, jenže to by tam asi museli stát nepřetržitě od jedné do půl páté každé odpoledne. Banalita?
+
+Nezdá se mi. Ono vše má totiž několik rovin. Jednou a to nespornou je bezpečnost dětí při pohybu kolem obou škol. Za další lze považovat bezohlednost rodičů k jiným dětem, nerespektování značkami stanovených pravidel nebo délku doby, kterou nejmenší školáci musí ve škole a družině trávit. Jednou jsem neodolala a prostor s pěti parkujícími auty vyfotila. Bylo krátce před půlpátou, když tito řidiči/rodiče vyzvedávali své ratolesti. Ať počítám, jak počítám, vychází mi pro ty šesti a sedmileté děti nejméně devět hodin, které tráví ve škole. Starších žáků se to totiž až tolik netýká – nemusejí čekat v družině, až rodiče skončí v práci, ale jdou sami domů. Koneckonců i nebezpečí provozu na silnici dokážou lépe vyhodnotit a jsou i lépe vidět, než ti cvrčci proplétající se mezi parkujícími auty.
+ 
+Rodiče dávají své děti na „Zelenou“ i proto, že ty mohou bezpečně přejít ze školy do hudebky. Nedivila bych se, kdyby ti samí, kteří u zápisu do 1. třídy právě takto argumentovali, o rok později bezpečí prostoru porušovali. A nebo tu chybí parkoviště? Je potřeba popřemýšlet o koncepci a upravit ji? Možná by stačilo značku posunout a vymezit tak prostor například prvních dvacet metrů a ten nechat na parkování a dát tím řidičům jasně najevo, kam auta smějí a kam ne, dětem pak, kde už je bezpečno. Jenže – jestli by to pomohlo. Možná by to mělo výsledek kontraproduktivní a objevilo by se více smělců, kteří se pustí i přes zákaz na druhý konec ulice. Přece se nebudou zdržovat otáčením, když se nezdržují zaparkováním z druhé strany školy, kde parkoviště je. Možná i proto, že někde vzadu tlačí špatné svědomí z pozdního návratu domů a snaží se tak ušetřit drahocenné minutky.
+
+Prostor mně vymezený na zamyšlení nad zákazy ubývá. A na to, že dětem od mala ukazujeme, že nedodržování pravidel je normální, už jsem se téměř nedostala. Tak jen krátce: Verba docent, exempla trahunt. Slova učí, příklady táhnou.
