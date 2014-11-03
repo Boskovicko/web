@@ -1,0 +1,19 @@
+---
+title: Počet žáků základních škol roste, na střední míří slabé ročníky
+authors: Andrea Šrámková
+category: zpravodajství
+tags:
+- Boskovicko
+- školství
+- 42-2014 
+---
+
+Už několik let stoupá počet dětí, které přicházejí do prvních tříd. Letos jich v šestadvaceti základních školách na Boskovicku do lavic usedlo 578. Ve srovnání se stavem před dvěma lety je to nárůst o osmdesát žáků. Naproti tomu na středních školách a učilištích pokračuje boj o každou duši, protože sem ještě stále proudí slabé populační ročníky. Z devátých tříd odcházelo před dvěma lety 458 žáků, loni 444 a letos to bude jen 432 deváťáků.
+
+Postupně přibývající prvňáčci logicky přinášejí také nárůst celkového počtu žáků základních škol, které na Boskovicku podle údajů shromážděných na Odboru sociálních věcí, zdravotnictví a školství v Boskovicích navštěvuje v tomto školním roce 4 359 dětí. Loni to bylo 4 271 a ještě o rok dříve 4 212 školáků. Přitom po všechny tři sledované roky pokračuje trend, že klesá počet žáků na druhém stupni a přibývá dětí na stupni prvním. Dokládají to čísla 1 810, 1 763 a 1 745 ze tří let za sebou pro druhý stupeň (z toho deváťáků bylo 458, 444 a letos 432) a pro děti od první do páté třídy 2 402, 2 508 a 2 614 v tomto roce (z toho prvňáků bylo v září 2012 497, o rok později 575 a letos srovnatelných 578).
+
+Základní škola Boskovice eviduje tento rok na svých třech pracovištích 1171 žáků, což ukazuje po loňských 1137 a předloňských 1114 meziroční navýšení počtu zhruba o tři desítky dětí. Podobný údaj uvádí i Letovice. „V tomto okamžiku máme 720 žáků, což je nárůst oproti loňskému roku o 35 dětí,“ potvrdil vzrůstající trend Miloš Randula, ředitel letovické základní školy. „Přišlo hodně dětí do prvních tříd, podobně jako loni jsme otevřeli 4 třídy, ale třeba ve čtvrtém ročníku máme ještě třídy jen dvě. Oproti nim se díky zvýšené porodnosti počet dětí zdvojnásobil,“ pokračoval. Obdobný vývoj potvrdil i lysický zástupce ředitele Radek Kratochvil. „U nás na škole šlo o nárůst žáků jako snad všude, máme silné první ročníky. Nicméně před lety školu navštěvovalo 520 žáků, pak jsme klesli, ještě loni to bylo 458 dětí a letos jich máme 472 – takže jde o nárůst,“ konstatoval Kratochvíl. Přitom na menších školách je počet žáků ustálenější, stoupající demografická křivka se tam tolik neprojeví. 
+
+Každopádně region koresponduje s trendem kraje. „Žáků 1. tříd bylo v Jihomoravském kraji v uplynulém školním roce necelých 12 tisíc, rok předtím zhruba 11,3 tisíce,“ uvedla Denisa Kapitančiková, tisková mluvčí úřadu. „Pro letošní rok bude mít krajský úřad přesná čísla k dispozici teprve až budou všechny údaje za všechny školy předány ministerstvu školství, ale předpoklad je asi 12,5 tisíce prvňáků. V uplynulém školním roce bylo ve všech ročnících 476 jihomoravských základních škol 89 316 žáků, letos lze předpokládat, že jejich počet překročí 92 tisíc, pokračuje tedy nárůst a to asi o 3,5 tisíce dětí ve srovnání s předchozím školním rokem,“ uvedla Kapitančiková. Doplnila, že na střední školy přichází nejslabší populační ročník. Loni na 128 středních školách v Jihomoravském kraji studovalo 49 290 žáků, rok předtím 56 tisíc a letos jde zhruba o 47,5 tisíc. „Lze předpokládat, že počet žáků zde bude klesat až do školního roku 2017/18, teprve potom začne docházet k postupnému nárůstu,“ zhodnotila tisková mluvčí kraje. 
+
+Snaha naplnit třídy středních škol vyústila mnohdy u maturitních oborů i k přijímání žáků bez studijních předpokladů. Tomu se snaží zabránit ministr školství Marcel Chládek zavedením jednotných přijímacích zkoušek v roce 2016. Řada deváťáků si je vyzkouší už letos, když bude na pilotních školách probíhat jejich ověřování.
