@@ -1,6 +1,5 @@
 ---
-title: "Starosta Stejskal: Koaliční smlouvu nepotřebujeme
-V Letovicích nakonec pokračuje tandem Vladimír Stejskal – Jiří Palbuchta"
+title: "V Letovicích nakonec pokračuje tandem Vladimír Stejskal – Jiří Palbuchta"
 authors: Tomáš Trumpeš
 category: zpravodajství
 tags: 
