@@ -5,7 +5,7 @@ category: publicistika
 tags: 
 - 44-2014
 - sloupek
-
+- 17. listopad
 ---
 Pro některé z příštích čísel Boskovicka připravuji článek o probační a mediační službě, která mimo jiné pomáhá propuštěným vězňům začleňovat se zpět do života na svobodě. Při té příležitosti mi vytanula vzpomínka na slova Václava Havla, která někdy v začátcích naší nové demokracie pronesl se svou zkušeností vězně. Přirovnal tehdy společnost k právě osvobozenému vězni, který zpočátku často podléhá jakési možná nečekané sentimentální touze vrátit se zpátky za mříže. Svoboda je příliš komplikovaná a ve vězení o něj bylo postaráno, nemusel řešit spoustu složitých věcí a nést břímě odpovědnosti a nutnosti rozhodovat se, byť o těch nejvšednějších věcech svého života. Pod tlakem svobody je mu náhle po nesvobodě smutno.
 

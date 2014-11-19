@@ -7,6 +7,7 @@ tags:
 - Boskovicko
 - Boskovice
 - Letovice
+- 17. listopad
 ---
 Hned tři akce k 25. výročí Sametové revoluce se na Den boje za svobodu a demokracii konají v Boskovicích. 
 Vzpomínkovou akci pořádají v pondělí 17. listopadu Junáci a Orli, součástí bude v 17 hodin odhalení památníku na opěrné zdi pod kostelem sv. Jakuba. Památník nazvaný Studnice je dílem výtvarnice a boskovické rodačky Magdaleny Staňkové a nese poselství Sám v sobě pravdu hledej a uchovej.
