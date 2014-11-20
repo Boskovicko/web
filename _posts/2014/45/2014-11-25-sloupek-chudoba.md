@@ -1,0 +1,15 @@
+---
+title: Vnímáte chudobu?
+authors: Martina Lukešová
+category: publicistika
+tags: 
+- 45-2014
+- sloupek
+---
+Jsme součástí celku, žijeme v globalizovaném světě. Máme zcela unikátní možnost dozvědět se o tom, co se děje na druhé straně zeměkoule, a to i online. Když budeme chtít, můžeme se vydat do hloubi pralesa, na poušť nebo procestovat všechny státy, kam získáme přístup. Máme možnost poznat téměř všechny kultury světa, jiné životní úrovně od naprosté chudoby, kde děti umírají hlady nebo na běžné choroby, po bohatství a přepych až zhýralost. Jak se cítí vy? 
+
+Množí se zprávy o tom, že se u nás stále více lidí dostává do situace, že nemohou dětem zaplatit obědy ve školní jídelně. Na druhé straně se často setkáváme s tím, že děti obědy nejedí, svačiny nebo ovoce používají úplně k něčemu jinému než k jídlu. Vedeme však děti k solidaritě a pozornosti? Umí se o své přebytky podělit? Zajímáme se o své okolí? Někteří ano. Například obecně prospěšná společnost Světýlko z Brna ve spolupráci s řediteli škol připravila projekt Obědy pro školáky, v rámci kterého vybraným dětem od letošního ledna hradí stravování, a to přímo školní jídelně. Příspěvek tak není možné zneužít na něco jiného, jak se někdy děje se sociálními dávkami. Také v Boskovicích se setkáme s podobným solidárním chováním, jako je polévka pro chudé nebo i burzy oblečení či jednotlivé sbírky na konkrétní případy těm, kteří se ocitli v těžké životní situaci. Ukázka příkladné solidarity se nedávno odehrála ve Francii, kde se více než dvě stě zaměstnanců dopravního podniku poskládalo kolegovi na dlouhodobou placenou dovolenou, aby se mohl starat o nemocnou těhotnou manželku. 
+
+Můžeme být solidární, můžeme pomoci, můžeme se také stát chudými a být sociálně vyloučeni. Chudoba má mnoho dimenzí. Pro její hodnocení je v zemích EU využíván mezinárodně srovnatelný souhrnný indikátor Míra ohrožení chudobou nebo sociálním vyloučením. Naše země má v takzvané osmadvacítce nejnižší míru chudoby. Jsme na tom lépe než Anglie nebo Francie. Odborníci uvádějí, že je to ovlivněno vyplácením dávek, podpor a důchodů. Bez nich by mohlo do chudoby spadnout skoro čtyřicet procent lidí v Česku. Díky této sociální politice činí podíl lidí ohrožených chudobou necelých deset procent, to je skoro jeden milion obyvatel. V ČR se neplatí za vzdělávání a za základní zdravotnickou péči. Přesto dlouhodobě klesá populace Čechů. S budoucností našeho národa si lámou hlavy nejen sociologové. Obecně se cítíme nespokojení. Ptám se, čím to je?
+
+Když se pak podívám na jiný kontinent, cítím až vinu za naše plýtvání. Například v Indii mají s populací opačný problém. Bezdětným rodinám stát slibuje podporu. Mladé ženy zde hromadně podstupují sterilizaci. V nedávné době si v jedné vesnici tento zákrok nechalo udělat přes osmdesát Indek. Podle místních vesničanů tyto operace stihl jediný lékař s asistentkou za šest hodin. Mnoho jich po zákroku zemřelo. O míře obyvatel v Indii ohrožených chudobou se raději nepídím. Většina obyvatel zde žije v takové chudobě, že si ji nedokážeme ani představit. Jsem ráda, že žiju, tam kde žiju, ale nepřestávám se dívat kolem sebe. Co vy? 
