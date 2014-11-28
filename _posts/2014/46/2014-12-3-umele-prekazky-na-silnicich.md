@@ -1,0 +1,26 @@
+---
+title: Umělé překážky záměrně zpomalují provoz na silnicích
+authors: Miroslava Krajíčková
+category: zpravodajství
+tags: 
+- 46-2014
+- Boskovicko
+- doprava
+---
+Ostrůvek uprostřed jízdních pruhů v Boskovicích na Sušilově ulici, zúžení silnice u přechodů na Sokolské nebo Komenského, ale také třeba zelené balisety na křižovatce před Sebranicemi, to jsou příklady některých silničních úprav na Boskovicku. Objevují se však po celé republice i Evropě. Řidiči z nich většinou moc radost nemají, proč? Zdržují. A právě to je důvod, proč se na silnicích čím dál častěji objevují. 
+
+Jako další lze jmenovat klasické retardéry nebo vyvýšené přechody pro chodce, ale také chodníky vysunuté u přechodu půl metru do silnice, nebo vozovka záměrně se klikatící do esíčka. „Všechny takto vytvořené překážky mají pozitivní vliv na nehodovost“, uvedl blanenský policejní mluvčí Petr Nečesánek a pokračoval, že vždy donutí řidiče zpomalit. „Největší efekt mají tzv. zvýšená plata, ta jsou bohužel finančně nejnáročnější. Ale jakákoliv snaha obce či města udělat komunikaci bezpečnější, má smysl,“ dodal.
+
+S uměle vytvořenými překážkami, které mají za úkol zpomalit provoz, se měl možnost už setkat každý řidič i chodec. Od ledna 2001 je v českých pravidlech silničního provozu zmiňován výraz jako zpomalovací práh nebo také příčný práh, všem dobře známý retardér. Technické názvosloví přitom definuje zpomalovací práh jako stavebně-dopravní zařízení ke snížení nežádoucí rychlosti vozidel nebo na místních komunikacích k dodržování dovolené rychlosti vozidel. To působí na řidiče nejen opticky a zvukově, ale především fyzicky umělou změnou výškových podmínek na vozovce, která ovlivní průjezd vozidla. 
+
+Prahy se začaly jako první používat zejména v obytných zónách. Jejich výhodou bylo a je rychlé a bezproblémové umístění na vozovku nebo odstranění z ní. Mnoho motoristů ale i lidí, kteří bydlí v blízkosti jejich položení, je nemá v oblibě. Při zpomalování a zrychlování vzniká zbytečný hluk, roste spotřeba paliva a s tím i množství exhalací, zpomalit kvůli nim je třeba i v noci, kdy kolem nikdo není. Náročnější je také odklízení sněhu. 
+
+Komplikace pak tyto úpravy působí především řidičům větších vozidel. „Často jako řidič autobusu jezdím nejen po Boskovicku, ale také do zahraničí,“ uvedl Antonín Němec, řidič a spolumajitel autobusové dopravy a pokračoval, že umělé překážky na silnicích vnímá jako nedostatky. „Třeba kruhový objezd v Rájci Jestřebí jeden náš autobus neprojede, protože se tam nestočí. Nebo zelené umělé patníky na výjezdu od Boskovic na hlavní I/43 dělají toto místo spíše nepřehledné, lidé pak dávají větší pozor na nové značení než na samotný provoz a řidiči s větším strojem mají co dělat, aby se do pruhů vůbec vešli. Však už jsou některé patníky ohnuté. Všichni jsme doufali, že tuto křižovatku vyřeší stejně jako v Lipůvce, bohužel se tak nestalo,“ posteskl si Němec.
+
+Nově dvě umělé překážky vyrostly například ve Velkých Opatovicích, z toho jedna v blízkosti mateřské školy. „Zbudovány byly právě pro zpomalení jízdy a tím pro větší bezpečnost dětí a chodců obecně, přestože někteří řidiči se domnívají, že jsou zbytečné,“ uvedl starosta Jiří Bělehrádek. Každé město či obec se však snaží situaci bezpečnosti řešit po svém. V Olešnici dali na průtahu městem přednost panelům s měřičem rychlosti. „Velmi se nám to osvědčilo, řidiči na ,radary‘ reagují výrazným zpomalením,“ pochválil si starosta Zdeněk Peša. 
+
+V Boskovicích v poslední době procházejí úpravami některé přechody pro chodce. Jak uvedl Petr Zouhar, investiční referent boskovického odboru majetku, všechny jsou součástí návrhu bezbariérových tras, vyplývající z Generelu dopravy města Boskovic z roku 2010. V tomto materiálu jsou z pohledu dopravy ve městě popsána všechna kolizní místa. „Hlavním záměrem je upravit a osvětlit frekventované přechody přes krajskou komunikaci II/150, tedy na ulicích Otakara Kubína, Komenského, Kpt. Jaroše a Sušilově. Obecně technické požadavky zabezpečující bezbariérové užívání staveb mimo jiné stanoví maximálně možnou délku přechodu a z toho  pak vyplývá například zúžení vozovky nebo stavba ostrůvku, což má samozřejmě také za úkol zpomalit dopravu ve městě. Na této silnici zbývá příští rok upravit ještě přechod pro chodce u nemocnice, kde je také projektantem navržen ostrůvek. Upraven a osvětlen by měl být i nevyhovující přechod u pošty,“  popsal situaci Zouhar. Boskovický tiskový mluvčí Jaroslav Parma doplnil, že na postup rekonstrukcí má vliv financování staveb, především získání dotací. „Město například podalo žádost o dotaci na bezbariérové úpravy přechodů na ulici Komenského (u prodejny Albert a u Autosalonu Auteco) a na opravu chodníku podél parkoviště. Z důvodu velkého počtu žádostí však nebyla na výše uvedenou akci dotace poskytnuta, proto vedení města přistoupilo pouze k úpravě přechodů a realizaci opravy chodníku podél parkoviště odložilo,“ vysvětlil. 
+
+Doufejme, že v okamžiku, kdy dojde i na opravy tohoto chodníku, bude do úprav zahrnuto i vyřešení přístupu na tamní autobusovou zastávku. „Zmíněné bezbariérové úpravy přechodů byly provedeny od 1. září do 31. října. Přitom byly zkráceny na vyhláškou požadovanou maximální délku a z rozpočtu města na tuto akci šla částka málo přes milion korun,“ doplnil dále Parma.
+
+
