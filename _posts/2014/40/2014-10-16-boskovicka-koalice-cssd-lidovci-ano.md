@@ -1,6 +1,6 @@
 ---
 title: Koalice v Boskovicích uzavřena
-cover-photo: http://i.imgur.com/h0AZYkF.jpg
+cover-photo: http://i.zoul.cz/h0AZYkF.jpg
 authors: Tomáš Trumpeš
 category: zpravodajství
 tags:

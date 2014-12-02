@@ -1,6 +1,6 @@
 ---
 title: Sadros Boskovice letos titul neobhájí
-cover-photo: http://i.imgur.com/OiO65qS.jpg
+cover-photo: http://i.zoul.cz/OiO65qS.jpg
 authors: Lubomír Slezák
 category: sport
 tags: 

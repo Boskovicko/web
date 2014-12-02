@@ -1,6 +1,6 @@
 ---
 title: "Sonda teen: Běh Terryho Foxe"
-cover-photo: http://i.imgur.com/6xmhW9N.jpg
+cover-photo: http://i.zoul.cz/6xmhW9N.jpg
 authors: Ludmila Dobrozemská
 category: publicistika
 tags:

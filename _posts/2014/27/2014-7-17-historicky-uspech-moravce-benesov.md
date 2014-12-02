@@ -1,6 +1,6 @@
 ---
 title: Historický úspěch Moravce Benešov
-cover-photo: http://i.imgur.com/KPWi1mz.jpg
+cover-photo: http://i.zoul.cz/KPWi1mz.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

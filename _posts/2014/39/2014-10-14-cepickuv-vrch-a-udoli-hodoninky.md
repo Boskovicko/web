@@ -1,6 +1,6 @@
 ---
 title: Na Čepičkově vrchu a v údolí Hodonínky vládne spolu s listnáči kytka měsíčnice
-cover-photo: http://i.imgur.com/noJ8E31.jpg
+cover-photo: http://i.zoul.cz/noJ8E31.jpg
 authors: Žaneta Ondroušková
 category: publicistika
 tags: 39-2014

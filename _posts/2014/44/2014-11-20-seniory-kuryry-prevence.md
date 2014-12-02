@@ -1,6 +1,6 @@
 ---
 title: Senioři se stali kurýry prevence
-cover-photo: http://i.imgur.com/uKbSWlV.jpg
+cover-photo: http://i.zoul.cz/uKbSWlV.jpg
 authors: Andrea Šrámková
 category: zpravodajství
 tags: 

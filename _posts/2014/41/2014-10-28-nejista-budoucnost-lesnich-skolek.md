@@ -1,6 +1,6 @@
 ---
 title: Budoucnost lesních školek vzbuzuje obavy
-cover-photo: http://i.imgur.com/0DJObCJ.jpg
+cover-photo: http://i.zoul.cz/0DJObCJ.jpg
 authors: M. Krajíčková
 category: zpravodajství
 tags: Boskovicko školky 41-2014 

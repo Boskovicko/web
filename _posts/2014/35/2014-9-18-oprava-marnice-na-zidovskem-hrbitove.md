@@ -1,6 +1,6 @@
 ---
 title: Na židovském hřbitově opravují márnici
-cover-photo: http://i.imgur.com/GJeXXBL.jpg
+cover-photo: http://i.zoul.cz/GJeXXBL.jpg
 authors: Marek Osouch
 category: zpravodajství
 tags: Boskovice 35-2014 

@@ -1,6 +1,6 @@
 ---
 title: Ve školách o prázdninách nezaháleli
-cover-photo: http://i.imgur.com/aiJRbQn.jpg
+cover-photo: http://i.zoul.cz/aiJRbQn.jpg
 authors: Petra Bílá
 category: zpravodajství
 tags:

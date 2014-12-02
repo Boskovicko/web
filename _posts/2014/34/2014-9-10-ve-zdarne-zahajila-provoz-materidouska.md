@@ -1,6 +1,6 @@
 ---
 title: Ve Žďárné od září zahajuje provoz Mateřídouška
-cover-photo: http://i.imgur.com/qGWsg1b.jpg
+cover-photo: http://i.zoul.cz/qGWsg1b.jpg
 authors: Andrea Šrámková
 category: zpravodajství
 tags: Žďárná školky 34-2014 

@@ -1,6 +1,6 @@
 ---
 title: Pohár Drahanské vrchoviny nabral na tempu
-cover-photo: http://i.imgur.com/rhmcSTV.jpg
+cover-photo: http://i.zoul.cz/rhmcSTV.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

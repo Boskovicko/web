@@ -1,6 +1,6 @@
 ---
 title: Ze Třetích zubů se vyčlenilo duo Melda & Milda
-cover-photo: http://i.imgur.com/A43IGGO.jpg
+cover-photo: http://i.zoul.cz/A43IGGO.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice 30-2014 

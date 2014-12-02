@@ -1,6 +1,6 @@
 ---
 title: "Psali jsme v roce 1998"
-cover-photo: http://i.imgur.com/jJYyLw5.jpg
+cover-photo: http://i.zoul.cz/jJYyLw5.jpg
 authors: Jitka Melkusová
 category: publicistika
 tags:

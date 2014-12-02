@@ -1,6 +1,6 @@
 ---
 title: Divadelní a šermířská společnost Gonfanon slaví 20 let
-cover-photo: http://i.imgur.com/UrtlVSS.jpg
+cover-photo: http://i.zoul.cz/UrtlVSS.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice divadlo 26-2014 

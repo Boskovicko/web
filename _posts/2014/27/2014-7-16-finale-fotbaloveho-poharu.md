@@ -1,6 +1,6 @@
 ---
 title: Finále poháru chybělo finále, nakonec se radoval Kvasar
-cover-photo: http://i.imgur.com/48mSjdG.jpg
+cover-photo: http://i.zoul.cz/48mSjdG.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Boskovice fotbal 27-2014 

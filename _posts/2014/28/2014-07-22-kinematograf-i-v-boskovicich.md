@@ -1,6 +1,6 @@
 ---
 title: Pojízdný kinematograf zavítá letos i na boskovické náměstí
-cover-photo: http://i.imgur.com/WjWIqDF.jpg
+cover-photo: http://i.zoul.cz/WjWIqDF.jpg
 authors: Andrea Šrámková
 category: kultura
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Otec a syn Šafaříkovi dovezli pět medailí z mistrovství světa
-cover-photo: http://i.imgur.com/5nJhweN.jpg
+cover-photo: http://i.zoul.cz/5nJhweN.jpg
 authors: Marek Osouch
 category: sport
 tags: Letovice 41-2014 

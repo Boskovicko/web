@@ -1,6 +1,6 @@
 ---
 title: Beach volejbal na Července
-cover-photo: http://i.imgur.com/SDBrEcx.jpg
+cover-photo: http://i.zoul.cz/SDBrEcx.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Boskovice volejbal 33-2014 

@@ -1,6 +1,6 @@
 ---
 title: Ve Vanovicích vzpomínali na popravené za 2. světové války
-cover-photo: http://i.imgur.com/RkgYznL.jpg
+cover-photo: http://i.zoul.cz/RkgYznL.jpg
 authors: Petr Dvořáček
 category: napsali nám
 tags: Vanovice 37-2014 

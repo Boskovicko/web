@@ -1,6 +1,6 @@
 ---
 title: Boskovičtí ochotníci uvedou Nájemníky pana Swana
-cover-photo: http://i.imgur.com/Wc54Ccn.jpg
+cover-photo: http://i.zoul.cz/Wc54Ccn.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: 

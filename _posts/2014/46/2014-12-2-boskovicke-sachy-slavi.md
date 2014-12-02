@@ -1,6 +1,6 @@
 ---
 title: Boskovický šach slavil narozeniny
-cover-photo: http://i.imgur.com/2ObrR6D.jpg
+cover-photo: http://i.zoul.cz/2ObrR6D.jpg
 authors: Lubomír Slezák
 category: sport
 tags: 

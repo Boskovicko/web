@@ -1,6 +1,6 @@
 ---
 title: Boskovice žily festivalem pro židovskou čtvrť
-cover-photo: http://i.imgur.com/MrMtOXF.jpg
+cover-photo: http://i.zoul.cz/MrMtOXF.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice 27-2014

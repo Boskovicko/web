@@ -1,6 +1,6 @@
 ---
 title: O Vratíkovském krasu a jeho okolí. Místu, které připomíná doby dávno minulé
-cover-photo: http://i.imgur.com/bKAnrSo.jpg
+cover-photo: http://i.zoul.cz/bKAnrSo.jpg
 authors: Žaneta Ondroušková
 category: publicistika
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Fotbalisté Blanska na Hodonín nestačili
-cover-photo: http://i.imgur.com/x4EU7bj.jpg
+cover-photo: http://i.zoul.cz/x4EU7bj.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

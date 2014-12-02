@@ -1,6 +1,6 @@
 ---
 title: Velká cena Blanenska požárním útoku se přehoupla do své druhé poloviny
-cover-photo: http://i.imgur.com/RIYV8uj.jpg
+cover-photo: http://i.zoul.cz/RIYV8uj.jpg
 authors: Bronislava Zhořová
 category: sport
 tags:

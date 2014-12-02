@@ -1,6 +1,6 @@
 ---
 title: Senior léto 2014 v MSSS Boskovicích
-cover-photo: http://i.imgur.com/mvznQ4s.jpg
+cover-photo: http://i.zoul.cz/mvznQ4s.jpg
 authors: Miroslava Čopáková
 category: napsali nám
 tags:

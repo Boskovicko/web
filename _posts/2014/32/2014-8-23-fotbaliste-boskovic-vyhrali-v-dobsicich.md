@@ -1,6 +1,6 @@
 ---
 title: Fotbalisté Boskovic vyhráli v Dobšicích
-cover-photo: http://i.imgur.com/Iw19Gv2.jpg
+cover-photo: http://i.zoul.cz/Iw19Gv2.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

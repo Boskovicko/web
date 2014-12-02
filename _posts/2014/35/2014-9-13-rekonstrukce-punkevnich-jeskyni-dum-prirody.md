@@ -1,6 +1,6 @@
 ---
 title: "Moravský kras: novou tvář získá vstup do Punkevních jeskyní a roste Dům přírody"
-cover-photo: http://i.imgur.com/GHtWzBS.jpg
+cover-photo: http://i.zoul.cz/GHtWzBS.jpg
 authors: Pavlína Čechová
 category: zpravodajství
 tags:

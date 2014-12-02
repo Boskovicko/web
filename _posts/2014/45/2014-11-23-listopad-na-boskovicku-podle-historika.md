@@ -1,6 +1,6 @@
 ---
 title: Listopad 89 na Boskovicku pohledem historika
-cover-photo: http://i.imgur.com/mFfHTRw.jpg
+cover-photo: http://i.zoul.cz/mFfHTRw.jpg
 authors: Petr Vítámvás, Tomáš Trumpeš
 category: kultura
 tags: 

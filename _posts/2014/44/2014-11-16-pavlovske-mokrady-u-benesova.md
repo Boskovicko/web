@@ -1,6 +1,6 @@
 ---
 title: "Pavlovské mokřady u Benešova: Podceňované a devastované tajemství Drahanské vrchoviny"
-cover-photo: http://i.imgur.com/bpXmPM4.jpg
+cover-photo: http://i.zoul.cz/bpXmPM4.jpg
 authors: Žaneta Ondroušková
 category: zpravodajství
 tags: 

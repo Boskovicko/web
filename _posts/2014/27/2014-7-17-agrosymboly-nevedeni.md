@@ -1,6 +1,6 @@
 ---
 title: Agrosymboly nevědění
-cover-photo: http://i.imgur.com/jcJYiGC.jpg
+cover-photo: http://i.zoul.cz/jcJYiGC.jpg
 authors: Tomáš Trumpeš
 category: publicistika
 tags: 27-2014 

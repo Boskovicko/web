@@ -1,6 +1,6 @@
 ---
 title: Boskovice pokračují v sérii výher
-cover-photo: http://i.imgur.com/QJ1YDMJ.jpg
+cover-photo: http://i.zoul.cz/QJ1YDMJ.jpg
 authors: Lubomír Slezák
 category: sport
 tags: 

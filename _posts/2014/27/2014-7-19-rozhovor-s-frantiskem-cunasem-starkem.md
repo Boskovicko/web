@@ -1,6 +1,6 @@
 ---
 title: „Hybatelem společnosti byl vždycky okraj, tedy alternativa,“ je přesvědčen František „Čuňas“ Stárek
-cover-photo: http://i.imgur.com/FJCWi92.jpg
+cover-photo: http://i.zoul.cz/FJCWi92.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: Boskovice 27-2014 

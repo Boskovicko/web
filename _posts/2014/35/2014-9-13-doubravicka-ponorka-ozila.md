@@ -1,6 +1,6 @@
 ---
 title: V Doubravici znovu ožila Ponorka
-cover-photo: http://i.imgur.com/I8DwnIA.jpg
+cover-photo: http://i.zoul.cz/I8DwnIA.jpg
 authors: Eva Sáňková
 category: napsali nám
 tags: Doubravice 35-2014 

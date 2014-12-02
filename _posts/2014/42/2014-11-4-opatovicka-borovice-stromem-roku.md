@@ -1,6 +1,6 @@
 ---
 title: V anketě Strom roku vyhrála borovice z Velkých Opatovic
-cover-photo: http://i.imgur.com/nSrBZZa.jpg
+cover-photo: http://i.zoul.cz/nSrBZZa.jpg
 authors: M. Krajíčková
 category: zpravodajství
 tags:

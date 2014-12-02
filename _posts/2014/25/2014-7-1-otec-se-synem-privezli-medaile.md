@@ -1,6 +1,6 @@
 ---
 title: Syn a otec přivezli zlato a bronz z mistrovství Evropy
-cover-photo: http://i.imgur.com/5kofomv.jpg
+cover-photo: http://i.zoul.cz/5kofomv.jpg
 authors: Michal Šafařík
 category: napsali nám
 tags: 25-2014 

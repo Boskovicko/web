@@ -1,6 +1,6 @@
 ---
 title: Tenisový turnaj Deštná Open 2014
-cover-photo: http://i.imgur.com/ps5dEnX.jpg
+cover-photo: http://i.zoul.cz/ps5dEnX.jpg
 authors: Jana Krautová
 category: sport
 tags: Deštná tenis 33-2014 

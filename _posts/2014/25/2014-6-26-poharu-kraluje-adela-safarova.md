@@ -1,6 +1,6 @@
 ---
 title: Adéla Šafářová v poháru nadále vládne
-cover-photo: http://i.imgur.com/eT25g2I.jpg
+cover-photo: http://i.zoul.cz/eT25g2I.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

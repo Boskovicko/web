@@ -1,6 +1,6 @@
 ---
 title: Na Mistrovství Evropy opět zabodovali tanečníci z boskovické taneční školy Body Rockers Squad
-cover-photo: http://i.imgur.com/dmBpF7n.jpg
+cover-photo: http://i.zoul.cz/dmBpF7n.jpg
 authors: Martina Lukešová
 category: zpravodajství
 tags: Boskovice Rimini 30-2014 

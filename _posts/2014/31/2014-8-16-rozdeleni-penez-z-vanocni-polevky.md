@@ -1,6 +1,6 @@
 ---
 title: Část peněz z vánoční polévky byla předána
-cover-photo: http://i.imgur.com/Wo0B1ok.jpg
+cover-photo: http://i.zoul.cz/Wo0B1ok.jpg
 authors: Jitka Melkusová
 category: zpravodajství
 tags: Boskovice Kunštát Rudka charita 31-2014 

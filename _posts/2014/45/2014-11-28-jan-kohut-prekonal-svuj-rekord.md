@@ -1,6 +1,6 @@
 ---
 title: Jan Kohut svůj rekord nepřekonal
-cover-photo: http://i.imgur.com/Hw4qtq0.jpg
+cover-photo: http://i.zoul.cz/Hw4qtq0.jpg
 authors: Lubomír Slezák
 category: sport
 tags: 
