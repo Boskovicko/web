@@ -1,6 +1,6 @@
 ---
 title: Už i Boskovice mají své kruhy v obilí
-cover-photo: http://i.imgur.com/Rh5n292.jpg
+cover-photo: http://i.zoul.cz/Rh5n292.jpg
 authors: Jitka Melkusová
 category: publicistika
 tags: Boskovice 27-2014 

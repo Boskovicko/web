@@ -1,6 +1,6 @@
 ---
 title: Většina startovních čísel Blanenské desítky už má své majitele
-cover-photo: http://i.imgur.com/arOoCQP.jpg
+cover-photo: http://i.zoul.cz/arOoCQP.jpg
 authors: Lubomír Slezák
 category: sport
 tags: 32-2014 

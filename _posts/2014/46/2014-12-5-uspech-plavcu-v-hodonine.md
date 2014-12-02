@@ -1,6 +1,6 @@
 ---
 title: Medaile připlavaly z Hodonína
-cover-photo: http://i.imgur.com/mnrm6B5.jpg
+cover-photo: http://i.zoul.cz/mnrm6B5.jpg
 authors: Lubomír Slezák
 category: sport
 tags: 

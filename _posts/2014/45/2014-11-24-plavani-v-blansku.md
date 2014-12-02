@@ -1,6 +1,6 @@
 ---
 title: V Blansku se utkali mladší žáci
-cover-photo: http://i.imgur.com/jdfjhBx.jpg
+cover-photo: http://i.zoul.cz/jdfjhBx.jpg
 authors: Lubomír Slezák
 category: sport
 tags: 

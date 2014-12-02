@@ -1,6 +1,6 @@
 ---
 title: Moravec Benešov na Mistrovství republiky zářil
-cover-photo: http://i.imgur.com/peXXS38.jpg
+cover-photo: http://i.zoul.cz/peXXS38.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Praha Benešov cyklistika 29-2014 

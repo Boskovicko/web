@@ -1,6 +1,6 @@
 ---
 title: Křetínku zvládl nejlépe Kučera
-cover-photo: http://i.imgur.com/CPJ1K2z.jpg
+cover-photo: http://i.zoul.cz/CPJ1K2z.jpg
 authors: Lubomír Slezák
 category: sport
 tags: 

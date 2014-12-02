@@ -1,6 +1,6 @@
 ---
 title: Němčické kolo Velké ceny Blanenska v požárním útoku zná své vítěze
-cover-photo: http://i.imgur.com/sZRYmDu.jpg
+cover-photo: http://i.zoul.cz/sZRYmDu.jpg
 authors: Bronislava Zhořová
 category: sport
 tags: Němčice 32-2014 

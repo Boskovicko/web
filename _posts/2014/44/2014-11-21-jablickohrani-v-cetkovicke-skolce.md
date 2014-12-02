@@ -1,6 +1,6 @@
 ---
 title: Jablíčkohraní si v cetkovické školce užily nejen děti
-cover-photo: http://i.imgur.com/9ViVM0Z.jpg
+cover-photo: http://i.zoul.cz/9ViVM0Z.jpg
 authors: Miroslava Sedláková
 category: napsali nám
 tags: 

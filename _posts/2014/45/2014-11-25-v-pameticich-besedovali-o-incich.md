@@ -1,6 +1,6 @@
 ---
 title: V Paměticích besedovali o Incích
-cover-photo: http://i.imgur.com/SKkggjw.jpg
+cover-photo: http://i.zoul.cz/SKkggjw.jpg
 authors: František Staněk
 category: napsali nám
 tags: 

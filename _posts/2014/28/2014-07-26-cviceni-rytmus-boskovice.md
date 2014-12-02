@@ -1,6 +1,6 @@
 ---
 title: Zdravotní cvičení v TJ Rytmus Boskovice
-cover-photo: http://i.imgur.com/JZGcLHJ.jpg
+cover-photo: http://i.zoul.cz/JZGcLHJ.jpg
 authors: Marie Ženatová
 category: napsali nám
 tags: 

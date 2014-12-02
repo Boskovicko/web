@@ -1,6 +1,6 @@
 ---
 title: V Boskovicích proběhl farní den 
-cover-photo: http://i.imgur.com/3pXNyUX.jpg
+cover-photo: http://i.zoul.cz/3pXNyUX.jpg
 authors: Marie Ženatová
 category: napsali nám
 tags: Boskovice 40-2014 

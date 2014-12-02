@@ -1,6 +1,6 @@
 ---
 title: Zemřel Jiří Fusek
-cover-photo: http://i.imgur.com/2SJsaIs.jpg
+cover-photo: http://i.zoul.cz/2SJsaIs.jpg
 authors: Jitka Melkusová
 category: publicistika
 tags:

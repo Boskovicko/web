@@ -1,6 +1,6 @@
 ---
 title: "Postiženým lidem nabízíme šanci žít normálně, říká vedoucí letovické Diakonie Erik Novotný"
-cover-photo: http://i.imgur.com/gdGZrxR.jpg
+cover-photo: http://i.zoul.cz/gdGZrxR.jpg
 authors: Andrea Šrámková
 category: publicistika
 tags:

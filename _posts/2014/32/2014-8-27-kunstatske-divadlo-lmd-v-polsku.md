@@ -1,6 +1,6 @@
 ---
 title: Kunštátské divadlo LMD vyrazilo za polskými kolegy
-cover-photo: http://i.imgur.com/MYNaHE1.jpg
+cover-photo: http://i.zoul.cz/MYNaHE1.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: Kunštát Polsko divadlo 32-2014 

@@ -1,6 +1,6 @@
 ---
 title: Ve Veselici vyhrál Vojtěch Grün
-cover-photo: http://i.imgur.com/scGA8z4.jpg
+cover-photo: http://i.zoul.cz/scGA8z4.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Veselice běh 25-2014 

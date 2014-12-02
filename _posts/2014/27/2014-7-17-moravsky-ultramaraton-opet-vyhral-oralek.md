@@ -1,6 +1,6 @@
 ---
 title: Moravský Ultramaraton vyhrál opět Orálek
-cover-photo: http://i.imgur.com/bPZ3gPE.jpg
+cover-photo: http://i.zoul.cz/bPZ3gPE.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

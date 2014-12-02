@@ -1,6 +1,6 @@
 ---
 title: Prázdninové cestování komplikují stavební práce na silnicích
-cover-photo: http://i.imgur.com/1Dx9JAA.jpg
+cover-photo: http://i.zoul.cz/1Dx9JAA.jpg
 authors: Andrea Šrámková
 category: zpravodajství
 tags: Boskovicko doprava 27-2014 

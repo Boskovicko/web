@@ -1,6 +1,6 @@
 ---
 title: Kolář je mistrem světa
-cover-photo: http://i.imgur.com/TYaJMld.jpg
+cover-photo: http://i.zoul.cz/TYaJMld.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Tanvald Blansko cyklistika 34-2014 

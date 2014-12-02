@@ -1,6 +1,6 @@
 ---
 title: "Nový místostarosta a vítěz voleb Petr Malach: Na seznámení s chodem úřadu si dáváme čas do Vánoc, pak začneme navrhovat změny"
-cover-photo: http://i.imgur.com/VSqSVV4.jpg
+cover-photo: http://i.zoul.cz/VSqSVV4.jpg
 authors: Tomáš Trumpeš
 category: zpravodajství
 tags: 

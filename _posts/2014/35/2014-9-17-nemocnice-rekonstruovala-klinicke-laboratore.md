@@ -1,6 +1,6 @@
 ---
 title: Nemocnice zrekonstruovala klinické laboratoře
-cover-photo: http://i.imgur.com/Nq1jC3h.jpg
+cover-photo: http://i.zoul.cz/Nq1jC3h.jpg
 authors: Andrea Šrámková
 category: zpravodajství
 tags: Boskovice nemocnice 35-2014 

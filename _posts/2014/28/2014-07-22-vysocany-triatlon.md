@@ -1,6 +1,6 @@
 ---
 title: Ve Vysočanech vyhráli všichni účastníci
-cover-photo: http://i.imgur.com/sk5RsBB.jpg
+cover-photo: http://i.zoul.cz/sk5RsBB.jpg
 authors: Lubomír Slezák
 category: sport
 tags: 

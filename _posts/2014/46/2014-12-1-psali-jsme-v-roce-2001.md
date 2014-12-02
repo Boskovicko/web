@@ -1,6 +1,6 @@
 ---
 title: "Psali jsme v roce 2001: Samosprávné kraje a boj o pověřený úřad"
-cover-photo: http://i.imgur.com/4eVi3C3.jpg
+cover-photo: http://i.zoul.cz/4eVi3C3.jpg
 authors: Jitka Melkusová
 category: publicistika
 tags: 

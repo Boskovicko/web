@@ -1,6 +1,6 @@
 ---
 title: Ve Vískách vyhrál Ambros, v Petrovicích Kohut
-cover-photo: http://i.imgur.com/H3Hyjsm.jpg
+cover-photo: http://i.zoul.cz/H3Hyjsm.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Vísky Ráječko běh 35-2014 

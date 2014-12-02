@@ -1,6 +1,6 @@
 ---
 title: Děti na Sušilce se při hraní projdou pravěkem
-cover-photo: http://i.imgur.com/81W5UMq.jpg
+cover-photo: http://i.zoul.cz/81W5UMq.jpg
 authors: Martina Lukešová
 category: zpravodajství
 tags: Boskovice 39-2014

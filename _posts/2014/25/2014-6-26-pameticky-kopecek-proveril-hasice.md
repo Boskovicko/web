@@ -1,6 +1,6 @@
 ---
 title: Pamětický kopeček prověřil síly dobrovolných hasičů
-cover-photo: http://i.imgur.com/omJeAyp.jpg
+cover-photo: http://i.zoul.cz/omJeAyp.jpg
 authors: Bronislava Zhořová
 category: sport
 tags: 25-2014 

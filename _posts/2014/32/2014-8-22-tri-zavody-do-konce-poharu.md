@@ -1,6 +1,6 @@
 ---
 title: Do konce poháru zbývají tři závody
-cover-photo: http://i.imgur.com/esFV2d9.jpg
+cover-photo: http://i.zoul.cz/esFV2d9.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Okrouhlá cyklistika 32-2014 

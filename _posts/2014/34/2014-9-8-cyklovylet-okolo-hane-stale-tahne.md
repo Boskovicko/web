@@ -1,6 +1,6 @@
 ---
 title: Cyklovýlet Okolo Malé Hané pořád táhne
-cover-photo: http://i.imgur.com/j9aOqlU.jpg
+cover-photo: http://i.zoul.cz/j9aOqlU.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

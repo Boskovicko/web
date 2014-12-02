@@ -1,6 +1,6 @@
 ---
 title: Výstava o Anne Frankové zanechala hluboké dojmy
-cover-photo: http://i.imgur.com/ZCSjjz4.jpg
+cover-photo: http://i.zoul.cz/ZCSjjz4.jpg
 authors: Jana Svobodová
 category: napsali nám
 tags: 41-2014 

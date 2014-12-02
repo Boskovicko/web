@@ -1,6 +1,6 @@
 ---
 title: V anketě Alej roku soutěží i alej dubů v Černé Hoře
-cover-photo: http://i.imgur.com/MCXWjkq.jpg
+cover-photo: http://i.zoul.cz/MCXWjkq.jpg
 authors: Anna Dudková
 category: zpravodajství
 tags:

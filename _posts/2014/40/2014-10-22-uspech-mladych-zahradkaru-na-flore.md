@@ -1,6 +1,6 @@
 ---
 title: Mladí zahrádkáři na Floře uspěli
-cover-photo: http://i.imgur.com/Eq0MQ62.jpg
+cover-photo: http://i.zoul.cz/Eq0MQ62.jpg
 authors: Martina Lukešová
 category: zpravodajství
 tags: Olomouc Boskovice 40-2014 

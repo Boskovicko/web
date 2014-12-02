@@ -1,6 +1,6 @@
 ---
 title: Boskovické zastupitelstvo zvolilo nové vedení města
-cover-photo: http://i.imgur.com/xchuM8f.jpg
+cover-photo: http://i.zoul.cz/xchuM8f.jpg
 authors: Tomáš Trumpeš
 category: zpravodajství
 tags:

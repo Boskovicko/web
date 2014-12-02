@@ -1,6 +1,6 @@
 ---
 title: Taneční kurzy jsou v plném proudu
-cover-photo: http://i.imgur.com/toJzEow.jpg
+cover-photo: http://i.zoul.cz/toJzEow.jpg
 authors: Ludmila Dobrozemská
 category: zpravodajství
 tags: 

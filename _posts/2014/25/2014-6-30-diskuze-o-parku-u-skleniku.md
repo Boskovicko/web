@@ -1,6 +1,6 @@
 ---
 title: Diskutovali o hřištích a parku u zámeckého skleníku
-cover-photo: http://i.imgur.com/x5oQpG3.jpg
+cover-photo: http://i.zoul.cz/x5oQpG3.jpg
 authors: Martina Lukešová
 category: zpravodajství
 tags: Boskovice zeleň 25-2014 

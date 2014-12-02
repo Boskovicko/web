@@ -1,6 +1,6 @@
 ---
 title: Ve Vranově vyhrál Krátký
-cover-photo: http://i.imgur.com/QyDaFly.jpg
+cover-photo: http://i.zoul.cz/QyDaFly.jpg
 authors: Lubomír Slezák
 category: sport
 tags: Vranov 30-2014 

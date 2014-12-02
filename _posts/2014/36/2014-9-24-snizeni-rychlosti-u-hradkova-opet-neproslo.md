@@ -1,6 +1,6 @@
 ---
 title: Snížení rychlosti na silnici u Hrádkova opět neprošlo
-cover-photo: http://i.imgur.com/mzOlQBX.jpg
+cover-photo: http://i.zoul.cz/mzOlQBX.jpg
 authors: Pavlína Čechová
 category: zpravodajství
 tags: Boskovice Hrádkov doprava 36-2014 

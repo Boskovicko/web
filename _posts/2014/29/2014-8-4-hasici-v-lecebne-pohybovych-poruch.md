@@ -1,6 +1,6 @@
 ---
 title: Dětskou léčebnu pohybových poruch opět navštívili hasiči
-cover-photo: http://i.imgur.com/jBqiped.jpg
+cover-photo: http://i.zoul.cz/jBqiped.jpg
 authors: Lukáš Paděra
 category: napsali nám
 tags: Boskovice 29-2014 

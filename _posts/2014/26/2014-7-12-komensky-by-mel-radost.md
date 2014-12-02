@@ -1,6 +1,6 @@
 ---
 title: Komenský by měl ze základní školy v Boskovicích radost
-cover-photo: http://i.imgur.com/aZw7DIs.jpg
+cover-photo: http://i.zoul.cz/aZw7DIs.jpg
 authors: Jarmila Nezvedová
 category: napsali nám
 tags: Boskovice 26-2014 

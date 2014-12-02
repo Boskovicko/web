@@ -1,6 +1,6 @@
 ---
 title: Boskovice vyhrály derby a jsou první
-cover-photo: http://i.imgur.com/sIqTIKB.jpg
+cover-photo: http://i.zoul.cz/sIqTIKB.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

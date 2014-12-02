@@ -1,6 +1,6 @@
 ---
 title: Boskovice zahájily novou sezónu výhrou
-cover-photo: http://i.imgur.com/8vk7AW6.jpg
+cover-photo: http://i.zoul.cz/8vk7AW6.jpg
 authors: Lubomír Slezák
 category: sport
 tags:

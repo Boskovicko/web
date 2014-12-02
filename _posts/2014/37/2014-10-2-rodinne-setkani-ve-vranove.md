@@ -1,6 +1,6 @@
 ---
 title: Ve Vranové uspořádali rodinné setkání
-cover-photo: http://i.imgur.com/OUMQMxz.jpg
+cover-photo: http://i.zoul.cz/OUMQMxz.jpg
 authors: Marcela Kobylková
 category: napsali nám
 tags: Vranová 37-2014 
