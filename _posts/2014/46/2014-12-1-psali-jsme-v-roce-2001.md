@@ -25,12 +25,10 @@ Boskovice zahájily rekonstrukci skleníku, za 20 milionů se do toho pustil Eko
 
 Bramboráři sdělili veřejnosti, že se před 10 lety pěstovalo desetkrát více brambor. Světem cloumala nemoc šílených krav, chovatelé se intenzivně se připravovali na příchod slintavky a kulhavky.
 
-Bývalá starostka Blanska Věra Vachová byla odsouzena za pomluvu, uspěla ale s odvoláním a krajský soud věc vrátil zpět k rozšíření šetření. Ve vězení skončil bratr Miroslava Orla Jiří. 
-
+Bývalá starostka Blanska Věra Vachová byla odsouzena za pomluvu, uspěla ale s odvoláním a krajský soud věc vrátil zpět k rozšíření šetření.
 Byly zahájeny restaurátorské práce na výmalbě synagogy, které v průběhu roku vedl Václav Holoubek. Židovská obec na ně získala dotaci 3 miliony korun z amerického Word Monuments Fund, což bylo vnímáno jako unikát. Velký vliv na získání tohoto finančního přínosu měl Charles Ticho, s nímž jsme zpracovali rozhovor. Do boskovického gymnázia dojížděl Jaroslav Achab Haidler, který vyučoval hebrejštinu. Účelem bylo zaevidovat všechny hroby židovského hřbitova. Byla zahájena stavba obchodně společenského centra Modrá věž, ve Valchově postavili novou kapli. V létě se děly soutěže typu Vrchní, prchni, vodní lávka, otevřela se rozhledna ve Veselici, ve westernovém městečku se konalo už třetí rodeo. V Letovicích otevřeli klub maminek, Alexander Kálnoky získal letovický zámek a ministr obrany Tvrdík šmejdil regionem ve snaze zachránit ADAST a najít uživatele supertajného vládního bunkru ve Vejpustku. 
 
 Na pokračování jsme v průběhu roku zveřejňovali rodinnou Kroniku Františka Špičky (nar. 1860) z Cetkovic, kterou napsal v letech 1916 - 1922, dále Boskovický zpěvníček Oldřicha Sirovátky z roku 1953 a sbírku pověstí Soni Paroulkové z Borotína nazvanou O šesti mládencích a další pověsti z Drahanské vrchoviny. Senátor Bělehrádek pokračoval v roli zpravodajce ze senátního dění, čímž rozšiřoval obzor našich čtenářů.
-
 V průběhu roku pracovali v RN Boskovicko Leona Paroulková, Petr Kafka, Václav Stoupal a Libor Ždánský.
 
 ### Boskovice se snaží získat pro silnici číslo 150 zpátky status první třídy
@@ -41,8 +39,9 @@ Obce a okresy se snažily o změnu statusu silnice ještě před změnou správn
 
 Pro Boskovice je tato silnice páteřní komunikací, spojuje město s Vysočinou a Hanou. Před jejím přeřazením do druhé třídy v roce devadesát osm patřila bývalá I/18 k nejdelší silnici první třídy v republice - vede od Benešova u Prahy až k hranicím se Slovenskem. V blanenském okrese má délku více než 36 kilometrů, prochází Kunštátem, Boskovicemi a pokračuje směrem na východ na Prostějov, Valašské Meziříčí a hraničním přechodem Bumbálka ústí na Slovensko. Byla proto léta i hlavní armádní silnicí.
 
-Přeřazení silnice do druhé třídy před třemi lety signalizovalo nižší dopravní význam komunikace pro stát a hlavně omezený příjem investic. Boskovice se od té doby marně snaží dosáhnout narovnání nebezpečné klikatice v úseku Mladkov - Boskovice. ...
-Zejména kvůli náročné zimní údržbě v oblastech kolem 600 metrů nad mořem stačí silničářům peníze pouze na nejnutnější opravy, a proto jsou silnice na okrese v bídném stavu. ...
+Přeřazení silnice do druhé třídy před třemi lety signalizovalo nižší dopravní význam komunikace pro stát a hlavně omezený příjem investic. Boskovice se od té doby marně snaží dosáhnout narovnání nebezpečné klikatice v úseku Mladkov - Boskovice.
+
+Zejména kvůli náročné zimní údržbě v oblastech kolem 600 metrů nad mořem stačí silničářům peníze pouze na nejnutnější opravy, a proto jsou silnice na okrese v bídném stavu.
 
 Minulý týden proto odeslala boskovická radnice dopis na ministerstvo dopravy, v němž vyjadřuje nesouhlas s rozhodnutím a požaduje prodloužení jedničky až do Prostějova. Ve svém stanovisku starosta Josef Dohnálek uvádí, že v okrese Blansko je dopravní zatížení stopadesátky v porovnání s I/19 (bývalou I/18) v průměru dvojnásobné a v Boskovicích dokonce desetinásobné. ...
 
@@ -52,7 +51,8 @@ Minulý týden proto odeslala boskovická radnice dopis na ministerstvo dopravy,
 
 „R43 je životně důležitá pupeční šňůra, která by nás kvalitně mohla propojit se světem. Bývalá osmnáctka naprosto nepochopitelně končí u Vaculky,“ řekl Dohnálek. Ve stejném duchu hovořil i starosta Velkých Opatovic Jiří Bělehrádek. „R43 je rozhodující obchodní tepnou pro Velké Opatovice. Bez ní k nám nedostaneme investory,“ konstatoval s tím, že v cestě její výstavby by rozhodně neměla stát skutečnost, že dosud z různých důvodů není vyřešen problém jejího napojení na dopravu kolem Brna. 
 
-Za stejně důležitý je však také považován návrat silnice 150 mezi silnice 1. třídy. S tím úzce souvisí její narovnání mezi Mladkovem a Boskovicemi. Podle slov starosty Dohnálka ale nelze počítat s podporou Prostějova, protože spojení na Boskovice a Vysočinu není pro Prostějov prioritou
+Za stejně důležitý je však také považován návrat silnice 150 mezi silnice 1. třídy. S tím úzce souvisí její narovnání mezi Mladkovem a Boskovicemi. Podle slov starosty Dohnálka ale nelze počítat s podporou Prostějova, protože spojení na Boskovice a Vysočinu není pro Prostějov prioritou. ...
+
 
 
 
