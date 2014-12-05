@@ -1,0 +1,27 @@
+---
+title: Do hajan s lehkou hlavou
+authors: Martina Lukešová
+category: publicistika
+tags: 
+- 47-2014
+---
+Když si lehám večer do postele, cítím neskonalou úlevu. Někdy mi dokonce připadá, že jsou to nejkrásnější okamžiky dne. Pokaždé děkuji těm, kdo vymysleli matrace a peřiny a také děkuji svému tělu, že mě celý den nosilo a vykonávalo všechno potřebné, všechnu tu práci, kterou jsem mu uložila. 
+
+Už dávno jsem si zakázala úvahy o tom, že jsem toho mohla stihnout víc. Nemohla, protože je už večer, čas nevrátím a nemá smysl nad tím dumat. Jedno čínské přísloví praví o tom, že bitvy a spory se mají ukončit do západu slunce, že máme usínat s čistou hlavou. Je to opravdu těžké, ale dá se to naučit. Ono staré přísloví - ráno moudřejší večera, je také oprávněné. Dobrý spánek je totiž velice důležitý a neměli bychom si ho kazit starostmi, které stejně nemůžeme v noci vyřešit. Jsme prostě denní tvorové a v noci máme odpočívat. Noční spánek, hlavně ten před půlnocí, je mnohem důležitější než denní.
+
+Pod zavřenými víčky se začínají promítat příběhy. Stává se, že sebou škubneme, protože v přicházejícím snu třeba šlápneme mimo schod. Co se s námi vlastně odehrává, když jsme tak zvaně bez sebe, když spíme? 
+
+Specialista na problémy se spánkem profesor Jürgen Zulley vysvětluje, jak mozek pomalu odpojuje tělo a jak v noci funguje jízdní řád našeho organismu. Večer, mezi devátou a jedenáctou hodinou, se tělo připravuje na spánek. Neměli bychom činit nic pro jeho aktivaci včetně jídla. Hodinu před půlnocí jsme ve fázi lehkého spánku. Pokud nebudeme rušeni, ponoříme se po několika minutách do počínajícího hlubokého spánku. Krev přenáší teplo zvnitřku těla na povrch, kde kůže funguje jako chladič. V této době se můžeme potit, protože se zbavujeme přebytečného tepla. Srdce bije klidněji, klesá krevní tlak, zkrátka spíme jako zabití. O dvacet minut později, když upadáme do první fáze hlubokého spánku, zvyšuje se produkce růstového hormonu. Děti rychleji rostou, rány se lépe hojí, tvoří se nová vrstva kůže. V mozku nervové buňky ukládají přes den získané znalosti do dlouhodobé paměti, takže se ve spánku skutečně učíme. Jsme teď v nejdůležitější fázi obnovování sil. 
+
+Od půlnoci do půl druhé začíná „chaos“, který známe jako fázi REM (rychlé pohyby očí), kdy se probouzíme a poté opět usínáme. Mozek je stejně aktivní jako ve dne, zdají se sny, tělo je zcela uvolněné. Stoupá krevní tlak, vagína a penis jsou extrémně prokrvené. Muži mívají často erekci, ale nemá to nic společného s erotickými sny. Po deseti minutách je tato fáze pryč, spánek je opět hluboký. Začíná pracovat žlučník. Ti, kdo mají s tímto orgánem potíže, se obvykle v tuto dobu budí nebo nemohou spát. 
+
+Od půl druhé do třetí hodiny ranní není spánek příliš intenzivní a můžeme se budit. Tělo si zaznamenává nově naučené duševní i tělesné schopnosti. Pokud jsme měli například večer hodinu tance, mozek si ukládá nově naučené kroky. Tělesná teplota prudce klesá. Aktivují se játra. V této době nastává útlum (nejnižší okysličení mozku), proto je třeba zvýšit pozornost například při cestování. V tuto dobu se rovněž budí žlučníkáři, protože játra a žlučník jsou párové orgány. Od tří do půl páté nastává třetí fáze snění. Je delší, intenzivnější a pestřejší. Pravděpodobnost, že se během, snu probudíme, je vysoká. Přicházíme totiž pomalu do stádia lehkého spánku. Vlastní odpočinek skončil, přesto spánek stále potřebujeme. Tělesná teplota se začíná mírně zvyšovat. V činnosti jsou plíce, proto se v tuto dobu budí kuřáci, astmatici, nemocní na průdušky, s rýmou a se záněty cest dýchacích. V této době také člověk pociťuje největší strach a úzkost. Každá maličkost nabývá obrovského rozměru, budíme se a jakákoli denní povinnost, kterou hravě zvládneme, má podobu neřešitelné překážky. 
+
+Stávalo se mi, že jsem musela v tuto dobu vstát, pustila jsem si počítač a pracovala, protože jsem měla opravdu dojem, že to musím udělat. Naučila jsem se tuto fázi zvládnout meditací, soustředím se na dýchání a snažím se na nic nemyslet. Někdy si na prstech spočítám, kolik úkolů ráno vyřeším, co nejnutnějšího zařídím a to mě uklidní a znovu usnu.
+
+Od půl páté do šesti ráno nastává další fáze snů, které mohou trvat až půl hodiny. Mozek začíná stále intenzívněji vnímat vzruchy z okolí. Probouzí se pocit hladu. Začínají pracovat ledviny a zvyšují produkci moči. Naše tělo má tu správnou provozní teplotu. Dá se říci, že je dobré vstávat po šesté hodině, dopřát si pomalé vstávání a protahování. Také meditování je brzy ráno lehčí. Atmosféra je tak nějak čistší. Jen ptáci už zpívají a my pokud můžeme a chceme, připojíme se k těmto přírodním ranním rituálům dle našich potřeb a přání. 
+
+Pokud spíme po šesté hodině, nastává poslední a nejdelší fáze snů. Může trvat až tři čtvrtě hodiny. Tyto sny nám pochopitelně zůstanou v paměti nejvíc. V nejvyšší činnosti je tlusté střevo. Je doporučováno navyknout si v tuto dobu na vyprazdňování, vyhýbat se stresu a spěchu. Nemocní lidé se právě v tuto dobu cítí velmi špatně. Je vhodné pít hodně vody nebo čaje. 
+
+Mnohdy je těžké skloubit pracovní dobu a povinnosti s režimem spánku, který je však víc než blahodárný pro náš organizmus. Vyzkoušejte si před usnutím si říct, že jste dokonalí takoví jací jste a že vše, co se vám třeba nepovedlo, vás má posunout někam dál, že je to vlastně dobře. Když pokorně předneseme před usnutím svou prosbu o radu a s ní usneme, můžeme ráno nalézt řešení v našem nitru již hotové. Vstávejte s úsměvem. Vždyť probudit se a děkovat za probuzení, je krásné jako život sám. 
+
