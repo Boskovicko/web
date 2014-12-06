@@ -7,8 +7,6 @@ tags:
 - Rady do zahrady
 
 ---
-### Rostliny venku
-
 Pokud ještě není zamrzlá půda, nezapomeňte na závlahu stále zelených dřevin a jehličnanů. Dřevinám v zimním období spíše uškodí sucho než mráz. U jehličnanů probíhá odpařování vody i v zimě. Rostliny tím ztrácejí vodu, kterou získávají kořeny ze zásob v půdě. To je možné ale pouze v případě, že je půda dostatečně zásobená vláhou. Stejné pravidlo platí pro mladé a nově zasazené ovocné stromy.
 
 Před napadením většího množství sněhu je nutné svázat jehličnany sloupovitého tvaru. Lépe tak odolávají náporu mokrého těžkého sněhu a nebudou se rozvalovat a rozlamovat. Velmi choulostivé jsou především sloupovité kultivary jalovce obecného. Ke svazování se používá pevný provázek nebo drát a postupuje se od spodních větví ke špičce. Dojde- li jednou k rozvalení rostliny sněhem, větve se již většinou nevrátí do původní vzpřímené polohy a stromek musí zůstat trvale svázaný. 
