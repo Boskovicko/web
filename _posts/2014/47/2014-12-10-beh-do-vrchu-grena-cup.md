@@ -8,7 +8,7 @@ tags:
 - Blansko
 - běh
 ---
-BLANSKO (les) - Součástí blanenského festivalu Rajbas 2014 byl v sobotu 22. listopadu netradiční závod v běhu do vrchu z Blanska na Hořice.
+Součástí blanenského festivalu Rajbas 2014 byl v sobotu 22. listopadu netradiční závod v běhu do vrchu z Blanska na Hořice.
 
 Se zátěží limonády Grena v pětilitrovém soudku na zádech závodníci startují v prostoru u Staré školy na Starém Blansku. Trať vede vzhůru až do cíle, který se nachází před hospůdkou Western sport clubu Hořice. Délka trati je asi 2,5 km, převýšení značné.
 
