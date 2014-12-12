@@ -8,7 +8,7 @@ tags:
 ---
 Okresní přebor hokejistů má odehráno pět kol a v čele tabulky je bez porážky tým HC Blansko.
 	
-5. kolo: HC Lysice - TJ Šerkovice 2:9 (1:4, 1:3, 0:2), Hrazdil, Kraváček - Flígl Martin, Topalov, Pospíšil 2, Sís 2, Zeman 2, Chmelíček. HCL Bulldogs Brno - Dynamiters Blansko HK 5:3 (1:2, 2:0, 2:1), Komínek Aleš 3, Jirásek, Sedlář - Zukal, Hussein, Hoizak. Tatran Hrušky - TJ Sokol Černá Hora 5:4 (3:1, 1:1, 1:2), Drápal 3, Palát, Gzela - Havlíček 3, Králík. TJ Sloup - HC Blansko 1:8 (0:2, 0:5, 1:1), Laník - Pazdera 3, Snopek, Svrbík, Šenkýř, Hoffmann, Petlach. TJ Rájec-Jestřebí - TJ Spartak Adamov 8:3 (3:0, 1:2, 4:1), Kuběna Jar., Kuběna Jan, Lemon 2, Bílý 2, Lůdl, Odehnal - Kilián, Kunc, Kolenáč, TJ Sokol Březina - SK Bacardi Letovice 5:2 (1:1, 3:1, 1:0), Chudý Michal 2, Matoušek, Foral, Burian - Kozák, Horáček.
+Páté kolo: HC Lysice - TJ Šerkovice 2:9 (1:4, 1:3, 0:2), Hrazdil, Kraváček - Flígl Martin, Topalov, Pospíšil 2, Sís 2, Zeman 2, Chmelíček. HCL Bulldogs Brno - Dynamiters Blansko HK 5:3 (1:2, 2:0, 2:1), Komínek Aleš 3, Jirásek, Sedlář - Zukal, Hussein, Hoizak. Tatran Hrušky - TJ Sokol Černá Hora 5:4 (3:1, 1:1, 1:2), Drápal 3, Palát, Gzela - Havlíček 3, Králík. TJ Sloup - HC Blansko 1:8 (0:2, 0:5, 1:1), Laník - Pazdera 3, Snopek, Svrbík, Šenkýř, Hoffmann, Petlach. TJ Rájec-Jestřebí - TJ Spartak Adamov 8:3 (3:0, 1:2, 4:1), Kuběna Jar., Kuběna Jan, Lemon 2, Bílý 2, Lůdl, Odehnal - Kilián, Kunc, Kolenáč, TJ Sokol Březina - SK Bacardi Letovice 5:2 (1:1, 3:1, 1:0), Chudý Michal 2, Matoušek, Foral, Burian - Kozák, Horáček.
 
 1. HC Blansko 	5 5 0 0 0 0 	30:09 	15
 2. Rájec 	5 4 0 0 1 0 	39:18 	13
