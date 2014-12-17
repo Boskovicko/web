@@ -6,6 +6,7 @@ category: publicistika
 tags: 
 - 49-50-2014
 - 25 let Boskovicka
+- konec novin
 ---
 Milí naši čtenáři, tohoto oslovení jsem užívala předešlých více než dvacet let při slavnostních chvílích, kdy jsem vám přála k novému roku, výročím, kdy jsem vám sdělovala nějakou změnu v životě našich novin a podobně. Nějak mě ale nikdy nenapadlo, že vás takto budu oslovovat při příležitosti jakési konečné. Ano, je to tak, noviny Boskovicko končí.
 

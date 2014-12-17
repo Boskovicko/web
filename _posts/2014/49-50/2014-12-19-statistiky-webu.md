@@ -5,6 +5,7 @@ category: publicistika
 tags: 
 - 49-50-2014
 - 25 let Boskovicka
+- konec novin
 ---
 Takřka přesně před rokem spustily regionální noviny Boskovicko nové webové stránky. Modernější, úspornější web z dílny Tomáše Znamenáčka přilákal vaši čtenářskou pozornost a zájem internetových čtenářů o naši práci zejména ve druhé polovině roku poměrně strmě rostl. 
 
