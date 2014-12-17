@@ -1,0 +1,22 @@
+---
+title: Polévka pro chudé i bohaté zavoní v Boskovicích podvacáté
+authors: Pavlína Čechová 
+category: zpravodajství 
+tags: 
+- 49-50-2014
+- Boskovicko
+---
+Na Štědrý den kolem poledne, podobně jako v předcházejících letech, mohou lidé už tradičně zamířit na veřejná prostranství naplněná sváteční atmosférou, setkáváním, a zároveň přispět na pomoc potřebným. Na několika místech regionu budou totiž i letos místní spolky a dobrovolníci rozdávat polévku ve spojení s dobročinnou sbírkou. 
+
+Před dvaceti lety poprvé zorganizovala v Boskovicích Polévku pro chudé i bohaté restaurace Makkabi a založila tak tradici, která se postupně šíří regionem. I letos všichni, kdo zavítají o Štědrém dnu mezi jedenáctou a dvanáctou hodinou na Masarykovo náměstí, dostanou pod vánočním stromem polévku. I letos ji uvaří restaurace Makkabi. Připraveno bude 1 400 porcí zelňačky. „Je skoro neuvěřitelné, že jsme to vydrželi dvacet let, dvacet rušných Štědrých dnů. Letošní rok bude podobný jako předchozí, možná výjimečnost navodí lidé, co přijdou. Nabídka bude tradiční – polévka, prodejní stánek s teplými nápoji a možnost odnést si betlémské světlo,“ uvedl majitel restaurace Luděk Burgr. Jedinou letošní novinkou budou osoby, jimž budou patřit ruce nalévající polévku. Této služby i výsady se zhostí několik osobností. „Chvíli ji bude rozdávat starostka Boskovic Hana Nedomová, která o to velmi stála. Chceme oslovit i další lidi, kteří byli v minulých ročnících nějak s polévkou zainteresovaní, ať už jako dárci či obdarovaní nebo propagátoři. Budou to zástupci stacionářů Emanuel a Betany, skauti, někteří místní podnikatelé a další,“ dodali organizátoři.
+
+Nápad uspořádat Polévku pro chudé i bohaté přinesl Rudolf Burgr ze Skotska. „Od chmurných počátků, kdy nás všichni zrazovali, se po několika letech akce vyhoupla. První rok jsme vybrali tisíc korun, druhý jen sedm set. Roku 2010 padl rekord 71 167 korun a loni jsme se mu přiblížili, vybralo se 68 911 korun. Celkem lidé přispěli potřebným už 605 530 korun. Poslední roky už ani nemusíme věnovat velké úsilí propagaci a lidé přesto přijdou. Mají to ve své hlavě uspořádané tak, že Štědrý den rovná se polévka. Jsem spokojený,“ zrekapituloval předchozí roky iniciátor polévkové dobročinnosti Rudolf Burgr.
+
+V Letovicích se myšlenkou rozdávání polévky spojené s dobročinnou sbírkou inspirovala před pěti lety Helena Kalasová. Letos štafetu její organizace předala spolku PaLetA. „Začátky byly průkopnické, ale naše rodina to dělala s chutí a elánem,“ prohlásila Helena Kalasová s tím, že pak se objevila PaLetA. „Jsou užiteční, akční a přinášejí nové pohledy. Polévka splňuje jejich program a mohla by jim pomoci dostat se do povědomí lidí. Společenství nabývá na objemu, zvlášť mladých lidí přibývá, což je výborné. Držím jim palce,“ dodala. Loni se díky polévce vybralo v Letovicích téměř 27 tisíc korun, které se dostaly do rodin, kde opravdu pomohly. Při výběru potřebných rodin spolupracují organizátoři s místním úřadem sociální péče. Letos poprvé tedy akce proběhne pod taktovkou PaLety. „Polévka na letovickém Masarykově náměstí se bude opět konat o hodinu později než ta v Boskovicích, z níž vychází, tedy mezi dvanáctou a třináctou hodinou. Letos bude čočková a nachystají ji restaurace Na Dvorku a hospoda Zátoka. Na náměstí bude znít hudba, dobrovolníci s nástroji zahrají vánoční koledy a skauti zprostředkují možnost odnést si domů betlémské světlo. Navíc zde nabídneme příležitost zakoupit si kalendář na rok 2015, který je výsledkem našeho předchozího dobročinného počinu Anděl pro LDN,“ upřesnila za PaLetu plány Drahoslava Královcová. 
+
+Rozdávání polévky se pomalu stává tradicí i ve Velkých Opatovicích. Třetím rokem se opakuje kulturní program, loni byl poprvé doplněn polévkou. Na Štědrý den v 10.30 hodin  v kostele sv. Jiří vystoupí divadelní soubor teaTrum s půlhodinovým pásmem vánoční poezie. Po jeho skončení bude nabízena štědrodenní polévka dobré vůle chystaná jídelnou Učňák.Výtěžek bude adresně věnován rodičům postižených dětí.
+
+V některých obcích se polévka stává doplněním jiné stěžejní akce. V Kunštátě  se lidé budou moci sejít ve 12 hodin na tradičním představení živého betlému. Kunštátská farnost chystá každým rokem jiné obsazení, přičemž představení podpoří pěvecký sbor a živá hudba. Polévka obohatí hlavní program, Jiří Borek uvaří 150 porcí bramboračky. U výdeje může do kasičky každý přispět lidem v nouzi nebo rodinám s postiženými dětmi.
+
+
+

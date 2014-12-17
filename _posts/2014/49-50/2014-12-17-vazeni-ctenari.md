@@ -5,6 +5,7 @@ category: publicistika
 tags: 
 - 49-50-2014
 - 25 let Boskovicka
+- konec novin
 ---
 rok se nenávratně chýlí ke svému závěru a s ním dostáváte do rukou poslední číslo novin. Řízením osudu nejde pouze o poslední letošní číslo. Kapitola regionálních novin Boskovicko se po pětadvaceti letech uzavírá, už chybí jen řádky, které jsem si rezervovala pro rozloučení s vámi.
 

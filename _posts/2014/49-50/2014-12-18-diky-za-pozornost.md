@@ -5,6 +5,7 @@ category: publicistika
 tags: 
 - 49-50-2014
 - 25 let Boskovicka
+- konec novin
 ---
 Je možná příznačné, že ve chvíli, kdy slavíme čtvrtstoletí demokracie, dochází k proměnám, které nás mohou upozornit na to, že samovolně a bez našeho přičinění nemusí fungovat vše, co jsme si už zvykli pokládat za samozřejmé. Jednou z těchto změn je i zánik novin, které vzešly ze sametového revolučního étosu a do jejichž historicky posledního čísla píšu tato slova.
 
