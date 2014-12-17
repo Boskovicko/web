@@ -4,7 +4,7 @@ cover-photo: http://i.imgur.com/m8q331t.jpg
 authors: Miroslava Krajíčková
 category: zpravodajství
 tags: 
-- 49-50-2014
+- 49-2014
 - Boskovicko
 ---
 Čím více se blíží Štědrý den, tím v domácnostech stoupá napětí, zda bude vše včas a řádně připraveno. Kdo stihl napsat Ježíškovi a celý rok byl hodný, jistě se nemusí bát, že by pod stromečkem nic nenašel. Ale kde vzít ten stromek? A jaký vybrat? Umělý, rostlý, smrček či jedličku?

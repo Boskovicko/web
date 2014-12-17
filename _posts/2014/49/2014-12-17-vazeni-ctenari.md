@@ -3,7 +3,7 @@ title: Vážení čtenáři
 authors: Andrea Šrámková
 category: publicistika
 tags: 
-- 49-50-2014
+- 49-2014
 - 25 let Boskovicka
 - konec novin
 ---

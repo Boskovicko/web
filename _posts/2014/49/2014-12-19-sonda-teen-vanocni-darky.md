@@ -3,7 +3,7 @@ title: "Sonda teen: vánoční dárky"
 authors: Ludmila Dobrozemská 
 category: publicistika
 tags: 
-- 49-50-2014
+- 49-2014
 - sonda teen 
 ---
 ###Už máš pro někoho vánoční dárek? Daruješ i něco, co jsi sám vyrobil?

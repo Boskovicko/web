@@ -4,7 +4,7 @@ cover-photo: http://i.imgur.com/kgBkMbX.jpg
 authors: Jitka Melkusová
 category: publicistika
 tags: 
-- 49-50-2014
+- 49-2014
 - 25 let Boskovicka
 - konec novin
 ---

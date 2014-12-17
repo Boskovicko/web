@@ -3,7 +3,7 @@ title: Polévka pro chudé i bohaté zavoní v Boskovicích podvacáté
 authors: Pavlína Čechová 
 category: zpravodajství 
 tags: 
-- 49-50-2014
+- 49-2014
 - Boskovicko
 ---
 Na Štědrý den kolem poledne, podobně jako v předcházejících letech, mohou lidé už tradičně zamířit na veřejná prostranství naplněná sváteční atmosférou, setkáváním, a zároveň přispět na pomoc potřebným. Na několika místech regionu budou totiž i letos místní spolky a dobrovolníci rozdávat polévku ve spojení s dobročinnou sbírkou. 

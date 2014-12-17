@@ -3,7 +3,7 @@ title: Kam o svátcích za sportem
 authors: Anna Dudková
 category: sport
 tags: 
-- 49-50-2014
+- 49-2014
 - Boskovicko
 ---
 Jak strávit aktivně Vánoce? Co takhle vyrazit do bazénu nebo si zabruslit na stadionu? 

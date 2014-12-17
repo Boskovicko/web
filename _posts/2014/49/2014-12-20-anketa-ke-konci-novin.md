@@ -3,7 +3,7 @@ title: Anketa ke konci novin
 authors: Jitka Melkusová
 category: publicistika
 tags: 
-- 49-50-2014
+- 49-2014
 - 25 let Boskovicka
 ---
 Za uplynulých pětadvacet let prošla našimi novinami řada redaktorů. Většina z nich pokračovala do dalších médií, zachytili se drábkem. Jak se dívají oni na regionální noviny Boskovicko a skutečnost, že vychází poslední číslo?
