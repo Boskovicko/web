@@ -1,4 +1,8 @@
-{% include pagination/featured-post.html %}
+{% for post in site.posts %}
+    {% if post.title == 'Regionální noviny Boskovicko končí' %}
+        {% assign featured_post = post %}
+    {% endif %}
+{% endfor %}
 <div class="row">
     <div class="col-xs-8">
         {% include masthead.html %}
