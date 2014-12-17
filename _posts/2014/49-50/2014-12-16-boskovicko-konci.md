@@ -1,6 +1,6 @@
 ---
 title: Regionální noviny Boskovicko končí
-cover-photo: http://i.imgur.com/DrdnROZ.jpg
+cover-photo: http://i.imgur.com/kgBkMbX.jpg
 authors: Jitka Melkusová
 category: publicistika
 tags: 
