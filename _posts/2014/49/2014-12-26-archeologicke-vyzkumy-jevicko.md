@@ -1,6 +1,6 @@
 ---
 title: Archeologické výzkumy doby římské v Jevíčku a na Malé Hané
-cover-photo: 
+cover-photo: http://i.imgur.com/GMwIDwT.jpg
 authors: Eduard Droberjar
 category: publicistika
 tags: 
