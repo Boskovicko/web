@@ -22,6 +22,6 @@ Výrazně pohodlnější a pro větší úpravy prakticky nezbytné je stáhnout
 Pro stažení zdrojového kódu z GitHubu je praktický jejich vlastní grafický klient [GitHub pro Windows][github]. A samozřejmě je třeba mít účet na GitHubu, který je součástí [organizace Boskovicko][organizace] a má přístup k projektu web.
 
 [github]: https://windows.github.com
-[organizace]: https://github.com/orgs/Boskovicko/members
+[organizace]: https://github.com/Boskovicko
 
 Podrobnější návod na aktualizaci webu [bude postupně přibývat tady](_doc/vkladani.md).
