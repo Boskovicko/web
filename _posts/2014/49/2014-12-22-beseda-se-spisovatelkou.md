@@ -1,6 +1,5 @@
 ---
-title: Setkání se spisovatelkou Hanou Pinknerovou
-pohladilo duši
+title: Setkání se spisovatelkou Hanou Pinknerovou pohladilo duši
 cover-photo: http://i.imgur.com/pChRSA3.jpg
 authors: Zuzana Fajglová 
 category: napsali nám
