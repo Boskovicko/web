@@ -36,7 +36,7 @@ Také na konci tohoto roku jsme položili několika osobnostem, o kterých jsme 
 
 1 + 2/ Za obé – neboť nejde jen o výstavu, ale především o dílo: Cyklus grafik Markéty Králové Genese, ale i kresby na stejné téma z výstavy v boskovické synagoze, byl jsem naprosto okouzlen. (Jsem poněkud na rozpacích, zmiňovat se o výstavě, již pořádalo muzeum – ovšem ve spolupráci s MUDr. Vykoukalem –, abych nebyl v podezření, že chci takto propagovat vlastní organizaci, ale na prvním místě je zde dílo, a bylo by na úkor spravedlnosti je nezmínit).
 
-### MARTIN KRAJÍČEK, mandolinista, pedagog ZUŠ
+### Martin Krajíček, mandolinista, pedagog ZUŠ
 
 1/ V Boskovicích mne doslova omráčila výstava o Anně Frankové. Byť jsem před léty v domě, kde se vše stalo, byl. Teprve až teď díky mé dceři mi došlo, jaká hrůza to byla. Muzeum Boskovicka mělo opravdu hezký projekt a práce a nadšení paní Hildegondy M. Rijksenové, která výstavu uváděla, byla přímo inspirující.
 
