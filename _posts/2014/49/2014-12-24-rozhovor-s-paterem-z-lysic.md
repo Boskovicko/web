@@ -1,5 +1,6 @@
 ---
 title: Pravé lásky, kterou dnešní svět tak potřebuje, nebude nikdy dost, říká páter Vít Červenka
+cover-photo: http://i.imgur.com/Us4bn89.jpg
 authors: Tomáš Trumpeš
 category: kultura
 tags: 
